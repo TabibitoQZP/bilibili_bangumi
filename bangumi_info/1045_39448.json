@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/dd9f08ce189a57de33f830ae6ecb9a291f3f6e0c.png",
+        "episodes": [
+            {
+                "aid": 937367143,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1dT4y1U76z",
+                "cid": 551863713,
+                "cover": "http://i0.hdslb.com/bfs/archive/cec476d8020e1ede142f573534c21c066c2173be.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475040,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475040",
+                "long_title": "镜头号 01",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第1话 镜头号 01",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475040",
+                "short_link": "https://b23.tv/ep475040",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看177万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 297314554,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12F411s7ia",
+                "cid": 551847254,
+                "cover": "http://i0.hdslb.com/bfs/archive/326165c10d6633f79b88f0f53f0f35bbfa8f1272.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475041,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475041",
+                "long_title": "镜头号 02",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第2话 镜头号 02",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475041",
+                "short_link": "https://b23.tv/ep475041",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 979817520,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1N44y1T7rL",
+                "cid": 551848461,
+                "cover": "http://i0.hdslb.com/bfs/archive/411b4715140b33e613a597f7cd7137e9a7efedc0.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475042,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475042",
+                "long_title": "镜头号 03",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第3话 镜头号 03",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475042",
+                "short_link": "https://b23.tv/ep475042",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 979760896,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1m44y1K7Qa",
+                "cid": 551849704,
+                "cover": "http://i0.hdslb.com/bfs/archive/8b84082fef2db959995442669228068497330744.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475043,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475043",
+                "long_title": "镜头号 04",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第4话 镜头号 04",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475043",
+                "short_link": "https://b23.tv/ep475043",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 894836836,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nP4y1u7GU",
+                "cid": 551851140,
+                "cover": "http://i0.hdslb.com/bfs/archive/ef54cff3d0729f5a35fa48d68841d89a51ebde74.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475044,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475044",
+                "long_title": "镜头号 05",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第5话 镜头号 05",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475044",
+                "short_link": "https://b23.tv/ep475044",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 979841628,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1W44y1T7uk",
+                "cid": 551852351,
+                "cover": "http://i0.hdslb.com/bfs/archive/e330031fa39ab7c921621db3100ede790d23e241.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475045,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475045",
+                "long_title": "镜头号 06",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第6话 镜头号 06",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475045",
+                "short_link": "https://b23.tv/ep475045",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 979832883,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1n44y1T7iE",
+                "cid": 551853655,
+                "cover": "http://i0.hdslb.com/bfs/archive/db69f8234f0d621adbaf6f44ac5b00561052ff58.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475046,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475046",
+                "long_title": "镜头号 07",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第7话 镜头号 07",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475046",
+                "short_link": "https://b23.tv/ep475046",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 809757219,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1z34y1871j",
+                "cid": 552223323,
+                "cover": "http://i0.hdslb.com/bfs/archive/6111beee486999963c693c0447b2526f472769a4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475047,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475047",
+                "long_title": "镜头号 08",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第8话 镜头号 08",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475047",
+                "short_link": "https://b23.tv/ep475047",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 809750307,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1q34y187Nm",
+                "cid": 551856971,
+                "cover": "http://i0.hdslb.com/bfs/archive/e0e31102d994a7156493fa5ac08aef280740bc77.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475048,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475048",
+                "long_title": "镜头号 09",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第9话 镜头号 09",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475048",
+                "short_link": "https://b23.tv/ep475048",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 552264263,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ri4y1C7yh",
+                "cid": 551858532,
+                "cover": "http://i0.hdslb.com/bfs/archive/c6e3d63aaca3fc48e27d55c1e4e8543658c2afd1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475049,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475049",
+                "long_title": "返工",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第10话 返工",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475049",
+                "short_link": "https://b23.tv/ep475049",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 212285353,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ha41187Vn",
+                "cid": 551860031,
+                "cover": "http://i0.hdslb.com/bfs/archive/4e1735b4f2e3c21a4a6bba0ae44a3def10c12453.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475050,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475050",
+                "long_title": "循环",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第11话 循环",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475050",
+                "short_link": "https://b23.tv/ep475050",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 467291215,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jL411P7zr",
+                "cid": 551862415,
+                "cover": "http://i0.hdslb.com/bfs/archive/9bbcb1ec100e25dcf4e12b622b1ff4d9027e8141.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 475051,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep475051",
+                "long_title": "定案",
+                "pub_time": 1647604800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《狂热深渊-迷失的孩子》第12话 定案",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep475051",
+                "short_link": "https://b23.tv/ep475051",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看177万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "癫痫性脑病是一种伴有疯癫与沉睡不醒症状的新型疾病。这种新型病魔正一点点蚕食着人类。\n而其原因，是在南极发现的巨大地底世界——避难所。那里有着与地面世界不同的异形生物、以及未知的资源。\n或因对财富的向往、或因组织的阴谋、抑或是一己的私愿，人们纷纷赌上性命前往这个充满谜题的新世界深层。\n这其中便有一位少年，他怀着一个愿望，向着避难所的最前线进发。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235140/",
+        "media_id": 28235140,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 475051,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 62072,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-03-18 20:00:00",
+            "pub_time_show": "03月18日20:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 377,
+            "score": 5.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39448,
+        "season_title": "狂热深渊-迷失的孩子",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/dd9f08ce189a57de33f830ae6ecb9a291f3f6e0c.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/6506e4019002ef2af0d1d2d2c5a1b7e4597642df.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/962ea29cc16eb8f7be3fe1504e641862794d767c.png",
+                "media_id": 28235140,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9bbcb1ec100e25dcf4e12b622b1ff4d9027e8141.png",
+                    "id": 475051,
+                    "index_show": "全12话"
+                },
+                "season_id": 39448,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 336202,
+                    "series_follow": 336202,
+                    "views": 1770372
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 675705121,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1YU4y1A7Tb",
+                        "cid": 412754386,
+                        "cover": "http://i0.hdslb.com/bfs/archive/8529774d056128c88054735841d7e4d81cae134f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 111000,
+                        "from": "bangumi",
+                        "id": 423523,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep423523",
+                        "long_title": "",
+                        "pub_time": 1632310200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《狂热深渊-迷失的孩子》先导PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep423523",
+                        "short_link": "https://b23.tv/ep423523",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 642,
+                            "danmakus": 173,
+                            "likes": 5918,
+                            "play": 942653,
+                            "reply": 974
+                        },
+                        "status": 2,
+                        "subtitle": "已观看177万次",
+                        "title": "先导PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 62180,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5693,
+            "series_title": "狂热深渊-迷失的孩子"
+        },
+        "share_copy": "《狂热深渊-迷失的孩子》少年赌上性命的冒险",
+        "share_sub_title": "少年赌上性命的冒险",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39448",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/097c6f2b77c50efad4b5915604a2c6a1bfe40b3c.png",
+        "stat": {
+            "coins": 1723,
+            "danmakus": 2140,
+            "favorite": 1287,
+            "favorites": 336202,
+            "likes": 13698,
+            "reply": 1567,
+            "share": 545,
+            "views": 1770372
+        },
+        "status": 13,
+        "subtitle": "已观看177万次",
+        "title": "狂热深渊-迷失的孩子",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

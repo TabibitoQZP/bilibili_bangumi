@@ -1,0 +1,842 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/3b599785237611522ac23718950849bcb3e9577c.jpg",
+        "episodes": [
+            {
+                "aid": 15663262,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ux411u7Sk",
+                "cid": 26582949,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a71d126cf97f17c28dde69f652faeaed8b05255a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 28945,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28945",
+                "long_title": "七色的指南针",
+                "pub_time": 1309654980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第1话 七色的指南针",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28945",
+                "short_link": "https://b23.tv/ep28945",
+                "skip": {
+                    "ed": {
+                        "end": 1446,
+                        "start": 1354
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 806775808,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1634y1d76u",
+                "cid": 25973850,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 28944,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28944",
+                "long_title": "Brand New Melody",
+                "pub_time": 1310259540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第2话 Brand New Melody",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28944",
+                "short_link": "https://b23.tv/ep28944",
+                "skip": {
+                    "ed": {
+                        "end": 1446,
+                        "start": 1343
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 43
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 721863478,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1MS4y1R7tT",
+                "cid": 25973855,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28943,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28943",
+                "long_title": "Knocking on the mind",
+                "pub_time": 1310896080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第3话 Knocking on the mind",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28943",
+                "short_link": "https://b23.tv/ep28943",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 78
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 891836200,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vP4y1G7X8",
+                "cid": 25973861,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28942,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28942",
+                "long_title": "直到世界的尽头Believe Heart",
+                "pub_time": 1311466680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第4话 直到世界的尽头Believe Heart",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28942",
+                "short_link": "https://b23.tv/ep28942",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 934255263,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1tT4y1R72m",
+                "cid": 25973882,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28941,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28941",
+                "long_title": "男气全开Go！Fight！！",
+                "pub_time": 1312110900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第5话 男气全开Go！Fight！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28941",
+                "short_link": "https://b23.tv/ep28941",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 336870425,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11R4y1x76q",
+                "cid": 25973891,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28940,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28940",
+                "long_title": "猎户座Shout Out",
+                "pub_time": 1312690800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第6话 猎户座Shout Out",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28940",
+                "short_link": "https://b23.tv/ep28940",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 976763829,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1944y1a72n",
+                "cid": 25973901,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1e6ebc7a704ce17fdb49d4beb942f05c37f95da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 28939,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28939",
+                "long_title": "Feeling heart",
+                "pub_time": 1313304060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第7话 Feeling heart",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28939",
+                "short_link": "https://b23.tv/ep28939",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 676774108,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cU4y1u71X",
+                "cid": 25973908,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2a4fd63b0169a7c2a71c780617d7f4836fd1fb08.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1454000,
+                "from": "bangumi",
+                "id": 28938,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28938",
+                "long_title": "Eternity Lovers",
+                "pub_time": 1313890440,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第8话 Eternity Lovers",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28938",
+                "short_link": "https://b23.tv/ep28938",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 294305578,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1DF411h7bN",
+                "cid": 25973914,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c7f8925fa5a70406b835bcabdaf0515a776b428f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28937,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28937",
+                "long_title": "编织的各种梦想",
+                "pub_time": 1314502680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第9话 编织的各种梦想",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28937",
+                "short_link": "https://b23.tv/ep28937",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 719291997,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1CQ4y1U7HP",
+                "cid": 26016132,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/37d72db6dc4111a3ad25472ac7ee24904d2a7d37.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 28936,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28936",
+                "long_title": "那么、Let's song！！",
+                "pub_time": 1315124520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第10话 那么、Let's song！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28936",
+                "short_link": "https://b23.tv/ep28936",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 251776899,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12Y411x7Dw",
+                "cid": 25973927,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/542650f92ed4a90414ca6ed94d3ae8c9d4ebca90.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1458000,
+                "from": "bangumi",
+                "id": 28935,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28935",
+                "long_title": "未来地图",
+                "pub_time": 1315746120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第11话 未来地图",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28935",
+                "short_link": "https://b23.tv/ep28935",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 721776362,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zS4y197qD",
+                "cid": 25973945,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/72b7560d77784277b5172b8b6b90d340b0e0c092.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1456000,
+                "from": "bangumi",
+                "id": 28934,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28934",
+                "long_title": "迷路的心",
+                "pub_time": 1316345100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第12话 迷路的心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28934",
+                "short_link": "https://b23.tv/ep28934",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 719369024,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rQ4y1v7qA",
+                "cid": 25973953,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c3101d44a7491b5e7bd627f35c23f547f16d52ae.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1465000,
+                "from": "bangumi",
+                "id": 28933,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28933",
+                "long_title": "真爱1000%",
+                "pub_time": 1316939220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌之☆王子殿下 真爱1000%》第13话 真爱1000%",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28933",
+                "short_link": "https://b23.tv/ep28933",
+                "skip": {
+                    "ed": {
+                        "end": 1446,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看343.3万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "《歌之王子殿下》原本是由Nippon Ichi Software负责制作、 Broccoli发行的一款PSP平台乙女向恋爱AVG游戏，于2010年6月上市。本作是由之改编的TV动画。名叫七海春歌的少女经过一番激烈的竞争，成功进入培养未来偶像的早乙女学园。她为了成为优秀的偶像，要与六位偶像候补中的一位组成乐队，一起努力奋斗。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1561/",
+        "media_id": 1561,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 28933,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 18560,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-07-02 00:00:00",
+            "pub_time_show": "2011年07月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 905,
+            "score": 9.4
+        },
+        "record": "登记号：10417060202892401",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1561,
+        "season_title": "歌之☆王子殿下 真爱1000%",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3b599785237611522ac23718950849bcb3e9577c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1561,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/c3101d44a7491b5e7bd627f35c23f547f16d52ae.png",
+                    "id": 28933,
+                    "index_show": "全13话"
+                },
+                "season_id": 1561,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 265148,
+                    "series_follow": 369238,
+                    "views": 3432788
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/62308249815ce7a3883e8b35656d42e655ec9c70.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1562,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/7b577b07cc89e3a3df446d92dc614174c9ac31e1.jpg",
+                    "id": 86527,
+                    "index_show": "全13话"
+                },
+                "season_id": 1562,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 146759,
+                    "series_follow": 369238,
+                    "views": 4158368
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/783a4860862cd03df026c44a4c0de2d9825abbb1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1563,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/b3ecf72b3d648c93c58cf506d1a8d3dbcd2bbcbb.jpg",
+                    "id": 63733,
+                    "index_show": "全13话"
+                },
+                "season_id": 1563,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 225307,
+                    "series_follow": 369238,
+                    "views": 8231915
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1076,
+            "series_title": "歌之☆王子殿下 真爱1000"
+        },
+        "share_copy": "《歌之☆王子殿下 真爱1000%》乙女偶像番佳作",
+        "share_sub_title": "乙女偶像番佳作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1561",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/42dc1ba44db38ce504ccf9c10b95af6965d5b7ce.jpg",
+        "stat": {
+            "coins": 5061,
+            "danmakus": 161254,
+            "favorite": 2988,
+            "favorites": 265148,
+            "likes": 13059,
+            "reply": 3518,
+            "share": 2142,
+            "views": 3432788
+        },
+        "status": 2,
+        "subtitle": "已观看343.3万次",
+        "title": "歌之☆王子殿下 真爱1000%",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

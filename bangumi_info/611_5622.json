@@ -1,0 +1,294 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/8cd1bfa48e8da906012d51c1bf41bd14ce6db8ec.jpg",
+        "episodes": [
+            {
+                "aid": 6831245,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys411s7sz",
+                "cid": 11128462,
+                "cover": "http://i1.hdslb.com/bfs/archive/67041ecbd86376b9afcbba89012016a37896f2fb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 97015,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep97015",
+                "long_title": "",
+                "pub_time": 1477472654,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我的青春恋爱物语果然有问题 续 OVA》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep97015",
+                "short_link": "https://b23.tv/ep97015",
+                "skip": {
+                    "ed": {
+                        "end": 1423,
+                        "start": 1331
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1384.9万次",
+                "title": "1",
+                "vid": "vupload_11128462"
+            }
+        ],
+        "evaluate": "PSV游戏「果然在游戏里我的青春恋爱物语也有问题。续」2016年10月27日发售，限定版将同捆新作OVA，讲述原作10.5卷中以一色彩羽为中心的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5622/",
+        "media_id": 5622,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 97015,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22630,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-10-27 00:00:01",
+            "pub_time_show": "2016年10月27日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 11696,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 0,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5622,
+        "season_title": "我的青春恋爱物语果然有问题 续 OVA",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8d1200b8c8b795dd3a7baae33afcec42fbd1947c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1539,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/9ed8b598f17861093c5526e9494c507d8033ad69.jpg",
+                    "id": 32254,
+                    "index_show": "全13话"
+                },
+                "season_id": 1539,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4704641,
+                    "series_follow": 6898478,
+                    "views": 105069196
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8844c9bea1c5ff2371b47181785084c9650a1402.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1540,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/5329c03e44fb6e9d8f10f0a8fad3bc6d555f8226.jpg",
+                    "id": 63721,
+                    "index_show": "全13话"
+                },
+                "season_id": 1540,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3476902,
+                    "series_follow": 6898478,
+                    "views": 155627603
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0406cd1398ad8ae0e9623bed5544d6002d8d30be.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3437,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/27da81f85838957221fc5c6cba0e4328621fdea4.jpg",
+                    "id": 85150,
+                    "index_show": "全1话"
+                },
+                "season_id": 3437,
+                "season_title": "第一季 OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 738088,
+                    "series_follow": 6898478,
+                    "views": 12507012
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8cd1bfa48e8da906012d51c1bf41bd14ce6db8ec.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5622,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/67041ecbd86376b9afcbba89012016a37896f2fb.jpg",
+                    "id": 97015,
+                    "index_show": "全1话"
+                },
+                "season_id": 5622,
+                "season_title": "第二季 OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 771168,
+                    "series_follow": 6898478,
+                    "views": 13849423
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/82d628408f5472f1440982e880b0b4f0146862ad.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228386,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/8340621b789ff9a3b9332683c732bee6bc90d5b8.jpg",
+                    "id": 330680,
+                    "index_show": "全12话"
+                },
+                "season_id": 32998,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5655195,
+                    "series_follow": 6898478,
+                    "views": 93076388
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1060,
+            "series_title": "我的青春恋爱物语果然有问题。"
+        },
+        "share_copy": "《我的青春恋爱物语果然有问题 续 OVA》你的青春没有问题",
+        "share_sub_title": "你的青春没有问题",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5622",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/e153108e5d97a275facbd17efaa800e3216a5066.jpg",
+        "stat": {
+            "coins": 105872,
+            "danmakus": 235309,
+            "favorite": 5087,
+            "favorites": 771168,
+            "likes": 55957,
+            "reply": 14903,
+            "share": 9686,
+            "views": 13849423
+        },
+        "status": 2,
+        "subtitle": "已观看1384.9万次",
+        "title": "我的青春恋爱物语果然有问题 续 OVA",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,948 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f44c16c620f1dc070ac07932c41d02930a595caf.jpg",
+        "episodes": [
+            {
+                "aid": 48711230,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yb411u7j7",
+                "cid": 85300498,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f3b77fde33b9bd686f53f25dd9aade922351b8e2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13250,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13250",
+                "long_title": "日本很狭小 那么急是要去哪里",
+                "pub_time": 1349403660,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第1话 日本很狭小 那么急是要去哪里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13250",
+                "short_link": "https://b23.tv/ep13250",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "1",
+                "vid": "87113361"
+            },
+            {
+                "aid": 806776220,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1634y1d7kc",
+                "cid": 85300559,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/04275aff24d5fb15633f69c43aee4db2e76bcc5c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13249,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13249",
+                "long_title": "高高在上的由乃大人",
+                "pub_time": 1350035400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第2话 高高在上的由乃大人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13249",
+                "short_link": "https://b23.tv/ep13249",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "2",
+                "vid": "87677336"
+            },
+            {
+                "aid": 721761703,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12S4y197jM",
+                "cid": 85300638,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6fe2e4173b5697872ff7e6bd4f763f47b1570d57.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13248,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13248",
+                "long_title": "暑假最后的来访者",
+                "pub_time": 1350650340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第3话 暑假最后的来访者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13248",
+                "short_link": "https://b23.tv/ep13248",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "3",
+                "vid": "88169723"
+            },
+            {
+                "aid": 251839533,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1TY41147y1",
+                "cid": 85300708,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/430b4c40d0a9521104e396c95d478ab27138eca5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13246,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13246",
+                "long_title": "胜利的快门瞬间！！获胜的是宫子！！",
+                "pub_time": 1351301340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第4话 胜利的快门瞬间！！获胜的是宫子！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13246",
+                "short_link": "https://b23.tv/ep13246",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "4",
+                "vid": "88717685"
+            },
+            {
+                "aid": 294305380,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1DF411h7pU",
+                "cid": 85300816,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f22b167a1dba234555cae527cfaf9193bf207592.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13247,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13247",
+                "long_title": "小荠的饭",
+                "pub_time": 1351861680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第5话 小荠的饭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13247",
+                "short_link": "https://b23.tv/ep13247",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "5",
+                "vid": "89203662"
+            },
+            {
+                "aid": 379353081,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zf4y1N7on",
+                "cid": 85300867,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f8bc33b29f324c45a07c461d6393ffd4f567661.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13245,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13245",
+                "long_title": "闲话素描",
+                "pub_time": 1352468340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第6话 闲话素描",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13245",
+                "short_link": "https://b23.tv/ep13245",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "6",
+                "vid": "89708953"
+            },
+            {
+                "aid": 251786008,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1QY411x7xk",
+                "cid": 85300949,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f517f45f716854d2be8c74af8190d7b2431cb27.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13244,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13244",
+                "long_title": "小绘本＆秘密约会",
+                "pub_time": 1353080040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第7话 小绘本＆秘密约会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13244",
+                "short_link": "https://b23.tv/ep13244",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "7",
+                "vid": "90238554"
+            },
+            {
+                "aid": 934337250,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12M4y1A7oW",
+                "cid": 85301039,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9a1da3e388b78f9d281738e7bceca2871b583c54.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13243,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13243",
+                "long_title": "恐怖！山吹祭 准备篇＆当日篇",
+                "pub_time": 1353658980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第8话 恐怖！山吹祭 准备篇＆当日篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13243",
+                "short_link": "https://b23.tv/ep13243",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "8",
+                "vid": "90789835"
+            },
+            {
+                "aid": 634308583,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tb4y1b7TC",
+                "cid": 85301156,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/69a55bcd1f0fbc00c354fe20f750ef39bc378fe5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13242,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13242",
+                "long_title": "微笑的回礼",
+                "pub_time": 1354270680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第9话 微笑的回礼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13242",
+                "short_link": "https://b23.tv/ep13242",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "9",
+                "vid": "91340525"
+            },
+            {
+                "aid": 676866158,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1oU4y1K7Xy",
+                "cid": 85301238,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e12396f655092d6476bf9f8fa90a70d60383df1e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13241,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13241",
+                "long_title": "学习打雪仗",
+                "pub_time": 1354891200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第10话 学习打雪仗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13241",
+                "short_link": "https://b23.tv/ep13241",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "10",
+                "vid": "91963318"
+            },
+            {
+                "aid": 976784433,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1F44y1Y7Hr",
+                "cid": 85740936,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4703ebe75dda2f6ba6775b86dce4ef0488e3efbe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 13240,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13240",
+                "long_title": "原来是姐姐",
+                "pub_time": 1355491860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第11话 原来是姐姐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13240",
+                "short_link": "https://b23.tv/ep13240",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "11",
+                "vid": "92515344"
+            },
+            {
+                "aid": 634284048,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fb4y1t7Je",
+                "cid": 85301391,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dec15de8bb69c129f7729e14671dbc29632cb550.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 13239,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13239",
+                "long_title": "年末年始",
+                "pub_time": 1356086640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《向阳素描×蜂窝》第12话 年末年始",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13239",
+                "short_link": "https://b23.tv/ep13239",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "12",
+                "vid": "93052044"
+            }
+        ],
+        "evaluate": "主角是一位憧憬山吹高中美术科，并以优异的成绩入学的少女由乃。因为家中离学校很远，而住在学校校门前的公寓“向阳庄”。住在隔壁的是同学年的同学宫子而在各自房间正下方的是学姐寻和沙英。因为同住在向阳庄而变得熟悉的不同性格的四人，每天都有着既奇怪又有趣的事情发生。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md734/",
+        "media_id": 734,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 13239,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 17664,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-10-05 00:00:00",
+            "pub_time_show": "2012年10月05日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 433,
+            "score": 9.7
+        },
+        "record": "登记号：10417060214732912",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 734,
+        "season_title": "向阳素描×蜂窝",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a7ceab2a4cf54317e8861863aed9a0e7df9dd803.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 731,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3b7cda7606bc4c8a8fd3275ad21369c7c9af1123.jpg",
+                    "id": 13205,
+                    "index_show": "全12话"
+                },
+                "season_id": 731,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 112458,
+                    "series_follow": 136019,
+                    "views": 630946
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c66953055ef5dfeb5ccea44d22eeff9ea23e2d7a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 732,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/641e6ccb5cb3a3ec08066aa95c635a057d7e3a06.jpg",
+                    "id": 13222,
+                    "index_show": "全14话"
+                },
+                "season_id": 732,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 30628,
+                    "series_follow": 136019,
+                    "views": 327814
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5c75ee0386c3056dada77142169604343f76600b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 733,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/03b253113a31003bad99d4e1d11db03cfd4db472.jpg",
+                    "id": 13235,
+                    "index_show": "全12话"
+                },
+                "season_id": 733,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 25995,
+                    "series_follow": 136019,
+                    "views": 248955
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f44c16c620f1dc070ac07932c41d02930a595caf.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 734,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/dec15de8bb69c129f7729e14671dbc29632cb550.jpg",
+                    "id": 13239,
+                    "index_show": "全12话"
+                },
+                "season_id": 734,
+                "season_title": "第四季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 30136,
+                    "series_follow": 136019,
+                    "views": 242090
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5ea0d38d852c55287a6e9a65e21ba8a79997002c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3820,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/02c32faeb666a79fbf5fe50786f677ddf2320f10.jpg",
+                    "id": 86651,
+                    "index_show": "全2话"
+                },
+                "season_id": 3820,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 12242,
+                    "series_follow": 136019,
+                    "views": 314482
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/89c328d5de393e97b695451f4d6efaba20cb9e63.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3822,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e9c4fd8efc563242d66c8e72065f2c6fec03761c.jpg",
+                    "id": 86655,
+                    "index_show": "全2话"
+                },
+                "season_id": 3822,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 9877,
+                    "series_follow": 136019,
+                    "views": 220793
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7661eab874b600b4e5f0ad0225d995a19267a9c6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3821,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8f45effdf9b7ef751b4422f6c869b9eefbec0152.jpg",
+                    "id": 86653,
+                    "index_show": "全2话"
+                },
+                "season_id": 3821,
+                "season_title": "OVA3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 9164,
+                    "series_follow": 136019,
+                    "views": 188200
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9c8bad9e751600c9912e3ef8fa8ef3ca21eb4dcc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3825,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/651f0d7bc6ce4fd4b443b8b099da0dc317a38b5f.jpg",
+                    "id": 86663,
+                    "index_show": "全2话"
+                },
+                "season_id": 3825,
+                "season_title": "OVA4",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 9731,
+                    "series_follow": 136019,
+                    "views": 45995
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e6a42a97fe20cdf7a7d558e295ad137031372141.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3823,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ab748ce0830bdc51c829c7f6bc3e407b66f54613.jpg",
+                    "id": 86657,
+                    "index_show": "全2话"
+                },
+                "season_id": 3823,
+                "season_title": "OVA5",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13444,
+                    "series_follow": 136019,
+                    "views": 55452
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 454,
+            "series_title": "向阳素描"
+        },
+        "share_copy": "《向阳素描×蜂窝》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss734",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/09f72120ecf8fa2c47211429023746bf5e785d8a.jpg",
+        "stat": {
+            "coins": 2113,
+            "danmakus": 9687,
+            "favorite": 216,
+            "favorites": 30136,
+            "likes": 3113,
+            "reply": 555,
+            "share": 220,
+            "views": 242090
+        },
+        "status": 2,
+        "subtitle": "已观看24.2万次",
+        "title": "向阳素描×蜂窝",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

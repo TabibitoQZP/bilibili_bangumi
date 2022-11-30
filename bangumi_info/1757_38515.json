@@ -1,0 +1,302 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/79254d8d6547339b2f77a74f865eab56fab608da.png",
+        "episodes": [
+            {
+                "aid": 715869710,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gQ4y1d7m7",
+                "cid": 343920659,
+                "cover": "http://i0.hdslb.com/bfs/archive/e80e35c5e6ec40771bf6af3dbfea30e30c2cb638.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1747000,
+                "from": "bangumi",
+                "id": 404058,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep404058",
+                "long_title": "",
+                "pub_time": 1621962001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《干支魂～猫客万来～》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep404058",
+                "short_link": "https://b23.tv/ep404058",
+                "skip": {
+                    "ed": {
+                        "end": 1746,
+                        "start": 1677
+                    },
+                    "op": {
+                        "end": 154,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看58.4万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "很久很久以前，日出之国的神明，为了保护这个刚刚出生的土地，选出了十二位神使举行了祭典。被选为十二生肖的“干支娘”肩负起了永远保护这块土地的任务，与没有被选上的猫一起。\n这是一个从很久以前就开始了的，关于猫和十二位干支娘的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234202/",
+        "media_id": 28234202,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 404058,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 58409,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-05-26 01:00:00",
+            "pub_time_show": "2021年05月26日01:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 374,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38515,
+        "season_title": "干支魂～猫客万来～",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/79254d8d6547339b2f77a74f865eab56fab608da.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234202,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e80e35c5e6ec40771bf6af3dbfea30e30c2cb638.png",
+                    "id": 404058,
+                    "index_show": "全1话"
+                },
+                "season_id": 38515,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 87033,
+                    "series_follow": 87816,
+                    "views": 583940
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 630795894,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ob4y1o7Ff",
+                        "cid": 343888998,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/8edb7c7cb6a5454ec3a1b983a8d1dbab6b619518.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 404061,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep404061",
+                        "long_title": "",
+                        "pub_time": 1621927800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《干支魂～猫客万来～》OP ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep404061",
+                        "short_link": "https://b23.tv/ep404061",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 71,
+                            "danmakus": 13,
+                            "likes": 643,
+                            "play": 26049,
+                            "reply": 94
+                        },
+                        "status": 2,
+                        "subtitle": "已观看58.4万次",
+                        "title": "OP",
+                        "vid": ""
+                    }
+                ],
+                "id": 60123,
+                "title": "OPED",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2375,
+            "series_title": "干支魂"
+        },
+        "share_copy": "《干支魂～猫客万来～》成为干支娘保护家乡",
+        "share_sub_title": "成为干支娘保护家乡",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38515",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/d3030b84167575d89bea622a15c7590bad9facaa.png",
+        "stat": {
+            "coins": 2562,
+            "danmakus": 1013,
+            "favorite": 2270,
+            "favorites": 87033,
+            "likes": 13862,
+            "reply": 1056,
+            "share": 628,
+            "views": 583940
+        },
+        "status": 13,
+        "subtitle": "已观看58.4万次",
+        "title": "干支魂～猫客万来～",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859948,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/431be20a3fe0c726af1c80b7f94b6ef0cf8a9282.jpg",
+        "episodes": [
+            {
+                "aid": 15909470,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411E7XL",
+                "cid": 26276212,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2100c47f62b0fa47b976dd86fb6710b3407aa69c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 5556000,
+                "from": "bangumi",
+                "id": 115962,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115962?theme=movie",
+                "long_title": "",
+                "pub_time": 1509505200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《春宵苦短，少女前进吧》正片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115962",
+                "short_link": "https://b23.tv/ep115962",
+                "skip": {
+                    "ed": {
+                        "end": 5555,
+                        "start": 5292
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看359.1万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "古色古香的京都，奇妙的恋爱之旅正在展开。春天，黑发少女踏上寻找伪电气白兰地的夜之旅，学长却被从天而降的锦鲤砸晕；夏天，少女在旧书市寻找心爱的童年绘本，学长则面临残酷的火锅地狱；秋天，身背红鲤鱼的少女化身不倒翁公主，与拼死出演顽固王的学长相遇在学园祭的舞台；冬天，手持梦幻感冒药的少女打倒感冒之神，与学长一起向京都的天空飞去……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md7752/",
+        "media_id": 7752,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 115962,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 23494,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-04-07 00:00:01",
+            "pub_time_show": "2017年4月7日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 11395,
+            "score": 9.8
+        },
+        "record": "登记号：10417060199893210",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6518,
+        "season_title": "春宵苦短，少女前进吧",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/431be20a3fe0c726af1c80b7f94b6ef0cf8a9282.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 7752,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2100c47f62b0fa47b976dd86fb6710b3407aa69c.jpg",
+                    "id": 115962,
+                    "index_show": "全1话"
+                },
+                "season_id": 6518,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 539620,
+                    "series_follow": 539620,
+                    "views": 3591061
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 15772498,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV11x41177r7",
+                        "cid": 25685132,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d55fc1394233b6e1c5e2a4e74129f81635b812fc.jpg",
+                        "dimension": {
+                            "height": 360,
+                            "rotate": 0,
+                            "width": 640
+                        },
+                        "duration": 100000,
+                        "from": "bangumi",
+                        "id": 115846,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep115846?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1509100260,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《春宵苦短，少女前进吧》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep115846",
+                        "short_link": "https://b23.tv/ep115846",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 2586,
+                            "danmakus": 336,
+                            "likes": 1809,
+                            "play": 1272857,
+                            "reply": 3615
+                        },
+                        "status": 2,
+                        "subtitle": "已观看359.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 55822,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3846,
+            "series_title": "春宵苦短，少女前进吧！"
+        },
+        "share_copy": "《春宵苦短，少女前进吧》汤浅政明的浪漫畅想",
+        "share_sub_title": "汤浅政明的浪漫畅想",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6518",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/cd9a9588e20c4e481c50607ed0dce69c3944b8bb.jpg",
+        "stat": {
+            "coins": 36676,
+            "danmakus": 53584,
+            "favorite": 8319,
+            "favorites": 539620,
+            "likes": 24548,
+            "reply": 10865,
+            "share": 34819,
+            "views": 3591061
+        },
+        "status": 13,
+        "subtitle": "已观看359.1万次",
+        "title": "春宵苦短，少女前进吧",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

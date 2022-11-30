@@ -1,0 +1,174 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/3a82ca6475686b413369982fee146a6c597c00d3.png",
+        "episodes": [
+            {
+                "aid": 295938973,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KF411W7x1",
+                "cid": 493631326,
+                "cover": "http://i0.hdslb.com/bfs/archive/01a0f4272fcca7298c4d2edf33d42db10d642174.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 267000,
+                "from": "bangumi",
+                "id": 469859,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep469859?theme=movie",
+                "long_title": "",
+                "pub_time": 1643774406,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Evelyn》她的故事",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep469859",
+                "short_link": "https://b23.tv/ep469859",
+                "status": 2,
+                "subtitle": "已观看9.7万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "A song about Evelyn and her story.",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236896/",
+        "media_id": 28236896,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2021上映",
+            "id": 469859,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 65123,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-02-02 12:00:00",
+            "pub_time_show": "02月02日12:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41189,
+        "season_title": "Evelyn",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《Evelyn》她的故事",
+        "share_sub_title": "她的故事",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41189",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/2dce0aec199e82ec492488ed87c4a69a00a4f4cd.png",
+        "stat": {
+            "coins": 763,
+            "danmakus": 70,
+            "favorite": 2119,
+            "favorites": 9422,
+            "likes": 2940,
+            "reply": 228,
+            "share": 438,
+            "views": 96607
+        },
+        "status": 2,
+        "subtitle": "已观看9.7万次",
+        "title": "Evelyn",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/d89c4acc3168187f081dcf1cdbb6a48a493282da.jpg",
+            "avatar_subscript_url": "",
+            "follower": 14005,
+            "is_follow": 0,
+            "mid": 353488692,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "AME影视计划",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

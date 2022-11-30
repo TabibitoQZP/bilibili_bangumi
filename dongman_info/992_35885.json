@@ -1,0 +1,184 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/76b43944cb64571397d0a3873166b7756588c577.png",
+        "episodes": [
+            {
+                "aid": 11854159,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dx411B7gn",
+                "cid": 19573695,
+                "cover": "http://i0.hdslb.com/bfs/archive/f1d444cf75f79b65439fe8ca51b6b4c0171df612.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 440
+                },
+                "duration": 910000,
+                "from": "bangumi",
+                "id": 363700,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep363700?theme=movie",
+                "long_title": "",
+                "pub_time": 1577866080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《路边新事》两包25元，一样拾金不昧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep363700",
+                "short_link": "https://b23.tv/ep363700",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 6,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.6万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "小朋友小良在公共汽车站附近的草地上除杂草时，捡到一包用红纸包的钱，因为担心失主急用，他立刻去追刚刚开走的公车。公车上，售票员询问哪位乘客丢了钱时，张老汉发现他丢了给生产队买农药的25元钱。售票员一看小良捡到的恰是25元钱，忙把钱给了他，不想张老汉接过后摆摆手，原来他丢的是用白纸包的25元钱。小良和张老汉分头找了一大圈，仍没找到张老汉丢的钱，看张老汉一脸着急，小良要他先借用自己捡到的钱，张老汉犹豫了一会，不肯拿。另一边，帮人修车的李叔叔丢了钱又捡到钱，巧合的是，他丢的钱是小良捡的，他捡的钱又是张老汉丢的。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28231518/",
+        "media_id": 28231518,
+        "mode": 1,
+        "new_ep": {
+            "desc": "1964年上映",
+            "id": 363700,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 52411,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-01 00:00:01",
+            "pub_time_show": "2020年1月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "public",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 35885,
+        "season_title": "路边新事",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《路边新事》两包25元，一样拾金不昧",
+        "share_sub_title": "两包25元，一样拾金不昧",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss35885",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/d3c640a8eaa5be65dfca4c46cb2f78325acf0a0f.png",
+        "stat": {
+            "coins": 41,
+            "danmakus": 67,
+            "favorite": 84,
+            "favorites": 494,
+            "likes": 137,
+            "reply": 25,
+            "share": 21,
+            "views": 15559
+        },
+        "status": 2,
+        "subtitle": "已观看1.6万次",
+        "title": "路边新事",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/eec00ff2e0e179ba2c256bfc986547ea6f8ca25b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 3353,
+            "is_follow": 0,
+            "mid": 14447207,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "博士之影",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,810 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 362,
+            "title": "旧番专题"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/d42812c60a06e0483119eb07412782d425789e35.png",
+        "episodes": [
+            {
+                "aid": 89918255,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1n7411L7Tz",
+                "cid": 153559200,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314298,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314298",
+                "long_title": "剑姬与妖精",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第1话 剑姬与妖精",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314298",
+                "short_link": "https://b23.tv/ep314298",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1108.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 379283887,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17f4y1M76g",
+                "cid": 153560570,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314299,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314299",
+                "long_title": "试穿与购买",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第2话 试穿与购买",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314299",
+                "short_link": "https://b23.tv/ep314299",
+                "skip": {
+                    "ed": {
+                        "end": 1392,
+                        "start": 1302
+                    },
+                    "op": {
+                        "end": 236,
+                        "start": 146
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 294264420,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BF411h7Gi",
+                "cid": 153561659,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314300,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314300",
+                "long_title": "祭典与勇气",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第3话 祭典与勇气",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314300",
+                "short_link": "https://b23.tv/ep314300",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 634265285,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wb4y1b72q",
+                "cid": 153562865,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314301,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314301",
+                "long_title": "杀人与宝玉",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第4话 杀人与宝玉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314301",
+                "short_link": "https://b23.tv/ep314301",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 48
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 336863275,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11R4y1x7p1",
+                "cid": 153563613,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314302,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314302",
+                "long_title": "赤发与孤王",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第5话 赤发与孤王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314302",
+                "short_link": "https://b23.tv/ep314302",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 506860501,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ag411N7kF",
+                "cid": 153565141,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314303,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314303",
+                "long_title": "讨伐与逃亡",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第6话 讨伐与逃亡",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314303",
+                "short_link": "https://b23.tv/ep314303",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 119,
+                        "start": 29
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 764254455,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jr4y1k7jP",
+                "cid": 153566392,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314304,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314304",
+                "long_title": "委托与切断",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第7话 委托与切断",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314304",
+                "short_link": "https://b23.tv/ep314304",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 118,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 719258316,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YQ4y1U7XD",
+                "cid": 153567684,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314305,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314305",
+                "long_title": "污秽与少女",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第8话 污秽与少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314305",
+                "short_link": "https://b23.tv/ep314305",
+                "skip": {
+                    "ed": {
+                        "end": 1383,
+                        "start": 1293
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 48
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 721824040,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NS4y1R7LD",
+                "cid": 153569670,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314306,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314306",
+                "long_title": "训练与嫉妒",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第9话 训练与嫉妒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314306",
+                "short_link": "https://b23.tv/ep314306",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 40
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 591843670,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11q4y167sR",
+                "cid": 153571761,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314307,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314307",
+                "long_title": "少年与英雄",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第10话 少年与英雄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314307",
+                "short_link": "https://b23.tv/ep314307",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 123,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 849359571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1EL4y1p7U4",
+                "cid": 153572485,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314308,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314308",
+                "long_title": "冒险与未知",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第11话 冒险与未知",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314308",
+                "short_link": "https://b23.tv/ep314308",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 506759925,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fg411N7vE",
+                "cid": 153574054,
+                "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 314309,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep314309",
+                "long_title": "上神与眷族",
+                "pub_time": 1582875649,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》第12话 上神与眷族",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep314309",
+                "short_link": "https://b23.tv/ep314309",
+                "skip": {
+                    "ed": {
+                        "end": 1128,
+                        "start": 1039
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 81
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1108.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "【剑姬】艾丝·华伦斯坦。以最强出名的女剑士今天也与同伴们一起前往广大的地下迷宫“地下城”。\n在各种各样的谜团与威胁扑面而来的深层域，艾丝呼唤疾风，在迷宫的黑暗中刻画出一道闪光！\n迷宫都市欧拉丽里，人们各自的故事，如今深刻地交织在了一起！\n这是不断追求强大的少女，及其家族的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28228037/",
+        "media_id": 28228037,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 314309,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 22940,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-04-14 00:00:01",
+            "pub_time_show": "2017年4月14日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6502,
+            "score": 9.7
+        },
+        "record": "登记号：10417060203742209",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5980,
+        "season_title": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cbda2ba01bdc1e99db1f732dd3d2b963789039dc.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28221395,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7772e65538c174a025727f92d1900e41105eae4f.jpg",
+                    "id": 311989,
+                    "index_show": "全13话"
+                },
+                "season_id": 27999,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2150078,
+                    "series_follow": 3085461,
+                    "views": 55260517
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/bf8b064feb1384d3ff4436030d7bb270a19c62af.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229869,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d82a0ca5adc34c3375cd58573ba0d3445ff547d7.jpg",
+                    "id": 341281,
+                    "index_show": "全12话"
+                },
+                "season_id": 34401,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2614670,
+                    "series_follow": 3085461,
+                    "views": 33752550
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d42812c60a06e0483119eb07412782d425789e35.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228037,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/242bc1410b417ed939337129664558af475fdbb2.jpg",
+                    "id": 314309,
+                    "index_show": "全12话"
+                },
+                "season_id": 5980,
+                "season_title": "外传",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1953105,
+                    "series_follow": 3085461,
+                    "views": 11080709
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2402,
+            "series_title": "在地下城寻求邂逅是否搞错了什么"
+        },
+        "share_copy": "《剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传》《地错》系列外传",
+        "share_sub_title": "《地错》系列外传",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5980",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/53d025f9a5f164c15c028c48326e0d3233ade1f2.jpg",
+        "stat": {
+            "coins": 32588,
+            "danmakus": 182995,
+            "favorite": 2259,
+            "favorites": 1953105,
+            "likes": 46475,
+            "reply": 15575,
+            "share": 5326,
+            "views": 11080709
+        },
+        "status": 13,
+        "subtitle": "已观看1108.1万次",
+        "title": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

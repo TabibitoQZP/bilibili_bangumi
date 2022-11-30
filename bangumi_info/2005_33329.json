@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/591a080b594f65854144188df693c3d4e6f32aa9.png",
+        "episodes": [
+            {
+                "aid": 583059494,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1pz4y1R7xX",
+                "cid": 189425275,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325027",
+                "long_title": "",
+                "pub_time": 1589182860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第01话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325027",
+                "short_link": "https://b23.tv/ep325027",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.2万次",
+                "title": "01",
+                "vid": ""
+            },
+            {
+                "aid": 285555882,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rf4y1m7j7",
+                "cid": 189425927,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325028,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325028",
+                "long_title": "",
+                "pub_time": 1589182920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第02话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325028",
+                "short_link": "https://b23.tv/ep325028",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 34
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "02",
+                "vid": ""
+            },
+            {
+                "aid": 413075260,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XV411d7bi",
+                "cid": 189426223,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 325029,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325029",
+                "long_title": "",
+                "pub_time": 1589182920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第03话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325029",
+                "short_link": "https://b23.tv/ep325029",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "03",
+                "vid": ""
+            },
+            {
+                "aid": 498001644,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iK41157za",
+                "cid": 189426687,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325030,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325030",
+                "long_title": "",
+                "pub_time": 1589182980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第04话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325030",
+                "short_link": "https://b23.tv/ep325030",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "04",
+                "vid": ""
+            },
+            {
+                "aid": 968017919,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ep4y197Xm",
+                "cid": 189427086,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 325031,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325031",
+                "long_title": "",
+                "pub_time": 1589183040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第05话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325031",
+                "short_link": "https://b23.tv/ep325031",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 191,
+                        "start": 91
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "05",
+                "vid": ""
+            },
+            {
+                "aid": 243020418,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1he411p7oy",
+                "cid": 189427356,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 325032,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325032",
+                "long_title": "",
+                "pub_time": 1589183040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第06话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325032",
+                "short_link": "https://b23.tv/ep325032",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "06",
+                "vid": ""
+            },
+            {
+                "aid": 370617446,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CZ4y1s7tW",
+                "cid": 189427662,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 325033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325033",
+                "long_title": "",
+                "pub_time": 1589183160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第07话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325033",
+                "short_link": "https://b23.tv/ep325033",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 194,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "07",
+                "vid": ""
+            },
+            {
+                "aid": 625561890,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ft4y1y7qN",
+                "cid": 189428006,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325034",
+                "long_title": "",
+                "pub_time": 1589183220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第08话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325034",
+                "short_link": "https://b23.tv/ep325034",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 25
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "08",
+                "vid": ""
+            },
+            {
+                "aid": 498018058,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QK41157WA",
+                "cid": 189428529,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 325035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325035",
+                "long_title": "",
+                "pub_time": 1589183220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第09话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325035",
+                "short_link": "https://b23.tv/ep325035",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 221,
+                        "start": 121
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "09",
+                "vid": ""
+            },
+            {
+                "aid": 838081823,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sg4y1q7Yq",
+                "cid": 189428901,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325036,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325036",
+                "long_title": "",
+                "pub_time": 1589183280,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325036",
+                "short_link": "https://b23.tv/ep325036",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 229,
+                        "start": 129
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 200511791,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bz411z7d9",
+                "cid": 189429228,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 325037,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325037",
+                "long_title": "",
+                "pub_time": 1589183280,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325037",
+                "short_link": "https://b23.tv/ep325037",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 263,
+                        "start": 163
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 968086445,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16p4y197Rs",
+                "cid": 189429495,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 325038,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep325038",
+                "long_title": "",
+                "pub_time": 1589183340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《百慕大三角~多彩田园曲~》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep325038",
+                "short_link": "https://b23.tv/ep325038",
+                "skip": {
+                    "ed": {
+                        "end": 1441,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看45.2万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "耀眼的聚光灯。可爱动人的轻飘飘服装。引人入迷的歌声，吸引目光的笑容。在大都会的舞台上，沐浴着炫目灯光的，是能在水中自由舞蹈的“人鱼偶像”。\n远离这样的大都市，在恬静的巴雷尔村中聚集的，从未想过自己会摇身一变，化作明星的少女们，今天也为了一块蛋糕点心而闹得天翻地覆。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28228720/",
+        "media_id": 28228720,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 325038,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 46363,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-12 00:00:01",
+            "pub_time_show": "2019年1月12日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 192,
+            "score": 8.8
+        },
+        "record": "登记号：10417060205992510",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 33329,
+        "season_title": "百慕大三角~多彩田园曲~",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/591a080b594f65854144188df693c3d4e6f32aa9.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228720,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3ed63bd3d9b9cae769791e5b9e349c9bc885924f.png",
+                    "id": 325038,
+                    "index_show": "全12话"
+                },
+                "season_id": 33329,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 57840,
+                    "series_follow": 57840,
+                    "views": 452329
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4266,
+            "series_title": "Colorful·Pastrale"
+        },
+        "share_copy": "《百慕大三角~多彩田园曲~》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss33329",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/ec87cbfd3f873dc423e9fab77a1b44e796849b4a.png",
+        "stat": {
+            "coins": 1098,
+            "danmakus": 1519,
+            "favorite": 648,
+            "favorites": 57840,
+            "likes": 5690,
+            "reply": 722,
+            "share": 266,
+            "views": 452329
+        },
+        "status": 13,
+        "subtitle": "已观看45.2万次",
+        "title": "百慕大三角~多彩田园曲~",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

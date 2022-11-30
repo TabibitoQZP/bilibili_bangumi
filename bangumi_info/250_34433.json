@@ -1,0 +1,992 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/8fec6e47304dccfed2eafa3757b33917c05f9208.png",
+        "episodes": [
+            {
+                "aid": 287355981,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tf4y1B76G",
+                "cid": 241183602,
+                "cover": "http://i0.hdslb.com/bfs/archive/11b77ec2a5a23afbfe45585c248cae5fc8b25e47.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341220,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341220",
+                "long_title": "勇者失格",
+                "pub_time": 1601647201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第1话 勇者失格",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341220",
+                "short_link": "https://b23.tv/ep341220",
+                "skip": {
+                    "ed": {
+                        "end": 1389,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 61
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看6879.0万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 372448317,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17Z4y1L72s",
+                "cid": 264547901,
+                "cover": "http://i0.hdslb.com/bfs/archive/5f62398de1189d16b7e865626ef0cc0a23f404dc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341221,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341221",
+                "long_title": "最讨厌的这座城市",
+                "pub_time": 1602252001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第2话 最讨厌的这座城市",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341221",
+                "short_link": "https://b23.tv/ep341221",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 712464283,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xD4y1d7Ud",
+                "cid": 246179844,
+                "cover": "http://i0.hdslb.com/bfs/archive/1f2f4de53862f25694df59e8f9743511ed7fdb8f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341222,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341222",
+                "long_title": "救救我",
+                "pub_time": 1602856800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第3话 救救我",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341222",
+                "short_link": "https://b23.tv/ep341222",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 372590286,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13Z4y1V78L",
+                "cid": 252748663,
+                "cover": "http://i0.hdslb.com/bfs/archive/aac33eefb0d423d01767b6ca19fdf3d36f68ca3e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341223,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341223",
+                "long_title": "柯鲁多内尔的卡哈贝尔",
+                "pub_time": 1603461601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第4话 柯鲁多内尔的卡哈贝尔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341223",
+                "short_link": "https://b23.tv/ep341223",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 231,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 755009640,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1or4y1c7yD",
+                "cid": 252748938,
+                "cover": "http://i0.hdslb.com/bfs/archive/845f5b8a95d4a7477354bc444e1455fb19f4d76c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341224,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341224",
+                "long_title": "生命的价值",
+                "pub_time": 1604066401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第5话 生命的价值",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341224",
+                "short_link": "https://b23.tv/ep341224",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 245,
+                        "start": 156
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 245196314,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fv41167oL",
+                "cid": 252800602,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b13c4aae18678308e0134b064984861423b3da0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341225,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341225",
+                "long_title": "古代遗迹赫兹·巴尼亚扎特·阿拉古茨",
+                "pub_time": 1604671201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第6话 古代遗迹赫兹·巴尼亚扎特·阿拉古茨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341225",
+                "short_link": "https://b23.tv/ep341225",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 755254217,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pr4y1F7F4",
+                "cid": 255283428,
+                "cover": "http://i0.hdslb.com/bfs/archive/b9ef7bb33193c89332ae95f7fd836c44cd88452c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341226,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341226",
+                "long_title": "光之战士与暗之旁人",
+                "pub_time": 1605276001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第7话 光之战士与暗之旁人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341226",
+                "short_link": "https://b23.tv/ep341226",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 274,
+                        "start": 184
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 500313666,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gK411V7jk",
+                "cid": 257375950,
+                "cover": "http://i0.hdslb.com/bfs/archive/b4b529c153661936ed40e8567eca550027d17416.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341227,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341227",
+                "long_title": "NPC杀手",
+                "pub_time": 1605880801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第8话 NPC杀手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341227",
+                "short_link": "https://b23.tv/ep341227",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 800410382,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17y4y1q7xW",
+                "cid": 260160674,
+                "cover": "http://i0.hdslb.com/bfs/archive/ea9ab9946603efd961f011ff84361b9f830a9d80.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341228,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341228",
+                "long_title": "心跳不已的登出",
+                "pub_time": 1606485601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第9话 心跳不已的登出",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341228",
+                "short_link": "https://b23.tv/ep341228",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 305,
+                        "start": 215
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 542903206,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16i4y1V7b7",
+                "cid": 262376865,
+                "cover": "http://i0.hdslb.com/bfs/archive/2b82baa623e7d28e209894964346dd1147998292.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341229,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341229",
+                "long_title": "四谷友助之死",
+                "pub_time": 1607090401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第10话 四谷友助之死",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341229",
+                "short_link": "https://b23.tv/ep341229",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 198,
+                        "start": 108
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 500618512,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19K41137Yi",
+                "cid": 264965134,
+                "cover": "http://i0.hdslb.com/bfs/archive/21bc69035e0e936fff771274c8cfc71b552da0ac.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341230,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341230",
+                "long_title": "永远的魔法派",
+                "pub_time": 1607695201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第11话 永远的魔法派",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341230",
+                "short_link": "https://b23.tv/ep341230",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 265,
+                        "start": 172
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 373179571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1DZ4y1g7Fn",
+                "cid": 267671764,
+                "cover": "http://i0.hdslb.com/bfs/archive/01939db8ce2c872d17da484528e4b31d0813a98f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341231,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341231",
+                "long_title": "杀人犯的夏天",
+                "pub_time": 1608300000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我立于百万生命之上》第12话 杀人犯的夏天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341231",
+                "short_link": "https://b23.tv/ep341231",
+                "skip": {
+                    "ed": {
+                        "end": 1342,
+                        "start": 1252
+                    },
+                    "op": {
+                        "end": 215,
+                        "start": 125
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6879.0万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "喜欢合理单独行动的初中3年级学生四谷友助，有一天被传送到了游戏中的异世界——。那里有已经被传送过去的同班同学新堂衣宇和箱崎红末，成为第三位玩家的他，拼上性命挑战任务。\n排除感情，对一切要素都一视同仁，有时甚至将伙伴的性命当做棋子的冷酷四谷。面对来袭的魔物，麻烦的事件，以及暗中活动的强敌，他能否避免队伍全灭，在这游戏中通关？\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229902/",
+        "media_id": 28229902,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 341231,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 49939,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-10-02 22:00:00",
+            "pub_time_show": "2020年10月02日22:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 22985,
+            "score": 8.3
+        },
+        "record": "登记号：10417060202732410",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34433,
+        "season_title": "我立于百万生命之上",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8fec6e47304dccfed2eafa3757b33917c05f9208.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229902,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/01939db8ce2c872d17da484528e4b31d0813a98f.jpg",
+                    "id": 341231,
+                    "index_show": "全12话"
+                },
+                "season_id": 34433,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2243499,
+                    "series_follow": 2568690,
+                    "views": 68790499
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/ca633d483d10874780cfd2a09ae8a2a8c07397d1.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8caf98cc0e0bc3b6a4ae710a4b939dd38824815b.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/7c84ae105bf31c32dc99b1199307e07e00410c84.png",
+                "media_id": 28234641,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/14a812461e00c13b29918bc758cec89108e9213e.png",
+                    "id": 411135,
+                    "index_show": "全12话"
+                },
+                "season_id": 38949,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2061709,
+                    "series_follow": 2568690,
+                    "views": 26139834
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 842343238,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1654y1k7Jy",
+                        "cid": 240391855,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/4f747dc003dd0a0d9d81a0b043c133cbb7c07d6f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 74000,
+                        "from": "bangumi",
+                        "id": 339565,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339565",
+                        "long_title": "",
+                        "pub_time": 1600502400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《我立于百万生命之上》先导PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339565",
+                        "short_link": "https://b23.tv/ep339565",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1875,
+                            "danmakus": 115,
+                            "likes": 3926,
+                            "play": 971076,
+                            "reply": 367
+                        },
+                        "status": 2,
+                        "subtitle": "已观看6879.0万次",
+                        "title": "先导PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 244653622,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Cv411C7Qc",
+                        "cid": 236784888,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e7d312456831d91a79845d7af7503054e79ccfcd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 101000,
+                        "from": "bangumi",
+                        "id": 339566,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339566",
+                        "long_title": "",
+                        "pub_time": 1600502400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《我立于百万生命之上》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339566",
+                        "short_link": "https://b23.tv/ep339566",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1053,
+                            "danmakus": 245,
+                            "likes": 6142,
+                            "play": 865269,
+                            "reply": 1067
+                        },
+                        "status": 2,
+                        "subtitle": "已观看6879.0万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 670665159,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ma4y1H7S1",
+                        "cid": 269285183,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e07d3cb5df0c4ac1c51a107ae51836573897b2b6.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 53000,
+                        "from": "bangumi",
+                        "id": 372948,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep372948",
+                        "long_title": "高槻加奈子",
+                        "pub_time": 1608544800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《我立于百万生命之上》问候视频 高槻加奈子",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep372948",
+                        "short_link": "https://b23.tv/ep372948",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 242,
+                            "danmakus": 40,
+                            "likes": 5204,
+                            "play": 94970,
+                            "reply": 108
+                        },
+                        "status": 2,
+                        "subtitle": "已观看6879.0万次",
+                        "title": "问候视频",
+                        "vid": ""
+                    }
+                ],
+                "id": 50091,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5128,
+            "series_title": "我立于百万生命之上"
+        },
+        "share_copy": "《我立于百万生命之上》不团灭就能复活战斗",
+        "share_sub_title": "不团灭就能复活战斗",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34433",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/1ed81e5be1e4473bca63a496208b0741e0449647.png",
+        "stat": {
+            "coins": 163578,
+            "danmakus": 395489,
+            "favorite": 22970,
+            "favorites": 2243499,
+            "likes": 595338,
+            "reply": 37982,
+            "share": 17147,
+            "views": 68790499
+        },
+        "status": 13,
+        "subtitle": "已观看6879.0万次",
+        "title": "我立于百万生命之上",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

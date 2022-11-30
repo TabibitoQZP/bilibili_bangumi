@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e468c854628b97b5373baaf4c43e1346a9806baa.png",
+        "episodes": [
+            {
+                "aid": 854093592,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1c54y1Z7Lf",
+                "cid": 759724637,
+                "cover": "http://i0.hdslb.com/bfs/archive/219161297558531d2475da73e863dc237e83baa1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 511342,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep511342",
+                "long_title": "差生和杖之魔女",
+                "pub_time": 1652702400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第1话 差生和杖之魔女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep511342",
+                "short_link": "https://b23.tv/ep511342",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 341,
+                        "start": 252
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1139.3万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 769288205,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ir4y147VM",
+                "cid": 759705548,
+                "cover": "http://i0.hdslb.com/bfs/archive/93f0c31aeac16f814fa71ca2518902282ad8af53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 511343,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep511343",
+                "long_title": "别叫我叛徒",
+                "pub_time": 1653307200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第2话 别叫我叛徒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep511343",
+                "short_link": "https://b23.tv/ep511343",
+                "skip": {
+                    "ed": {
+                        "end": 1426,
+                        "start": 1336
+                    },
+                    "op": {
+                        "end": 178,
+                        "start": 88
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 597051568,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sB4y1X7d6",
+                "cid": 763550303,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7eb1c20d41512512ab70b377a925077fd7e2ef90.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1359000,
+                "from": "bangumi",
+                "id": 511344,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep511344",
+                "long_title": "水蒸气的另一侧",
+                "pub_time": 1653912000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第3话 水蒸气的另一侧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep511344",
+                "short_link": "https://b23.tv/ep511344",
+                "skip": {
+                    "ed": {
+                        "end": 1341,
+                        "start": 1253
+                    },
+                    "op": {
+                        "end": 282,
+                        "start": 193
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 512329617,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hg41197XM",
+                "cid": 759712017,
+                "cover": "http://i0.hdslb.com/bfs/archive/355404fc3ae80016c23c735d771500aa1f16a31a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1449000,
+                "from": "bangumi",
+                "id": 515366,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515366",
+                "long_title": "我不畏死亡",
+                "pub_time": 1654516800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第4话 我不畏死亡",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515366",
+                "short_link": "https://b23.tv/ep515366",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 53
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 384886161,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19Z4y1i7Xn",
+                "cid": 759711088,
+                "cover": "http://i0.hdslb.com/bfs/archive/a4645846146a15c7f6fe63da230b4dc0bbdac861.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1427000,
+                "from": "bangumi",
+                "id": 515367,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515367",
+                "long_title": "够不够格由我来决定",
+                "pub_time": 1655121600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第5话 够不够格由我来决定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515367",
+                "short_link": "https://b23.tv/ep515367",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 940240639,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wW4y1r7Td",
+                "cid": 759712391,
+                "cover": "http://i0.hdslb.com/bfs/archive/0ccb69487915d02695c787283e3f63b0eba9a76e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1350000,
+                "from": "bangumi",
+                "id": 515368,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515368",
+                "long_title": "无知的知",
+                "pub_time": 1655726400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第6话 无知的知",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515368",
+                "short_link": "https://b23.tv/ep515368",
+                "skip": {
+                    "ed": {
+                        "end": 1334,
+                        "start": 1244
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 215546522,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ka411H7q8",
+                "cid": 763501185,
+                "cover": "http://i0.hdslb.com/bfs/archive/3bf5b47253e9597dccb6da9c3cbf62e9ef3944a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 562382,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep562382",
+                "long_title": "我谁也救不了",
+                "pub_time": 1656936000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第7话 我谁也救不了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep562382",
+                "short_link": "https://b23.tv/ep562382",
+                "skip": {
+                    "ed": {
+                        "end": 1434,
+                        "start": 1345
+                    },
+                    "op": {
+                        "end": 280,
+                        "start": 190
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 940757954,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NW4y1S74D",
+                "cid": 770002254,
+                "cover": "http://i0.hdslb.com/bfs/archive/44fbc7d90c8afc99a1afe632bf1b3a4555a40698.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1344000,
+                "from": "bangumi",
+                "id": 562383,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep562383",
+                "long_title": "各自的代价",
+                "pub_time": 1657540800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第8话 各自的代价",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep562383",
+                "short_link": "https://b23.tv/ep562383",
+                "skip": {
+                    "ed": {
+                        "end": 1327,
+                        "start": 1238
+                    },
+                    "op": {
+                        "end": 221,
+                        "start": 132
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 601004490,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aB4y1a7Ry",
+                "cid": 776560355,
+                "cover": "http://i0.hdslb.com/bfs/archive/100b05a41b3ba8557d28f839eb6e3c29e29b49a0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 562384,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep562384",
+                "long_title": "一石激起千层浪",
+                "pub_time": 1658145600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第9话 一石激起千层浪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep562384",
+                "short_link": "https://b23.tv/ep562384",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 287,
+                        "start": 198
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 556273515,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1We4y1Q7am",
+                "cid": 783481526,
+                "cover": "http://i0.hdslb.com/bfs/archive/512dc16bc0d45c0281afad03d5029125986d5816.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1390000,
+                "from": "bangumi",
+                "id": 607344,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep607344",
+                "long_title": "点心的时间",
+                "pub_time": 1658750400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第10话 点心的时间",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep607344",
+                "short_link": "https://b23.tv/ep607344",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1285
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 45
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 216552865,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pa411N7eS",
+                "cid": 790336896,
+                "cover": "http://i0.hdslb.com/bfs/archive/1a3711a04aab5036482032c55707dc40ce1aaa31.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 607345,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep607345",
+                "long_title": "杀的决心",
+                "pub_time": 1659355200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第11话 杀的决心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep607345",
+                "short_link": "https://b23.tv/ep607345",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 81
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 856851034,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15V4y147N6",
+                "cid": 797417944,
+                "cover": "http://i0.hdslb.com/bfs/archive/419529ff792574babe3dfedc1789a27be96e9cff.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1365000,
+                "from": "bangumi",
+                "id": 607346,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep607346",
+                "long_title": "冒险开幕",
+                "pub_time": 1659960000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法使黎明期》第12话 冒险开幕",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep607346",
+                "short_link": "https://b23.tv/ep607346",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1139.3万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "我至今，依然无法想起。\n自己究竟是什么——。\n魔法学校的学生塞维尔没有任何入学前的记忆。\n在不知自己为何会在这里的状态下，连校园生活也有种莫名的空虚感，\n由于不知道该如何努力，学习成绩也总是倒数第一。\n对于这样的塞维尔，魔法学校的校长阿尔巴斯突然交给他一项危险的特别实习。\n「我希望你前往魔女狩猎尚未根绝的区域，宣传魔法的实用性。」\n在魔女与教会的战争结束数年后——\n世界还尚未完全接受魔女与魔法。\n时值魔法使黎明期。\n这是一个无名少年和隐藏着各自的心伤的同伴们一起寻找自我的故事。\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28237128/",
+        "media_id": 28237128,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 607346,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 66149,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-05-16 20:00:00",
+            "pub_time_show": "05月16日20:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 30583,
+            "score": 2.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41419,
+        "season_title": "魔法使黎明期",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e468c854628b97b5373baaf4c43e1346a9806baa.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/26f87214a2481680a93bfda294ac080c0b336a40.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/994ebb87b52d2c473875bb6c9582704b1c88ba1f.png",
+                "media_id": 28237128,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/419529ff792574babe3dfedc1789a27be96e9cff.jpg",
+                    "id": 607346,
+                    "index_show": "全12话"
+                },
+                "season_id": 41419,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 360602,
+                    "series_follow": 360602,
+                    "views": 11392847
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 595603147,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1DB4y1m7EZ",
+                        "cid": 573227365,
+                        "cover": "http://i0.hdslb.com/bfs/archive/99aa477b91fe6b8e71905876343fbd42440f2173.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 85000,
+                        "from": "bangumi",
+                        "id": 479085,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep479085",
+                        "long_title": "",
+                        "pub_time": 1649674800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《魔法使黎明期》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep479085",
+                        "short_link": "https://b23.tv/ep479085",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 856,
+                            "danmakus": 177,
+                            "likes": 6921,
+                            "play": 836987,
+                            "reply": 1024
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1139.3万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 66552,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6017,
+            "series_title": "魔法使黎明期"
+        },
+        "share_copy": "《魔法使黎明期》从零魔法书后传",
+        "share_sub_title": "从零魔法书后传",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41419",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/75a291010c128ce2de17267fd2a4842d19898236.png",
+        "stat": {
+            "coins": 16834,
+            "danmakus": 18794,
+            "favorite": 7162,
+            "favorites": 360602,
+            "likes": 120216,
+            "reply": 11748,
+            "share": 3891,
+            "views": 11392847
+        },
+        "status": 13,
+        "subtitle": "已观看1139.3万次",
+        "title": "魔法使黎明期",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

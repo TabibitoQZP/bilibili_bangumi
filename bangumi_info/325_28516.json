@@ -1,0 +1,853 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/56f5ca7a0efbcf0edd467a481252ca2decb5a3d6.png",
+        "episodes": [
+            {
+                "aid": 69917645,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1SE411Q7c1",
+                "cid": 162596124,
+                "cover": "http://i0.hdslb.com/bfs/archive/f1e25a45a8982ca85df71dc611161986d7bfb4fd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285751,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285751",
+                "long_title": "启航 驰骋于大海的少女们",
+                "pub_time": 1570114800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第1话 启航 驰骋于大海的少女们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285751",
+                "short_link": "https://b23.tv/ep285751",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 229,
+                        "start": 140
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3862.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 70781027,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sE411o785",
+                "cid": 162515810,
+                "cover": "http://i0.hdslb.com/bfs/archive/878661133268d53a5af50c6ca2ec2152c7bca335.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 285752,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285752",
+                "long_title": "激斗 心跳波动、钢铁双翼",
+                "pub_time": 1570719600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第2话 激斗 心跳波动、钢铁双翼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285752",
+                "short_link": "https://b23.tv/ep285752",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 69
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 71533885,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uE411y7Uq",
+                "cid": 162516671,
+                "cover": "http://i0.hdslb.com/bfs/archive/b336425fd0eda306dab4663689157abe933a5347.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285753,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285753",
+                "long_title": "优雅 亦或是如同人类一般",
+                "pub_time": 1571324400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第3话 优雅 亦或是如同人类一般",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285753",
+                "short_link": "https://b23.tv/ep285753",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 73252215,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XE411y7Uw",
+                "cid": 162956450,
+                "cover": "http://i0.hdslb.com/bfs/archive/cfe9bec901c61e9abc86379879646ff5c71fbec8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285754,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285754",
+                "long_title": "樱华 外套与短剑",
+                "pub_time": 1571929200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第4话 樱华 外套与短剑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285754",
+                "short_link": "https://b23.tv/ep285754",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 226,
+                        "start": 139
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 74034150,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NE41187Sc",
+                "cid": 162985579,
+                "cover": "http://i0.hdslb.com/bfs/archive/0d11168b54f57c3cf6bd1d830a551d24751231d1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285755,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285755",
+                "long_title": "重逢 为你伸手",
+                "pub_time": 1572534000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第5话 重逢 为你伸手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285755",
+                "short_link": "https://b23.tv/ep285755",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 73
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 74859845,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QE411i7Pp",
+                "cid": 163010811,
+                "cover": "http://i0.hdslb.com/bfs/archive/765c879e3f866a9ac807670263849161d1e8bd9a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285756,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285756",
+                "long_title": "羁绊 紧系纽带，牢拴心灵",
+                "pub_time": 1573138800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第6话 羁绊 紧系纽带，牢拴心灵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285756",
+                "short_link": "https://b23.tv/ep285756",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 37
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 76493137,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hJ41127rg",
+                "cid": 165097455,
+                "cover": "http://i0.hdslb.com/bfs/archive/ee83c076e7ee2bf8c4a14d7b8072736145512e9d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285757,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285757",
+                "long_title": "死线 为了决意和爱",
+                "pub_time": 1574348400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第7话 死线 为了决意和爱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285757",
+                "short_link": "https://b23.tv/ep285757",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 161,
+                        "start": 74
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 77346885,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XJ411D7L9",
+                "cid": 165301721,
+                "cover": "http://i0.hdslb.com/bfs/archive/8bd7ad993c832f01e1ff68b10ffbee3598d38783.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285758,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285758",
+                "long_title": "交错 紧紧抱住不分离",
+                "pub_time": 1574953200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第8话 交错 紧紧抱住不分离",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285758",
+                "short_link": "https://b23.tv/ep285758",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 155,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 78150038,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cJ411i7Lt",
+                "cid": 165279774,
+                "cover": "http://i0.hdslb.com/bfs/archive/ba2cb324e57b917e2bd46794540203ff76a7ba52.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285759,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285759",
+                "long_title": "希望 黑暗中攫取光芒",
+                "pub_time": 1575558000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第9话 希望 黑暗中攫取光芒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285759",
+                "short_link": "https://b23.tv/ep285759",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 78992445,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wJ411C7Gz",
+                "cid": 165280315,
+                "cover": "http://i0.hdslb.com/bfs/archive/7d48ed8a7ffa34cbfab3247320c1de565795f22e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285760,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285760",
+                "long_title": "残响 漂白的鲜红记忆",
+                "pub_time": 1576162800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第10话 残响 漂白的鲜红记忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285760",
+                "short_link": "https://b23.tv/ep285760",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 96010471,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11E411G7Rg",
+                "cid": 164081063,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2804d637b9291c95f34dbb3d7c87a80ed8dc3e93.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285761,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285761",
+                "long_title": "怪物 战火蔓延的大海",
+                "pub_time": 1584106200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第11话 怪物 战火蔓延的大海",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285761",
+                "short_link": "https://b23.tv/ep285761",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 113,
+                        "start": 24
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 97904524,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bE411A7zX",
+                "cid": 167132815,
+                "cover": "http://i0.hdslb.com/bfs/archive/f294283d62eed7b55b1d34df76f79be06ab6b2a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 285762,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285762",
+                "long_title": "苍海 为碧蓝航线献上祝福",
+                "pub_time": 1584711000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝航线》第12话 苍海 为碧蓝航线献上祝福",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285762",
+                "short_link": "https://b23.tv/ep285762",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3862.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "致碧蓝航线以祝福——\n“碧蓝航线”的少女们，击溃了自外界入侵的神秘之敌“塞壬”的强烈攻势。\n然而，斗争世世代代都未曾改变。\n就如同人类曾经夺取海洋霸权一般，由于理念上的差异“碧蓝航线”与“赤色中轴”成为对立阵营。\n之後，时光流逝——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28222522/",
+        "media_id": 28222522,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 285762,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 38311,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-10-03 23:00:00",
+            "pub_time_show": "2019年10月03日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 27937,
+            "score": 8.1
+        },
+        "record": "登记号：10417060200742709",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28516,
+        "season_title": "碧蓝航线",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/56f5ca7a0efbcf0edd467a481252ca2decb5a3d6.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222522,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/f294283d62eed7b55b1d34df76f79be06ab6b2a8.jpg",
+                    "id": 285762,
+                    "index_show": "全12话"
+                },
+                "season_id": 28516,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1737729,
+                    "series_follow": 1936350,
+                    "views": 38627138
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/098d58fef696ce295f19878b6035214abece824f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233172,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c87b7ebfa2de09298d5e4e2312dd1a5f85aec8e4.jpg",
+                    "id": 378384,
+                    "index_show": "全12话"
+                },
+                "season_id": 37498,
+                "season_title": "短篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1665147,
+                    "series_follow": 1936350,
+                    "views": 18714759
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 68248870,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uJ41137Gx",
+                        "cid": 118292938,
+                        "cover": "http://i0.hdslb.com/bfs/archive/530afba4c46b263f5cbb0bad368e87d760ab5c7e.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 49369,
+                        "from": "bangumi",
+                        "id": 284415,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep284415",
+                        "long_title": "",
+                        "pub_time": 1568887188,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《碧蓝航线》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep284415",
+                        "short_link": "https://b23.tv/ep284415",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 13953,
+                            "danmakus": 3333,
+                            "likes": 826,
+                            "play": 1943925,
+                            "reply": 6870
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3862.7万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 38379,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4616,
+            "series_title": "碧蓝航线"
+        },
+        "share_copy": "《碧蓝航线》争夺海上霸权",
+        "share_sub_title": "争夺海上霸权",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28516",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/e4c70f75c8649257f8ba64b59e529c378f3d5e58.jpg",
+        "stat": {
+            "coins": 236335,
+            "danmakus": 738956,
+            "favorite": 9982,
+            "favorites": 1737729,
+            "likes": 224543,
+            "reply": 119675,
+            "share": 53868,
+            "views": 38627138
+        },
+        "status": 13,
+        "subtitle": "已观看3862.7万次",
+        "title": "碧蓝航线",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,834 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/4ce96bf9d8ce1b6ece3fb26a404e4a80ebba0ab2.png",
+        "episodes": [
+            {
+                "aid": 626146632,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18t4y197cH",
+                "cid": 207441774,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/da1c55d9305946fa174f0c6fe1112bba79e4f4e2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28035",
+                "long_title": "我们的自我意识",
+                "pub_time": 1404581460,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第1话 我们的自我意识",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28035",
+                "short_link": "https://b23.tv/ep28035",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 98
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "1",
+                "vid": "XNzM2Mjc4OTIw"
+            },
+            {
+                "aid": 753631357,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ck4y167Bs",
+                "cid": 207441959,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a562f2046de4930c6b3cd5685550ddd7f0c92d6c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28034",
+                "long_title": "谎言闪耀之时",
+                "pub_time": 1405189500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第2话 谎言闪耀之时",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28034",
+                "short_link": "https://b23.tv/ep28034",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 212,
+                        "start": 120
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "2",
+                "vid": "XNzM5NDI4ODY4"
+            },
+            {
+                "aid": 371181096,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NZ4y1p7SL",
+                "cid": 207442186,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8585d0dfe5f64b087009f375e8a0487b75b23ce3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28033",
+                "long_title": "他们的未来",
+                "pub_time": 1405804860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第3话 他们的未来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28033",
+                "short_link": "https://b23.tv/ep28033",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "3",
+                "vid": "XNzQyOTA4MDgw"
+            },
+            {
+                "aid": 583703896,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tz4y1X7pA",
+                "cid": 207442437,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a67c9395f97c4d5eec21c2ee0b338ea24c2d94c4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28032,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28032",
+                "long_title": "人会死，有一天终究会死，可是",
+                "pub_time": 1406396340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第4话 人会死，有一天终究会死，可是",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28032",
+                "short_link": "https://b23.tv/ep28032",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1275
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 89
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "4",
+                "vid": "XNzQ2MzU2NjY0"
+            },
+            {
+                "aid": 243694342,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zv411B7ei",
+                "cid": 207442621,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/80f0013646b8ba348e1398cad0779747a23356de.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28031,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28031",
+                "long_title": "Air Boys",
+                "pub_time": 1407000960,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第5话 Air Boys",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28031",
+                "short_link": "https://b23.tv/ep28031",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "5",
+                "vid": "XNzQ5NzU0Mjc2"
+            },
+            {
+                "aid": 583680520,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gz4y1X7Yy",
+                "cid": 207442795,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ce039ccfc1a0c54c34acfeb710976b319273d5e7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28030,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28030",
+                "long_title": "雨天的归宿",
+                "pub_time": 1407605400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第6话 雨天的归宿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28030",
+                "short_link": "https://b23.tv/ep28030",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "6",
+                "vid": "XNzUzMTgwOTky"
+            },
+            {
+                "aid": 243668094,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kv411B7P7",
+                "cid": 207442974,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/46770b339dbb01730a8beaac77148f4a359e645d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28029,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28029",
+                "long_title": "在人生上无法赌上人生",
+                "pub_time": 1408216080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第7话 在人生上无法赌上人生",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28029",
+                "short_link": "https://b23.tv/ep28029",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "7",
+                "vid": "XNzU2NTk2NDQw"
+            },
+            {
+                "aid": 838632168,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Eg4y1v7gW",
+                "cid": 207443144,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c51fae305d4fb34a582e2f00c74a20100f02f329.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28028,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28028",
+                "long_title": "永远的烟火",
+                "pub_time": 1408814940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第8话 永远的烟火",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28028",
+                "short_link": "https://b23.tv/ep28028",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "8",
+                "vid": "XNzYwMjcyNjk2"
+            },
+            {
+                "aid": 753655847,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fk4y1z7Vz",
+                "cid": 207443401,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/404b82e34c3c0458e91c00539c37a033c9ed2adf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28027",
+                "long_title": "不像样的光辉",
+                "pub_time": 1409420100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第9话 不像样的光辉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28027",
+                "short_link": "https://b23.tv/ep28027",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "9",
+                "vid": "XNzY0NjIyMzA4"
+            },
+            {
+                "aid": 328687275,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vA411i7FF",
+                "cid": 207443664,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/691a6c7f98dfdd8897bd6e2c5845a3d5b1848ccd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28026,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28026",
+                "long_title": "心动音乐屋",
+                "pub_time": 1410024600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第10话 心动音乐屋",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28026",
+                "short_link": "https://b23.tv/ep28026",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "10",
+                "vid": "XNzc0ODIwNzA4"
+            },
+            {
+                "aid": 711210145,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gD4y1S71C",
+                "cid": 207444041,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/048ca07dd0dd9201808c8d609951c00f5bb242f0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28025,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28025",
+                "long_title": "不受期待的我们",
+                "pub_time": 1410629400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第11话 不受期待的我们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28025",
+                "short_link": "https://b23.tv/ep28025",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "11",
+                "vid": "XNzgxMDY5MTky"
+            },
+            {
+                "aid": 926141895,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV12T4y1J7MS",
+                "cid": 207444250,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/89bcf89295cce46ab55004e2877c36400e56ab15.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28024,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28024",
+                "long_title": "HELLO!世界!",
+                "pub_time": 1411234200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第12话 HELLO!世界!",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28024",
+                "short_link": "https://b23.tv/ep28024",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "12",
+                "vid": "XNzg2NjcxODA0"
+            },
+            {
+                "aid": 456128946,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV195411W7w2",
+                "cid": 207444446,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0a65562c431db486aee6794462c102ae39073f4f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28023,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28023",
+                "long_title": "我们将会永远重生",
+                "pub_time": 1411839000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞》第13话 我们将会永远重生",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28023",
+                "short_link": "https://b23.tv/ep28023",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看41.3万次",
+                "title": "13",
+                "vid": "XNzkxMzUwOTQ0"
+            }
+        ],
+        "evaluate": "故事发生在小说15年后的世界。在原宿的“好莱坞东京”剧场进行着演艺活动的偶像团体“少年好莱坞”，他们逐梦和成长蜕变的故事即将开始…",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229392/",
+        "media_id": 28229392,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 28023,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18506,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-09-01 00:00:01",
+            "pub_time_show": "2020年9月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 122,
+            "score": 8.7
+        },
+        "record": "登记号：10417060204062306",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1495,
+        "season_title": "少年好莱坞",
+        "seasons": [
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4ce96bf9d8ce1b6ece3fb26a404e4a80ebba0ab2.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229392,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0a65562c431db486aee6794462c102ae39073f4f.jpg",
+                    "id": 28023,
+                    "index_show": "全13话"
+                },
+                "season_id": 1495,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 29004,
+                    "series_follow": 30843,
+                    "views": 413245
+                }
+            },
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/657cb124af64e77ba83e9f2df37691ea530e211d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229393,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e846540df3e79dc7272914c097dc330f4bebc868.jpg",
+                    "id": 28651,
+                    "index_show": "全13话"
+                },
+                "season_id": 1496,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 6767,
+                    "series_follow": 30843,
+                    "views": 135902
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1027,
+            "series_title": "少年好莱坞"
+        },
+        "share_copy": "《少年好莱坞》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1495",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/c30d39d14202b0dc06a59b52276513549bdb266d.jpg",
+        "stat": {
+            "coins": 476,
+            "danmakus": 1617,
+            "favorite": 484,
+            "favorites": 29004,
+            "likes": 4977,
+            "reply": 580,
+            "share": 128,
+            "views": 413245
+        },
+        "status": 13,
+        "subtitle": "已观看41.3万次",
+        "title": "少年好莱坞",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c0f89bd9ed3b449c9f65502df426125669654d9b.png",
+        "episodes": [
+            {
+                "aid": 21783285,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XW411N7vp",
+                "cid": 35935517,
+                "cover": "http://i0.hdslb.com/bfs/archive/2f8402c781d4e0b4e9d160150c63e676e3fe6612.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200223,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200223",
+                "long_title": "Dark Side",
+                "pub_time": 1523114940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第1话 Dark Side",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200223",
+                "short_link": "https://b23.tv/ep200223",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 213,
+                        "start": 124
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 22088473,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zW411L78j",
+                "cid": 94615139,
+                "cover": "http://i0.hdslb.com/bfs/archive/0a7eb1405a752277b52f4b6e5964c42f8d5c8b7e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 200224,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200224",
+                "long_title": "Safe House",
+                "pub_time": 1523719800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第2话 Safe House",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200224",
+                "short_link": "https://b23.tv/ep200224",
+                "skip": {
+                    "ed": {
+                        "end": 1394,
+                        "start": 1305
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 22392025,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hW41157uY",
+                "cid": 37091970,
+                "cover": "http://i0.hdslb.com/bfs/archive/d2e3a5112b4c154485ff1018e9fd6b5a6c310f94.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200225,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200225",
+                "long_title": "Paradox",
+                "pub_time": 1524324600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第3话 Paradox",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200225",
+                "short_link": "https://b23.tv/ep200225",
+                "skip": {
+                    "ed": {
+                        "end": 1393,
+                        "start": 1303
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 22684128,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nW411V7fu",
+                "cid": 37647835,
+                "cover": "http://i0.hdslb.com/bfs/archive/0c1b8bcc66838f2c921da2427335fdf2a71e1fde.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200226,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200226",
+                "long_title": "Monster",
+                "pub_time": 1524929400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第4话 Monster",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200226",
+                "short_link": "https://b23.tv/ep200226",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 334,
+                        "start": 245
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 23020068,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VW411G7Hx",
+                "cid": 38276222,
+                "cover": "http://i0.hdslb.com/bfs/archive/c4bcd47ba4b86d64a0f52c951a28eb766c757d90.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200227,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200227",
+                "long_title": "Plan B",
+                "pub_time": 1525534200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第5话 Plan B",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200227",
+                "short_link": "https://b23.tv/ep200227",
+                "skip": {
+                    "ed": {
+                        "end": 1320,
+                        "start": 1230
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 23337737,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xp411o73S",
+                "cid": 38885952,
+                "cover": "http://i0.hdslb.com/bfs/archive/e8daa80d90b6527d050bc1228bcb0b3e0007fcfb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200228,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200228",
+                "long_title": "Dogma Tick",
+                "pub_time": 1526138940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第6话 Dogma Tick",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200228",
+                "short_link": "https://b23.tv/ep200228",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 199,
+                        "start": 110
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 23640968,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yp411d7sT",
+                "cid": 39481420,
+                "cover": "http://i0.hdslb.com/bfs/archive/920a1612fb75f65cb1ce4901617a9db2e79efc54.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 200229,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200229",
+                "long_title": "Chaser",
+                "pub_time": 1526743800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第7话 Chaser",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200229",
+                "short_link": "https://b23.tv/ep200229",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 23959292,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rp411R7ye",
+                "cid": 40098115,
+                "cover": "http://i0.hdslb.com/bfs/archive/483b7c6f52d55aa951938484ae219df803e421db.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1409000,
+                "from": "bangumi",
+                "id": 200230,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200230",
+                "long_title": "Off Line",
+                "pub_time": 1527348540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第8话 Off Line",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200230",
+                "short_link": "https://b23.tv/ep200230",
+                "skip": {
+                    "ed": {
+                        "end": 1348,
+                        "start": 1259
+                    },
+                    "op": {
+                        "end": 98,
+                        "start": 9
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 24282231,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sW411N7ps",
+                "cid": 40725590,
+                "cover": "http://i0.hdslb.com/bfs/archive/6858688b06f4a7d664a26d653a30a82fa6311982.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200231,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200231",
+                "long_title": "Command",
+                "pub_time": 1527953400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第9话 Command",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200231",
+                "short_link": "https://b23.tv/ep200231",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 24609903,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WW411P7d1",
+                "cid": 41357427,
+                "cover": "http://i0.hdslb.com/bfs/archive/71224e9eeda08f268c72bd86ac43f52b2c357fde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200232,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200232",
+                "long_title": "Ego-defense",
+                "pub_time": 1528558200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第10话 Ego-defense",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200232",
+                "short_link": "https://b23.tv/ep200232",
+                "skip": {
+                    "ed": {
+                        "end": 1385,
+                        "start": 1296
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 91
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 24997616,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SW411F74W",
+                "cid": 42236334,
+                "cover": "http://i0.hdslb.com/bfs/archive/93036297488a763e4367e590ae3e5c7c652b3604.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 200233,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200233",
+                "long_title": "Uroboros",
+                "pub_time": 1529163000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第11话 Uroboros",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200233",
+                "short_link": "https://b23.tv/ep200233",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 25448571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411L7eK",
+                "cid": 43280453,
+                "cover": "http://i0.hdslb.com/bfs/archive/e5c27b6aef85affe1750c1e5d81e059532ace57e.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1406000,
+                "from": "bangumi",
+                "id": 200234,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200234",
+                "long_title": "Devil's Line",
+                "pub_time": 1529767800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《恶魔战线》第12话 Devil's Line",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200234",
+                "short_link": "https://b23.tv/ep200234",
+                "skip": {
+                    "ed": {
+                        "end": 1344,
+                        "start": 1255
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看990.6万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在一个吸血鬼和人类共存的世界当中，彩纱是一个纯情的单身女研究生，而在彩纱所在的地区发生了连续吸血鬼杀人事件。\n而在冬天彩纱的男同学邀请她一起出来玩，而这位男同学就是连续吸血鬼杀人事件的真凶，而有着半人半吸血鬼血统的安斋结贵作为吸血鬼警察及时出现救了彩纱同时还拿到了彩纱的初吻（安斋结贵没抑制住体内吸血鬼的冲动），而彩纱也是喜欢上了安斋结贵这个看似冷冰冰的暖男——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md78272/",
+        "media_id": 78272,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 200234,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 33242,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-04-07 23:30:00",
+            "pub_time_show": "2018年04月07日23:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3366,
+            "score": 8.2
+        },
+        "record": "登记号：10417060205442404",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 23846,
+        "season_title": "恶魔战线",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c0f89bd9ed3b449c9f65502df426125669654d9b.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 78272,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e5c27b6aef85affe1750c1e5d81e059532ace57e.jpg",
+                    "id": 200234,
+                    "index_show": "全12话"
+                },
+                "season_id": 23846,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 681434,
+                    "series_follow": 681434,
+                    "views": 9905758
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3967,
+            "series_title": "魔性之线"
+        },
+        "share_copy": "《恶魔战线》恶魔之子的爱",
+        "share_sub_title": "恶魔之子的爱",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss23846",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/bf37b7f76ca7e97d622d96e6e13087ad27dc0e8c.jpg",
+        "stat": {
+            "coins": 19563,
+            "danmakus": 103070,
+            "favorite": 5708,
+            "favorites": 681434,
+            "likes": 46704,
+            "reply": 18983,
+            "share": 5944,
+            "views": 9905758
+        },
+        "status": 13,
+        "subtitle": "已观看990.6万次",
+        "title": "恶魔战线",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,822 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "http://i0.hdslb.com/bfs/bangumi/9e279e8361b5f5171af96c19180f82cdbb92f88c.jpg",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/74d0d82dd22f1e7104bbdeae9827dc3d08b67bc1.png",
+        "episodes": [
+            {
+                "aid": 81919838,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kJ411j7pH",
+                "cid": 147418498,
+                "cover": "http://i0.hdslb.com/bfs/archive/90a10204fd7030f46013d1ad2a461cd75737d011.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1844
+                },
+                "duration": 5404000,
+                "from": "bangumi",
+                "id": 312079,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep312079?theme=movie",
+                "long_title": "",
+                "pub_time": 1580612400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《烟花》想要和你一起看",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep312079",
+                "short_link": "https://b23.tv/ep312079",
+                "status": 13,
+                "subtitle": "已观看1741.1万次",
+                "title": "原版",
+                "vid": ""
+            },
+            {
+                "aid": 81897385,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12J411j7BG",
+                "cid": 147419710,
+                "cover": "http://i0.hdslb.com/bfs/archive/d74a9e0497a91cd90044a491f3e1b01072697c6b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1844
+                },
+                "duration": 5404000,
+                "from": "bangumi",
+                "id": 312080,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep312080?theme=movie",
+                "long_title": "",
+                "pub_time": 1580612400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《烟花》想要和你一起看",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep312080",
+                "short_link": "https://b23.tv/ep312080",
+                "status": 13,
+                "subtitle": "已观看1741.1万次",
+                "title": "中文",
+                "vid": ""
+            }
+        ],
+        "evaluate": "炎炎夏日，茂下町的烟花大会即将举行。就读于当地高中的及川奈砂（广濑铃 配音）并未沉浸在愉快祥和的气氛之中，她即将随母亲（松隆子 配音）搬家到另一个城市，心中满是失落。在某次即兴的游泳比赛时，奈砂击败同班同学岛田典道（菅田将晖 配音）和安昙祐介（宫野真守 配音）。随后她坦白喜欢祐介，希望烟花大会时能与对方一同游玩。可是祐介、典道随后卷入和朋友们关于“烟花到底是圆是扁”的争论中...",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28227648/",
+        "media_id": 28227648,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2017年12月1日上映",
+            "id": 312080,
+            "is_new": 0,
+            "title": "中文"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 42620,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-02-02 11:00:00",
+            "pub_time_show": "2020年02月02日11:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 21888,
+            "score": 8.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 32394,
+        "season_title": "烟花",
+        "seasons": [],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 85944702,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1m7411B72i",
+                        "cid": 146905651,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/f1315194aea4bf4117a4e2523852fc83856993ae.jpg",
+                        "dimension": {
+                            "height": 720,
+                            "rotate": 0,
+                            "width": 1280
+                        },
+                        "duration": 293000,
+                        "from": "bangumi",
+                        "id": 312114,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep312114?theme=movie",
+                        "long_title": "打上花火 - DAOKO x 米津玄师",
+                        "pub_time": 1580461140,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》原声1 打上花火 - DAOKO x 米津玄师",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep312114",
+                        "short_link": "https://b23.tv/ep312114",
+                        "stat": {
+                            "coin": 6470,
+                            "danmakus": 1632,
+                            "likes": 8394,
+                            "play": 729953,
+                            "reply": 1086
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "原声1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 86101480,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1u7411x74J",
+                        "cid": 147171970,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/e94ea2e5ea2a73f1a815d35923d82e0120c8e1e9.jpg",
+                        "dimension": {
+                            "height": 720,
+                            "rotate": 0,
+                            "width": 1280
+                        },
+                        "duration": 139000,
+                        "from": "bangumi",
+                        "id": 312139,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep312139?theme=movie",
+                        "long_title": "Forever Friends - DAOKO",
+                        "pub_time": 1580547660,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》原声2 Forever Friends - DAOKO",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep312139",
+                        "short_link": "https://b23.tv/ep312139",
+                        "stat": {
+                            "coin": 544,
+                            "danmakus": 79,
+                            "likes": 966,
+                            "play": 152185,
+                            "reply": 119
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "原声2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 86148155,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1v7411x7pq",
+                        "cid": 147246456,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/0f91b7270b8e3400c3cdf8b9014fa38b2752d819.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 192000,
+                        "from": "bangumi",
+                        "id": 312150,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep312150?theme=movie",
+                        "long_title": "琉璃色地球",
+                        "pub_time": 1580575200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》原声3 琉璃色地球",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep312150",
+                        "short_link": "https://b23.tv/ep312150",
+                        "stat": {
+                            "coin": 555,
+                            "danmakus": 109,
+                            "likes": 1030,
+                            "play": 167353,
+                            "reply": 123
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "原声3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 811729644,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1t34y1E7KU",
+                        "cid": 722008083,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2ec5a82b8fc1b07da172f0c04975ce6be8c7df32.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 120000,
+                        "from": "bangumi",
+                        "id": 511389,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep511389?theme=movie",
+                        "long_title": "初恋就如这般纯净美好吧",
+                        "pub_time": 1652716530,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》片段1 初恋就如这般纯净美好吧",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep511389",
+                        "short_link": "https://b23.tv/ep511389",
+                        "stat": {
+                            "coin": 12,
+                            "danmakus": 0,
+                            "likes": 432,
+                            "play": 5325,
+                            "reply": 11
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "片段1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 469174331,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV175411R7QF",
+                        "cid": 722010231,
+                        "cover": "http://i0.hdslb.com/bfs/archive/444104b4ac2b0277a5abff0efccfbe2387a4d133.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 135000,
+                        "from": "bangumi",
+                        "id": 511390,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep511390?theme=movie",
+                        "long_title": "如烟花般绚烂而短暂的爱情",
+                        "pub_time": 1652716530,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》片段2 如烟花般绚烂而短暂的爱情",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep511390",
+                        "short_link": "https://b23.tv/ep511390",
+                        "stat": {
+                            "coin": 8,
+                            "danmakus": 0,
+                            "likes": 361,
+                            "play": 3335,
+                            "reply": 4
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "片段2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 299148815,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1pF411L7Bw",
+                        "cid": 722011357,
+                        "cover": "http://i0.hdslb.com/bfs/archive/b941f482f5dbc4e9db275e8e5e7b201e5c6c6eb1.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 82000,
+                        "from": "bangumi",
+                        "id": 511391,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep511391?theme=movie",
+                        "long_title": "及川奈砂这个回眸一笑在我心头荡漾",
+                        "pub_time": 1652716530,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》片段3 及川奈砂这个回眸一笑在我心头荡漾",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep511391",
+                        "short_link": "https://b23.tv/ep511391",
+                        "stat": {
+                            "coin": 12,
+                            "danmakus": 0,
+                            "likes": 504,
+                            "play": 4321,
+                            "reply": 14
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "片段3",
+                        "vid": ""
+                    }
+                ],
+                "id": 42621,
+                "title": "预告花絮",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 642904496,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1VY4y1n7uV",
+                        "cid": 760544046,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_0059d497bd9d45b4a20a4ee5fc5087b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 538601,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep538601?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656636680,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep538601",
+                        "short_link": "https://b23.tv/ep538601",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 888,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 470475308,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1kT41137F3",
+                        "cid": 760544958,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_e1ee10c93f384856af77f8bea0f8f7b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 538634,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep538634?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656636815,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep538634",
+                        "short_link": "https://b23.tv/ep538634",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 605,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 982999974,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19t4y187C7",
+                        "cid": 760546104,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9744dd966bef480ba6ff3ccb62869cb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 538671,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep538671?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656637009,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep538671",
+                        "short_link": "https://b23.tv/ep538671",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 6,
+                            "play": 516,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 982883079,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14t4y187ev",
+                        "cid": 760547790,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_acd1b22bab5646efa9a14f772ba4bdb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 538768,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep538768?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1656637409,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep538768",
+                        "short_link": "https://b23.tv/ep538768",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 554,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 342892136,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1S94y197N7",
+                        "cid": 760504159,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_3e2485fe02ae4884a97ca580bac4bab_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536721,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536721?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656628546,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536721",
+                        "short_link": "https://b23.tv/ep536721",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 441,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 940399687,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uW4y1z7Bd",
+                        "cid": 760504472,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_22ac62b5bf9a4538ae18ab85a82628b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1844
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536743,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536743?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656628633,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《烟花》烟花 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536743",
+                        "short_link": "https://b23.tv/ep536743",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 1953,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1741.1万次",
+                        "title": "烟花",
+                        "vid": ""
+                    }
+                ],
+                "id": 80496,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《烟花》想要和你一起看",
+        "share_sub_title": "想要和你一起看",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss32394",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/ae706c0ea9affa5e4550659ef8a990e6225b3024.png",
+        "stat": {
+            "coins": 110344,
+            "danmakus": 214488,
+            "favorite": 28874,
+            "favorites": 1075773,
+            "likes": 141218,
+            "reply": 24613,
+            "share": 40532,
+            "views": 17411444
+        },
+        "status": 13,
+        "subtitle": "已观看1741.1万次",
+        "title": "烟花",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815757,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,740 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/be389520c04942d62d5a7d0c0ba9e9c655bb2363.jpg",
+        "episodes": [
+            {
+                "aid": 10789700,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yx411Y7bo",
+                "cid": 17803562,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107669,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107669",
+                "long_title": "晴之大国",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第1话 晴之大国",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107669",
+                "short_link": "https://b23.tv/ep107669",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 100,
+                        "start": 26
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 976870677,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1j44y1Y7Lr",
+                "cid": 17803558,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107670,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107670",
+                "long_title": "雨之公主",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第2话 雨之公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107670",
+                "short_link": "https://b23.tv/ep107670",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 229,
+                        "start": 155
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 251827081,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15Y41147Ed",
+                "cid": 17803559,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107671,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107671",
+                "long_title": "关白宣言",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第3话 关白宣言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107671",
+                "short_link": "https://b23.tv/ep107671",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 105
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 976804821,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1o44y1a7gd",
+                "cid": 17803557,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107672,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107672",
+                "long_title": "Ring of tales①",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第4话 Ring of tales①",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107672",
+                "short_link": "https://b23.tv/ep107672",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 207,
+                        "start": 138
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 294333448,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fF411h716",
+                "cid": 17803551,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107673,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107673",
+                "long_title": "Ring of tales②",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第5话 Ring of tales②",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107673",
+                "short_link": "https://b23.tv/ep107673",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 88
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 806813091,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Q34y1d764",
+                "cid": 17803560,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107674,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107674",
+                "long_title": "Call my name",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第6话 Call my name",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107674",
+                "short_link": "https://b23.tv/ep107674",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 118
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 549283846,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kq4y1u7pH",
+                "cid": 17803552,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107675,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107675",
+                "long_title": "Wild Waltz",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第7话 Wild Waltz",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107675",
+                "short_link": "https://b23.tv/ep107675",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 182,
+                        "start": 113
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 379369914,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vf4y1K7TW",
+                "cid": 17803553,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107676,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107676",
+                "long_title": "避雨",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第8话 避雨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107676",
+                "short_link": "https://b23.tv/ep107676",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 111
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 764374316,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kr4y1k76H",
+                "cid": 17803554,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107677,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107677",
+                "long_title": "雨之公国",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第9话 雨之公国",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107677",
+                "short_link": "https://b23.tv/ep107677",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 96
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 634299180,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15b4y1b7mJ",
+                "cid": 17803555,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107678,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107678",
+                "long_title": "正确的国家",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第10话 正确的国家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107678",
+                "short_link": "https://b23.tv/ep107678",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 161,
+                        "start": 92
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 934254565,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bT4y1R7u1",
+                "cid": 17803556,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107679,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107679",
+                "long_title": "呼啸而去的风",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第11话 呼啸而去的风",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107679",
+                "short_link": "https://b23.tv/ep107679",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 240,
+                        "start": 169
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 634309368,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kb4y1b7yV",
+                "cid": 17803561,
+                "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 107680,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep107680",
+                "long_title": "归来",
+                "pub_time": 1495793200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《尽管如此世界依然美丽》第12话 归来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep107680",
+                "short_link": "https://b23.tv/ep107680",
+                "skip": {
+                    "ed": {
+                        "end": 1316,
+                        "start": 1254
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1408.4万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "雨之国的公主妮可，拥有一种特殊的能力-控制降雨，性格好胜。她在输掉和姐姐的剪刀石头布后被迫嫁给了晴之国Livius。Livius在三年内征服了世界，被世人称为恐怖之王。然而，当妮可第一次遇见Liveius时惊奇的发现，Livius是一位比自己还小的少年。妮可和Livius从最开始的形式上的夫妻，共同走到最后心灵相通。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4152/",
+        "media_id": 4152,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 107680,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 21159,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-04-05 00:00:01",
+            "pub_time_show": "2014年4月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6730,
+            "score": 9.5
+        },
+        "record": "登记号：10417060205772310",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4152,
+        "season_title": "尽管如此世界依然美丽",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/be389520c04942d62d5a7d0c0ba9e9c655bb2363.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4152,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/ae36fadb0c6509d5a31965638c717cf864a43db3.jpg",
+                    "id": 107680,
+                    "index_show": "全12话"
+                },
+                "season_id": 4152,
+                "season_title": "TV版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 963912,
+                    "series_follow": 963912,
+                    "views": 14083920
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2369,
+            "series_title": "尽管如此世界依然美丽"
+        },
+        "share_copy": "《尽管如此世界依然美丽》用雨水滋润干涸的心",
+        "share_sub_title": "用雨水滋润干涸的心",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4152",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/bdbfcdeb6e800a96e34ce10af2730607f34e4beb.jpg",
+        "stat": {
+            "coins": 51603,
+            "danmakus": 407733,
+            "favorite": 14580,
+            "favorites": 963912,
+            "likes": 73412,
+            "reply": 12386,
+            "share": 12882,
+            "views": 14083920
+        },
+        "status": 2,
+        "subtitle": "已观看1408.4万次",
+        "title": "尽管如此世界依然美丽",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "cover": "http://i0.hdslb.com/bfs/bangumi/2ca10857cb220c589c3f55ee9fd52fe0903a9d5c.png",
+            "head_bg_url": "",
+            "id": 69,
+            "link": "",
+            "pendants": [
+                {
+                    "image": "http://i0.hdslb.com/bfs/face/be7e2e3d36e89b93d72d8127a346c442100556a4.png",
+                    "name": "远坂凛",
+                    "pid": 64
+                }
+            ],
+            "title": "FSN UBW"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/1cfc53c179f64af499c63166284077d5d2f27b69.jpg",
+        "episodes": [
+            {
+                "aid": 3064657,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss41127zK",
+                "cid": 4812247,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8fac6d6aa712227d2dcde17abc575d3930b8c855.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 583000,
+                "from": "bangumi",
+                "id": 73965,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep73965",
+                "long_title": "sunny day",
+                "pub_time": 1444925348,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 特典》第1话 sunny day",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep73965",
+                "short_link": "https://b23.tv/ep73965",
+                "skip": {
+                    "ed": {
+                        "end": 583,
+                        "start": 459
+                    },
+                    "op": {
+                        "end": 11,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1384万次",
+                "title": "1",
+                "vid": "vupload_4812247"
+            }
+        ],
+        "evaluate": "Fate⁄stay Night Unlimited Blade Works BD-BOXII未放送特典[sunny day] 有别于动画的True End 的另一个结局。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2843/",
+        "media_id": 2843,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 73965,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 19573,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-07 00:00:00",
+            "pub_time_show": "2015年10月07日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 4931,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2843,
+        "season_title": "Fate/stay night [Unlimited Blade Works] 特典",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e67e09c9e48a32371a81100e0f65a61b18aabb24.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1586,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/25e9da6dd71e4aaa23a7dc04b6f97a94ea1ddd9d.jpg",
+                    "id": 29129,
+                    "index_show": "全13话"
+                },
+                "season_id": 1586,
+                "season_title": "UBW第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4655794,
+                    "series_follow": 6123112,
+                    "views": 191376654
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1a70dca34c06545c36d7e5f29155c8c8817e36e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1587,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6488933b75122a79f2c2c211d38f20c7017527d8.jpg",
+                    "id": 63732,
+                    "index_show": "全13话"
+                },
+                "season_id": 1587,
+                "season_title": "UBW第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3080449,
+                    "series_follow": 6123112,
+                    "views": 160057868
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1cfc53c179f64af499c63166284077d5d2f27b69.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2843,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8fac6d6aa712227d2dcde17abc575d3930b8c855.jpg",
+                    "id": 73965,
+                    "index_show": "全1话"
+                },
+                "season_id": 2843,
+                "season_title": "UBW SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1129049,
+                    "series_follow": 6123112,
+                    "views": 13840435
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8cb95a71ddd461bcd31cbb75b6c1449570fd24ff.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/f23d15932c45bb9da0a3f52b8130483179d736ab.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/4cd3c274272ead20fb669d486d272e1fa70fef09.png",
+                "media_id": 19011368,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/60b83dd7391aec49d399aed511b8badceac3261e.jpg",
+                    "id": 264972,
+                    "index_show": "2019-01-11上映"
+                },
+                "season_id": 26703,
+                "season_title": "HF",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 1709247,
+                    "series_follow": 6123112,
+                    "views": 35029422
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4de96771bc75627711470bf0864dda9c3e950bbc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/b5cbded71b7e6ba880b99fa38ecee4090368bfbd.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/0909218926a39c4b5d6707ebbd70eca22888cd25.png",
+                "media_id": 28222114,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/873057df52b7ceeaffb7a1d6f119e7d04785519c.jpg",
+                    "id": 282467,
+                    "index_show": "2019-07-12上映"
+                },
+                "season_id": 28332,
+                "season_title": "HFII",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 4241247,
+                    "series_follow": 6123112,
+                    "views": 24335190
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1113d844ad3a9b42af576d80142146cbecc1b7ff.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 120732,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e3993240914c3d881d97e4527a52efa2a9dcdeaf.jpg",
+                    "id": 239630,
+                    "index_show": "全24话"
+                },
+                "season_id": 25210,
+                "season_title": "FATE TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1521053,
+                    "series_follow": 6123112,
+                    "views": 35007188
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b7ee578ff3c258f173587db3f687fa2d56e3b8c1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223622,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ae6fcc22f6c627a899bfe2d736765cc83cd4e827.png",
+                    "id": 292341,
+                    "index_show": "全1话"
+                },
+                "season_id": 29006,
+                "season_title": "UBW 剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 853635,
+                    "series_follow": 6123112,
+                    "views": 5713438
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1088,
+            "series_title": "Fate/stay night"
+        },
+        "share_copy": "《Fate/stay night [Unlimited Blade Works] 特典》阳光灿烂的日子",
+        "share_sub_title": "阳光灿烂的日子",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2843",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d8bc4f62ea06760f36a789da3ec3651d99e6ed9e.jpg",
+        "stat": {
+            "coins": 41145,
+            "danmakus": 125709,
+            "favorite": 3020,
+            "favorites": 1129049,
+            "likes": 34160,
+            "reply": 11317,
+            "share": 12651,
+            "views": 13840435
+        },
+        "status": 2,
+        "subtitle": "已观看1384万次",
+        "title": "Fate/stay night [Unlimited Blade Works] 特典",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

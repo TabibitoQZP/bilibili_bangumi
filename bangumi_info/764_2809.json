@@ -1,0 +1,286 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/395937e084d9a260702062ff02a3e8a088d0c54e.jpg",
+        "episodes": [
+            {
+                "aid": 48727140,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fb411u7CL",
+                "cid": 85330136,
+                "cover": "http://i0.hdslb.com/bfs/archive/0b4b6cec545dd9814f57da0ebed3254eb0f7fcb1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 9790000,
+                "from": "bangumi",
+                "id": 71827,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep71827?theme=movie",
+                "long_title": "凉宫春日的消失",
+                "pub_time": 1555128000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的消失》第1话 凉宫春日的消失",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep71827",
+                "short_link": "https://b23.tv/ep71827",
+                "skip": {
+                    "ed": {
+                        "end": 9730,
+                        "start": 9457
+                    },
+                    "op": {
+                        "end": 78,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看300.4万次",
+                "title": "1",
+                "vid": "vupload_4750205"
+            }
+        ],
+        "evaluate": "圣诞节即将来临，SOS团火锅派对的活动拍板以后，阿虚就带着烦恼回家。第二天，阿虚如常上学，但他很快注意到，学校发生了与平日完全不同的事。应该在后面的座位的凉宫春日不在，却换上了理应让长门有希消灭了的朝仓凉子；不仅是这样，全世界也都变了……。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2809/",
+        "media_id": 2809,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 71827,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19713,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2010-02-06 00:00:00",
+            "pub_time_show": "2010年02月06日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 16168,
+            "score": 9.9
+        },
+        "record": "登记号：10417060207182611",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2809,
+        "season_title": "凉宫春日的消失",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e7950f21042cade73ed4282d988d131769c98d5d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 24120616,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6fd2c7e77525f71587907a0d282e1b23a0983aa5.jpg",
+                    "id": 18942,
+                    "index_show": "全28话"
+                },
+                "season_id": 1057,
+                "season_title": "2009版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1130635,
+                    "series_follow": 1514859,
+                    "views": 17556730
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fbeae585bcd440607bbe7671d98ded1edcba16b2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1056,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                    "id": 18914,
+                    "index_show": "全14话"
+                },
+                "season_id": 1056,
+                "season_title": "2006版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 559210,
+                    "series_follow": 1514859,
+                    "views": 4538834
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/395937e084d9a260702062ff02a3e8a088d0c54e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2809,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0b4b6cec545dd9814f57da0ebed3254eb0f7fcb1.png",
+                    "id": 71827,
+                    "index_show": "全1话"
+                },
+                "season_id": 2809,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 583686,
+                    "series_follow": 1514859,
+                    "views": 3003965
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/649c562820255ec4fd7d166ae164c86b99b49947.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4735,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8c4b24a768cf94186750743ed98823ab4385476d.jpg",
+                    "id": 89657,
+                    "index_show": "全25话"
+                },
+                "season_id": 4735,
+                "season_title": "小凉宫",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 227472,
+                    "series_follow": 1514859,
+                    "views": 3444930
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 685,
+            "series_title": "凉宫春日的忧郁"
+        },
+        "share_copy": "《凉宫春日的消失》逐渐异化的日常",
+        "share_sub_title": "逐渐异化的日常",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2809",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/31d5acc62a0094d200e1ab173d768a86c6af06f8.jpg",
+        "stat": {
+            "coins": 46134,
+            "danmakus": 71643,
+            "favorite": 4746,
+            "favorites": 583686,
+            "likes": 35217,
+            "reply": 7115,
+            "share": 5815,
+            "views": 3003965
+        },
+        "status": 13,
+        "subtitle": "已观看300.4万次",
+        "title": "凉宫春日的消失",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/654466a6f0cf9aa9b73b800da152a460bfabbb89.jpg",
+        "episodes": [
+            {
+                "aid": 1358922,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411N7wB",
+                "cid": 95274040,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/524dc32c5a5ffdc422803c6b8aa4d538fb79c547.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65400,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65400",
+                "long_title": "高中生活的开端是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第1话 高中生活的开端是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65400",
+                "short_link": "https://b23.tv/ep65400",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 123,
+                        "start": 34
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5954.2万次",
+                "title": "1",
+                "vid": "vupload_2056006"
+            },
+            {
+                "aid": 421803989,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1h3411t74g",
+                "cid": 95274157,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f6e9da6d2c59e8613b95a9136832e777ffad49c3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65401,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65401",
+                "long_title": "新社团的成立是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第2话 新社团的成立是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65401",
+                "short_link": "https://b23.tv/ep65401",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "2",
+                "vid": "vupload_2056007"
+            },
+            {
+                "aid": 976816562,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1g44y1Y748",
+                "cid": 95274286,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/49a58689fc246249f43cc75299aad8ba148daaef.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65402,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65402",
+                "long_title": "青梅竹马的眼泪是修罗场",
+                "pub_time": 1406892060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第3话 青梅竹马的眼泪是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65402",
+                "short_link": "https://b23.tv/ep65402",
+                "skip": {
+                    "ed": {
+                        "end": 1392,
+                        "start": 1303
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "3",
+                "vid": "vupload_2056008"
+            },
+            {
+                "aid": 806790407,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1d34y1d7Zn",
+                "cid": 95274495,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/212024c821d20cccdc861a421a3d8d17b7d3d2af.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425470,
+                "from": "bangumi",
+                "id": 65403,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65403",
+                "long_title": "男人的战斗是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第4话 男人的战斗是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65403",
+                "short_link": "https://b23.tv/ep65403",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "4",
+                "vid": "vupload_2056009"
+            },
+            {
+                "aid": 934258089,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18T4y1R754",
+                "cid": 95274668,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fecbe67b2ec78785ba5dcc16718cbce60ae093c2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425512,
+                "from": "bangumi",
+                "id": 65404,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65404",
+                "long_title": "情书的真相是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第5话 情书的真相是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65404",
+                "short_link": "https://b23.tv/ep65404",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "5",
+                "vid": "vupload_2056010"
+            },
+            {
+                "aid": 976811260,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1f44y1a7kc",
+                "cid": 95274811,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/54854b24b1412e88ad3a6d1d753cfcff17c7994e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65405,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65405",
+                "long_title": "将灰色世界一切为二的修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第6话 将灰色世界一切为二的修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65405",
+                "short_link": "https://b23.tv/ep65405",
+                "skip": {
+                    "ed": {
+                        "end": 1362,
+                        "start": 1273
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "6",
+                "vid": "vupload_13880953"
+            },
+            {
+                "aid": 379280167,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jf4y1M7BC",
+                "cid": 95275000,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1940f3387443f7e387205d44aeb83f3bfe60b5d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425470,
+                "from": "bangumi",
+                "id": 65406,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65406",
+                "long_title": "明明是暑期讲习却是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第7话 明明是暑期讲习却是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65406",
+                "short_link": "https://b23.tv/ep65406",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "7",
+                "vid": "vupload_2056012"
+            },
+            {
+                "aid": 294273410,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aF411h7d7",
+                "cid": 95275100,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5c4ce96903350d313395817b3ffc21e5f775c329.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425470,
+                "from": "bangumi",
+                "id": 65407,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65407",
+                "long_title": "电影院双重约会是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第8话 电影院双重约会是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65407",
+                "short_link": "https://b23.tv/ep65407",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "8",
+                "vid": "vupload_2056013"
+            },
+            {
+                "aid": 464258512,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CL411T7fD",
+                "cid": 95275245,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0444521cb920f860f4345fdfd64a126b8a798935.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425427,
+                "from": "bangumi",
+                "id": 65408,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65408",
+                "long_title": "想起来的约定是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第9话 想起来的约定是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65408",
+                "short_link": "https://b23.tv/ep65408",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "9",
+                "vid": "vupload_2056014"
+            },
+            {
+                "aid": 591826065,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Uq4y167P5",
+                "cid": 95275503,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/243afc1aa41f475a2789c42fe496eea8502e0209.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65409,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65409",
+                "long_title": "暑期集训的会议是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第10话 暑期集训的会议是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65409",
+                "short_link": "https://b23.tv/ep65409",
+                "skip": {
+                    "ed": {
+                        "end": 1325,
+                        "start": 1236
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "10",
+                "vid": "vupload_13881036"
+            },
+            {
+                "aid": 251788518,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1DY411x7L3",
+                "cid": 95275770,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6e1ebb46309ea11ce7364907e0b9cd2e02759ef9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425427,
+                "from": "bangumi",
+                "id": 65410,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65410",
+                "long_title": "集训前夜的欢欣雀跃是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第11话 集训前夜的欢欣雀跃是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65410",
+                "short_link": "https://b23.tv/ep65410",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "11",
+                "vid": "vupload_2056016"
+            },
+            {
+                "aid": 421857878,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV123411t7dH",
+                "cid": 95276022,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ddcce0b7e763edff0d20e4df3441e5c80a2dc16e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 65411,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65411",
+                "long_title": "计谋的结局是修罗场",
+                "pub_time": 1406892081,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第12话 计谋的结局是修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65411",
+                "short_link": "https://b23.tv/ep65411",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "12",
+                "vid": "vupload_2056017"
+            },
+            {
+                "aid": 806785767,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1d34y1d7Nw",
+                "cid": 95276197,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3286632d0fa7c26bb5b4acf056a6cfe626d6bc39.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 65412,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65412",
+                "long_title": "通往新世界的修罗场",
+                "pub_time": 1406892060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我女友与青梅竹马的惨烈修罗场》第13话 通往新世界的修罗场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65412",
+                "short_link": "https://b23.tv/ep65412",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 4,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5954.2万次",
+                "title": "13",
+                "vid": "vupload_13881168"
+            }
+        ],
+        "evaluate": "主人公季堂锐太是个成绩优秀的高中一年级学生，同时也是个恋爱反对派。本来是和像自己妹妹一般的青梅竹马一起过着普通的高中生活的，但某天却被校内公认的第一美人，归国子女夏川真凉表白了。然而真凉的真实意图却是为了骗过众人而需要锐太与她假扮情侣。被真凉掌握了自己的某个“秘密”的锐太被迫假扮“男友”这一角色……之后“前女友”姬香、“未婚妻”爱衣也加了进来，围绕锐太的壮烈修罗场就此拉开帷幕！\n\n裕时悠示所作的轻小说，插画作者是るろお。SOFTBANK Creative旗下GA文库系列出版发行，至2011年6月销售量已突破10万本。于2012年7月6日宣布动画化，动画由A-1 Pictures制作，2013年1月放送。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2667/",
+        "media_id": 2667,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 65412,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19603,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-01-05 00:00:00",
+            "pub_time_show": "2013年01月05日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 24066,
+            "score": 8.9
+        },
+        "record": "登记号：10417060210542712",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2667,
+        "season_title": "我女友与青梅竹马的惨烈修罗场",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/654466a6f0cf9aa9b73b800da152a460bfabbb89.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2667,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3286632d0fa7c26bb5b4acf056a6cfe626d6bc39.jpg",
+                    "id": 65412,
+                    "index_show": "全13话"
+                },
+                "season_id": 2667,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2755502,
+                    "series_follow": 2755503,
+                    "views": 59541624
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1821,
+            "series_title": "我女友与青梅竹马的惨烈修罗场"
+        },
+        "share_copy": "《我女友与青梅竹马的惨烈修罗场》愿称之为最惨修罗场",
+        "share_sub_title": "愿称之为最惨修罗场",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2667",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/bda51ce070faf4a62107f8970b931e85379f42e9.jpg",
+        "stat": {
+            "coins": 427663,
+            "danmakus": 5981647,
+            "favorite": 31926,
+            "favorites": 2755502,
+            "likes": 253417,
+            "reply": 60613,
+            "share": 53783,
+            "views": 59541624
+        },
+        "status": 13,
+        "subtitle": "已观看5954.2万次",
+        "title": "我女友与青梅竹马的惨烈修罗场",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,810 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/6552ace405ebb1f42fadac06be61d0961dabbd0a.jpg",
+        "episodes": [
+            {
+                "aid": 331961343,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kA411K7YF",
+                "cid": 313183849,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2919000,
+                "from": "bangumi",
+                "id": 397238,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397238",
+                "long_title": "",
+                "pub_time": 1617078660,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第00话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397238",
+                "short_link": "https://b23.tv/ep397238",
+                "skip": {
+                    "ed": {
+                        "end": 2870,
+                        "start": 2682
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看57.3万次",
+                "title": "00",
+                "vid": ""
+            },
+            {
+                "aid": 801978862,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qy4y177mc",
+                "cid": 305651952,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d73497970e2f7c42e0abe4e9602f3946dbd9b036.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15591,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15591",
+                "long_title": "舞会之杀人事件",
+                "pub_time": 1617078720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第1话 舞会之杀人事件",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15591",
+                "short_link": "https://b23.tv/ep15591",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1290
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 23
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "1",
+                "vid": "62966464"
+            },
+            {
+                "aid": 886892367,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AK4y1J7Kn",
+                "cid": 305652105,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b4f15569c9cc5f322ba13bd5916dfd55e3cd0d58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15590,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15590",
+                "long_title": "无情之歌",
+                "pub_time": 1617078720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第2话 无情之歌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15590",
+                "short_link": "https://b23.tv/ep15590",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "2",
+                "vid": "63478798"
+            },
+            {
+                "aid": 844391806,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1854y1h7T3",
+                "cid": 305652502,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/342e55c070fbad157d82e0d9a63b8ff208d7232a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15589,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15589",
+                "long_title": "面罩公馆",
+                "pub_time": 1617078812,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第3话 面罩公馆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15589",
+                "short_link": "https://b23.tv/ep15589",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "3",
+                "vid": "64024288"
+            },
+            {
+                "aid": 971899036,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jp4y1H7m6",
+                "cid": 313184233,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3833a7ca1aef039fb1c009a96abb01060c4b3a28.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15588,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15588",
+                "long_title": "本色之家",
+                "pub_time": 1617078836,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第4话 本色之家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15588",
+                "short_link": "https://b23.tv/ep15588",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "4",
+                "vid": "64524150"
+            },
+            {
+                "aid": 459475294,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1j5411K7b8",
+                "cid": 305652943,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f99afcf97ba0c195e2ab7b35356d90ee2b32bf4b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15587,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15587",
+                "long_title": "幻想",
+                "pub_time": 1617078867,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第5话 幻想",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15587",
+                "short_link": "https://b23.tv/ep15587",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "5",
+                "vid": "65038446"
+            },
+            {
+                "aid": 246997185,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sv411h7Sg",
+                "cid": 305653094,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3844af9c3304d035e44fea6411f1f7939e37413a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15586,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15586",
+                "long_title": "非常简单的暗号",
+                "pub_time": 1617078902,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第6话 非常简单的暗号",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15586",
+                "short_link": "https://b23.tv/ep15586",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "6",
+                "vid": "65538128"
+            },
+            {
+                "aid": 629467221,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zb4y1X71z",
+                "cid": 313184459,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15585,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15585",
+                "long_title": "白日梦",
+                "pub_time": 1617078932,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第7话 白日梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15585",
+                "short_link": "https://b23.tv/ep15585",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "7",
+                "vid": "66723504"
+            },
+            {
+                "aid": 459387138,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1D5411N7YV",
+                "cid": 313668769,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15584,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15584",
+                "long_title": "乐园之王",
+                "pub_time": 1617078965,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第8话 乐园之王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15584",
+                "short_link": "https://b23.tv/ep15584",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "8",
+                "vid": "67181141"
+            },
+            {
+                "aid": 501889683,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pN41197U4",
+                "cid": 305653894,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15583,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15583",
+                "long_title": "海胜麟六的犯罪",
+                "pub_time": 1617079006,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第9话 海胜麟六的犯罪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15583",
+                "short_link": "https://b23.tv/ep15583",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "9",
+                "vid": "67631787"
+            },
+            {
+                "aid": 971943911,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ap4y1H7jZ",
+                "cid": 305654124,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1403000,
+                "from": "bangumi",
+                "id": 15582,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15582",
+                "long_title": "海胜麟六的送葬",
+                "pub_time": 1617079040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第10话 海胜麟六的送葬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15582",
+                "short_link": "https://b23.tv/ep15582",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 88,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "10",
+                "vid": "68064176"
+            },
+            {
+                "aid": 374454470,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NZ4y1P7Su",
+                "cid": 305654342,
+                "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 15581,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15581",
+                "long_title": "我只是在探寻着",
+                "pub_time": 1617079020,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《UN-GO 因果论》第11话 我只是在探寻着",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15581",
+                "short_link": "https://b23.tv/ep15581",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 52
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看57.3万次",
+                "title": "11",
+                "vid": "68487377"
+            }
+        ],
+        "evaluate": "故事讲述了被人称为最后的名侦探结城新十郎，与他的拍档因果，组成了要解明这世上之谜及真实的侦探二人组合。在面对常理不能解释的谜题或案件时，凭着新十郎的推理及因果的协力，这些难题往往也会迎刃而解。但是，当新十郎对案件越发思考之时，他便发现某些地方的不对劲，并随着他的深入了解，他和因果更渐渐与某件大事件扯上关系。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md869/",
+        "media_id": 869,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 15581,
+            "is_new": 0,
+            "title": "11"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17903,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-10-13 00:00:00",
+            "pub_time_show": "2011年10月13日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1406,
+            "score": 9.5
+        },
+        "record": "登记号：10417060202562511",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 869,
+        "season_title": "UN-GO 因果论",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6552ace405ebb1f42fadac06be61d0961dabbd0a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 869,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6207cfd10929980ed3c375a3b97d1a729c5ad16b.png",
+                    "id": 15581,
+                    "index_show": "全12话"
+                },
+                "season_id": 869,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 272476,
+                    "series_follow": 288738,
+                    "views": 572919
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6552ace405ebb1f42fadac06be61d0961dabbd0a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 870,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/dd04967e2da9e5f3243f696a573dd350cd0b0152.jpg",
+                    "id": 32384,
+                    "index_show": "全10话"
+                },
+                "season_id": 870,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 18274,
+                    "series_follow": 288738,
+                    "views": 342299
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6552ace405ebb1f42fadac06be61d0961dabbd0a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 871,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/68ddf450b9b697f127d59b15913d98f0d47df8b3.jpg",
+                    "id": 15595,
+                    "index_show": "全1话"
+                },
+                "season_id": 871,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 45554,
+                    "series_follow": 288738,
+                    "views": 424895
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 553,
+            "series_title": "UN-GO"
+        },
+        "share_copy": "《UN-GO 因果论》骨头社侦探动画",
+        "share_sub_title": "骨头社侦探动画",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss869",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/296551359ca75a2b822177188794827e54e25095.jpg",
+        "stat": {
+            "coins": 2706,
+            "danmakus": 3214,
+            "favorite": 796,
+            "favorites": 272476,
+            "likes": 11387,
+            "reply": 1146,
+            "share": 2909,
+            "views": 572919
+        },
+        "status": 13,
+        "subtitle": "已观看57.3万次",
+        "title": "UN-GO 因果论",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

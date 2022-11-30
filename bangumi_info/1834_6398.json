@@ -1,0 +1,294 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/eed07efca3c4177a9900f5e7f9c392e4275bea59.jpg",
+        "episodes": [
+            {
+                "aid": 13569712,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV19x411J78c",
+                "cid": 22209793,
+                "cover": "http://i2.hdslb.com/bfs/archive/f55a7ebd0c29764c5f10929066dcaeee569232d7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 114126,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep114126",
+                "long_title": "来玩吧！",
+                "pub_time": 1503158401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《BanG Dream! OVA》第1话 来玩吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep114126",
+                "short_link": "https://b23.tv/ep114126",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 195,
+                        "start": 105
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看101.9万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作为TV动画《BanG Dream!》的完全新作OVA，标题为「来玩吧！」，除了有Poppin'Party的成员外，Roselia的成员也将登场，并进行激烈的沙滩排球比赛。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6398/",
+        "media_id": 6398,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 114126,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 23385,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-08-20 00:00:00",
+            "pub_time_show": "2017年08月20日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 921,
+            "score": 9.3
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6398,
+        "season_title": "BanG Dream! OVA",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eed07efca3c4177a9900f5e7f9c392e4275bea59.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5807,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/fe3260396bf3d160249a9937ae971827b685c83a.jpg",
+                    "id": 104260,
+                    "index_show": "全13话"
+                },
+                "season_id": 5807,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 600643,
+                    "series_follow": 798966,
+                    "views": 11047384
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eed07efca3c4177a9900f5e7f9c392e4275bea59.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6398,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/f55a7ebd0c29764c5f10929066dcaeee569232d7.jpg",
+                    "id": 114126,
+                    "index_show": "全1话"
+                },
+                "season_id": 6398,
+                "season_title": "第一季（OVA）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 76402,
+                    "series_follow": 798966,
+                    "views": 1019098
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f872b7d98f6bd4ca0ac20166f39392f8f8ec297d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4762002,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5d89a0f261dfd6ed276a446f9d1577403de7f4b0.jpg",
+                    "id": 265614,
+                    "index_show": "全13话"
+                },
+                "season_id": 26305,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 268661,
+                    "series_follow": 798966,
+                    "views": 8518560
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9e5bd6bd1c2c8b53f75fe42d107ef38e1c3ec6cc.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224078,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e02cabbd12ac46f024f703f19d044d3d0e058a6f.jpg",
+                    "id": 318705,
+                    "index_show": "全13话"
+                },
+                "season_id": 29308,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 524304,
+                    "series_follow": 798966,
+                    "views": 6147981
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5725e70ad1e7562528f5504c2ee956237fc6410f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28227003,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/94ee8e46655fbe1192934989e67353c3be7afa54.jpg",
+                    "id": 307864,
+                    "index_show": "全1话"
+                },
+                "season_id": 31861,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 474449,
+                    "series_follow": 798966,
+                    "views": 1203600
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3488,
+            "series_title": "BanG Dream!"
+        },
+        "share_copy": "《BanG Dream! OVA》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6398",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b892b88bcc3240650d13a7ab3e7741e69fd96c5c.jpg",
+        "stat": {
+            "coins": 4307,
+            "danmakus": 10555,
+            "favorite": 494,
+            "favorites": 76402,
+            "likes": 4612,
+            "reply": 946,
+            "share": 515,
+            "views": 1019098
+        },
+        "status": 2,
+        "subtitle": "已观看101.9万次",
+        "title": "BanG Dream! OVA",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

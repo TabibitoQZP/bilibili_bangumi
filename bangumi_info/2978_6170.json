@@ -1,0 +1,420 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/901709abf464c406b40ba3b99af84e4b1df02537.jpg",
+        "episodes": [
+            {
+                "aid": 10543296,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ux411e7j6",
+                "cid": 17407611,
+                "cover": "http://i2.hdslb.com/bfs/archive/5db002a2c4547c34eef3b6d89b9a61e673e093ba.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 210000,
+                "from": "bangumi",
+                "id": 106417,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep106417",
+                "long_title": "",
+                "pub_time": 1494728515,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《兔龟 女高网球部外传 SP》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep106417",
+                "short_link": "https://b23.tv/ep106417",
+                "skip": {
+                    "ed": {
+                        "end": 210,
+                        "start": 170
+                    },
+                    "op": {
+                        "end": 67,
+                        "start": 18
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看6.9万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "兔龟高中网球部所属的4位少女，田中纪奈子、铃木绫子、佐藤胡桃、西新井大师西追求着各自梦想与憧憬的青春群像剧之类的东西，在此开幕！\n高昂喜剧《女高网球部》的官方对手《兔龟》描绘了勤于社团活动的少女们平凡而有些奇怪的日常。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6170/",
+        "media_id": 6170,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 106417,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 23072,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-08-26 00:00:01",
+            "pub_time_show": "2016年8月26日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6170,
+        "season_title": "兔龟 女高网球部外传 SP",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4c2d12405e0d7e465098d001837633316f8a4f32.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 18,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/914a4c857f9e4ea40db98157998febe7f5570196.jpg",
+                    "id": 104,
+                    "index_show": "全12话"
+                },
+                "season_id": 18,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33450,
+                    "series_follow": 205005,
+                    "views": 1777344
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/476460b97e5c2b73759f151b2e82944d8ef79aef.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 19,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/89ec5f8dcba39596881cd056bf7807e4c6c0f4c6.jpg",
+                    "id": 116,
+                    "index_show": "全12话"
+                },
+                "season_id": 19,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 24630,
+                    "series_follow": 205005,
+                    "views": 1495951
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/393f610dc2736980efb559bcc352db33ebba3e6f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2604,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0eaab0c89f9127e8f159652416a9e4341f274871.jpg",
+                    "id": 69176,
+                    "index_show": "全12话"
+                },
+                "season_id": 2604,
+                "season_title": "第五季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 25803,
+                    "series_follow": 205005,
+                    "views": 1235637
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1e8c9ea5069fde0294848086fc539f6b702ef824.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2792,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/709fa1d699fcbe6fcf23eed4bb5c46aebb0c8c6a.jpg",
+                    "id": 81847,
+                    "index_show": "全12话"
+                },
+                "season_id": 2792,
+                "season_title": "第六季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 30361,
+                    "series_follow": 205005,
+                    "views": 1225202
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7be97dca874ff1aa38e1ca9badcaf0dc92e54082.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3234,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/15df16a8ed46a916097f741f1d2bfa482c197826.jpg",
+                    "id": 85608,
+                    "index_show": "全12话"
+                },
+                "season_id": 3234,
+                "season_title": "第七季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33217,
+                    "series_follow": 205005,
+                    "views": 1348484
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eecc67dc1f1c1fecbb299ae2c450f337dcf0fcdb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5561,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/215548da8059191eba481bbf34e661f013ac2f4b.jpg",
+                    "id": 96344,
+                    "index_show": "全12话"
+                },
+                "season_id": 5561,
+                "season_title": "第八季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 55362,
+                    "series_follow": 205005,
+                    "views": 1085409
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e359a61e839240cfac77d8a7ed012e91b3a39904.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3457,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e38c49a6ba8958123bf0f128bf4153e95742c37c.jpg",
+                    "id": 89007,
+                    "index_show": "全12话"
+                },
+                "season_id": 3457,
+                "season_title": "兔龟",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 47768,
+                    "series_follow": 205005,
+                    "views": 790146
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/901709abf464c406b40ba3b99af84e4b1df02537.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6170,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/5db002a2c4547c34eef3b6d89b9a61e673e093ba.jpg",
+                    "id": 106417,
+                    "index_show": "全1话"
+                },
+                "season_id": 6170,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8344,
+                    "series_follow": 205005,
+                    "views": 68710
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/71630610c1ae5e747adcc67ac5071ce24df95b53.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6337,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/e7c22c8e488a241a6f00b0f6a3e144995207f018.jpg",
+                    "id": 113562,
+                    "index_show": "全12话"
+                },
+                "season_id": 6337,
+                "season_title": "第九季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 51173,
+                    "series_follow": 205005,
+                    "views": 1392337
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2ed29f9cb1508322395ba79ecfdb07250b340267.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 17,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a5573d6d1b1284d5c8b27d1a218cbe976a629d9f.jpg",
+                    "id": 92,
+                    "index_show": "全12话"
+                },
+                "season_id": 17,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 87725,
+                    "series_follow": 205005,
+                    "views": 1755053
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 17,
+            "series_title": "网球并不可笑嘛"
+        },
+        "share_copy": "《兔龟 女高网球部外传 SP》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6170",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8b365f09402361607a398d9e2a2057c75b8bb9fc.jpg",
+        "stat": {
+            "coins": 151,
+            "danmakus": 99,
+            "favorite": 34,
+            "favorites": 8344,
+            "likes": 221,
+            "reply": 101,
+            "share": 12,
+            "views": 68710
+        },
+        "status": 2,
+        "subtitle": "已观看6.9万次",
+        "title": "兔龟 女高网球部外传 SP",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,766 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/0ff8c4530794320466c227b3c957e8851483cccd.jpg",
+        "episodes": [
+            {
+                "aid": 21853276,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1VW411K7Df",
+                "cid": 36069888,
+                "cover": "http://i0.hdslb.com/bfs/archive/69a481a406e2e000d9353839c7d931ab9eb660d6.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1485096,
+                "from": "bangumi",
+                "id": 200482,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200482",
+                "long_title": "被选中的手",
+                "pub_time": 1523212800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第1话 被选中的手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200482",
+                "short_link": "https://b23.tv/ep200482",
+                "skip": {
+                    "ed": {
+                        "end": 1485,
+                        "start": 1393
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 22136698,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yW411L7zD",
+                "cid": 36609386,
+                "cover": "http://i0.hdslb.com/bfs/archive/c34d41b96597085deab16f6bc4bd05068633a528.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1500000,
+                "from": "bangumi",
+                "id": 200483,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200483",
+                "long_title": "为了弹奏肖邦的曲子",
+                "pub_time": 1523817600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第2话 为了弹奏肖邦的曲子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200483",
+                "short_link": "https://b23.tv/ep200483",
+                "skip": {
+                    "ed": {
+                        "end": 1500,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 35
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 22453014,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1DW41157cL",
+                "cid": 37206231,
+                "cover": "http://i0.hdslb.com/bfs/archive/5c9a50b719c93e7eb8b88eaa01d298635f1aa22a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1500000,
+                "from": "bangumi",
+                "id": 200484,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200484",
+                "long_title": "莫扎特的遗言",
+                "pub_time": 1524422400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第3话 莫扎特的遗言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200484",
+                "short_link": "https://b23.tv/ep200484",
+                "skip": {
+                    "ed": {
+                        "end": 1500,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 31
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 22754902,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kW411V7tX",
+                "cid": 37780385,
+                "cover": "http://i0.hdslb.com/bfs/archive/0ed029c3479979b9367592cb9b042cb2947540ef.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1500000,
+                "from": "bangumi",
+                "id": 200485,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200485",
+                "long_title": "最棒的演奏",
+                "pub_time": 1525027200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第4话 最棒的演奏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200485",
+                "short_link": "https://b23.tv/ep200485",
+                "skip": {
+                    "ed": {
+                        "end": 1500,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 112,
+                        "start": 22
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 23094957,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1up411f76n",
+                "cid": 38417857,
+                "cover": "http://i0.hdslb.com/bfs/archive/d5ed80de39e50ccdeb29633a421c6067894e9044.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1500000,
+                "from": "bangumi",
+                "id": 200486,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200486",
+                "long_title": "大赛的神明",
+                "pub_time": 1525632000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第5话 大赛的神明",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200486",
+                "short_link": "https://b23.tv/ep200486",
+                "skip": {
+                    "ed": {
+                        "end": 1500,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 209,
+                        "start": 119
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 23412346,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15p411Z7CN",
+                "cid": 39029336,
+                "cover": "http://i0.hdslb.com/bfs/archive/44a81840fc152c66e82931ae4672b5e92b225e41.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1500000,
+                "from": "bangumi",
+                "id": 200487,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200487",
+                "long_title": "森林里的钢琴",
+                "pub_time": 1526236800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第6话 森林里的钢琴",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200487",
+                "short_link": "https://b23.tv/ep200487",
+                "skip": {
+                    "ed": {
+                        "end": 1500,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 39
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 23715394,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1op411d7Vt",
+                "cid": 39626866,
+                "cover": "http://i0.hdslb.com/bfs/archive/60d0254502c4b77b60b4214d24af5f823b58ebc0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1502000,
+                "from": "bangumi",
+                "id": 200488,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200488",
+                "long_title": "重逢",
+                "pub_time": 1526841600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第7话 重逢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200488",
+                "short_link": "https://b23.tv/ep200488",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 89
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 24038963,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rp411R7vs",
+                "cid": 40254081,
+                "cover": "http://i0.hdslb.com/bfs/archive/8dc838e9c986389f1935bb58c427ca44db4f51ce.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1502000,
+                "from": "bangumi",
+                "id": 200489,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200489",
+                "long_title": "挑战书",
+                "pub_time": 1527446400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第8话 挑战书",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200489",
+                "short_link": "https://b23.tv/ep200489",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 24349493,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yW411N7UP",
+                "cid": 40859798,
+                "cover": "http://i0.hdslb.com/bfs/archive/3dc26bc3a1bae0197ab31001774e46138d0d6354.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1502000,
+                "from": "bangumi",
+                "id": 200490,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200490",
+                "long_title": "华沙的胎动",
+                "pub_time": 1528051200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第9话 华沙的胎动",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200490",
+                "short_link": "https://b23.tv/ep200490",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 24655516,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1oW411c7iN",
+                "cid": 41447960,
+                "cover": "http://i0.hdslb.com/bfs/archive/08b8be7f788b9fc29509187ec35263b8d6f3c099.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1502000,
+                "from": "bangumi",
+                "id": 200491,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200491",
+                "long_title": "肖邦大赛",
+                "pub_time": 1528656000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第10话 肖邦大赛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200491",
+                "short_link": "https://b23.tv/ep200491",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 49
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 25535637,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411L7Yw",
+                "cid": 43490019,
+                "cover": "http://i0.hdslb.com/bfs/archive/79c240de93cc9448600c2f695d076ead41236258.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1503000,
+                "from": "bangumi",
+                "id": 200492,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200492",
+                "long_title": "波兰的新星",
+                "pub_time": 1529865600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第11话 波兰的新星",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200492",
+                "short_link": "https://b23.tv/ep200492",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 95
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 25973989,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ns411G7pE",
+                "cid": 44486678,
+                "cover": "http://i0.hdslb.com/bfs/archive/c172199c71f0d14d5461a37c54df1568050558c1.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1503000,
+                "from": "bangumi",
+                "id": 200493,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200493",
+                "long_title": "fff（Forte Fortissimo）",
+                "pub_time": 1530470399,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《琴之森》第12话 fff（Forte Fortissimo）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200493",
+                "short_link": "https://b23.tv/ep200493",
+                "skip": {
+                    "ed": {
+                        "end": 1502,
+                        "start": 1394
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 46
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看408万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "一之濑海是一位天才钢琴少年。\n小时候阿海凑巧弹奏一台位于森林的被废弃特殊钢琴，除了阿海以外无人能够奏响这个钢琴，通过这台特殊的钢琴阿海锻炼出了钢琴天赋，其弹奏力道比一般人要强，甚至是可以弹断琴弦。\n而因为钢琴阿海结识了因车祸结束演奏生涯的前天才钢琴师阿字野壮介，阿字野壮介也成为了阿海在钢琴方面的师父，同时阿海也遇到一生的朋友和对手雨宫修平——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md78372/",
+        "media_id": 78372,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 200493,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 33247,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-04-09 02:40:00",
+            "pub_time_show": "2018年04月09日02:40",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1484,
+            "score": 9.5
+        },
+        "record": "登记号：10417060201352610",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 23851,
+        "season_title": "琴之森",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ff8c4530794320466c227b3c957e8851483cccd.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 78372,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c172199c71f0d14d5461a37c54df1568050558c1.jpg",
+                    "id": 200493,
+                    "index_show": "全12话"
+                },
+                "season_id": 23851,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 215493,
+                    "series_follow": 326659,
+                    "views": 4079942
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/efcdc882a4230467befac1840310bd235659f59b.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4315702,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3723411a2373ef2ba0f93bfa3db21082fd7ee4ef.jpg",
+                    "id": 259853,
+                    "index_show": "全12话"
+                },
+                "season_id": 26268,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 86903,
+                    "series_follow": 326659,
+                    "views": 2063462
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2776,
+            "series_title": "钢琴之森"
+        },
+        "share_copy": "《琴之森》唯美治愈系音乐番",
+        "share_sub_title": "唯美治愈系音乐番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss23851",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d2ab1ab416ab3d401c5ead11b66e2e46e0b0cc07.jpg",
+        "stat": {
+            "coins": 11181,
+            "danmakus": 30587,
+            "favorite": 954,
+            "favorites": 215493,
+            "likes": 13500,
+            "reply": 6676,
+            "share": 3082,
+            "views": 4079942
+        },
+        "status": 2,
+        "subtitle": "已观看408万次",
+        "title": "琴之森",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

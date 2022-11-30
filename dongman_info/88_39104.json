@@ -1,0 +1,2113 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1405,
+            "title": "中国动画100年"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/52435240b8c204b10b3d6b74d438b7586db5d32f.png",
+        "episodes": [
+            {
+                "aid": 292983506,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17f4y1n7et",
+                "cid": 405393315,
+                "cover": "http://i0.hdslb.com/bfs/archive/ebb42e3f0ae73678c965e6c8d4cf348240505b50.png",
+                "dimension": {
+                    "height": 808,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 7924000,
+                "from": "bangumi",
+                "id": 419527,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep419527?theme=movie",
+                "long_title": "",
+                "pub_time": 1631239201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《白蛇2：青蛇劫起》执此念 续前缘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep419527",
+                "short_link": "https://b23.tv/ep419527",
+                "status": 13,
+                "subtitle": "已观看2844.3万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "南宋末年，小白为救许仙水漫金山，终被法海压在雷峰塔下。小青则意外被法海打入诡异的修罗城幻境。几次危机中小青被神秘蒙面少年所救，小青带着出去救出小白的执念历经劫难与成长，同蒙面少年一起寻找离开的办法。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234796/",
+        "media_id": 28234796,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2021年7月23日上映",
+            "id": 419527,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 61224,
+            "title": "选集"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-09-10 10:00:00",
+            "pub_time_show": "2021年09月10日10:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 40747,
+            "score": 8.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39104,
+        "season_title": "白蛇2：青蛇劫起",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/52435240b8c204b10b3d6b74d438b7586db5d32f.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/de03393c0d90e57bdbc61c8f574ca56ea8a19e0a.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/4d021652114f0a769df0c02f1a5aca5a5eb01028.png",
+                "media_id": 28234796,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ebb42e3f0ae73678c965e6c8d4cf348240505b50.png",
+                    "id": 419527,
+                    "index_show": "2021-07-23上映"
+                },
+                "season_id": 39104,
+                "season_title": "白蛇2：青蛇劫起",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 1535924,
+                    "series_follow": 1535924,
+                    "views": 28443276
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 333390787,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hA41137Hd",
+                        "cid": 348420426,
+                        "cover": "http://i0.hdslb.com/bfs/archive/adad9d62040e623aa285ced1a16f2128b78fb0b9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 56000,
+                        "from": "bangumi",
+                        "id": 411574,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411574?theme=movie",
+                        "long_title": "定档预告",
+                        "pub_time": 1626086520,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV 定档预告",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411574",
+                        "short_link": "https://b23.tv/ep411574",
+                        "stat": {
+                            "coin": 5915,
+                            "danmakus": 2110,
+                            "likes": 53878,
+                            "play": 3108745,
+                            "reply": 5216
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 803658086,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1oy4y1u733",
+                        "cid": 355453283,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0e05aa824bed0368c40948d12f42126b5dd15b1b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 112000,
+                        "from": "bangumi",
+                        "id": 411576,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411576?theme=movie",
+                        "long_title": "修罗城新设定曝光",
+                        "pub_time": 1626086580,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV2 修罗城新设定曝光",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411576",
+                        "short_link": "https://b23.tv/ep411576",
+                        "stat": {
+                            "coin": 1274,
+                            "danmakus": 1385,
+                            "likes": 15779,
+                            "play": 695269,
+                            "reply": 2394
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 291267612,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14f4y1t7HR",
+                        "cid": 357909667,
+                        "cover": "http://i0.hdslb.com/bfs/archive/a57de92c1ba4de05bc9b15a5b1a8720ec53a59d4.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 35000,
+                        "from": "bangumi",
+                        "id": 411577,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411577?theme=movie",
+                        "long_title": "IMAX预告加倍精彩",
+                        "pub_time": 1626086640,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV3 IMAX预告加倍精彩",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411577",
+                        "short_link": "https://b23.tv/ep411577",
+                        "stat": {
+                            "coin": 428,
+                            "danmakus": 282,
+                            "likes": 8499,
+                            "play": 433550,
+                            "reply": 1070
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 931528949,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1WM4y1M7Aq",
+                        "cid": 366718510,
+                        "cover": "http://i0.hdslb.com/bfs/archive/f1739a945fe33e85597005f13d20400bd79538e3.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 98000,
+                        "from": "bangumi",
+                        "id": 411579,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411579?theme=movie",
+                        "long_title": "“狐说”预告 宝青坊主现真身",
+                        "pub_time": 1626086700,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV4 “狐说”预告 宝青坊主现真身",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411579",
+                        "short_link": "https://b23.tv/ep411579",
+                        "stat": {
+                            "coin": 1407,
+                            "danmakus": 1369,
+                            "likes": 30407,
+                            "play": 1286780,
+                            "reply": 3315
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV4",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 846767184,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1z54y1E7EL",
+                        "cid": 373203787,
+                        "cover": "http://i0.hdslb.com/bfs/archive/769a9200306c6dea54e0dd65ef0fb52cdc292feb.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 110000,
+                        "from": "bangumi",
+                        "id": 413451,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep413451?theme=movie",
+                        "long_title": "终极预告",
+                        "pub_time": 1626758040,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV5 终极预告",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep413451",
+                        "short_link": "https://b23.tv/ep413451",
+                        "stat": {
+                            "coin": 977,
+                            "danmakus": 773,
+                            "likes": 8169,
+                            "play": 513281,
+                            "reply": 1693
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV5",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 932388718,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14M4y1L7yW",
+                        "cid": 392264599,
+                        "cover": "http://i0.hdslb.com/bfs/archive/a01104d2f81b82fc846c61d3efb84903da8de7e7.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 136000,
+                        "from": "bangumi",
+                        "id": 416186,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep416186?theme=movie",
+                        "long_title": "“誓踏修罗城”特别预告",
+                        "pub_time": 1629349260,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》PV6 “誓踏修罗城”特别预告",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep416186",
+                        "short_link": "https://b23.tv/ep416186",
+                        "stat": {
+                            "coin": 162,
+                            "danmakus": 13,
+                            "likes": 1266,
+                            "play": 343021,
+                            "reply": 91
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "PV6",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 631357484,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Yb4y1C7ZW",
+                        "cid": 358816659,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2b18d82b06e88c032f4b5b8b3709cc0f424cfd41.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 222000,
+                        "from": "bangumi",
+                        "id": 411578,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411578?theme=movie",
+                        "long_title": "流光飞舞 - 刘惜君",
+                        "pub_time": 1626086640,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》MV 流光飞舞 - 刘惜君",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411578",
+                        "short_link": "https://b23.tv/ep411578",
+                        "stat": {
+                            "coin": 1467,
+                            "danmakus": 911,
+                            "likes": 12577,
+                            "play": 457142,
+                            "reply": 1587
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "MV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 504190447,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mg411T71G",
+                        "cid": 370186430,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6a2696a57e221cb7482eb98372f819d804eb4956.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 233000,
+                        "from": "bangumi",
+                        "id": 412794,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep412794?theme=movie",
+                        "long_title": "问花 - 周深",
+                        "pub_time": 1626325800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》MV2 问花 - 周深",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep412794",
+                        "short_link": "https://b23.tv/ep412794",
+                        "stat": {
+                            "coin": 4741,
+                            "danmakus": 1247,
+                            "likes": 14543,
+                            "play": 403313,
+                            "reply": 1472
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "MV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 333668273,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ew411f7A1",
+                        "cid": 354984437,
+                        "cover": "http://i0.hdslb.com/bfs/archive/8f7c709aaabf15b1021490b95d30e703aa4ca23f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 36000,
+                        "from": "bangumi",
+                        "id": 411575,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep411575?theme=movie",
+                        "long_title": "动画师们的“戏精”时刻",
+                        "pub_time": 1626086520,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》幕后特辑 动画师们的“戏精”时刻",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep411575",
+                        "short_link": "https://b23.tv/ep411575",
+                        "stat": {
+                            "coin": 319,
+                            "danmakus": 111,
+                            "likes": 5968,
+                            "play": 182360,
+                            "reply": 329
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "幕后特辑",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 206630088,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ph41167MX",
+                        "cid": 370797612,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d8e2dd2daea7c146a05d94a377394aa6b12ffb2a.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 286000,
+                        "from": "bangumi",
+                        "id": 413224,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep413224?theme=movie",
+                        "long_title": "周深、刘惜君畅谈感悟",
+                        "pub_time": 1626410940,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》幕后特辑2 周深、刘惜君畅谈感悟",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep413224",
+                        "short_link": "https://b23.tv/ep413224",
+                        "stat": {
+                            "coin": 512,
+                            "danmakus": 293,
+                            "likes": 2873,
+                            "play": 94065,
+                            "reply": 212
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "幕后特辑2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 334435666,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Hw411R7qN",
+                        "cid": 377379341,
+                        "cover": "http://i0.hdslb.com/bfs/archive/932baf635dd008dd32555317230225b056ecd6b1.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 236000,
+                        "from": "bangumi",
+                        "id": 414095,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep414095?theme=movie",
+                        "long_title": "追光人的“执念”",
+                        "pub_time": 1627359900,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》幕后特辑3 追光人的“执念”",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep414095",
+                        "short_link": "https://b23.tv/ep414095",
+                        "stat": {
+                            "coin": 169,
+                            "danmakus": 86,
+                            "likes": 1277,
+                            "play": 44903,
+                            "reply": 108
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "幕后特辑3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 504378756,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Fg41177PU",
+                        "cid": 377971496,
+                        "cover": "http://i0.hdslb.com/bfs/archive/5919dd51d1d2a67c2a6760b6d72590e2ec3b9cf1.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 47000,
+                        "from": "bangumi",
+                        "id": 414197,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep414197?theme=movie",
+                        "long_title": "黑风洞小青斗法海",
+                        "pub_time": 1627445820,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》幕后特辑4 黑风洞小青斗法海",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep414197",
+                        "short_link": "https://b23.tv/ep414197",
+                        "stat": {
+                            "coin": 117,
+                            "danmakus": 13,
+                            "likes": 1095,
+                            "play": 88745,
+                            "reply": 241
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "幕后特辑4",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 206925818,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Gh411z73i",
+                        "cid": 376796439,
+                        "cover": "http://i0.hdslb.com/bfs/archive/03ccd3ea6fd7b720a40ca9635c2cfb4f39997bcf.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 109000,
+                        "from": "bangumi",
+                        "id": 413932,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep413932?theme=movie",
+                        "long_title": "宝青坊主召唤“神秘人”",
+                        "pub_time": 1627275780,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》彩蛋 宝青坊主召唤“神秘人”",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep413932",
+                        "short_link": "https://b23.tv/ep413932",
+                        "stat": {
+                            "coin": 239,
+                            "danmakus": 88,
+                            "likes": 1995,
+                            "play": 221139,
+                            "reply": 272
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "彩蛋",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 334417680,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Nw411R7n6",
+                        "cid": 378540232,
+                        "cover": "http://i0.hdslb.com/bfs/archive/79ab6138859ea8409d7ee27849aacbea4f029769.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 74000,
+                        "from": "bangumi",
+                        "id": 414312,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep414312?theme=movie",
+                        "long_title": "青白终相认",
+                        "pub_time": 1627529580,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》正片片段 青白终相认",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep414312",
+                        "short_link": "https://b23.tv/ep414312",
+                        "stat": {
+                            "coin": 250,
+                            "danmakus": 59,
+                            "likes": 1535,
+                            "play": 84027,
+                            "reply": 202
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "正片片段",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 292024917,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Gf4y1L7oY",
+                        "cid": 380991722,
+                        "cover": "http://i0.hdslb.com/bfs/archive/9180117df6a26adf740d91c7bf9f79f87f5fa2dd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 76000,
+                        "from": "bangumi",
+                        "id": 414823,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep414823?theme=movie",
+                        "long_title": "“念念不忘”诉小青执念",
+                        "pub_time": 1627878780,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》特辑 “念念不忘”诉小青执念",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep414823",
+                        "short_link": "https://b23.tv/ep414823",
+                        "stat": {
+                            "coin": 236,
+                            "danmakus": 38,
+                            "likes": 1514,
+                            "play": 71052,
+                            "reply": 176
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "特辑",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 249826632,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV11v411P7TV",
+                        "cid": 388424982,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/a732ccf94f44d92b794139e1a32c6a643144c5c0.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 415855,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep415855?theme=movie",
+                        "long_title": "一直陪着你",
+                        "pub_time": 1628857680,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》七夕特辑 一直陪着你",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep415855",
+                        "short_link": "https://b23.tv/ep415855",
+                        "stat": {
+                            "coin": 278,
+                            "danmakus": 33,
+                            "likes": 1511,
+                            "play": 67423,
+                            "reply": 196
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "七夕特辑",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 257165122,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1RY411T7PB",
+                        "cid": 736568930,
+                        "cover": "http://i0.hdslb.com/bfs/archive/da11259ab549cd0bbf2a988003ed13c2d2cc46c7.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 140000,
+                        "from": "bangumi",
+                        "id": 514924,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep514924?theme=movie",
+                        "long_title": "水漫金山寺",
+                        "pub_time": 1654182168,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》片段1 水漫金山寺",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep514924",
+                        "short_link": "https://b23.tv/ep514924",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 1,
+                            "likes": 353,
+                            "play": 6915,
+                            "reply": 12
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "片段1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 642209555,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ZY4y1V73w",
+                        "cid": 736573788,
+                        "cover": "http://i0.hdslb.com/bfs/archive/dfa4a22c72fea1b47c625fb24fe2b903eee2f1b7.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 130000,
+                        "from": "bangumi",
+                        "id": 514925,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep514925?theme=movie",
+                        "long_title": "小青修罗城学习日志",
+                        "pub_time": 1654182168,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》片段2 小青修罗城学习日志",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep514925",
+                        "short_link": "https://b23.tv/ep514925",
+                        "stat": {
+                            "coin": 3,
+                            "danmakus": 3,
+                            "likes": 356,
+                            "play": 4330,
+                            "reply": 6
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "片段2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 512180443,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Mg411d7Gs",
+                        "cid": 736576566,
+                        "cover": "http://i0.hdslb.com/bfs/archive/34610d9ae86b3ee1249335c9decb559873938c83.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 131000,
+                        "from": "bangumi",
+                        "id": 514926,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep514926?theme=movie",
+                        "long_title": "小青再战法海，雷锋塔终倒塌",
+                        "pub_time": 1654182168,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》片段3 小青再战法海，雷锋塔终倒塌",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep514926",
+                        "short_link": "https://b23.tv/ep514926",
+                        "stat": {
+                            "coin": 44,
+                            "danmakus": 180,
+                            "likes": 9981,
+                            "play": 203850,
+                            "reply": 234
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "片段3",
+                        "vid": ""
+                    }
+                ],
+                "id": 61225,
+                "title": "预告花絮",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 898327780,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HN4y1u7Ea",
+                        "cid": 768723296,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_910b6f9a301f492582407e4a3cb2abb_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594324,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594324?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1657387562,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594324",
+                        "short_link": "https://b23.tv/ep594324",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 1,
+                            "likes": 92,
+                            "play": 4065,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 598319116,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1dB4y1e7K3",
+                        "cid": 768724414,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_108b62e769ea46de92e2f2b0375dbcb_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594328,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594328?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1657387681,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594328",
+                        "short_link": "https://b23.tv/ep594328",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 3,
+                            "play": 850,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 770847854,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1zr4y1E7wf",
+                        "cid": 768727846,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_390c8339e6054e3883c6393575945db_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594345,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594345?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1657388251,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594345",
+                        "short_link": "https://b23.tv/ep594345",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 0,
+                            "likes": 9,
+                            "play": 1009,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 428344205,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1QG411H754",
+                        "cid": 768737731,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_eede7d2ee8ef4fafae868b26e699c4b_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594395,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594395?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1657389696,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594395",
+                        "short_link": "https://b23.tv/ep594395",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 645,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 898286219,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uN4y1u7iK",
+                        "cid": 768738519,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_11faaa72b1ac443591dd31125258dbb_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594405,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594405?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1657389895,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594405",
+                        "short_link": "https://b23.tv/ep594405",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 577,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 643250035,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1tY4y1J73K",
+                        "cid": 768739180,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_38261da4314447f19525670f9f4fd1b_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 594406,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep594406?theme=movie",
+                        "long_title": "精彩看点 6",
+                        "pub_time": 1657389923,
+                        "pv": 0,
+                        "release_date": "2022-07-10",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 6",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep594406",
+                        "short_link": "https://b23.tv/ep594406",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 806,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 773060857,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1j14y1v7b4",
+                        "cid": 832522838,
+                        "cover": "http://i0.hdslb.com/bfs/archive/9d7f89d63120028e953782782b1c17cbf4ee0b4f.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 79000,
+                        "from": "bangumi",
+                        "id": 681480,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep681480?theme=movie",
+                        "long_title": "【白蛇2：青蛇劫起】泪目！小青小白终相认",
+                        "pub_time": 1664182770,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》精彩看点7 【白蛇2：青蛇劫起】泪目！小青小白终相认",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep681480",
+                        "short_link": "https://b23.tv/ep681480",
+                        "stat": {
+                            "coin": 9,
+                            "danmakus": 2,
+                            "likes": 2287,
+                            "play": 27944,
+                            "reply": 37
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "精彩看点7",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 431534641,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1kG411j79h",
+                        "cid": 859714749,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_25270525490d431483070d7618058eb_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 66000,
+                        "from": "bangumi",
+                        "id": 687027,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687027?theme=movie",
+                        "long_title": "精彩看点 7",
+                        "pub_time": 1665569925,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 7",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687027",
+                        "short_link": "https://b23.tv/ep687027",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 348,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 730533125,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1cD4y1B7kZ",
+                        "cid": 832523470,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e60a638c2f1275faeb1c0eefa9dc98e3b09ab704.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 69000,
+                        "from": "bangumi",
+                        "id": 681481,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep681481?theme=movie",
+                        "long_title": "这是我看过最多帅男靓女的国漫电影！！",
+                        "pub_time": 1664182770,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》精彩看点8 这是我看过最多帅男靓女的国漫电影！！",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep681481",
+                        "short_link": "https://b23.tv/ep681481",
+                        "stat": {
+                            "coin": 5,
+                            "danmakus": 10,
+                            "likes": 1864,
+                            "play": 30386,
+                            "reply": 40
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "精彩看点8",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 346555297,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV15R4y1X7yb",
+                        "cid": 859716644,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_cf1073872b884c058a6836042265e8b_firsti.jpg",
+                        "dimension": {
+                            "height": 808,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 687040,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687040?theme=movie",
+                        "long_title": "精彩看点 8",
+                        "pub_time": 1665570090,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》白蛇2：青蛇劫起 精彩看点 8",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687040",
+                        "short_link": "https://b23.tv/ep687040",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 248,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "白蛇2：青蛇劫起",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 603025283,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1VB4y1n78v",
+                        "cid": 832522602,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0399ecd748bee4bf246bdaaab8062440a819bddb.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 67000,
+                        "from": "bangumi",
+                        "id": 681482,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep681482?theme=movie",
+                        "long_title": "高马尾小青太飒了！这颜值简直逆天！！",
+                        "pub_time": 1664182770,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《白蛇2：青蛇劫起》精彩看点9 高马尾小青太飒了！这颜值简直逆天！！",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep681482",
+                        "short_link": "https://b23.tv/ep681482",
+                        "stat": {
+                            "coin": 13,
+                            "danmakus": 11,
+                            "likes": 2084,
+                            "play": 31045,
+                            "reply": 53
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2844.3万次",
+                        "title": "精彩看点9",
+                        "vid": ""
+                    }
+                ],
+                "id": 82718,
+                "title": "精彩看点",
+                "type": 8
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episodes": [
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7081c94bcbc6b1167a8e7652a13bea50e443403d.jpg",
+                        "id": 148733,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV19L411x7fm",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": " 宝青坊主单曲《say so》",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 10775,
+                            "danmakus": 1033,
+                            "likes": 0,
+                            "play": 921462,
+                            "reply": 833
+                        },
+                        "status": 0,
+                        "title": " 宝青坊主单曲《say so》"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c82444c6b46abb1efd2dc206574ddf865645b407.jpg",
+                        "id": 148270,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1oL4y1h7r1",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": " “一入无池，一切皆空”",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 3417,
+                            "danmakus": 880,
+                            "likes": 0,
+                            "play": 474386,
+                            "reply": 456
+                        },
+                        "status": 0,
+                        "title": " “一入无池，一切皆空”"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/dce53ca4ee74b01a59a43e70e73ea61ae7d2e18e.jpg",
+                        "id": 148304,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1Ny4y1L7y3",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "【伏地魔x小青】霸道黑魔王与他的叛逆小妖精……",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 94351,
+                            "danmakus": 10624,
+                            "likes": 0,
+                            "play": 2909978,
+                            "reply": 8423
+                        },
+                        "status": 0,
+                        "title": "【伏地魔x小青】霸道黑魔王与他的叛逆小妖精……"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7be60260e6b4395e04389945b0ba1a6b41e8706a.jpg",
+                        "id": 148734,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1bM4y1g7Et",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "【宝青坊主x尼克】两只老狐狸的互撩套路......绝世甜宠！！！",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 35249,
+                            "danmakus": 1394,
+                            "likes": 0,
+                            "play": 6282819,
+                            "reply": 2238
+                        },
+                        "status": 0,
+                        "title": "【宝青坊主x尼克】两只老狐狸的互撩套路......绝世甜宠！！！"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f88f4b6753e7960e080f4f5bdfdb3ec907da71d4.jpg",
+                        "id": 148350,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1Vv411A7vD",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "【板绘】青蛇白蛇：我一回眼，你在眼前",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 1243,
+                            "danmakus": 166,
+                            "likes": 0,
+                            "play": 90880,
+                            "reply": 235
+                        },
+                        "status": 0,
+                        "title": "【板绘】青蛇白蛇：我一回眼，你在眼前"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/49de6bc57af354c7ea7dad0c95c1b4c6dfa883ce.jpg",
+                        "id": 148006,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV19U4y1n7LY",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "国产天花板！剧作扎实的追光《白蛇2：青蛇劫起》到底有多好看？",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 10994,
+                            "danmakus": 17314,
+                            "likes": 0,
+                            "play": 1200746,
+                            "reply": 18747
+                        },
+                        "status": 0,
+                        "title": "国产天花板！剧作扎实的追光《白蛇2：青蛇劫起》到底有多好看？"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/240dd921a2a0d7919c61e59166cedd05a3d2744a.jpg",
+                        "id": 148294,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1Yb4y167VB",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "小青快逃！修罗城有阴谋！",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 438,
+                            "danmakus": 42,
+                            "likes": 0,
+                            "play": 1075484,
+                            "reply": 158
+                        },
+                        "status": 0,
+                        "title": "小青快逃！修罗城有阴谋！"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e8189b2c88ff1e2edc4ef8d71f6ba8a5842444d0.jpg",
+                        "id": 148007,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1DL411b7TL",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "宝青坊主真人版｜哟，又来客人啦～",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 55331,
+                            "danmakus": 2961,
+                            "likes": 0,
+                            "play": 3625417,
+                            "reply": 2992
+                        },
+                        "status": 0,
+                        "title": "宝青坊主真人版｜哟，又来客人啦～"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e44adc9e70a925ec44a7e9a556ae03b9c7f1b7ce.png",
+                        "id": 148302,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1QL411n7Hm",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "最新结局，小白出现！导演圆梦！【白蛇2青蛇劫起】细节分析",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 437,
+                            "danmakus": 666,
+                            "likes": 0,
+                            "play": 684625,
+                            "reply": 1738
+                        },
+                        "status": 0,
+                        "title": "最新结局，小白出现！导演圆梦！【白蛇2青蛇劫起】细节分析"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/4aa1af02333fc2d6bd9a98da9183cf365f5f1ef3.jpg",
+                        "id": 148009,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1m44y117fB",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "《白蛇2：青蛇劫起》中那些你不知道的细节，背景最鬼神莫测的狐妖身份很可能是她！",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 2178,
+                            "danmakus": 700,
+                            "likes": 0,
+                            "play": 294084,
+                            "reply": 535
+                        },
+                        "status": 0,
+                        "title": "《白蛇2：青蛇劫起》中那些你不知道的细节，背景最鬼神莫测的狐妖身份很可能是她！"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/36af1832a46bf33808a8f3c906b15be03ddbb3c8.jpg",
+                        "id": 148806,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV19L411x7h6",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "【ROZA】《白蛇2：青蛇劫起》主题曲翻唱【问花】",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 6638,
+                            "danmakus": 751,
+                            "likes": 0,
+                            "play": 174017,
+                            "reply": 785
+                        },
+                        "status": 0,
+                        "title": "【ROZA】《白蛇2：青蛇劫起》主题曲翻唱【问花】"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f1739a945fe33e85597005f13d20400bd79538e3.jpg",
+                        "id": 148300,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1cL411p7ZW",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "她可能是国漫里最飒的女主，怎么会这么帅！！",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 635,
+                            "danmakus": 151,
+                            "likes": 0,
+                            "play": 724103,
+                            "reply": 455
+                        },
+                        "status": 0,
+                        "title": "她可能是国漫里最飒的女主，怎么会这么帅！！"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/bc6053c05779d7ee90b40dcdf52844b790495468.jpg",
+                        "id": 148301,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV1wg41177qM",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "【宝青坊主】让人无法拒绝的老狐狸，在气质方面拿捏的很是到位！",
+                            "position": "",
+                            "season_id": "39104",
+                            "season_type": "2",
+                            "section_id": "61989",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 270,
+                            "danmakus": 57,
+                            "likes": 0,
+                            "play": 791454,
+                            "reply": 164
+                        },
+                        "status": 0,
+                        "title": "【宝青坊主】让人无法拒绝的老狐狸，在气质方面拿捏的很是到位！"
+                    }
+                ],
+                "id": 61989,
+                "report": {
+                    "season_id": "39104",
+                    "season_type": "2",
+                    "sec_title": "UP主陪你看",
+                    "section_id": "61989",
+                    "section_type": "5"
+                },
+                "title": "UP主陪你看",
+                "type": 5
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5633,
+            "series_title": "白蛇：缘起"
+        },
+        "share_copy": "《白蛇2：青蛇劫起》执此念 续前缘",
+        "share_sub_title": "执此念 续前缘",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39104",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/80b165de0a856d3269e2b34fd879571ab8b80d87.png",
+        "stat": {
+            "coins": 226516,
+            "danmakus": 241642,
+            "favorite": 62833,
+            "favorites": 1535924,
+            "likes": 503814,
+            "reply": 70750,
+            "share": 53908,
+            "views": 28443276
+        },
+        "status": 13,
+        "subtitle": "已观看2844.3万次",
+        "title": "白蛇2：青蛇劫起",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815759,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

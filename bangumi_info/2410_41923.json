@@ -1,0 +1,774 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7fd12817d11678277a0542b5705d21c3d060ddaa.jpg",
+        "episodes": [
+            {
+                "aid": 561919767,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV16e4y1e7C9",
+                "cid": 870767222,
+                "cover": "http://i0.hdslb.com/bfs/archive/3112a343a38eb57d334344d2cf59d5221be97ac8.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1268000,
+                "from": "bangumi",
+                "id": 691884,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691884",
+                "long_title": "四海一家",
+                "pub_time": 1666774800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第1话 四海一家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691884",
+                "short_link": "https://b23.tv/ep691884",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看61万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 774413354,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1814y157L6",
+                "cid": 870767411,
+                "cover": "http://i0.hdslb.com/bfs/archive/c3eb1a219cdbc8d761394212e2dd5ec1dc421aa6.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691885,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691885",
+                "long_title": "好事计数器",
+                "pub_time": 1666774800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第2话 好事计数器",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691885",
+                "short_link": "https://b23.tv/ep691885",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看61万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 474392693,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qK411D73s",
+                "cid": 870767570,
+                "cover": "http://i0.hdslb.com/bfs/archive/cf108ae1c15ae2d11e972a3a6331d2c8cea0120f.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691906,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691906",
+                "long_title": "奇吉木纳",
+                "pub_time": 1667293200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第3话 奇吉木纳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691906",
+                "short_link": "https://b23.tv/ep691906",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 689413185,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zm4y1w7FC",
+                "cid": 870767751,
+                "cover": "http://i0.hdslb.com/bfs/archive/6958dacfc1ab11fd21b12af85950067fce9aacb0.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691886,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691886",
+                "long_title": "魔人",
+                "pub_time": 1667379600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第4话 魔人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691886",
+                "short_link": "https://b23.tv/ep691886",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 731982713,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nD4y1b7P4",
+                "cid": 870768021,
+                "cover": "http://i0.hdslb.com/bfs/archive/d72103934d32746ff0f2c7a75aecd3c14a7a8611.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691887,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691887",
+                "long_title": "电力四射",
+                "pub_time": 1667898000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第5话 电力四射",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691887",
+                "short_link": "https://b23.tv/ep691887",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 774422722,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1s14y157cU",
+                "cid": 870768205,
+                "cover": "http://i0.hdslb.com/bfs/archive/30dbb5b92f33400320ee2e12cc51d724a415d7ab.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691888,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691888",
+                "long_title": "醋劲大发",
+                "pub_time": 1667984400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第6话 醋劲大发",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691888",
+                "short_link": "https://b23.tv/ep691888",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 431968882,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NG411j7n2",
+                "cid": 870768359,
+                "cover": "http://i0.hdslb.com/bfs/archive/3369988b19f18f44b744dd5909e166c22f4a5d62.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691889,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691889",
+                "long_title": "鸟宝宝",
+                "pub_time": 1668502800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第7话 鸟宝宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691889",
+                "short_link": "https://b23.tv/ep691889",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 516946518,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gg411h7hu",
+                "cid": 870768581,
+                "cover": "http://i0.hdslb.com/bfs/archive/4b642b74d0988c104c30038742a0ce0f41f3be57.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691890,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691890",
+                "long_title": "复制史迪奇",
+                "pub_time": 1668589200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第8话 复制史迪奇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691890",
+                "short_link": "https://b23.tv/ep691890",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 389444527,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1id4y1y71s",
+                "cid": 870768853,
+                "cover": "http://i0.hdslb.com/bfs/archive/12ccd7e219e70c35c8f268e8cbf39704a9e49cf4.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691891,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691891",
+                "long_title": "淘气的哇锁",
+                "pub_time": 1669107600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第9话 淘气的哇锁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691891",
+                "short_link": "https://b23.tv/ep691891",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 901894636,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wP4y1S7jU",
+                "cid": 870769143,
+                "cover": "http://i0.hdslb.com/bfs/archive/549c89c04076dd1c0fc1e8577a0a0dfc673aba52.png",
+                "dimension": {
+                    "height": 720,
+                    "rotate": 0,
+                    "width": 1280
+                },
+                "duration": 1269000,
+                "from": "bangumi",
+                "id": 691892,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep691892",
+                "long_title": "菠萝工厂野餐记",
+                "pub_time": 1669194000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际宝贝: 神奇大冒险 第1季》第10话 菠萝工厂野餐记",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep691892",
+                "short_link": "https://b23.tv/ep691892",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看61万次",
+                "title": "10",
+                "vid": ""
+            }
+        ],
+        "evaluate": "史迪奇骑着太空摩托车意外的坠落在一个名叫“十六夜”的日本小岛上，并且遇到了孤独的日本女孩柔奈。一开始两人有些误会和争吵，但慢慢地发现了彼此的共同点，变成了好朋友。史迪奇也被岛上神石的力量所吸引，决定做满43件小事来启动神石的力量帮助他完成愿望。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28337826/",
+        "media_id": 28337826,
+        "mode": 2,
+        "new_ep": {
+            "desc": "连载中, 每周二、三 17:00 更新",
+            "id": 691892,
+            "is_new": 1,
+            "title": "10"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 79160,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 1,
+            "pub_time": "2022-10-26 17:00:00",
+            "pub_time_show": "10月26日17:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41923,
+        "season_title": "星际宝贝: 神奇大冒险 第1季",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7fd12817d11678277a0542b5705d21c3d060ddaa.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/1b06ddea411838bb7d545bf3a80e7e805547fa6e.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/1424c53cb6c63c2c9fe2ba1c2eee2c4d616037ab.png",
+                "media_id": 28337826,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/549c89c04076dd1c0fc1e8577a0a0dfc673aba52.png",
+                    "id": 691892,
+                    "index_show": "更新至第10话"
+                },
+                "season_id": 41923,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 28752,
+                    "series_follow": 38868,
+                    "views": 610476
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/de1a740683f2d67a9cfc9caac0802a2ff3e7cc19.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/1b06ddea411838bb7d545bf3a80e7e805547fa6e.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/1424c53cb6c63c2c9fe2ba1c2eee2c4d616037ab.png",
+                "media_id": 28337828,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a081bf6032c0ce974a7a001c148d130749c198d7.png",
+                    "id": 692172,
+                    "index_show": "更新至第10话"
+                },
+                "season_id": 41924,
+                "season_title": "第一季 中文配音",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13605,
+                    "series_follow": 38868,
+                    "views": 647420
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 854493756,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Y54y1o7C3",
+                        "cid": 731217326,
+                        "cover": "http://i0.hdslb.com/bfs/archive/fe44f30a30a277b0ac07609c949cc4c4fdc14442.png",
+                        "dimension": {
+                            "height": 540,
+                            "rotate": 0,
+                            "width": 720
+                        },
+                        "duration": 41000,
+                        "from": "bangumi",
+                        "id": 513832,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep513832",
+                        "long_title": "",
+                        "pub_time": 1653840001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《星际宝贝: 神奇大冒险 第1季》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep513832",
+                        "short_link": "https://b23.tv/ep513832",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 45,
+                            "danmakus": 1,
+                            "likes": 683,
+                            "play": 153959,
+                            "reply": 99
+                        },
+                        "status": 2,
+                        "subtitle": "已观看61万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 79218,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6115,
+            "series_title": "星际宝贝: 神奇大冒险"
+        },
+        "share_copy": "《星际宝贝: 神奇大冒险 第1季》谁能拒绝可爱史迪奇",
+        "share_sub_title": "谁能拒绝可爱史迪奇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41923",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/0724b36d2cbca83125ec38fc69cc2ea212082552.jpg",
+        "stat": {
+            "coins": 878,
+            "danmakus": 400,
+            "favorite": 890,
+            "favorites": 28752,
+            "likes": 7551,
+            "reply": 956,
+            "share": 1088,
+            "views": 610476
+        },
+        "status": 13,
+        "subtitle": "已观看61万次",
+        "title": "星际宝贝: 神奇大冒险 第1季",
+        "total": -1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/006121079ffe4fa50b25894ee43645be25c3684c.jpg",
+        "episodes": [
+            {
+                "aid": 10000293,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411U7uP",
+                "cid": 16530137,
+                "cover": "http://i0.hdslb.com/bfs/archive/4463460b8c1235a7ab251cad792669eddc50400b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 104266,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep104266",
+                "long_title": "蛇与毒",
+                "pub_time": 1492825463,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《青之驱魔师 OAD》第1话 蛇与毒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep104266",
+                "short_link": "https://b23.tv/ep104266",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1440
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看70.4万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "单行本第19卷限定版同捆OAD",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6077/",
+        "media_id": 6077,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 104266,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 23070,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-04-03 00:00:01",
+            "pub_time_show": "2017年4月3日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 352,
+            "score": 9.1
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6077,
+        "season_title": "青之驱魔师 OAD",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/cae344c9415c420b72852c08ceb5c63e2d7d4951.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 861,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ee29e20e9f50103b2a4ca01a6b5a19c2a299b54c.gif",
+                    "id": 15462,
+                    "index_show": "全25话"
+                },
+                "season_id": 861,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1186809,
+                    "series_follow": 1278354,
+                    "views": 19202769
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c240d992804d83db998f2cccddbeffbe8a5c8271.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3543,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/b54514b41088027c11734cb1e6505adfa3d43a3e.jpg",
+                    "id": 85835,
+                    "index_show": "全1话"
+                },
+                "season_id": 3543,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 205187,
+                    "series_follow": 1278354,
+                    "views": 2113094
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/006121079ffe4fa50b25894ee43645be25c3684c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6077,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4463460b8c1235a7ab251cad792669eddc50400b.jpg",
+                    "id": 104266,
+                    "index_show": "全1话"
+                },
+                "season_id": 6077,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 77475,
+                    "series_follow": 1278354,
+                    "views": 704192
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 546,
+            "series_title": "青之驱魔师"
+        },
+        "share_copy": "《青之驱魔师 OAD》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6077",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/f75969712a190a64ab0e115ae138e560d87bdd84.jpg",
+        "stat": {
+            "coins": 366,
+            "danmakus": 2097,
+            "favorite": 324,
+            "favorites": 77475,
+            "likes": 78,
+            "reply": 78,
+            "share": 243,
+            "views": 704192
+        },
+        "status": 2,
+        "subtitle": "已观看70.4万次",
+        "title": "青之驱魔师 OAD",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,809 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 5,
+                "name": "加拿大"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/31202ecba405d3682b701348c7de75f9b414739e.png",
+        "episodes": [
+            {
+                "aid": 728355315,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1VS4y1J7Sb",
+                "cid": 771230891,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 495000,
+                "from": "bangumi",
+                "id": 604026,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604026",
+                "long_title": "",
+                "pub_time": 1657850400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第01话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604026",
+                "short_link": "https://b23.tv/ep604026",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看80.7万次",
+                "title": "01",
+                "vid": ""
+            },
+            {
+                "aid": 300868940,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uf4y1o7zU",
+                "cid": 771230890,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 493000,
+                "from": "bangumi",
+                "id": 604027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604027",
+                "long_title": "",
+                "pub_time": 1657850400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第02话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604027",
+                "short_link": "https://b23.tv/ep604027",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "02",
+                "vid": ""
+            },
+            {
+                "aid": 855771577,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16V4y1n7oY",
+                "cid": 771230889,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 502000,
+                "from": "bangumi",
+                "id": 604028,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604028",
+                "long_title": "",
+                "pub_time": 1657850400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第03话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604028",
+                "short_link": "https://b23.tv/ep604028",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "03",
+                "vid": ""
+            },
+            {
+                "aid": 728315045,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13S4y1J7wz",
+                "cid": 771230892,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 492000,
+                "from": "bangumi",
+                "id": 604029,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604029",
+                "long_title": "",
+                "pub_time": 1658368800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第04话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604029",
+                "short_link": "https://b23.tv/ep604029",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "04",
+                "vid": ""
+            },
+            {
+                "aid": 215822067,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1va411n72h",
+                "cid": 771231240,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 497000,
+                "from": "bangumi",
+                "id": 604030,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604030",
+                "long_title": "",
+                "pub_time": 1658455200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第05话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604030",
+                "short_link": "https://b23.tv/ep604030",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "05",
+                "vid": ""
+            },
+            {
+                "aid": 555771904,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ae4y1R7Au",
+                "cid": 771231129,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 495000,
+                "from": "bangumi",
+                "id": 604031,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604031",
+                "long_title": "",
+                "pub_time": 1658541600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第06话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604031",
+                "short_link": "https://b23.tv/ep604031",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "06",
+                "vid": ""
+            },
+            {
+                "aid": 513337279,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hg411f76E",
+                "cid": 771231245,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 494000,
+                "from": "bangumi",
+                "id": 604032,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604032",
+                "long_title": "",
+                "pub_time": 1658973600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第07话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604032",
+                "short_link": "https://b23.tv/ep604032",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "07",
+                "vid": ""
+            },
+            {
+                "aid": 770809181,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xr4y1E7JP",
+                "cid": 771231248,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 499000,
+                "from": "bangumi",
+                "id": 604033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604033",
+                "long_title": "",
+                "pub_time": 1659060000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第08话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604033",
+                "short_link": "https://b23.tv/ep604033",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "08",
+                "vid": ""
+            },
+            {
+                "aid": 940818319,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aW4y1S7nY",
+                "cid": 771231364,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 496000,
+                "from": "bangumi",
+                "id": 604034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604034",
+                "long_title": "",
+                "pub_time": 1659146400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第09话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604034",
+                "short_link": "https://b23.tv/ep604034",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "09",
+                "vid": ""
+            },
+            {
+                "aid": 770755133,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fr4y1E7u1",
+                "cid": 771231368,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 493000,
+                "from": "bangumi",
+                "id": 604035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604035",
+                "long_title": "",
+                "pub_time": 1659578400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604035",
+                "short_link": "https://b23.tv/ep604035",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 300847400,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vf4y1o7BR",
+                "cid": 771231370,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 481000,
+                "from": "bangumi",
+                "id": 604036,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604036",
+                "long_title": "",
+                "pub_time": 1659664800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604036",
+                "short_link": "https://b23.tv/ep604036",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 215856327,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ma411n73p",
+                "cid": 771231374,
+                "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 497000,
+                "from": "bangumi",
+                "id": 604037,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep604037",
+                "long_title": "",
+                "pub_time": 1659751200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史努比太空历险记 第一季》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep604037",
+                "short_link": "https://b23.tv/ep604037",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看80.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "史努比成功申请成为宇航员，进入太空，完成一系列的任务，在探索宇宙的过程中虽然有困难与阻碍，但最终史努比还是能够迎刃而解，过程有趣又搞笑。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28338757/",
+        "media_id": 28338757,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 604037,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 83423,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-07-15 10:00:00",
+            "pub_time_show": "07月15日10:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 348,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 42309,
+        "season_title": "史努比太空历险记 第一季",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/31202ecba405d3682b701348c7de75f9b414739e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/230fcef7b5b431c3efe6dfa511ad90be85c75b04.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ba92557d4964fb3d6fcc7834b75c7485c145b11a.jpg",
+                "media_id": 28338758,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d81de99fc27beef3f5278efda23512c2887bf75e.png",
+                    "id": 604057,
+                    "index_show": "全12话"
+                },
+                "season_id": 42310,
+                "season_title": "第一季 中文配音",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2816,
+                    "series_follow": 18465,
+                    "views": 634756
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/31202ecba405d3682b701348c7de75f9b414739e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/230fcef7b5b431c3efe6dfa511ad90be85c75b04.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ba92557d4964fb3d6fcc7834b75c7485c145b11a.jpg",
+                "media_id": 28338757,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1508fba3116c40b9a79bfa6af4d4fbd8fcdd61a9.png",
+                    "id": 604037,
+                    "index_show": "全12话"
+                },
+                "season_id": 42309,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 16544,
+                    "series_follow": 18465,
+                    "views": 806562
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6184,
+            "series_title": "史努比太空历险记"
+        },
+        "share_copy": "《史努比太空历险记 第一季》史努比圆梦上太空",
+        "share_sub_title": "史努比圆梦上太空",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss42309",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/0ba55bc83b4a8f99b5b8a97c092e81c4002848b0.png",
+        "stat": {
+            "coins": 1500,
+            "danmakus": 696,
+            "favorite": 747,
+            "favorites": 16544,
+            "likes": 4662,
+            "reply": 446,
+            "share": 612,
+            "views": 806562
+        },
+        "status": 13,
+        "subtitle": "已观看80.7万次",
+        "title": "史努比太空历险记 第一季",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

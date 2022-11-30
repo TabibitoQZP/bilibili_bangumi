@@ -1,0 +1,1689 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/0d9eb6c6a871ce7493b7c41a0fd53c1c88e91b3c.jpg",
+        "episodes": [
+            {
+                "aid": 546384238,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eq4y1s78a",
+                "cid": 363290019,
+                "cover": "http://i0.hdslb.com/bfs/archive/ddf64f4138bfeddfa9d6909c470cb71426f7af38.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5808000,
+                "from": "bangumi",
+                "id": 409074,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409074?theme=movie",
+                "long_title": "",
+                "pub_time": 1625299201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《宝可梦：超梦的逆袭 进化》宝可梦首部3D动画",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409074",
+                "short_link": "https://b23.tv/ep409074",
+                "status": 13,
+                "subtitle": "已观看968.3万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "故事讲述的是一群疯狂的科学家，为了自己的梦想，研制出一套只需要少许基因便可复制出宝可梦的机器，并把发掘到的世界最强宝可梦复制成了拥有比梦幻更强能力的超梦。但当超梦醒来后，却因无法找寻到真正的自我而暴走。火箭队的老大出现在超梦的面前，用花言巧语把迷失自我的超梦拉拢过来为自己办事，但没过多少时间，超梦再次对自我感到迷茫。超梦回到那个复制它的岛屿，决定开始它的复仇之战。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234726/",
+        "media_id": 28234726,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2020年12月4日上映",
+            "id": 409074,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 60711,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-07-03 16:00:00",
+            "pub_time_show": "2021年07月03日16:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1849,
+            "score": 7.3
+        },
+        "record": "备案号：10417040015012305",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39034,
+        "season_title": "宝可梦：超梦的逆袭 进化",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dbe1a179091041b12d579705fd21f0c3b69413e9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5758,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/b6b092fc1dfeedc85e3bbe386704295a1f14ead5.jpg",
+                    "id": 97475,
+                    "index_show": "全1话"
+                },
+                "season_id": 5758,
+                "season_title": "剧场版1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 136321,
+                    "series_follow": 620699,
+                    "views": 2107778
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a610ebfdf57d27bd523fae6ad8bb570c2841dcf8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5757,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/eeca85f34bfb9b85d7295cd73a0af7b5d0a1adfe.jpg",
+                    "id": 97474,
+                    "index_show": "全1话"
+                },
+                "season_id": 5757,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 75550,
+                    "series_follow": 620699,
+                    "views": 1330017
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/638f020cfca367c6465a3f3dc440c296809f394b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233198,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/49330dcc6f32190ae198ef16af77097b759732cf.jpg",
+                    "id": 372905,
+                    "index_show": "全1话"
+                },
+                "season_id": 37522,
+                "season_title": "剧场版3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 275980,
+                    "series_follow": 620699,
+                    "views": 410827
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5872f9bad23b858f5175cd9f4083f39ee26ba760.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5756,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/06aa4a7ce7476b5608c7433b17a37e8a057a3393.jpg",
+                    "id": 97473,
+                    "index_show": "全1话"
+                },
+                "season_id": 5756,
+                "season_title": "剧场版4",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60486,
+                    "series_follow": 620699,
+                    "views": 869317
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61319eceea9c1006bd2a5ede87310212d2f9b9d8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5755,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/8ef09e30276accfeb9455c91d5d8ebb11f0746ca.jpg",
+                    "id": 97472,
+                    "index_show": "全1话"
+                },
+                "season_id": 5755,
+                "season_title": "剧场版5",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 68088,
+                    "series_follow": 620699,
+                    "views": 1003802
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/386a9fb6d813385b13299a697a74ac6e485f3443.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5754,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/c94e60b5eabde62d62a11fbec76942c713ebc12e.jpg",
+                    "id": 97471,
+                    "index_show": "全1话"
+                },
+                "season_id": 5754,
+                "season_title": "剧场版6",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60428,
+                    "series_follow": 620699,
+                    "views": 832708
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7665cdb8399fb2b3d1b3c68deba5b49291206cc9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5753,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/a9bc5f104d97a59991b52dd00460e0874d5312c8.jpg",
+                    "id": 97470,
+                    "index_show": "全1话"
+                },
+                "season_id": 5753,
+                "season_title": "剧场版7",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63367,
+                    "series_follow": 620699,
+                    "views": 950160
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1ba1b1ad3feecf8522e8b042471b2b281899e56f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5752,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/44d09287b2e9bc2efcb8dac3a933dc70b1ebafbc.jpg",
+                    "id": 97469,
+                    "index_show": "全1话"
+                },
+                "season_id": 5752,
+                "season_title": "剧场版8",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63885,
+                    "series_follow": 620699,
+                    "views": 969581
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/03ea2b099bc2ad932d1e33b83c7574a3e3110173.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5751,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/12bdcf2a1c5731f10dcc58f383ed394c80b6a8eb.jpg",
+                    "id": 97468,
+                    "index_show": "全1话"
+                },
+                "season_id": 5751,
+                "season_title": "剧场版9",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 61079,
+                    "series_follow": 620699,
+                    "views": 857944
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d7b214532e9155fb54da628bd38480045b68f4b0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5750,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9cda680f4b2a90b8cacc88df0151be8849862585.jpg",
+                    "id": 97467,
+                    "index_show": "全1话"
+                },
+                "season_id": 5750,
+                "season_title": "剧场版10",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 65309,
+                    "series_follow": 620699,
+                    "views": 1155576
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d0fd988aba4f54e466b06bfbde38e99ed8a753b0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5749,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/5a9729895bc070f1ef3a9fc122b1f474a470539d.jpg",
+                    "id": 97465,
+                    "index_show": "全1话"
+                },
+                "season_id": 5749,
+                "season_title": "剧场版11",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60626,
+                    "series_follow": 620699,
+                    "views": 943369
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/41d6588aba69c4a3d3f6de13551c45b14bdf535c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5746,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/fcc732df2f8ef3f5c2938bb3d5000f28ad4e08dd.jpg",
+                    "id": 97456,
+                    "index_show": "全1话"
+                },
+                "season_id": 5746,
+                "season_title": "剧场版12",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 72380,
+                    "series_follow": 620699,
+                    "views": 1740230
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/08ffcebfd0fa08a2e4397b8e7ef5d12104ecfbe6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5745,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2d58670beb06be1b1a205e55921187752954272d.jpg",
+                    "id": 97455,
+                    "index_show": "全1话"
+                },
+                "season_id": 5745,
+                "season_title": "剧场版13",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 57351,
+                    "series_follow": 620699,
+                    "views": 891328
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92d89f5d3562ec75512eb613e6e822de45c425d8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4477,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f938813152d2112184880d08777a935d1c9cfb32.jpg",
+                    "id": 100889,
+                    "index_show": "全1话"
+                },
+                "season_id": 4477,
+                "season_title": "剧场版14 黑",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 59068,
+                    "series_follow": 620699,
+                    "views": 832260
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7671944a747bf17a10eff11788a3d784cd9b3283.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4475,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6d73e6454cd6c8eae0ab1f951b668d6193ac3379.jpg",
+                    "id": 100890,
+                    "index_show": "全1话"
+                },
+                "season_id": 4475,
+                "season_title": "剧场版14 白",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 56495,
+                    "series_follow": 620699,
+                    "views": 721227
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a5abc622993d18fc23ca19324f350b17b5a1c4e6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6413,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a9569eb0fbe2001980394bf71634c81cc33e1098.jpg",
+                    "id": 114494,
+                    "index_show": "全1话"
+                },
+                "season_id": 6413,
+                "season_title": "剧场版15",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 55654,
+                    "series_follow": 620699,
+                    "views": 834294
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3b9d38fb03e5772de8d8f2bb03f050296671b048.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5744,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1239592921ad1c405601846bb4b575e823d49229.jpg",
+                    "id": 97454,
+                    "index_show": "全1话"
+                },
+                "season_id": 5744,
+                "season_title": "剧场版16",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 66848,
+                    "series_follow": 620699,
+                    "views": 1323749
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/523953d6ea1465ac1dc9022b0a69a0c17c5c0704.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6389,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/de6d7da56040bd094085b771242496af7c0c77c1.jpg",
+                    "id": 113990,
+                    "index_show": "全1话"
+                },
+                "season_id": 6389,
+                "season_title": "剧场版17",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 64428,
+                    "series_follow": 620699,
+                    "views": 1178450
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/09b6d4b54083e8d0299a5d19d94246c1f0f348e9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6480,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2937fefb29c733fe5d0de3050d1ff071fac07851.jpg",
+                    "id": 114712,
+                    "index_show": "全1话"
+                },
+                "season_id": 6480,
+                "season_title": "剧场版18",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 91451,
+                    "series_follow": 620699,
+                    "views": 2160816
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ce73adea52812dff7d5c013c707bd9fa33c3cc12.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/7e2af2bed300f1e53cf789d7477faee1a89cf883.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/082659a6daa0d4677bcd209824bfc0b2143f5b44.png",
+                "media_id": 70612,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3d078ea3db04e761548e7b96c246f95531d39ded.jpg",
+                    "id": 195189,
+                    "index_show": "2017-11-11上映"
+                },
+                "season_id": 12477,
+                "season_title": "剧场版19",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 118603,
+                    "series_follow": 620699,
+                    "views": 6431581
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/26b7ed2c0f3d900be410018ee2d76f784159fb8b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228297,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/dccbfa12d7b72ae15dc4d8993d3c19ebdffcf8bc.jpg",
+                    "id": 316161,
+                    "index_show": "全1话"
+                },
+                "season_id": 32934,
+                "season_title": "剧场版20",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 82879,
+                    "series_follow": 620699,
+                    "views": 1848256
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/24798c889add9dee5f1e7372c1f25c3cd2ff0f0b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228298,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e3682e275de2f7f6addef3b0cbb00265d18bae89.jpg",
+                    "id": 316646,
+                    "index_show": "全1话"
+                },
+                "season_id": 32935,
+                "season_title": "剧场版21",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 67766,
+                    "series_follow": 620699,
+                    "views": 1779267
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/0d9eb6c6a871ce7493b7c41a0fd53c1c88e91b3c.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/f2035acd07e01bb8c9d11b1e475c0eb4d3892972.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/d855744ba42d515f5217b1ca42c0ac2eb07a88d7.png",
+                "media_id": 28234726,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ddf64f4138bfeddfa9d6909c470cb71426f7af38.png",
+                    "id": 409074,
+                    "index_show": "2020-12-04上映"
+                },
+                "season_id": 39034,
+                "season_title": "剧场版22",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 424928,
+                    "series_follow": 620699,
+                    "views": 9682672
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8ce4ed7ccf1db944dfeabb0e5dfaa13077a6559e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/3d563a6648e3091692783c34dfd830f5b0b53008.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ef58f7cf402790a8e0d569eb9d3d89b9f4cbe53f.png",
+                "media_id": 28236391,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/52c82e2b3ac6a0665a4a52f063e94749e109a092.png",
+                    "id": 467283,
+                    "index_show": "2021-09-10上映"
+                },
+                "season_id": 40685,
+                "season_title": "剧场版23",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 543846,
+                    "series_follow": 620699,
+                    "views": 6403498
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 287785509,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1bf4y1q7s5",
+                        "cid": 257055991,
+                        "cover": "http://i0.hdslb.com/bfs/archive/46c4f70aa3ace9c900457929cc794b3dbbadad77.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 31000,
+                        "from": "bangumi",
+                        "id": 409075,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep409075?theme=movie",
+                        "long_title": "宝可梦首部3D动画电影",
+                        "pub_time": 1625048520,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》PV3 宝可梦首部3D动画电影",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep409075",
+                        "short_link": "https://b23.tv/ep409075",
+                        "stat": {
+                            "coin": 155,
+                            "danmakus": 58,
+                            "likes": 2483,
+                            "play": 325314,
+                            "reply": 305
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "PV3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 376380655,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Wo4y1C7sr",
+                        "cid": 363521189,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/eda3a33e62e4c860f2411dbf44f60e165bfd750b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 86000,
+                        "from": "bangumi",
+                        "id": 409781,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep409781?theme=movie",
+                        "long_title": "神秘宝可梦出现",
+                        "pub_time": 1625286900,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》PV2 神秘宝可梦出现",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep409781",
+                        "short_link": "https://b23.tv/ep409781",
+                        "stat": {
+                            "coin": 169,
+                            "danmakus": 18,
+                            "likes": 1142,
+                            "play": 181328,
+                            "reply": 30
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 588912643,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13B4y1T7b1",
+                        "cid": 363532387,
+                        "cover": "http://i0.hdslb.com/bfs/archive/bf0f8739c3a961a466691b35bae89d641c898d45.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 95000,
+                        "from": "bangumi",
+                        "id": 409780,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep409780?theme=movie",
+                        "long_title": "打响宿命对决",
+                        "pub_time": 1625286840,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》PV 打响宿命对决",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep409780",
+                        "short_link": "https://b23.tv/ep409780",
+                        "stat": {
+                            "coin": 78,
+                            "danmakus": 14,
+                            "likes": 1029,
+                            "play": 171123,
+                            "reply": 38
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 589001303,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV18B4y1T7jj",
+                        "cid": 366419639,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/dd80dba94e7f28b4777483b3dc2e4c709214aec5.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 410648,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep410648?theme=movie",
+                        "long_title": "皮卡丘名场面",
+                        "pub_time": 1625740920,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段 皮卡丘名场面",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep410648",
+                        "short_link": "https://b23.tv/ep410648",
+                        "stat": {
+                            "coin": 50,
+                            "danmakus": 19,
+                            "likes": 764,
+                            "play": 247211,
+                            "reply": 16
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 419165720,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1TV411s7qL",
+                        "cid": 369292602,
+                        "cover": "http://i0.hdslb.com/bfs/archive/95de4288e6d7a50cb0e80a19154226b85837c1c8.jpg",
+                        "dimension": {
+                            "height": 768,
+                            "rotate": 0,
+                            "width": 1366
+                        },
+                        "duration": 119000,
+                        "from": "bangumi",
+                        "id": 412049,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep412049?theme=movie",
+                        "long_title": "皮卡丘营救小智",
+                        "pub_time": 1626177960,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段2 皮卡丘营救小智",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep412049",
+                        "short_link": "https://b23.tv/ep412049",
+                        "stat": {
+                            "coin": 29,
+                            "danmakus": 6,
+                            "likes": 740,
+                            "play": 165175,
+                            "reply": 17
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 810053869,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1S34y1x7JS",
+                        "cid": 559317631,
+                        "cover": "http://i0.hdslb.com/bfs/archive/85f19102e40238979fffe1c0e679afb757a540b8.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 45000,
+                        "from": "bangumi",
+                        "id": 476677,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476677?theme=movie",
+                        "long_title": "喷火龙好像没睡醒",
+                        "pub_time": 1648282860,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段3 喷火龙好像没睡醒",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476677",
+                        "short_link": "https://b23.tv/ep476677",
+                        "stat": {
+                            "coin": 20,
+                            "danmakus": 35,
+                            "likes": 6133,
+                            "play": 96935,
+                            "reply": 42
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 297606806,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1vF411W7PN",
+                        "cid": 559328754,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e59786b562c8acf822f8c07d329675cc3e7ecbba.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 104000,
+                        "from": "bangumi",
+                        "id": 476678,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476678?theme=movie",
+                        "long_title": "超梦觉醒",
+                        "pub_time": 1648283029,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段4 超梦觉醒",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476678",
+                        "short_link": "https://b23.tv/ep476678",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 1,
+                            "likes": 54,
+                            "play": 9901,
+                            "reply": 5
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段4",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 640065057,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qY4y1s7Ab",
+                        "cid": 559330500,
+                        "cover": "http://i0.hdslb.com/bfs/archive/387b7b42e4c071de71f77c8e59959e38efe1b3f1.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 44000,
+                        "from": "bangumi",
+                        "id": 476679,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476679?theme=movie",
+                        "long_title": "超梦和人类联手",
+                        "pub_time": 1648283029,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段5 超梦和人类联手",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476679",
+                        "short_link": "https://b23.tv/ep476679",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 1,
+                            "likes": 131,
+                            "play": 5087,
+                            "reply": 7
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段5",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 852512176,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV12L4y1j7qa",
+                        "cid": 559332642,
+                        "cover": "http://i0.hdslb.com/bfs/archive/caee8b81f4089bff64ea55bf986c37e88255d689.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 476680,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476680?theme=movie",
+                        "long_title": "小智被风暴卷入海底",
+                        "pub_time": 1648283029,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段6 小智被风暴卷入海底",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476680",
+                        "short_link": "https://b23.tv/ep476680",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 7,
+                            "play": 2345,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段6",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 382533936,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1tZ4y1B7Jk",
+                        "cid": 559337507,
+                        "cover": "http://i0.hdslb.com/bfs/archive/08d1ceb397af51c2ad875860444fbdf9d170c534.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 32000,
+                        "from": "bangumi",
+                        "id": 476681,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476681?theme=movie",
+                        "long_title": "冒险参加宝可梦对决",
+                        "pub_time": 1648283594,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段7 冒险参加宝可梦对决",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476681",
+                        "short_link": "https://b23.tv/ep476681",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 9,
+                            "play": 2223,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段7",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 552570617,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ki4y1k729",
+                        "cid": 559338743,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0f06911b5593e1021233468d80c517f2f2c07e82.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 45000,
+                        "from": "bangumi",
+                        "id": 476682,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476682?theme=movie",
+                        "long_title": "皮卡丘生气了",
+                        "pub_time": 1648283594,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段8 皮卡丘生气了",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476682",
+                        "short_link": "https://b23.tv/ep476682",
+                        "stat": {
+                            "coin": 14,
+                            "danmakus": 43,
+                            "likes": 8366,
+                            "play": 111561,
+                            "reply": 86
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段8",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 467606097,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1pL411A71E",
+                        "cid": 559350749,
+                        "cover": "http://i0.hdslb.com/bfs/archive/82233a43b6350ee74dd3bee5db678e8522a592c5.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 69000,
+                        "from": "bangumi",
+                        "id": 476696,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476696?theme=movie",
+                        "long_title": "皮卡丘命悬一线",
+                        "pub_time": 1648310980,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段9 皮卡丘命悬一线",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476696",
+                        "short_link": "https://b23.tv/ep476696",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 5,
+                            "play": 3204,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段9",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 767501971,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1xr4y1q7tz",
+                        "cid": 559366052,
+                        "cover": "http://i0.hdslb.com/bfs/archive/dce9b695e06dd3d6e33303b4a6d88669a8a7fd78.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 38000,
+                        "from": "bangumi",
+                        "id": 476697,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476697?theme=movie",
+                        "long_title": "杰尼龟好可爱",
+                        "pub_time": 1648310980,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段10 杰尼龟好可爱",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476697",
+                        "short_link": "https://b23.tv/ep476697",
+                        "stat": {
+                            "coin": 4,
+                            "danmakus": 12,
+                            "likes": 1269,
+                            "play": 35432,
+                            "reply": 39
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段10",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 255014349,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1PY411H7EC",
+                        "cid": 559374481,
+                        "cover": "http://i0.hdslb.com/bfs/archive/8b26e61ef7b088b25dc5a7fa2ef0dc88c4371552.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 63000,
+                        "from": "bangumi",
+                        "id": 476698,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476698?theme=movie",
+                        "long_title": "皮卡丘遍体鳞伤",
+                        "pub_time": 1648310980,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段11 皮卡丘遍体鳞伤",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476698",
+                        "short_link": "https://b23.tv/ep476698",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 2,
+                            "likes": 8,
+                            "play": 5178,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段11",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 725113204,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1vS4y127eN",
+                        "cid": 559384118,
+                        "cover": "http://i0.hdslb.com/bfs/archive/c1cc5c8dbc05be9597b263f95acea6ad7ef181ee.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 117000,
+                        "from": "bangumi",
+                        "id": 476699,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep476699?theme=movie",
+                        "long_title": "皮卡丘拼尽全力救小智",
+                        "pub_time": 1648310980,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》片段12 皮卡丘拼尽全力救小智",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep476699",
+                        "short_link": "https://b23.tv/ep476699",
+                        "stat": {
+                            "coin": 93,
+                            "danmakus": 179,
+                            "likes": 9943,
+                            "play": 127800,
+                            "reply": 115
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "片段12",
+                        "vid": ""
+                    }
+                ],
+                "id": 60717,
+                "title": "预告花絮",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 385596056,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1JZ4y1v7Jx",
+                        "cid": 764168987,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_883b0699f1bb4e49b2b11cbd131c00b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567695,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567695?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656990576,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》宝可梦：超梦的逆袭 进化 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567695",
+                        "short_link": "https://b23.tv/ep567695",
+                        "stat": {
+                            "coin": 12,
+                            "danmakus": 12,
+                            "likes": 785,
+                            "play": 16978,
+                            "reply": 12
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "宝可梦：超梦的逆袭 进化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 685555133,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mU4y1S7Eg",
+                        "cid": 764170529,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_6fcd7c5099b046a59fab1c2a0723e7b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567720,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567720?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656990721,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》宝可梦：超梦的逆袭 进化 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567720",
+                        "short_link": "https://b23.tv/ep567720",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 471,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "宝可梦：超梦的逆袭 进化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 600537816,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1iB4y1W7y7",
+                        "cid": 764171993,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_6437b847b1e54fe8a60e65ac9a9f90b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567726,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567726?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656990939,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《宝可梦：超梦的逆袭 进化》宝可梦：超梦的逆袭 进化 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567726",
+                        "short_link": "https://b23.tv/ep567726",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 2,
+                            "likes": 225,
+                            "play": 6763,
+                            "reply": 4
+                        },
+                        "status": 2,
+                        "subtitle": "已观看968.3万次",
+                        "title": "宝可梦：超梦的逆袭 进化",
+                        "vid": ""
+                    }
+                ],
+                "id": 81737,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3453,
+            "series_title": "精灵宝可梦 剧场版"
+        },
+        "share_copy": "《宝可梦：超梦的逆袭 进化》宝可梦首部3D动画",
+        "share_sub_title": "宝可梦首部3D动画",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39034",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/5f7390efcd923355434e01003795d09c99b5a6d6.png",
+        "stat": {
+            "coins": 12797,
+            "danmakus": 42314,
+            "favorite": 10566,
+            "favorites": 424928,
+            "likes": 85759,
+            "reply": 5556,
+            "share": 7582,
+            "views": 9682672
+        },
+        "status": 13,
+        "subtitle": "已观看968.3万次",
+        "title": "宝可梦：超梦的逆袭 进化",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815763,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

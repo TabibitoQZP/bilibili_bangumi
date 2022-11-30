@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/140bacf044bb0c0841bd1f0e4fc682d037f73f88.jpg",
+        "episodes": [
+            {
+                "aid": 18806005,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iW411e7eS",
+                "cid": 30671996,
+                "cover": "http://i0.hdslb.com/bfs/archive/183a8a544154bdac36e9401cc589092bd45c784b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1425000,
+                "from": "bangumi",
+                "id": 192287,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192287",
+                "long_title": "如今在古老边狱之底",
+                "pub_time": 1517070600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第1话 如今在古老边狱之底",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192287",
+                "short_link": "https://b23.tv/ep192287",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1287
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5281.9万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 19108027,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19W411H7bF",
+                "cid": 31167986,
+                "cover": "http://i0.hdslb.com/bfs/archive/96ffba03a16234d8ed6b683d2a4b3ad1112389ea.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192288,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192288",
+                "long_title": "死相 Dead Face",
+                "pub_time": 1517675400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第2话 死相 Dead Face",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192288",
+                "short_link": "https://b23.tv/ep192288",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 45
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 19419061,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RW411776G",
+                "cid": 31785472,
+                "cover": "http://i0.hdslb.com/bfs/archive/6c5ef30f5797bc10f8caa8797e473bee56fb7d91.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 192289,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192289",
+                "long_title": "黄金鹿与暴风夜",
+                "pub_time": 1518280200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第3话 黄金鹿与暴风夜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192289",
+                "short_link": "https://b23.tv/ep192289",
+                "skip": {
+                    "ed": {
+                        "end": 1478,
+                        "start": 1387
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 49
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 19716833,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11W411j7Rs",
+                "cid": 32149022,
+                "cover": "http://i0.hdslb.com/bfs/archive/ea931f2411f1f4ee6314100c88ba1d4f38854ab3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1419000,
+                "from": "bangumi",
+                "id": 192290,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192290",
+                "long_title": "无貌之王 No Face May King",
+                "pub_time": 1518885000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第4话 无貌之王 No Face May King",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192290",
+                "short_link": "https://b23.tv/ep192290",
+                "skip": {
+                    "ed": {
+                        "end": 1368,
+                        "start": 1277
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 96
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 20015090,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HW41147CD",
+                "cid": 32797291,
+                "cover": "http://i0.hdslb.com/bfs/archive/f651e8e3ee225f3a81c516624dae2476d09b0a0c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192291,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192291",
+                "long_title": "祈祷之弓 -Yew Bow-",
+                "pub_time": 1519489740,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第5话 祈祷之弓 -Yew Bow-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192291",
+                "short_link": "https://b23.tv/ep192291",
+                "skip": {
+                    "ed": {
+                        "end": 1396,
+                        "start": 1304
+                    },
+                    "op": {
+                        "end": 392,
+                        "start": 301
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 20328763,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tW411x7vM",
+                "cid": 33212313,
+                "cover": "http://i0.hdslb.com/bfs/archive/8617c5d71acdb04a13a7886f156592984202635f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192292,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192292",
+                "long_title": "永久机关·少女帝国 -Queen's Glass Game-",
+                "pub_time": 1520094600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第6话 永久机关·少女帝国 -Queen's Glass Game-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192292",
+                "short_link": "https://b23.tv/ep192292",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 69
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 20611541,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VW411s769",
+                "cid": 94470637,
+                "cover": "http://i0.hdslb.com/bfs/archive/64168bba20c5995105212fedbb38273e4197ea29.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192293,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192293",
+                "long_title": "为某人所写的故事-Nursery Rhyme-",
+                "pub_time": 1520699400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第7话 为某人所写的故事-Nursery Rhyme-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192293",
+                "short_link": "https://b23.tv/ep192293",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 139,
+                        "start": 47
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 20886199,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oW411p7hP",
+                "cid": 34225015,
+                "cover": "http://i0.hdslb.com/bfs/archive/9ad80dcd79a0e2a7ae93927f980a09d39666c9cc.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192294,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192294",
+                "long_title": "无二打 -Dead End-",
+                "pub_time": 1521304200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第8话 无二打 -Dead End-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192294",
+                "short_link": "https://b23.tv/ep192294",
+                "skip": {
+                    "ed": {
+                        "end": 1264,
+                        "start": 1173
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 71
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 21177113,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1FW41137mm",
+                "cid": 34772823,
+                "cover": "http://i0.hdslb.com/bfs/archive/637d21b830158cb6dbcd4b07811bc7f1a6155b9e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1490000,
+                "from": "bangumi",
+                "id": 192295,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192295",
+                "long_title": "邀至心荡神驰的黄金剧场 -Aestus Domus Aurea-",
+                "pub_time": 1521909000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第9话 邀至心荡神驰的黄金剧场 -Aestus Domus Aurea-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192295",
+                "short_link": "https://b23.tv/ep192295",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 21469085,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UW411u7Aq",
+                "cid": 35332704,
+                "cover": "http://i0.hdslb.com/bfs/archive/646ee433ce5b79ca50829945b3535b2c43148f35.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 192296,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192296",
+                "long_title": "无限的残骸-Unlimited / Raise Dead-",
+                "pub_time": 1522513800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第10话 无限的残骸-Unlimited / Raise Dead-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192296",
+                "short_link": "https://b23.tv/ep192296",
+                "skip": {
+                    "ed": {
+                        "end": 1384,
+                        "start": 1290
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 28030784,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411P7Be",
+                "cid": 48432040,
+                "cover": "http://i0.hdslb.com/bfs/archive/c6db802c2077c1e089767d22786092ff8f1e61fa.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1514097,
+                "from": "bangumi",
+                "id": 192297,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192297",
+                "long_title": "轮转胜利之剑 -Excalibur Gallatin-",
+                "pub_time": 1532869200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第11话 轮转胜利之剑 -Excalibur Gallatin-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192297",
+                "short_link": "https://b23.tv/ep192297",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 28031266,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411P7Gk",
+                "cid": 48433021,
+                "cover": "http://i0.hdslb.com/bfs/archive/860eceab5f859b1af0180e365a622ba62c3cf6d2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1424131,
+                "from": "bangumi",
+                "id": 192298,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192298",
+                "long_title": "天轮圣王 -Chakravartin-",
+                "pub_time": 1532869200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》第12话 天轮圣王 -Chakravartin-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192298",
+                "short_link": "https://b23.tv/ep192298",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 28032610,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vs411P7ZH",
+                "cid": 48435343,
+                "cover": "http://i0.hdslb.com/bfs/archive/1611827a3c084b56fa7687902965cc0173b9a68a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 2864364,
+                "from": "bangumi",
+                "id": 192299,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep192299",
+                "long_title": "喝彩的玫瑰 -Olympia Plaudere-",
+                "pub_time": 1532869200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/EXTRA Last Encore》最终话 喝彩的玫瑰 -Olympia Plaudere-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep192299",
+                "short_link": "https://b23.tv/ep192299",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5281.9万次",
+                "title": "最终话",
+                "vid": ""
+            }
+        ],
+        "evaluate": "那是，在被忘却的月球上开演的“EXTRA”之物语。 存在于月球的，拥有能实现任何愿望之力量的灵子计算机“Mooncell Automaton”。 构筑于Mooncell内部的灵子虚构世界“SE.RA.PH”。 赌上“圣杯”，由魔术师与英灵引发的新的月之圣杯战争，开演。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md8772/",
+        "media_id": 8772,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 192299,
+            "is_new": 0,
+            "title": "最终话"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 30419,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-01-28 00:30:00",
+            "pub_time_show": "2018年01月28日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 41287,
+            "score": 8.8
+        },
+        "record": "登记号：10417060210512912",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 21464,
+        "season_title": "Fate/EXTRA Last Encore",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/140bacf044bb0c0841bd1f0e4fc682d037f73f88.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8772,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1611827a3c084b56fa7687902965cc0173b9a68a.jpg",
+                    "id": 192299,
+                    "index_show": "全13话"
+                },
+                "season_id": 21464,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3096369,
+                    "series_follow": 3096369,
+                    "views": 52819325
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3862,
+            "series_title": "Fate/EXTRA"
+        },
+        "share_copy": "《Fate/EXTRA Last Encore》圣杯战争又开始了",
+        "share_sub_title": "圣杯战争又开始了",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss21464",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/9b48a85cee18cc97b491016392b684842659fd96.jpg",
+        "stat": {
+            "coins": 170074,
+            "danmakus": 890888,
+            "favorite": 10402,
+            "favorites": 3096369,
+            "likes": 175003,
+            "reply": 291609,
+            "share": 61887,
+            "views": 52819325
+        },
+        "status": 13,
+        "subtitle": "已观看5281.9万次",
+        "title": "Fate/EXTRA Last Encore",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

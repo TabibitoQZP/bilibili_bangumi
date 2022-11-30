@@ -1,0 +1,858 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/001e443cccb18ce2e10d2879c04eb4b30facade9.png",
+        "episodes": [
+            {
+                "aid": 39997050,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yt411x74x",
+                "cid": 70251497,
+                "cover": "http://i0.hdslb.com/bfs/archive/0444ea8dadf9c322e60b98026116151e56772062.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420115,
+                "from": "bangumi",
+                "id": 259915,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259915",
+                "long_title": "EYE'S Y'S Shout",
+                "pub_time": 1546709400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第1话 EYE'S Y'S Shout",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259915",
+                "short_link": "https://b23.tv/ep259915",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1161.9万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 40594137,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xt411W72P",
+                "cid": 71295388,
+                "cover": "http://i0.hdslb.com/bfs/archive/eedb86dc0bdeefe94639dbed65752f114078693a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259916,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259916",
+                "long_title": "ShE SaW Soul",
+                "pub_time": 1547314200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第2话 ShE SaW Soul",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259916",
+                "short_link": "https://b23.tv/ep259916",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 257,
+                        "start": 197
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 41167035,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vt41187kg",
+                "cid": 72306197,
+                "cover": "http://i0.hdslb.com/bfs/archive/1229d6628957f1dbd570d413fdd870ef676600ac.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259917,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259917",
+                "long_title": "Cafe CUP PUCk",
+                "pub_time": 1547919000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第3话 Cafe CUP PUCk",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259917",
+                "short_link": "https://b23.tv/ep259917",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 186,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 41799368,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rt41147vy",
+                "cid": 73388370,
+                "cover": "http://i0.hdslb.com/bfs/archive/2e83bcb2f7e88efde83a44865632048ef32de95a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259918,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259918",
+                "long_title": "FOuR FOR FORce",
+                "pub_time": 1548523800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第4话 FOuR FOR FORce",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259918",
+                "short_link": "https://b23.tv/ep259918",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 42421281,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zb411k7y9",
+                "cid": 74443783,
+                "cover": "http://i0.hdslb.com/bfs/archive/aee2ce38fe09ab97ca96fce9bbc738bd12f39549.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259919,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259919",
+                "long_title": "Turn Time gear",
+                "pub_time": 1549128600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第5话 Turn Time gear",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259919",
+                "short_link": "https://b23.tv/ep259919",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 236,
+                        "start": 146
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 43069093,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mb411S7DP",
+                "cid": 75516651,
+                "cover": "http://i0.hdslb.com/bfs/archive/60a54ebb9c87e7148d0bdc483e46b3ac2a79b9d6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259920,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259920",
+                "long_title": "Cherry lily Cam",
+                "pub_time": 1549733400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第6话 Cherry lily Cam",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259920",
+                "short_link": "https://b23.tv/ep259920",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 287,
+                        "start": 197
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 43797328,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zb411y7za",
+                "cid": 76732629,
+                "cover": "http://i0.hdslb.com/bfs/archive/38dad0fc8bdce68334a2612715141ce4b9a95a80.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259921,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259921",
+                "long_title": "Get back boys",
+                "pub_time": 1550338200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第7话 Get back boys",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259921",
+                "short_link": "https://b23.tv/ep259921",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 44523206,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15b411a7By",
+                "cid": 77947690,
+                "cover": "http://i0.hdslb.com/bfs/archive/0f2be4e3ad8f9386a906ba3d094e8ae2f007b5c8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259922,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259922",
+                "long_title": "NO kNOw Noise",
+                "pub_time": 1550943000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第8话 NO kNOw Noise",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259922",
+                "short_link": "https://b23.tv/ep259922",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 108,
+                        "start": 18
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 45155652,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hb411B7a8",
+                "cid": 79074657,
+                "cover": "http://i0.hdslb.com/bfs/archive/c2243ccb67cb23f97c38cd8dbaad0a018d845031.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259923,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259923",
+                "long_title": "GReen GROss GROOvy",
+                "pub_time": 1551547800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第9话 GReen GROss GROOvy",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259923",
+                "short_link": "https://b23.tv/ep259923",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 186,
+                        "start": 96
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 45831706,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17b411i7NA",
+                "cid": 80310427,
+                "cover": "http://i0.hdslb.com/bfs/archive/7634004ca0db634fad69c1e86d03b6c2b3f1bf8e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259924,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259924",
+                "long_title": "DUDDYbUDDYriDe",
+                "pub_time": 1552152600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第10话 DUDDYbUDDYriDe",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259924",
+                "short_link": "https://b23.tv/ep259924",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 46496484,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xb411J7ce",
+                "cid": 81458915,
+                "cover": "http://i0.hdslb.com/bfs/archive/e00574be9e1c5d592480ac979f4ab12a27ae8ce0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259925,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259925",
+                "long_title": "CHurch CHat CHatl",
+                "pub_time": 1552757400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第11话 CHurch CHat CHatl",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259925",
+                "short_link": "https://b23.tv/ep259925",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 47152520,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Db411771L",
+                "cid": 82581791,
+                "cover": "http://i0.hdslb.com/bfs/archive/cbcad4160d7165333eff5b14e00ad0cb0058b1e6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259926,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259926",
+                "long_title": "HI HOO HOOliganl",
+                "pub_time": 1553362200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第12话 HI HOO HOOliganl",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259926",
+                "short_link": "https://b23.tv/ep259926",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 47817556,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mb411s796",
+                "cid": 83759438,
+                "cover": "http://i0.hdslb.com/bfs/archive/946a3fe03db1306b2f69c7c7af6e45076b2955df.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1391000,
+                "from": "bangumi",
+                "id": 259927,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259927",
+                "long_title": "My wish is surely",
+                "pub_time": 1553967000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第13话 My wish is surely",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259927",
+                "short_link": "https://b23.tv/ep259927",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 48535707,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fb411u7u5",
+                "cid": 85001641,
+                "cover": "http://i0.hdslb.com/bfs/archive/61681c313bc47259703034e61d99c2711bc25825.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 266837,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep266837",
+                "long_title": "(#00)",
+                "pub_time": 1554571800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《W'Z》第14话 (#00)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep266837",
+                "short_link": "https://b23.tv/ep266837",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 90
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1161.9万次",
+                "title": "14",
+                "vid": ""
+            }
+        ],
+        "evaluate": "荒城幸也，大概14岁。\n平常一个人在做DJ。\n因为受到父母的影响，从小开始就一直在听HouseMusic……也经常上传音乐视频。\n想要向某人传达些什么。\n想要受到认同，想要成为必要之人。但很害怕受伤。\n有什么地方不和谐的日常……\n某天，为了增加点击数而做的事情，却成了无法挽回的事态。来自“那个世界”的直播。\n以此为契机，我被人给盯上，被卷入了人们的愿望和心意的漩涡当中。独自一人束手无策的状况……\n但是，只要有谁和我一起的话。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5346052/",
+        "media_id": 5346052,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全14话",
+            "id": 266837,
+            "is_new": 0,
+            "title": "14"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 35710,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-06 01:30:00",
+            "pub_time_show": "2019年01月06日01:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2308,
+            "score": 8.5
+        },
+        "record": "登记号：10417060214222112",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 341,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26301,
+        "season_title": "W'Z",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/001e443cccb18ce2e10d2879c04eb4b30facade9.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5346052,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/61681c313bc47259703034e61d99c2711bc25825.jpg",
+                    "id": 266837,
+                    "index_show": "全14话"
+                },
+                "season_id": 26301,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 726188,
+                    "series_follow": 726188,
+                    "views": 11618652
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4285,
+            "series_title": "W'z"
+        },
+        "share_copy": "《W'Z》DJ也能战斗！",
+        "share_sub_title": "DJ也能战斗！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26301",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8f0d5f8d121cb88abd1adfcf9b235801a160fbc7.jpg",
+        "stat": {
+            "coins": 27056,
+            "danmakus": 77736,
+            "favorite": 11238,
+            "favorites": 726188,
+            "likes": 63309,
+            "reply": 18917,
+            "share": 5150,
+            "views": 11618652
+        },
+        "status": 13,
+        "subtitle": "已观看1161.9万次",
+        "title": "W'Z",
+        "total": 14,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

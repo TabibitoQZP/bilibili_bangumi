@@ -1,0 +1,233 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/31edd4666305df721e9ec4c5cfe907f5410f1ede.png",
+        "episodes": [
+            {
+                "aid": 583840117,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18z4y1D7Ds",
+                "cid": 210831257,
+                "cover": "http://i0.hdslb.com/bfs/archive/95c409b3e7e6ac49e9e24802ca699a0fb3688635.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6928000,
+                "from": "bangumi",
+                "id": 331878,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep331878",
+                "long_title": "",
+                "pub_time": 1594638120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《生日乐园》",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep331878",
+                "short_link": "https://b23.tv/ep331878",
+                "skip": {
+                    "ed": {
+                        "end": 6927,
+                        "start": 6683
+                    },
+                    "op": {
+                        "end": 32,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看28.6万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "影片改编自柏叶幸子销量超过五十万部的畅销小说——《地下室开始的奇妙旅行》。\r\n在缺乏自信的少女茜生日的前一天，谜一样的大炼金术师与其弟子出现在她面前。他们拜托茜去拯救自己的世界，在没有得到茜同意的情况下，通过古董店地下室的门，将她强行带到了另一个世界“满溢幸福色彩的奇境”。在这个居住着不可思议的动物与人的世界中，色彩消失了。被选为守护世界的救世主的茜在大冒险的结束之前，改变人生的决断是什么？一生仅有一次的，特殊又奇妙的生日即将开始。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229462/",
+        "media_id": 28229462,
+        "mode": 1,
+        "new_ep": {
+            "desc": "已完结，共1话",
+            "id": 331878,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 48922,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-07-13 00:00:01",
+            "pub_time_show": "2020年7月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 278,
+            "score": 8.8
+        },
+        "record": "登记号：10417060204022306",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34023,
+        "season_title": "生日乐园",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/31edd4666305df721e9ec4c5cfe907f5410f1ede.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229462,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/95c409b3e7e6ac49e9e24802ca699a0fb3688635.png",
+                    "id": 331878,
+                    "index_show": "全1话"
+                },
+                "season_id": 34023,
+                "season_title": "正片",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 47620,
+                    "series_follow": 47620,
+                    "views": 285771
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5054,
+            "series_title": "生日乐园"
+        },
+        "share_copy": "《生日乐园》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34023",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/42e10d57208ffb65640f0fb4939d0252e79c50a0.webp",
+        "stat": {
+            "coins": 1082,
+            "danmakus": 1786,
+            "favorite": 1874,
+            "favorites": 47620,
+            "likes": 6434,
+            "reply": 577,
+            "share": 411,
+            "views": 285771
+        },
+        "status": 13,
+        "subtitle": "已观看28.6万次",
+        "title": "生日乐园",
+        "total": -1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/adea2035933fe8f62a66fc6d6a98e5d380de9b90.jpg",
+        "episodes": [
+            {
+                "aid": 4360641,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12s411z7N9",
+                "cid": 7058481,
+                "cover": "http://i1.hdslb.com/bfs/archive/7b4977c71a2d19c9c44ce6572f49040c3a62ef02.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 5394000,
+                "from": "bangumi",
+                "id": 86059,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86059?theme=movie",
+                "long_title": "境界的彼方 -I'LL BE HERE-  未来篇",
+                "pub_time": 1460612176,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《电影版 境界的彼方未来篇》第1话 境界的彼方 -I'LL BE HERE-  未来篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86059",
+                "short_link": "https://b23.tv/ep86059",
+                "skip": {
+                    "ed": {
+                        "end": 5393,
+                        "start": 5056
+                    },
+                    "op": {
+                        "end": 29,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看897.8万次",
+                "title": "1",
+                "vid": "vupload_7058481"
+            }
+        ],
+        "evaluate": "【本片翻译由幻之字幕组提供】本片于2015年4月25日于日本上映，延续了TV版剧情一年后的事。一年后，栗山未来同学复活后失去记忆。秋人同学在新学期为着栗山同学的未来着想，开始疏远栗山同学，在新的战斗中栗山同学再次表明自己对秋人同学的情感，他们对未来又将会作出如何选择。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2844/",
+        "media_id": 2844,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 86059,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19749,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-04-25 00:00:00",
+            "pub_time_show": "2015年04月25日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 9026,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2844,
+        "season_title": "电影版 境界的彼方未来篇",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92824bc6a8c7aabbf494c0b276d4aa7b70842976.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3365,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e18fc47f32d5ef0928f36f3aeb1865c7383ed2cd.jpg",
+                    "id": 84439,
+                    "index_show": "全12话"
+                },
+                "season_id": 3365,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4151056,
+                    "series_follow": 4389467,
+                    "views": 52213406
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f55c60640833ea72933746a21cb87ddca9454eb3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3366,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/7b4977c71a2d19c9c44ce6572f49040c3a62ef02.jpg",
+                    "id": 104935,
+                    "index_show": "全1话"
+                },
+                "season_id": 3366,
+                "season_title": "过去篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 765875,
+                    "series_follow": 4389467,
+                    "views": 8287145
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/adea2035933fe8f62a66fc6d6a98e5d380de9b90.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2844,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/7b4977c71a2d19c9c44ce6572f49040c3a62ef02.jpg",
+                    "id": 86059,
+                    "index_show": "全1话"
+                },
+                "season_id": 2844,
+                "season_title": "未来篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 952540,
+                    "series_follow": 4389467,
+                    "views": 8977702
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1154,
+            "series_title": "境界的彼方"
+        },
+        "share_copy": "《电影版 境界的彼方未来篇》缘与情",
+        "share_sub_title": "缘与情",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2844",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/299031e28b9fed6b8124cfa29e755c71592a0df3.jpg",
+        "stat": {
+            "coins": 113742,
+            "danmakus": 380905,
+            "favorite": 6574,
+            "favorites": 952540,
+            "likes": 51893,
+            "reply": 11099,
+            "share": 8689,
+            "views": 8977702
+        },
+        "status": 13,
+        "subtitle": "已观看897.8万次",
+        "title": "电影版 境界的彼方未来篇",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

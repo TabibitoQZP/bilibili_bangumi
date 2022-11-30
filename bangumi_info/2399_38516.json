@@ -1,0 +1,359 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/519cb958b9f008e9401a7f5ebcc5bceb4800acb5.png",
+        "episodes": [
+            {
+                "aid": 503374831,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rg41137th",
+                "cid": 346050538,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/330e898e5a8fc13e426661e3d1cb2ae1c8dc2d5b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6065000,
+                "from": "bangumi",
+                "id": 403814,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep403814",
+                "long_title": "",
+                "pub_time": 1622512801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《轻松小熊和小薰》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep403814",
+                "short_link": "https://b23.tv/ep403814",
+                "skip": {
+                    "ed": {
+                        "end": 6064,
+                        "start": 5895
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看23.8万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "有点糊涂的30岁女性小薰，是在东京都内一家小商社工作的普通OL。她的一切都和普通人一样平凡，唯一有点特别的是，她每天和懒散又喜欢恶作剧的轻松小熊、还有擅长打扫卫生的小黄鸡一起生活。30岁的小薰在工作和生活上都正在经历微妙的“艰难时刻”，现实生活事事不顺，唯有在梦里才能一展心愿。对自己认真的性格稍微抱有自卑感的小薰，不知不觉间，和轻松小熊以及它的小伙伴们一起度过了丰富多彩的一年，小薰自身也悄然发生了些许改变。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234203/",
+        "media_id": 28234203,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 403814,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 58410,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-06-01 10:00:00",
+            "pub_time_show": "2021年06月01日10:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 484,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38516,
+        "season_title": "轻松小熊和小薰",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/519cb958b9f008e9401a7f5ebcc5bceb4800acb5.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234203,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/image/330e898e5a8fc13e426661e3d1cb2ae1c8dc2d5b.png",
+                    "id": 403814,
+                    "index_show": "全1话"
+                },
+                "season_id": 38516,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 29548,
+                    "series_follow": 29548,
+                    "views": 237852
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 588303496,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1LB4y1u7rL",
+                        "cid": 344696221,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d2d4f0eed592b4d5757ac26f4c19981709e366cd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 39000,
+                        "from": "bangumi",
+                        "id": 404831,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep404831",
+                        "long_title": "",
+                        "pub_time": 1622089800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《轻松小熊和小薰》预告1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep404831",
+                        "short_link": "https://b23.tv/ep404831",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 43,
+                            "danmakus": 16,
+                            "likes": 563,
+                            "play": 26599,
+                            "reply": 34
+                        },
+                        "status": 2,
+                        "subtitle": "已观看23.8万次",
+                        "title": "预告1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 375796825,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mo4y117QK",
+                        "cid": 344696655,
+                        "cover": "http://i0.hdslb.com/bfs/archive/7218d88ef231d1f4c04f29b3c70e9644c634c440.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 64000,
+                        "from": "bangumi",
+                        "id": 404832,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep404832",
+                        "long_title": "",
+                        "pub_time": 1622089800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《轻松小熊和小薰》预告2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep404832",
+                        "short_link": "https://b23.tv/ep404832",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 27,
+                            "danmakus": 10,
+                            "likes": 433,
+                            "play": 15536,
+                            "reply": 25
+                        },
+                        "status": 2,
+                        "subtitle": "已观看23.8万次",
+                        "title": "预告2",
+                        "vid": ""
+                    }
+                ],
+                "id": 60081,
+                "title": "预告",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5472,
+            "series_title": "轻松小熊和小薰"
+        },
+        "share_copy": "《轻松小熊和小薰》治愈每一个忙碌的你",
+        "share_sub_title": "治愈每一个忙碌的你",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38516",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/5b5e769bcfa1e36fff7b8643dd860d8bcf1dedeb.png",
+        "stat": {
+            "coins": 2788,
+            "danmakus": 2797,
+            "favorite": 1911,
+            "favorites": 29548,
+            "likes": 9842,
+            "reply": 408,
+            "share": 2135,
+            "views": 237852
+        },
+        "status": 13,
+        "subtitle": "已观看23.8万次",
+        "title": "轻松小熊和小薰",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

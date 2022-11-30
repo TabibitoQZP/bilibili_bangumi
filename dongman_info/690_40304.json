@@ -1,0 +1,178 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1210,
+            "title": "AME影视专区"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7f54d4fd3eca045683d57c08d4d7ee9b48540b15.png",
+        "episodes": [
+            {
+                "aid": 764581989,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cr4y1X7jv",
+                "cid": 452007708,
+                "cover": "http://i0.hdslb.com/bfs/archive/4ca1750092d567e7384a09fe2d15a494bcfb3122.png",
+                "dimension": {
+                    "height": 2160,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 540000,
+                "from": "bangumi",
+                "id": 443489,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep443489?theme=movie",
+                "long_title": "",
+                "pub_time": 1639573201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《荆棘鸟》一生仅一次的绝唱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep443489",
+                "short_link": "https://b23.tv/ep443489",
+                "status": 2,
+                "subtitle": "已观看24万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "传说中有这么一种鸟，它一生只唱一次歌，究其一生寻找荆棘树，用最尖最长的荆棘刺穿喉咙，完成一生仅一次的绝唱。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236008/",
+        "media_id": 28236008,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2021上映",
+            "id": 443489,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 63562,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-12-15 21:00:00",
+            "pub_time_show": "2021年12月15日21:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 111,
+            "score": 9.1
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40304,
+        "season_title": "荆棘鸟",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《荆棘鸟》一生仅一次的绝唱",
+        "share_sub_title": "一生仅一次的绝唱",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40304",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/2900c1f15c1b84cef160633e7e03a6e2526d5fee.png",
+        "stat": {
+            "coins": 2005,
+            "danmakus": 350,
+            "favorite": 4628,
+            "favorites": 26369,
+            "likes": 7263,
+            "reply": 274,
+            "share": 694,
+            "views": 239505
+        },
+        "status": 2,
+        "subtitle": "已观看24万次",
+        "title": "荆棘鸟",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/d89c4acc3168187f081dcf1cdbb6a48a493282da.jpg",
+            "avatar_subscript_url": "",
+            "follower": 14005,
+            "is_follow": 0,
+            "mid": 353488692,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "AME影视计划",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

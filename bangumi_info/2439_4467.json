@@ -1,0 +1,186 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c882ad6a4009e48b40fccb53d35a15a0029e4ff5.jpg",
+        "episodes": [
+            {
+                "aid": 2589119,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs411S7rb",
+                "cid": 4043813,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92c235a5335ab327a11ee065cac5cdef9aafccb3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 630000,
+                "from": "bangumi",
+                "id": 88952,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88952",
+                "long_title": "",
+                "pub_time": 1465182771,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《桥的那一边》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88952",
+                "short_link": "https://b23.tv/ep88952",
+                "skip": {
+                    "ed": {
+                        "end": 630,
+                        "start": 586
+                    },
+                    "op": {
+                        "end": 4,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看57.6万次",
+                "title": "1",
+                "vid": "vupload_4043813"
+            }
+        ],
+        "evaluate": "本部以战争为背景题材的剧情动画短片，围绕女主人公青柳音羽展开，讲述了一段游走在战火纷飞的残酷现实与儿时回忆中的诡异事件之间的故事。青柳音羽是一名记者，作为战地记者参与到一次贫民暴乱的镇压行动中，却意外地和宪兵队卷入战斗中。青柳音羽发现此处就是儿时和朋友一起冒险过的地方，朋友穿过这座桥之后，就神秘失踪了。此时的青柳音羽，恍然间看见了朋友被人贩子领走的画面。而更恐怖的是，巨型机器人正在向她发起攻击，失踪的孩子们也都成了凶狠残忍的帮凶……一声枪响惊醒了昏迷的青柳音羽，幸好只是个梦。 \n　　战争结束后，宪兵在肉团子铺看见了神情恍惚的青柳音羽，她说她要再过桥去寻找一下消失的孩子们。话音未落，正在吃肉团的宪兵队长就在肉团中发现了惊人的东西……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4467/",
+        "media_id": 4467,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 88952,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21443,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-09-21 00:00:01",
+            "pub_time_show": "2012年9月21日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4467,
+        "season_title": "桥的那一边",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c882ad6a4009e48b40fccb53d35a15a0029e4ff5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4467,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/92c235a5335ab327a11ee065cac5cdef9aafccb3.jpg",
+                    "id": 88952,
+                    "index_show": "全1话"
+                },
+                "season_id": 4467,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 27139,
+                    "series_follow": 27139,
+                    "views": 575519
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2576,
+            "series_title": "桥的那一边"
+        },
+        "share_copy": "《桥的那一边》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4467",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/580b1c359207c7d47affff9a150c41151ee16200.jpg",
+        "stat": {
+            "coins": 202,
+            "danmakus": 606,
+            "favorite": 30,
+            "favorites": 27139,
+            "likes": 256,
+            "reply": 208,
+            "share": 396,
+            "views": 575519
+        },
+        "status": 2,
+        "subtitle": "已观看57.6万次",
+        "title": "桥的那一边",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

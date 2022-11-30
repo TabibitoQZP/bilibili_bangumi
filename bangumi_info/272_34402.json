@@ -1,0 +1,783 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f2ebcd79e5ca8ae397b368cd52fb6846d7bb467a.png",
+        "episodes": [
+            {
+                "aid": 287458728,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bf4y1B7xe",
+                "cid": 421700388,
+                "cover": "http://i0.hdslb.com/bfs/archive/b6e0ad5e1deca894551786f99c7f1c61a18c1189.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 341481,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341481",
+                "long_title": "降临之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第1话 降临之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341481",
+                "short_link": "https://b23.tv/ep341481",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4636.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 839971996,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1h54y1R7CA",
+                "cid": 421706853,
+                "cover": "http://i0.hdslb.com/bfs/archive/0503293828c4fc52ed2890beb608a91a7d611ef2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 341482,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341482",
+                "long_title": "曲调之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第2话 曲调之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341482",
+                "short_link": "https://b23.tv/ep341482",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 457554801,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV155411L7eF",
+                "cid": 421715200,
+                "cover": "http://i0.hdslb.com/bfs/archive/3e6e3e47b277aab8c88569bc9a31bb00ab5454d3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 341483,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341483",
+                "long_title": "天使坠落之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第3话 天使坠落之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341483",
+                "short_link": "https://b23.tv/ep341483",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 712538805,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TD4y197hp",
+                "cid": 421718736,
+                "cover": "http://i0.hdslb.com/bfs/archive/ee6aca10a7fa3a30e1f40df0af6e1599922568b5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1399000,
+                "from": "bangumi",
+                "id": 341484,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341484",
+                "long_title": "斗牌之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第4话 斗牌之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341484",
+                "short_link": "https://b23.tv/ep341484",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 330158306,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jA411j7Yu",
+                "cid": 421735227,
+                "cover": "http://i0.hdslb.com/bfs/archive/98dc22feb7d3450452280df89c30e6b426ff6c2a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 341485,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341485",
+                "long_title": "大魔法之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第5话 大魔法之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341485",
+                "short_link": "https://b23.tv/ep341485",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 627788448,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xt4y1e7pt",
+                "cid": 421735604,
+                "cover": "http://i0.hdslb.com/bfs/archive/8fdb2f16c2de4afd97e5af056a5032eab3549381.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 341486,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341486",
+                "long_title": "祭典之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第6话 祭典之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341486",
+                "short_link": "https://b23.tv/ep341486",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 712758037,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LD4y1R7fj",
+                "cid": 421741277,
+                "cover": "http://i0.hdslb.com/bfs/archive/cce05627752399e0cd45042ed241f5f8ae3edabc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 341487,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341487",
+                "long_title": "电影拍摄之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第7话 电影拍摄之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341487",
+                "short_link": "https://b23.tv/ep341487",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 542927636,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bi4y1V7Pt",
+                "cid": 421743506,
+                "cover": "http://i0.hdslb.com/bfs/archive/ab21d37de4d505135f1c3f78a0599edfcb70d586.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 341488,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341488",
+                "long_title": "去看海之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第8话 去看海之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341488",
+                "short_link": "https://b23.tv/ep341488",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 670481567,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aa4y1W7h9",
+                "cid": 421747815,
+                "cover": "http://i0.hdslb.com/bfs/archive/11895ed95bd7f241cbf6bcde295bb613de3390df.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1319000,
+                "from": "bangumi",
+                "id": 341489,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341489",
+                "long_title": "神灭之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第9话 神灭之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341489",
+                "short_link": "https://b23.tv/ep341489",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 245542175,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bv411b7c4",
+                "cid": 421782224,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b3be52ed62fa49cd116c9261dfb544378f3ca8a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1433000,
+                "from": "bangumi",
+                "id": 341490,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341490",
+                "long_title": "流逝之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第10话 流逝之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341490",
+                "short_link": "https://b23.tv/ep341490",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 245746065,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16v41147eq",
+                "cid": 421782788,
+                "cover": "http://i0.hdslb.com/bfs/archive/fa06613b331bfc593d8633a28e51b7856f1560c2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1428000,
+                "from": "bangumi",
+                "id": 341491,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341491",
+                "long_title": "游戏之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第11话 游戏之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341491",
+                "short_link": "https://b23.tv/ep341491",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 288347808,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ff4y1e7gt",
+                "cid": 421793255,
+                "cover": "http://i0.hdslb.com/bfs/archive/35e934a59b841166e8953df7515ad3d24c9dc9ef.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1402000,
+                "from": "bangumi",
+                "id": 341492,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341492",
+                "long_title": "你所选择之日",
+                "pub_time": 1633948200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《成神之日》第12话 你所选择之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341492",
+                "short_link": "https://b23.tv/ep341492",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4636.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在她成为神的那天，世界开始走向终结——\n高中最后的暑假，在成神阳太的眼前，突然有一天，自称“知晓一切的神”的少女雏出现了。\n“30天后，这个世界就会结束。”\n阳太对告知这样的消息感到困惑，但是看到神一样的预知能力，确信那个力量是真的。\n与超常的力量相反，天真烂漫、天真无邪的小雏，不知为何决定寄居在阳太的家中，两人共同生活。\n向着“世界末日”，喧闹的一个夏天开始了。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229870/",
+        "media_id": 28229870,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 341492,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 49903,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-10-11 00:30:00",
+            "pub_time_show": "2020年10月11日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 54195,
+            "score": 5.8
+        },
+        "record": "登记号：10417060214502810",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34402,
+        "season_title": "成神之日",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f2ebcd79e5ca8ae397b368cd52fb6846d7bb467a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229870,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/35e934a59b841166e8953df7515ad3d24c9dc9ef.jpg",
+                    "id": 341492,
+                    "index_show": "全12话"
+                },
+                "season_id": 34402,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2025170,
+                    "series_follow": 2025170,
+                    "views": 46360727
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5107,
+            "series_title": "成神之日"
+        },
+        "share_copy": "《成神之日》自称神的少女出现了",
+        "share_sub_title": "自称神的少女出现了",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34402",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/109660395c92b9889f0091041b5d32692f6abfae.jpg",
+        "stat": {
+            "coins": 282729,
+            "danmakus": 428243,
+            "favorite": 9018,
+            "favorites": 2025170,
+            "likes": 688065,
+            "reply": 92800,
+            "share": 46299,
+            "views": 46360727
+        },
+        "status": 13,
+        "subtitle": "已观看4636.1万次",
+        "title": "成神之日",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859943,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

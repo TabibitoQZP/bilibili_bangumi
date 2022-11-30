@@ -1,0 +1,896 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "cover": "http://i0.hdslb.com/bfs/bangumi/2ca10857cb220c589c3f55ee9fd52fe0903a9d5c.png",
+            "head_bg_url": "",
+            "id": 58,
+            "link": "http://www.bilibili.com/topic/1308.html",
+            "pendants": [
+                {
+                    "image": "http://i1.hdslb.com/bfs/face/5e0bc608afad4e02b9555e9a18281c385cc60160.png",
+                    "name": "哈啦咻",
+                    "pid": 20
+                }
+            ],
+            "title": "LL1"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/133030604f6d68986249fe34ba909c800eb685d5.jpg",
+        "episodes": [
+            {
+                "aid": 3300397,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zs411d78b",
+                "cid": 251884252,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e1ab4ff669b1ae0be2cef0df7b96aef836dcdf54.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 79879,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79879",
+                "long_title": "实现吧！我们的梦想——",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第1话 实现吧！我们的梦想——",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79879",
+                "short_link": "https://b23.tv/ep79879",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 75
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "1",
+                "vid": "vupload_5206636"
+            },
+            {
+                "aid": 891867823,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11P4y1G7Uh",
+                "cid": 251884598,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/729b8d308e9ce57d8bebe8ca70f04c5ab49834f3.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79880,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79880",
+                "long_title": "开始做偶像吧！",
+                "pub_time": 1448776500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第2话 开始做偶像吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79880",
+                "short_link": "https://b23.tv/ep79880",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 212,
+                        "start": 123
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "2",
+                "vid": "vupload_5206637"
+            },
+            {
+                "aid": 294359428,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1uF411a75W",
+                "cid": 251885139,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1ed0ca1194c8b182c1f294830aa3c45fae9cb80f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79881,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79881",
+                "long_title": "First Live",
+                "pub_time": 1448776500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第3话 First Live",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79881",
+                "short_link": "https://b23.tv/ep79881",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 214,
+                        "start": 125
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "3",
+                "vid": "vupload_5206638"
+            },
+            {
+                "aid": 806828040,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1T34y1o7ak",
+                "cid": 251885650,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/be33607b4ccc1ba611da15e1d15953d42fdbf520.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79882,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79882",
+                "long_title": "真姬凛花阳",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第4话 真姬凛花阳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79882",
+                "short_link": "https://b23.tv/ep79882",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 84
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "4",
+                "vid": "vupload_5206639"
+            },
+            {
+                "aid": 721851184,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15S4y1R7Y3",
+                "cid": 251885962,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9f2fd8baaa8496e974441cbaba0df50e750ddf17.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79883,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79883",
+                "long_title": "妮可袭来",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第5话 妮可袭来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79883",
+                "short_link": "https://b23.tv/ep79883",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 206,
+                        "start": 117
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "5",
+                "vid": "vupload_5206640"
+            },
+            {
+                "aid": 591848041,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12q4y167Cv",
+                "cid": 251886289,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/94e19fdd7ac8eb80d821d70f78bb0748d9f132f7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79884,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79884",
+                "long_title": "Center是谁？",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第6话 Center是谁？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79884",
+                "short_link": "https://b23.tv/ep79884",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 225,
+                        "start": 136
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "6",
+                "vid": "vupload_5206641"
+            },
+            {
+                "aid": 251856746,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1pY41147eL",
+                "cid": 251886828,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/54cf1c1779c3b181fb40fb2ba667e77d69ac833b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79885,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79885",
+                "long_title": "绘里",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第7话 绘里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79885",
+                "short_link": "https://b23.tv/ep79885",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 41
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "7",
+                "vid": "vupload_5206642"
+            },
+            {
+                "aid": 676783966,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1PU4y1u7uX",
+                "cid": 251887285,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0d32a983b5a2209bf053595775f4f8ac5cf30bc8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79886,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79886",
+                "long_title": "想去做的事",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第8话 想去做的事",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79886",
+                "short_link": "https://b23.tv/ep79886",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 197,
+                        "start": 108
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "8",
+                "vid": "vupload_5206643"
+            },
+            {
+                "aid": 209343586,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xh41147YN",
+                "cid": 251887861,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0800e34352c411649f18fed14732d7763eec5180.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79887,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79887",
+                "long_title": "Wonder Zone",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第9话 Wonder Zone",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79887",
+                "short_link": "https://b23.tv/ep79887",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 206,
+                        "start": 117
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "9",
+                "vid": "vupload_5206644"
+            },
+            {
+                "aid": 379370806,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gf4y1K7Qu",
+                "cid": 251888252,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b704e0600672c0af8e55d6f28e31d809aa659c9f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79888,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79888",
+                "long_title": "前辈禁止！",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第10话 前辈禁止！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79888",
+                "short_link": "https://b23.tv/ep79888",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 219,
+                        "start": 130
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "10",
+                "vid": "vupload_5206645"
+            },
+            {
+                "aid": 676850795,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1pU4y1u7SF",
+                "cid": 251888724,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4aae400fa9534d90030db3c9bbc0841548d99b43.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79889,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79889",
+                "long_title": "最棒的Live",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第11话 最棒的Live",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79889",
+                "short_link": "https://b23.tv/ep79889",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 99
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "11",
+                "vid": "vupload_5206646"
+            },
+            {
+                "aid": 849344103,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18L4y1i7Gr",
+                "cid": 251889064,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e1c1c606c77035d88be5f750cdc1110619c97741.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 79890,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79890",
+                "long_title": "朋友",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第12话 朋友",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79890",
+                "short_link": "https://b23.tv/ep79890",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "12",
+                "vid": "vupload_5206647"
+            },
+            {
+                "aid": 806812527,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1X34y1d7MZ",
+                "cid": 251889647,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e0021ce413b07c0a5fcea2c64fb22b67b7c2ed5e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 79891,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79891",
+                "long_title": "μ's Music Start!",
+                "pub_time": 1448776512,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Love Live! School Idol Project》第13话 μ's Music Start!",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79891",
+                "short_link": "https://b23.tv/ep79891",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 279,
+                        "start": 190
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3308.2万次",
+                "title": "13",
+                "vid": "vupload_5206648"
+            }
+        ],
+        "evaluate": "【本字幕由LoveEcho!字幕组协力译制】位于东京都千代田区的传统高校“音乃木阪学院”，因为入读的学生人数骤减，所以正面临着废校的危机。其中九位少女为了保护她们喜爱的学校而决定成为偶像，因为只要她们成为偶像，学校的名气便会増加，而入读学生的人数也会随之上升。就这样，九位个性鲜明的少女开始朝着她们的偶像之路而努力迈进了！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3068/",
+        "media_id": 3068,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 79891,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 20113,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-01-06 00:00:00",
+            "pub_time_show": "2013年01月06日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 16423,
+            "score": 9.7
+        },
+        "record": "登记号：10417060202262310",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3068,
+        "season_title": "Love Live! School Idol Project",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/133030604f6d68986249fe34ba909c800eb685d5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3068,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e0021ce413b07c0a5fcea2c64fb22b67b7c2ed5e.jpg",
+                    "id": 79891,
+                    "index_show": "全13话"
+                },
+                "season_id": 3068,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1944882,
+                    "series_follow": 2161147,
+                    "views": 33082233
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1180c222b427a3171faae1245c46a6452f14bdee.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3071,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/99eaa06c3fab98ee5adaf3cf2d86ca465080946f.jpg",
+                    "id": 80132,
+                    "index_show": "全13话"
+                },
+                "season_id": 3071,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1027551,
+                    "series_follow": 2161147,
+                    "views": 33532542
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/acef270ac7ef40df3c6970d40904e4a7fc8123a3.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28230704,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ab5f58596796900241dce6158e3199e45bedbe85.jpg",
+                    "id": 367619,
+                    "index_show": "全1话"
+                },
+                "season_id": 35182,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1684439,
+                    "series_follow": 2161147,
+                    "views": 3402658
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episodes": [
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/059c7d7a77ad2c01c999fc6d25b87e33f3b444cf.jpg",
+                        "id": 118640,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep288445",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "次元发电机 pile",
+                            "position": "",
+                            "season_id": "3068",
+                            "season_type": "1",
+                            "section_id": "48017",
+                            "section_type": "5"
+                        },
+                        "status": 0,
+                        "title": "次元发电机 pile"
+                    }
+                ],
+                "id": 48017,
+                "report": {
+                    "season_id": "3068",
+                    "season_type": "1",
+                    "sec_title": "次元发电机专访",
+                    "section_id": "48017",
+                    "section_type": "5"
+                },
+                "title": "次元发电机专访",
+                "type": 5
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1967,
+            "series_title": "Love Live!"
+        },
+        "share_copy": "《Love Live! School Idol Project》成为偶像拯救废校！",
+        "share_sub_title": "成为偶像拯救废校！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3068",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/1ef3e89543da587dc70f61abda952f3a4ce07793.jpg",
+        "stat": {
+            "coins": 168739,
+            "danmakus": 3561226,
+            "favorite": 18315,
+            "favorites": 1944882,
+            "likes": 152095,
+            "reply": 142481,
+            "share": 52122,
+            "views": 33082233
+        },
+        "status": 2,
+        "subtitle": "已观看3308.2万次",
+        "title": "Love Live! School Idol Project",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

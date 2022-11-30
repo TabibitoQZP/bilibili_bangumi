@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/38bbc8114fbeea891c8f488ed930f178fb7be3fd.png",
+        "episodes": [
+            {
+                "aid": 505861410,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15g411F7bu",
+                "cid": 418119802,
+                "cover": "http://i0.hdslb.com/bfs/archive/074c2c4fb71d038c98b0da8d6692a6085694cee4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 424916,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424916",
+                "long_title": "无敌侠启动",
+                "pub_time": 1633195560,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第1话 无敌侠启动",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424916",
+                "short_link": "https://b23.tv/ep424916",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看103.8万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 848387453,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BL4y1z7ur",
+                "cid": 422219687,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b5ba551cc7fc81f9d1ab34902edb97c12af35d0.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424917,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424917",
+                "long_title": "全新道具",
+                "pub_time": 1633800360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第2话 全新道具",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424917",
+                "short_link": "https://b23.tv/ep424917",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 208597450,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dh411J7sD",
+                "cid": 425420804,
+                "cover": "http://i0.hdslb.com/bfs/archive/284e5997ad1f886ea8e2d3fdee892547ea1963e4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424918,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424918",
+                "long_title": "摇滚与回转",
+                "pub_time": 1634405160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第3话 摇滚与回转",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424918",
+                "short_link": "https://b23.tv/ep424918",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 676160918,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18U4y1F7GD",
+                "cid": 428610435,
+                "cover": "http://i0.hdslb.com/bfs/archive/fff92feb07bd058f44ca0d9ef863cdfeeeec5377.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1428000,
+                "from": "bangumi",
+                "id": 424919,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424919",
+                "long_title": "驰放傍晚",
+                "pub_time": 1635009960,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第4话 驰放傍晚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424919",
+                "short_link": "https://b23.tv/ep424919",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 293810427,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kF411e7rq",
+                "cid": 432302181,
+                "cover": "http://i0.hdslb.com/bfs/archive/5345a986be0f99d4dd21cf9c2ffba22077eda23f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424920,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424920",
+                "long_title": "再见公园",
+                "pub_time": 1635614760,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第5话 再见公园",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424920",
+                "short_link": "https://b23.tv/ep424920",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 721497862,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NS4y1d7Yx",
+                "cid": 436229771,
+                "cover": "http://i0.hdslb.com/bfs/archive/a248bdd0e748832038affc77bca24c8959739f84.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 424921,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424921",
+                "long_title": "孤立",
+                "pub_time": 1636219560,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第6话 孤立",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424921",
+                "short_link": "https://b23.tv/ep424921",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 806520417,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1534y1Z7hz",
+                "cid": 440188282,
+                "cover": "http://i0.hdslb.com/bfs/archive/66e5cf8a1b7e21d139d6506b8c5d0d690ee4729f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 424922,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424922",
+                "long_title": "梦想的舞台",
+                "pub_time": 1636824360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第7话 梦想的舞台",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424922",
+                "short_link": "https://b23.tv/ep424922",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 421768513,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1F3411h7qE",
+                "cid": 445339573,
+                "cover": "http://i0.hdslb.com/bfs/archive/f62a8321033c185a8a59f0634e32e9c300088f14.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424923,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424923",
+                "long_title": "无敌模式",
+                "pub_time": 1637429160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第8话 无敌模式",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424923",
+                "short_link": "https://b23.tv/ep424923",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 721902823,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ES4y1R7V4",
+                "cid": 449306055,
+                "cover": "http://i0.hdslb.com/bfs/archive/8189f7f532d98056cf1a97ca0f4017baf93a4a83.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424924,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424924",
+                "long_title": "黑暗之中",
+                "pub_time": 1638033960,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第9话 黑暗之中",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424924",
+                "short_link": "https://b23.tv/ep424924",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 507023268,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zg411A74y",
+                "cid": 453730593,
+                "cover": "http://i0.hdslb.com/bfs/archive/6d4d5c463c8934ab11958c92eab810b93ad657f5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424925,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424925",
+                "long_title": "甜蜜回忆",
+                "pub_time": 1638638760,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第10话 甜蜜回忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424925",
+                "short_link": "https://b23.tv/ep424925",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 764685857,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dr4y1S7CQ",
+                "cid": 458262684,
+                "cover": "http://i0.hdslb.com/bfs/archive/45fc0ca00018d7a7cc322bebc056c04c83d43afb.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424926,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424926",
+                "long_title": "心碎",
+                "pub_time": 1639243560,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第11话 心碎",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424926",
+                "short_link": "https://b23.tv/ep424926",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 507464901,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pg411A7K4",
+                "cid": 462838484,
+                "cover": "http://i0.hdslb.com/bfs/archive/67ee9425eabc192a8cdce1b6fd938f233e13adef.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 424927,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep424927",
+                "long_title": "舞动的英雄",
+                "pub_time": 1639848361,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《无敌侠：舞动的英雄》第12话 舞动的英雄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep424927",
+                "short_link": "https://b23.tv/ep424927",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看103.8万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本次故事舞台在自由、热情的海滨城市——新旧金山。搬到这里的无敌，遇到了一位自称DJ的男子。而DJ使无敌变身成为了名叫“无敌侠”的劲舞英雄。二人立志携手用歌声与舞蹈击退突然出现的怪物，守护整个城市。而这一切的背后，一场威胁整个人类的危机正暗流涌动……\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235143/",
+        "media_id": 28235143,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 424927,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 62076,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-10-03 01:26:00",
+            "pub_time_show": "2021年10月03日01:26",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1010,
+            "score": 9.2
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39451,
+        "season_title": "无敌侠：舞动的英雄",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/38bbc8114fbeea891c8f488ed930f178fb7be3fd.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/50b441b25ca1d2b3acade3c2a108bdae47571ab2.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/5ccd519a737fdecc6c65ab39fa9f96227c57b214.png",
+                "media_id": 28235143,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/67ee9425eabc192a8cdce1b6fd938f233e13adef.png",
+                    "id": 424927,
+                    "index_show": "全12话"
+                },
+                "season_id": 39451,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 152653,
+                    "series_follow": 152653,
+                    "views": 1037981
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 463172661,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13L411475d",
+                        "cid": 413290518,
+                        "cover": "http://i0.hdslb.com/bfs/archive/4be2ab7387c29695c9b2046f5cf6d1e5180c6226.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 131000,
+                        "from": "bangumi",
+                        "id": 423616,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep423616",
+                        "long_title": "",
+                        "pub_time": 1632394800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《无敌侠：舞动的英雄》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep423616",
+                        "short_link": "https://b23.tv/ep423616",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 49,
+                            "danmakus": 52,
+                            "likes": 604,
+                            "play": 74848,
+                            "reply": 185
+                        },
+                        "status": 2,
+                        "subtitle": "已观看103.8万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 62196,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5694,
+            "series_title": "无敌侠：舞动的英雄"
+        },
+        "share_copy": "《无敌侠：舞动的英雄》用歌舞击退怪物",
+        "share_sub_title": "用歌舞击退怪物",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39451",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/280fc3e8f0dbccb93b91c4b5a44d6d25027add46.png",
+        "stat": {
+            "coins": 3229,
+            "danmakus": 7006,
+            "favorite": 500,
+            "favorites": 152653,
+            "likes": 42029,
+            "reply": 2878,
+            "share": 1053,
+            "views": 1037981
+        },
+        "status": 13,
+        "subtitle": "已观看103.8万次",
+        "title": "无敌侠：舞动的英雄",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859947,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/75728143a5e605f9119158321d9402b7acd33f43.jpg",
+        "episodes": [
+            {
+                "aid": 15915219,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jx411E77v",
+                "cid": 25972150,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417000,
+                "from": "bangumi",
+                "id": 29799,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29799",
+                "long_title": "勇者诞生！",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第1话 勇者诞生！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29799",
+                "short_link": "https://b23.tv/ep29799",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 102,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看451.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 634314160,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tb4y1b7ic",
+                "cid": 25972151,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417511,
+                "from": "bangumi",
+                "id": 29800,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29800",
+                "long_title": "最初的战斗！",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第2话 最初的战斗！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29800",
+                "short_link": "https://b23.tv/ep29800",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 336771056,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZR4y1t7KT",
+                "cid": 25972152,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417363,
+                "from": "bangumi",
+                "id": 29801,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29801",
+                "long_title": "想回去！回不去？勇者in弗洛尼尔德！",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第3话 想回去！回不去？勇者in弗洛尼尔德！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29801",
+                "short_link": "https://b23.tv/ep29801",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 976854931,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1H44y1Y75r",
+                "cid": 25972153,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417513,
+                "from": "bangumi",
+                "id": 29802,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29802",
+                "long_title": "突击！公主殿下夺回作战！！",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第4话 突击！公主殿下夺回作战！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29802",
+                "short_link": "https://b23.tv/ep29802",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 891804783,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KP4y1L7Mn",
+                "cid": 25972154,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417364,
+                "from": "bangumi",
+                "id": 29803,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29803",
+                "long_title": "激斗！米恩堡！",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第5话 激斗！米恩堡！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29803",
+                "short_link": "https://b23.tv/ep29803",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 806767532,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1B34y1d7yN",
+                "cid": 25972155,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417513,
+                "from": "bangumi",
+                "id": 29804,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29804",
+                "long_title": "占星的公主",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第6话 占星的公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29804",
+                "short_link": "https://b23.tv/ep29804",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 676751357,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19U4y1M7Wj",
+                "cid": 25972156,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417363,
+                "from": "bangumi",
+                "id": 29805,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29805",
+                "long_title": "宣战布告",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第7话 宣战布告",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29805",
+                "short_link": "https://b23.tv/ep29805",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 976847121,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1n44y1Y7S4",
+                "cid": 25972157,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417513,
+                "from": "bangumi",
+                "id": 29806,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29806",
+                "long_title": "开战之日",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第8话 开战之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29806",
+                "short_link": "https://b23.tv/ep29806",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 506760836,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fg411N778",
+                "cid": 25972158,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417510,
+                "from": "bangumi",
+                "id": 29807,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29807",
+                "long_title": "古拉纳堡攻防战",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第9话 古拉纳堡攻防战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29807",
+                "short_link": "https://b23.tv/ep29807",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 549269338,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mq4y1u7MD",
+                "cid": 25972159,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417363,
+                "from": "bangumi",
+                "id": 29808,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29808",
+                "long_title": "勇者与公主与希望之光",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第10话 勇者与公主与希望之光",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29808",
+                "short_link": "https://b23.tv/ep29808",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 421780263,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1R341187cp",
+                "cid": 25972160,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417363,
+                "from": "bangumi",
+                "id": 29809,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29809",
+                "long_title": "如花瓣飞舞于夜空",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第11话 如花瓣飞舞于夜空",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29809",
+                "short_link": "https://b23.tv/ep29809",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 634325912,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hb4y1b7xB",
+                "cid": 25972161,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1417362,
+                "from": "bangumi",
+                "id": 29810,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29810",
+                "long_title": "四个条件",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第12话 四个条件",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29810",
+                "short_link": "https://b23.tv/ep29810",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 719259629,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YQ4y1U76M",
+                "cid": 25972162,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1592361,
+                "from": "bangumi",
+                "id": 29811,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29811",
+                "long_title": "约定",
+                "pub_time": 1509591600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《DOG DAYS》第13话 约定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29811",
+                "short_link": "https://b23.tv/ep29811",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看451.7万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作的故事舞台设定在异世界，比斯科迪共和国与邻国·加雷特狮子团这两国的战争之中。加雷特狮子团向比斯科迪共和国发起了侵略战争，比斯科迪共和国的公主·米尔希奥蕾决定从异世界（地球）召唤勇者，希望能解除这场关乎国家存亡的危机。而这位勇者就是地球上的一位中学生——真红・和泉。他能成为优秀的勇者吗？！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1631/",
+        "media_id": 1631,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 29811,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18589,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-04-02 00:00:00",
+            "pub_time_show": "2011年04月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1475,
+            "score": 9.3
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1631,
+        "season_title": "DOG DAYS",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/75728143a5e605f9119158321d9402b7acd33f43.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1631,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/9690f18c7e1bebc1ce165d58929cc8fb510fa774.jpg",
+                    "id": 29811,
+                    "index_show": "全13话"
+                },
+                "season_id": 1631,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 457518,
+                    "series_follow": 519136,
+                    "views": 4516688
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1112,
+            "series_title": "DOG DAYS"
+        },
+        "share_copy": "《DOG DAYS》穿越到异世界当勇者",
+        "share_sub_title": "穿越到异世界当勇者",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1631",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/febd582061498d1c3f8a86f8a9e84db64c98630c.jpg",
+        "stat": {
+            "coins": 8789,
+            "danmakus": 142477,
+            "favorite": 3891,
+            "favorites": 457518,
+            "likes": 15831,
+            "reply": 5144,
+            "share": 3009,
+            "views": 4516688
+        },
+        "status": 13,
+        "subtitle": "已观看451.7万次",
+        "title": "DOG DAYS",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

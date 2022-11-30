@@ -1,0 +1,233 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/ad5c1d9eaf14424bcef23c06aebb96fa89abbd0f.png",
+        "episodes": [
+            {
+                "aid": 671810755,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AU4y1s7Ld",
+                "cid": 302087931,
+                "cover": "http://i0.hdslb.com/bfs/archive/1fc0690809c192fd001c336b74a8ee9333dfa258.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5405000,
+                "from": "bangumi",
+                "id": 388110,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep388110",
+                "long_title": "全片",
+                "pub_time": 1614335040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《黑狐/BLACK FOX》第1话 全片",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep388110",
+                "short_link": "https://b23.tv/ep388110",
+                "skip": {
+                    "ed": {
+                        "end": 5404,
+                        "start": 5097
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看32.3万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "近未来大都市一角有一座忍者宅邸。住在此处的忍者一族石动家的长女·律花，从小便憧憬着身为研究人员的父亲。她原本以为自己平凡而幸福的生活会一直持续下去，但就在某一天，宅邸突然遭到了袭击。面对走投无路的危机，律花决定勇敢地挺身而出——\n成为斩断黑暗的“黑”吧！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233794/",
+        "media_id": 28233794,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 388110,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 57535,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-02-26 00:00:01",
+            "pub_time_show": "2021年2月26日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 343,
+            "score": 7.9
+        },
+        "record": "登记号：10417060232882312",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38113,
+        "season_title": "黑狐/BLACK FOX",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/ad5c1d9eaf14424bcef23c06aebb96fa89abbd0f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233794,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1fc0690809c192fd001c336b74a8ee9333dfa258.png",
+                    "id": 388110,
+                    "index_show": "全1话"
+                },
+                "season_id": 38113,
+                "season_title": "正片",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 46042,
+                    "series_follow": 46042,
+                    "views": 322680
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5332,
+            "series_title": "黑狐/BLACK FOX"
+        },
+        "share_copy": "《黑狐/BLACK FOX》奇幻忍者剧",
+        "share_sub_title": "奇幻忍者剧",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38113",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/44f35a9d2bd1c9306dfa27a41d67b3fa1e4a3a96.png",
+        "stat": {
+            "coins": 1076,
+            "danmakus": 1786,
+            "favorite": 918,
+            "favorites": 46042,
+            "likes": 7486,
+            "reply": 567,
+            "share": 335,
+            "views": 322680
+        },
+        "status": 13,
+        "subtitle": "已观看32.3万次",
+        "title": "黑狐/BLACK FOX",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

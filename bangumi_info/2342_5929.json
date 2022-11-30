@@ -1,0 +1,208 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/088ca4e4e683b0b9be62cb4bdc168f256ec61120.jpg",
+        "episodes": [
+            {
+                "aid": 8554586,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lx41127hc",
+                "cid": 14085163,
+                "cover": "http://i1.hdslb.com/bfs/archive/e21ffc708c2cfb0a89abb2258533e93e279f19a3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 3610000,
+                "from": "bangumi",
+                "id": 101760,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101760?theme=movie",
+                "long_title": "",
+                "pub_time": 1486816625,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《青鬼 THE ANIMATION》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101760",
+                "short_link": "https://b23.tv/ep101760",
+                "skip": {
+                    "ed": {
+                        "end": 3607,
+                        "start": 3387
+                    },
+                    "op": {
+                        "end": 15,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53万次",
+                "title": "1",
+                "vid": "vupload_14085163"
+            }
+        ],
+        "evaluate": "noprops制作的免费恐怖游戏《青鬼》于2016年8月10日宣布将制作剧场版。剧场版的内容将与游戏、真人电影的故事完全不一样，是一个全新的原创故事，并将塑造一个全新的恐怖又扑朔迷离的青鬼。\n新的「青鬼」的惨剧，现在开始···。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5929/",
+        "media_id": 5929,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 101760,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员抢先看"
+        },
+        "positive": {
+            "id": 22857,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-02-11 00:00:01",
+            "pub_time_show": "2017年2月11日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 201,
+            "score": 7.7
+        },
+        "record": "登记号：10417060204802612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5929,
+        "season_title": "青鬼 THE ANIMATION",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/088ca4e4e683b0b9be62cb4bdc168f256ec61120.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5929,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/e21ffc708c2cfb0a89abb2258533e93e279f19a3.jpg",
+                    "id": 101760,
+                    "index_show": "全1话"
+                },
+                "season_id": 5929,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 32922,
+                    "series_follow": 147925,
+                    "views": 529564
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3326,
+            "series_title": "青鬼"
+        },
+        "share_copy": "《青鬼 THE ANIMATION》废宅探险中，鬼怪突然现身！",
+        "share_sub_title": "废宅探险中，鬼怪突然现身！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5929",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d152fafbc6e74355f6e4aa332e76855c3cb96e46.jpg",
+        "stat": {
+            "coins": 995,
+            "danmakus": 5243,
+            "favorite": 350,
+            "favorites": 32922,
+            "likes": 3730,
+            "reply": 1408,
+            "share": 1289,
+            "views": 529564
+        },
+        "status": 13,
+        "subtitle": "已观看53万次",
+        "title": "青鬼 THE ANIMATION",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

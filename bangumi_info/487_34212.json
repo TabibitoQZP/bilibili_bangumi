@@ -1,0 +1,473 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "http://i0.hdslb.com/bfs/bangumi/090b00b099cd7915cec5771d5bfbfac469d14c37.jpg",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c0a5c81a60436b19fa13e48b93d9eb08ac19642d.png",
+        "episodes": [
+            {
+                "aid": 371796125,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vZ4y1K7CC",
+                "cid": 227027651,
+                "cover": "http://i0.hdslb.com/bfs/archive/058a29db033850afe92cbbbddbc4b3f400c57531.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6435000,
+                "from": "bangumi",
+                "id": 336052,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep336052?theme=movie",
+                "long_title": "",
+                "pub_time": 1598025601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《知晓天空之蓝的人啊》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep336052",
+                "short_link": "https://b23.tv/ep336052",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看896.1万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "这是一段连接过去与现在，穿越时空的「第二次初恋」故事。13年前由于父母因事故丧生，小城出身的姐姐茜放弃了和男友慎之介一同去东京，亲自抚养妹妹葵，而葵一直因为这件事对姐姐抱有愧疚。多年后的小城音乐节上，被邀请的著名歌手的伴奏音乐家竟然就是长年没有音信的慎之介。而同时在葵的面前，出现了穿越时空来到现在的18岁的慎之介“慎之”，他又吸引了她的爱慕……不可思议但又令人心碎的四角关系，连接过去与未来，「第二次的初恋」即将开始。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229655/",
+        "media_id": 28229655,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 336052,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 49326,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-08-22 00:00:00",
+            "pub_time_show": "2020年08月22日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 20206,
+            "score": 9.6
+        },
+        "record": "登记号：10417060209702807",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34212,
+        "season_title": "知晓天空之蓝的人啊",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c0a5c81a60436b19fa13e48b93d9eb08ac19642d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229655,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/058a29db033850afe92cbbbddbc4b3f400c57531.jpg",
+                    "id": 336052,
+                    "index_show": "全1话"
+                },
+                "season_id": 34212,
+                "season_title": "正片",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1109762,
+                    "series_follow": 1109762,
+                    "views": 8961300
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 456632096,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1c5411Y7yf",
+                        "cid": 223980870,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2d875c94f6679d5f1657fd1e24b90ae3a79231c4.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 334766,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep334766?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1597314600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《知晓天空之蓝的人啊》8月22日上线预告 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep334766",
+                        "short_link": "https://b23.tv/ep334766",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3785,
+                            "danmakus": 449,
+                            "likes": 8269,
+                            "play": 778805,
+                            "reply": 2311
+                        },
+                        "status": 2,
+                        "subtitle": "已观看896.1万次",
+                        "title": "8月22日上线预告",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 806772147,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1z34y1d7bZ",
+                        "cid": 224211978,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/852e592e113bea66c40e05ae2fa2717ea38ca0e0.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 89000,
+                        "from": "bangumi",
+                        "id": 335241,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep335241?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1597402201,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《知晓天空之蓝的人啊》预告1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep335241",
+                        "short_link": "https://b23.tv/ep335241",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 102,
+                            "danmakus": 40,
+                            "likes": 624,
+                            "play": 32695,
+                            "reply": 28
+                        },
+                        "status": 2,
+                        "subtitle": "已观看896.1万次",
+                        "title": "预告1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 976818325,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1G44y1Y73Y",
+                        "cid": 224211946,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/949aa54f9214cff264b1721efb54e8fce3e14f85.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 30000,
+                        "from": "bangumi",
+                        "id": 335239,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep335239?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1597402201,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《知晓天空之蓝的人啊》特报 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep335239",
+                        "short_link": "https://b23.tv/ep335239",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 55,
+                            "danmakus": 10,
+                            "likes": 339,
+                            "play": 19017,
+                            "reply": 23
+                        },
+                        "status": 2,
+                        "subtitle": "已观看896.1万次",
+                        "title": "特报",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 634373220,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14b4y1b7s6",
+                        "cid": 224211962,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/8f84076cfaa78bf93d8fa86821867c9f775eefa9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 15000,
+                        "from": "bangumi",
+                        "id": 335240,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep335240?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1597402201,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《知晓天空之蓝的人啊》CM ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep335240",
+                        "short_link": "https://b23.tv/ep335240",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 44,
+                            "danmakus": 442,
+                            "likes": 103,
+                            "play": 9345,
+                            "reply": 17
+                        },
+                        "status": 2,
+                        "subtitle": "已观看896.1万次",
+                        "title": "CM",
+                        "vid": ""
+                    }
+                ],
+                "id": 49330,
+                "title": "预告",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5080,
+            "series_title": "知晓天空之蓝的人啊"
+        },
+        "share_copy": "《知晓天空之蓝的人啊》穿越时空，再遇初恋",
+        "share_sub_title": "穿越时空，再遇初恋",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34212",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/efc125dc04bf746d4f3cfa8cff3bdc45c38ba2f4.png",
+        "stat": {
+            "coins": 117258,
+            "danmakus": 96351,
+            "favorite": 34991,
+            "favorites": 1109762,
+            "likes": 137473,
+            "reply": 11493,
+            "share": 53433,
+            "views": 8961300
+        },
+        "status": 13,
+        "subtitle": "已观看896.1万次",
+        "title": "知晓天空之蓝的人啊",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859943,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

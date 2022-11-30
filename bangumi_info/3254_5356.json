@@ -1,0 +1,185 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/71845382f5fc7f0ae2130af080c62bd0806c9009.jpg",
+        "episodes": [
+            {
+                "aid": 5490696,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ws41117Wc",
+                "cid": 8921537,
+                "cover": "http://i1.hdslb.com/bfs/archive/c68e9947b5454954edd1b03031b4c0ad93a714c8.jpg",
+                "dimension": {
+                    "height": 240,
+                    "rotate": 0,
+                    "width": 320
+                },
+                "duration": 2612000,
+                "from": "bangumi",
+                "id": 93374,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93374",
+                "long_title": "",
+                "pub_time": 1469499270,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网络争霸战》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93374",
+                "short_link": "https://b23.tv/ep93374",
+                "skip": {
+                    "ed": {
+                        "end": 2612,
+                        "start": 2430
+                    },
+                    "op": {
+                        "end": 21,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.8万次",
+                "title": "1",
+                "vid": "vupload_8921537"
+            }
+        ],
+        "evaluate": "根据同名漫画改编的OVA\n讲述主人公仁村桐生参加驾驶巨大机器人VP战斗的……游戏的故事。 ",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5356/",
+        "media_id": 5356,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 93374,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22271,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "1999-09-25 00:00:01",
+            "pub_time_show": "1999年9月25日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 0,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5356,
+        "season_title": "网络争霸战",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/71845382f5fc7f0ae2130af080c62bd0806c9009.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5356,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/c68e9947b5454954edd1b03031b4c0ad93a714c8.jpg",
+                    "id": 93374,
+                    "index_show": "全1话"
+                },
+                "season_id": 5356,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2355,
+                    "series_follow": 2355,
+                    "views": 17671
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3219,
+            "series_title": "网络争霸战"
+        },
+        "share_copy": "《网络争霸战》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5356",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/142250eb375df83a8d4e6ed4ef940545bc9b2987.jpg",
+        "stat": {
+            "coins": 17,
+            "danmakus": 33,
+            "favorite": 17,
+            "favorites": 2355,
+            "likes": 6,
+            "reply": 0,
+            "share": 14,
+            "views": 17671
+        },
+        "status": 2,
+        "subtitle": "已观看1.8万次",
+        "title": "网络争霸战",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

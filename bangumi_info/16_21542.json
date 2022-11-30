@@ -1,0 +1,981 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1535,
+            "title": "补番月台第一期（1号站台）"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6565f297b31fb4a4a0337557033426930c3b88c0.png",
+        "episodes": [
+            {
+                "aid": 18168483,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1QW411i7oE",
+                "cid": 29662087,
+                "cover": "http://i0.hdslb.com/bfs/archive/a1e58bbfd2619ae7fdb0424bb8eb1bb9609e8eb0.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1440254,
+                "from": "bangumi",
+                "id": 173286,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173286",
+                "long_title": "「爱」与自动手记人偶",
+                "pub_time": 1515600003,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第1话 「爱」与自动手记人偶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173286",
+                "short_link": "https://b23.tv/ep173286",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1430
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.7亿次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 18415142,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jW411v7M2",
+                "cid": 30111683,
+                "cover": "http://i0.hdslb.com/bfs/archive/4d487b25fb9f8fd7c52a234c35d78e87715b2b5e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440212,
+                "from": "bangumi",
+                "id": 173287,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173287",
+                "long_title": "回不来了",
+                "pub_time": 1516204800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第2话 回不来了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173287",
+                "short_link": "https://b23.tv/ep173287",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1430
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 18679531,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TW411e7Cs",
+                "cid": 30655086,
+                "cover": "http://i0.hdslb.com/bfs/archive/fcaa17b9aa60868e0e23c3b56edddee29322d32b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173288,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173288",
+                "long_title": "希望你成为出色的自动手记人偶",
+                "pub_time": 1516809601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第3话 希望你成为出色的自动手记人偶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173288",
+                "short_link": "https://b23.tv/ep173288",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 210,
+                        "start": 122
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 18968396,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fW411n74a",
+                "cid": 30936929,
+                "cover": "http://i0.hdslb.com/bfs/archive/27721ddbd3f2e581f83830b91e0f51000a01d03d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173289,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173289",
+                "long_title": "你将不再是道具 而是成为人如其名的人",
+                "pub_time": 1517414401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第4话 你将不再是道具 而是成为人如其名的人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173289",
+                "short_link": "https://b23.tv/ep173289",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 19266594,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SW411J7jD",
+                "cid": 31420238,
+                "cover": "http://i0.hdslb.com/bfs/archive/14a5535227065b07d3c75e067e3145c61d3f836c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173290,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173290",
+                "long_title": "写替人结缘的书信吗？",
+                "pub_time": 1518019201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第5话 写替人结缘的书信吗？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173290",
+                "short_link": "https://b23.tv/ep173290",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1430
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 19582736,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11W411E7WB",
+                "cid": 31933194,
+                "cover": "http://i0.hdslb.com/bfs/archive/f988111596de45c987c4c03257dd28f43d4c9454.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173291,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173291",
+                "long_title": "在某处的星空下",
+                "pub_time": 1518624001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第6话 在某处的星空下",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173291",
+                "short_link": "https://b23.tv/ep173291",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1351
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 74
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 19852315,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14W411776C",
+                "cid": 32377215,
+                "cover": "http://i0.hdslb.com/bfs/archive/5eb28e0a331633c713449b71c3e12f0f580ad5af.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173292,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173292",
+                "long_title": "「　」",
+                "pub_time": 1519228740,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第7话 「　」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173292",
+                "short_link": "https://b23.tv/ep173292",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 20184547,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GW411t79s",
+                "cid": 32954880,
+                "cover": "http://i0.hdslb.com/bfs/archive/4d27cb04e2d1a7235076260024ae8c3826b26bc0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173293,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173293",
+                "long_title": "薇尔莉特・伊芙加登",
+                "pub_time": 1519833601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第8话 薇尔莉特・伊芙加登",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173293",
+                "short_link": "https://b23.tv/ep173293",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 20478659,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HW411W7VC",
+                "cid": 33480964,
+                "cover": "http://i0.hdslb.com/bfs/archive/893c322419b31d81611a0bb96e3a64531dfd0eb0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173294,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173294",
+                "long_title": "薇尔莉特・伊芙加登",
+                "pub_time": 1520438401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第9话 薇尔莉特・伊芙加登",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173294",
+                "short_link": "https://b23.tv/ep173294",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 20768383,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gW411p7gs",
+                "cid": 34011933,
+                "cover": "http://i0.hdslb.com/bfs/archive/56c161b24dd4746f37434ca7e28a7b750a6de189.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173295,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173295",
+                "long_title": "心爱的人 永远守护着你",
+                "pub_time": 1521043201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第10话 心爱的人 永远守护着你",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173295",
+                "short_link": "https://b23.tv/ep173295",
+                "skip": {
+                    "ed": {
+                        "end": 1439,
+                        "start": 1430
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 52
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 21051064,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nW411g7BD",
+                "cid": 34529031,
+                "cover": "http://i0.hdslb.com/bfs/archive/f6dc755b3c8601d960e55e28f65740c7148610ae.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173296,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173296",
+                "long_title": "再也不想让任何人死去",
+                "pub_time": 1521648001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第11话 再也不想让任何人死去",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173296",
+                "short_link": "https://b23.tv/ep173296",
+                "skip": {
+                    "ed": {
+                        "end": 1439,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 101
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 21340761,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uW411u7Yz",
+                "cid": 35104565,
+                "cover": "http://i0.hdslb.com/bfs/archive/db17e60a4a3fbef71b019fee8c6a2920dba759fa.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173297,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173297",
+                "long_title": "自动手记人偶与「爱」",
+                "pub_time": 1522252801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第12话 自动手记人偶与「爱」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173297",
+                "short_link": "https://b23.tv/ep173297",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 204,
+                        "start": 105
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 21637505,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZW411T76b",
+                "cid": 36007838,
+                "cover": "http://i0.hdslb.com/bfs/archive/98365932cdda38dce4341954037e1f199bec4d82.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 173298,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep173298",
+                "long_title": "自动手记人偶与「爱」",
+                "pub_time": 1522857601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》第13话 自动手记人偶与「爱」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep173298",
+                "short_link": "https://b23.tv/ep173298",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1430
+                    },
+                    "op": {
+                        "end": 47,
+                        "start": 35
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 33291809,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wW411m7FE",
+                "cid": 58271558,
+                "cover": "http://i0.hdslb.com/bfs/archive/2fdf72c8cc6b75091e2a440005a02d0a0a0ee886.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 2055000,
+                "from": "bangumi",
+                "id": 251591,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep251591",
+                "long_title": "一定会理解「爱」的真谛",
+                "pub_time": 1538913600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《紫罗兰永恒花园》Extra(4.5) 一定会理解「爱」的真谛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep251591",
+                "short_link": "https://b23.tv/ep251591",
+                "skip": {
+                    "ed": {
+                        "end": 2053,
+                        "start": 1965
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 98
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.7亿次",
+                "title": "Extra(4.5)",
+                "vid": ""
+            }
+        ],
+        "evaluate": "某个大陆的、某个时代。\n大陆南北分割的战争结束了，世界走向了和平。\n在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。\n踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。\n她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
+        "freya": {
+            "bubble_desc": "有人@了你",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md8892/",
+        "media_id": 8892,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全14话",
+            "id": 251591,
+            "is_new": 0,
+            "title": "Extra(4.5)"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 30561,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-01-11 00:00:00",
+            "pub_time_show": "2018年01月11日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 228581,
+            "score": 9.8
+        },
+        "record": "登记号：10417060206082901",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 21542,
+        "season_title": "紫罗兰永恒花园",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6565f297b31fb4a4a0337557033426930c3b88c0.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8892,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2fdf72c8cc6b75091e2a440005a02d0a0a0ee886.jpg",
+                    "id": 251591,
+                    "index_show": "全14话"
+                },
+                "season_id": 21542,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8137714,
+                    "series_follow": 9003769,
+                    "views": 174996983
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/107eb93eff876dee16da4bf270b31c3e250e49d6.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/62363190e0a88ba6337ee5537f8da71714fd113a.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/b2d39dff6ee277684440902595b15626b903c3d0.png",
+                "media_id": 28226644,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/360d1ca92e6cfaca5cc75c8c4737cfee2bc6a9e3.png",
+                    "id": 316548,
+                    "index_show": "2020-01-10上映"
+                },
+                "season_id": 31779,
+                "season_title": "外传",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 6098445,
+                    "series_follow": 9003769,
+                    "views": 40188581
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d521d0020309cc9bcbb6e991688919441821ea23.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/5bdafd596d2d524920b5c2537f119328d37cdcb2.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/5bfd3bc12c6040c98c21f2933f9bc01a7bd1fe4c.png",
+                "media_id": 28234568,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/52f97901ed002c13383069e61f47062b93184f6f.png",
+                    "id": 411746,
+                    "index_show": "全14话"
+                },
+                "season_id": 38877,
+                "season_title": "中配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 438912,
+                    "series_follow": 9003769,
+                    "views": 16404561
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2e800bc5154dcaad24a46d33e2af82be7aa9a2e9.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/935e57cc160ce1f8b59959703331df773bfb704e.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/7ee381f2ae7dbd8234145a110163b7a84fdf27bd.png",
+                "media_id": 28235728,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/cddcc7be6617bf8c36215faf4bbd6c61cb273def.png",
+                    "id": 470633,
+                    "index_show": "2021-12-25上映"
+                },
+                "season_id": 40028,
+                "season_title": "剧场版",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 8067516,
+                    "series_follow": 9003769,
+                    "views": 24714058
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episodes": [
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e2e5effa6ac5d60d618637abe33c734de91a6341.jpg",
+                        "id": 118642,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep316181",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "次元发电机 石川由依",
+                            "position": "",
+                            "season_id": "21542",
+                            "season_type": "1",
+                            "section_id": "48020",
+                            "section_type": "5"
+                        },
+                        "status": 0,
+                        "title": "次元发电机 石川由依"
+                    }
+                ],
+                "id": 48020,
+                "report": {
+                    "season_id": "21542",
+                    "season_type": "1",
+                    "sec_title": "次元发电机专访",
+                    "section_id": "48020",
+                    "section_type": "5"
+                },
+                "title": "次元发电机专访",
+                "type": 5
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3863,
+            "series_title": "紫罗兰永恒花园"
+        },
+        "share_copy": "《紫罗兰永恒花园》咦？我的眼泪…",
+        "share_sub_title": "咦？我的眼泪…",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss21542",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/2bf35f80c7e7a8a0a00b14b4460a33344bfce03f.jpg",
+        "stat": {
+            "coins": 2189392,
+            "danmakus": 3476605,
+            "favorite": 172135,
+            "favorites": 8137714,
+            "likes": 1770840,
+            "reply": 487572,
+            "share": 371195,
+            "views": 174996983
+        },
+        "status": 13,
+        "subtitle": "已观看1.7亿次",
+        "title": "紫罗兰永恒花园",
+        "total": 14,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

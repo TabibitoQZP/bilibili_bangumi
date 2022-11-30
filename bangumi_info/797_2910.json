@@ -1,0 +1,790 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/84488991f62c9be2381fd7a447e1309af5f18189.jpg",
+        "episodes": [
+            {
+                "aid": 3129631,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11s41127FG",
+                "cid": 4921460,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ff41c7acf434659be51e758a2a5872218c537aa4.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1435829,
+                "from": "bangumi",
+                "id": 75640,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75640",
+                "long_title": "我…把眼泪送出去了",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第1话 我…把眼泪送出去了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75640",
+                "short_link": "https://b23.tv/ep75640",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "1",
+                "vid": "vupload_4921460"
+            },
+            {
+                "aid": 421783712,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1R341187Za",
+                "cid": 4921461,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9b697ce67237675c39cde29029bdd894cdc16df4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435897,
+                "from": "bangumi",
+                "id": 75641,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75641",
+                "long_title": "我到底想做什么…",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第2话 我到底想做什么…",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75641",
+                "short_link": "https://b23.tv/ep75641",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "2",
+                "vid": "vupload_4921461"
+            },
+            {
+                "aid": 336806825,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fR4y1t7Bq",
+                "cid": 4921462,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fdb3884b3f3e429d0694094c1a4dc06fae7b4207.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435852,
+                "from": "bangumi",
+                "id": 75642,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75642",
+                "long_title": "怎么样了？之前说的那件事",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第3话 怎么样了？之前说的那件事",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75642",
+                "short_link": "https://b23.tv/ep75642",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "3",
+                "vid": "vupload_4921462"
+            },
+            {
+                "aid": 676826329,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xU4y1u7G5",
+                "cid": 4921463,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1d61de2664af8bd1a29c0623a1f3f2c9ab556e36.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435830,
+                "from": "bangumi",
+                "id": 75643,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75643",
+                "long_title": "好，让心情放轻松些吧",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第4话 好，让心情放轻松些吧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75643",
+                "short_link": "https://b23.tv/ep75643",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "4",
+                "vid": "vupload_4921463"
+            },
+            {
+                "aid": 591858690,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zq4y167D6",
+                "cid": 4921464,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9d0fd45e66f03b459502a005b0c955f366ee07aa.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 75644,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75644",
+                "long_title": "多管闲事的男孩像傻瓜一样",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第5话 多管闲事的男孩像傻瓜一样",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75644",
+                "short_link": "https://b23.tv/ep75644",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "5",
+                "vid": "vupload_4921464"
+            },
+            {
+                "aid": 719366127,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV16Q4y1v7PF",
+                "cid": 4921465,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2ea62ece9c6c6605baa9cc35636393f3f7e258ce.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435853,
+                "from": "bangumi",
+                "id": 75645,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75645",
+                "long_title": "这是…在开什么玩笑?",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第6话 这是…在开什么玩笑?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75645",
+                "short_link": "https://b23.tv/ep75645",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "6",
+                "vid": "vupload_4921465"
+            },
+            {
+                "aid": 849297868,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1jL4y1i7FL",
+                "cid": 4921466,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4abbad40cc987198c85ad3c1bdcd0318c380e6fc.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435853,
+                "from": "bangumi",
+                "id": 75646,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75646",
+                "long_title": "说清楚，写在这里",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第7话 说清楚，写在这里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75646",
+                "short_link": "https://b23.tv/ep75646",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "7",
+                "vid": "vupload_4921466"
+            },
+            {
+                "aid": 549280676,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rq4y1u7HH",
+                "cid": 4921467,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6770264b9141f7ccbff9b1c0e9cf260903b8301e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435898,
+                "from": "bangumi",
+                "id": 75647,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75647",
+                "long_title": "没下雪的小镇",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第8话 没下雪的小镇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75647",
+                "short_link": "https://b23.tv/ep75647",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "8",
+                "vid": "vupload_4921467"
+            },
+            {
+                "aid": 209311600,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1jh41147wT",
+                "cid": 4921468,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/906f90d30be5701207e66d34a303d66a503cf536.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435898,
+                "from": "bangumi",
+                "id": 75648,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75648",
+                "long_title": "要飞不容易呢",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第9话 要飞不容易呢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75648",
+                "short_link": "https://b23.tv/ep75648",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "9",
+                "vid": "vupload_4921468"
+            },
+            {
+                "aid": 721837557,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZS4y197Ur",
+                "cid": 4921469,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2344807e7c9c510b5ec0c08e40eabfea97b8b0d6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1436827,
+                "from": "bangumi",
+                "id": 75649,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75649",
+                "long_title": "我会全部都处理好的",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第10话 我会全部都处理好的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75649",
+                "short_link": "https://b23.tv/ep75649",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "10",
+                "vid": "vupload_4921469"
+            },
+            {
+                "aid": 719364786,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV16Q4y1v7Eu",
+                "cid": 4921470,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/14e62c4b5aeb24fc0543ffbbcbce36a0c1433099.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435898,
+                "from": "bangumi",
+                "id": 75650,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75650",
+                "long_title": "你所喜欢的不是我",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第11话 你所喜欢的不是我",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75650",
+                "short_link": "https://b23.tv/ep75650",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "11",
+                "vid": "vupload_4921470"
+            },
+            {
+                "aid": 721845936,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cS4y1R7nW",
+                "cid": 4921471,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a72cf820a769570c317fa15799d2e9fd5a2ec05e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435829,
+                "from": "bangumi",
+                "id": 75651,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75651",
+                "long_title": "从我空虚的眼神中",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第12话 从我空虚的眼神中",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75651",
+                "short_link": "https://b23.tv/ep75651",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "12",
+                "vid": "vupload_4921471"
+            },
+            {
+                "aid": 806772340,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1z34y1d7vi",
+                "cid": 4921472,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a04e28fa34d46ebdf5a0ca4072ea039676b4390c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 75652,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75652",
+                "long_title": "将你的眼泪……",
+                "pub_time": 1446000494,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《真实之泪》第13话 将你的眼泪……",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75652",
+                "short_link": "https://b23.tv/ep75652",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看565.3万次",
+                "title": "13",
+                "vid": "vupload_4921472"
+            }
+        ],
+        "evaluate": "《真实之泪 true tears》是由P.A.WORKS所制作的日本的电视动画作品。\n本作自2008年1月开始播放，以富山县为舞台（担当动画制作的P.A.WORKS社址就在富山县南砺市），角色和剧情均为原创。\nDVD于2008年发售，Blu-ray BOX则是预定于2010年3月26日发售。\n故事以插画家为梦想的高中生－仲上真一郎，与真一郎同居的同学－汤浅比吕美(被仲上家领养)，平时与真一郎的父母过著四人的家庭生活。某日，真一郎在学校里遇见了爬到树上却下不来的女孩－石动乃绘，还对真一郎说了些不可思议的话。自从这次的相遇，使得真一郎与比吕美、乃绘、好友野伏三代吉、童年玩伴安藤爱子之间的关系开始产生微妙的变化。故事描写着他们在各自的苦恼中下定决心而成长，是一部青涩的校园恋爱剧。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2910/",
+        "media_id": 2910,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 75652,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 19965,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2008-01-05 00:00:01",
+            "pub_time_show": "2008年1月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5111,
+            "score": 9.3
+        },
+        "record": "登记号：10417060170812410",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2910,
+        "season_title": "真实之泪",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/84488991f62c9be2381fd7a447e1309af5f18189.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2910,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a04e28fa34d46ebdf5a0ca4072ea039676b4390c.jpg",
+                    "id": 75652,
+                    "index_show": "全13话"
+                },
+                "season_id": 2910,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 549438,
+                    "series_follow": 549442,
+                    "views": 5653248
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 777,
+            "series_title": "真实之泪"
+        },
+        "share_copy": "《真实之泪》真实之泪，纯爱之美",
+        "share_sub_title": "真实之泪，纯爱之美",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2910",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a0841afcaf3618b874c2ac4abfb3bb4906ec6edc.jpg",
+        "stat": {
+            "coins": 27822,
+            "danmakus": 466969,
+            "favorite": 3653,
+            "favorites": 549438,
+            "likes": 22902,
+            "reply": 14091,
+            "share": 7009,
+            "views": 5653248
+        },
+        "status": 2,
+        "subtitle": "已观看565.3万次",
+        "title": "真实之泪",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

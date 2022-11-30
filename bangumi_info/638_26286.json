@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/cc7a78b649508d108335a6ce34bcd964568bbd7d.png",
+        "episodes": [
+            {
+                "aid": 40327167,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11t411s7QS",
+                "cid": 70826787,
+                "cover": "http://i0.hdslb.com/bfs/archive/ab0a6c7bf738fdcad8bf7971bc2f4f285211cdb4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259723,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259723",
+                "long_title": "涩谷传送",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第1话 涩谷传送",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259723",
+                "short_link": "https://b23.tv/ep259723",
+                "skip": {
+                    "ed": {
+                        "end": 1340,
+                        "start": 1249
+                    },
+                    "op": {
+                        "end": 228,
+                        "start": 133
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1196.9万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 40327633,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11t411s7W9",
+                "cid": 70827663,
+                "cover": "http://i0.hdslb.com/bfs/archive/0de734291b89012149dba7d841f18d986872f9bc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259724,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259724",
+                "long_title": "勇者梦",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第2话 勇者梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259724",
+                "short_link": "https://b23.tv/ep259724",
+                "skip": {
+                    "ed": {
+                        "end": 1336,
+                        "start": 1245
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 89
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 40329909,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mt411s7JZ",
+                "cid": 70831377,
+                "cover": "http://i0.hdslb.com/bfs/archive/192d613162f3ac5aea72124737fceaea7e9b43b6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259725,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259725",
+                "long_title": "守护者",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第3话 守护者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259725",
+                "short_link": "https://b23.tv/ep259725",
+                "skip": {
+                    "ed": {
+                        "end": 1282,
+                        "start": 1192
+                    },
+                    "op": {
+                        "end": 236,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 40332546,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12t411s7px",
+                "cid": 70836043,
+                "cover": "http://i0.hdslb.com/bfs/archive/cf301a62d525ca629e2e1b20d1a658f792020105.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259726,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259726",
+                "long_title": "第一次返程计划",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第4话 第一次返程计划",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259726",
+                "short_link": "https://b23.tv/ep259726",
+                "skip": {
+                    "ed": {
+                        "end": 1286,
+                        "start": 1196
+                    },
+                    "op": {
+                        "end": 212,
+                        "start": 116
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 40338295,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ft411x7iz",
+                "cid": 70846152,
+                "cover": "http://i0.hdslb.com/bfs/archive/89cba75a81f4f8eb001ef0097d9f9477ea2c0111.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259727,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259727",
+                "long_title": "未来的模样",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第5话 未来的模样",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259727",
+                "short_link": "https://b23.tv/ep259727",
+                "skip": {
+                    "ed": {
+                        "end": 1293,
+                        "start": 1203
+                    },
+                    "op": {
+                        "end": 158,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 40339984,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ft411s7dt",
+                "cid": 70848987,
+                "cover": "http://i0.hdslb.com/bfs/archive/2a2c048bcf1c1b118f08864ad8bf98eb0ae83208.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259728,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259728",
+                "long_title": "因为，那可是人啊……",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第6话 因为，那可是人啊……",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259728",
+                "short_link": "https://b23.tv/ep259728",
+                "skip": {
+                    "ed": {
+                        "end": 1249,
+                        "start": 1159
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 40341133,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ft411s7vm",
+                "cid": 70850882,
+                "cover": "http://i0.hdslb.com/bfs/archive/6c7b826fb49682f25c5895652515c4ee48f27a85.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259729,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259729",
+                "long_title": "午夜狂诗曲",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第7话 午夜狂诗曲",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259729",
+                "short_link": "https://b23.tv/ep259729",
+                "skip": {
+                    "ed": {
+                        "end": 1324,
+                        "start": 1232
+                    },
+                    "op": {
+                        "end": 172,
+                        "start": 76
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 40342805,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ct411x7pp",
+                "cid": 70853734,
+                "cover": "http://i0.hdslb.com/bfs/archive/b09dc10d4da8313b727be0f2b2ce52bae6857864.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259730,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259730",
+                "long_title": "拿非利人作战",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第8话 拿非利人作战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259730",
+                "short_link": "https://b23.tv/ep259730",
+                "skip": {
+                    "ed": {
+                        "end": 1318,
+                        "start": 1226
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 52
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 40343821,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ct411x7PQ",
+                "cid": 70855526,
+                "cover": "http://i0.hdslb.com/bfs/archive/d22e59e85f4de7aaf7593ed2b66eccc99cbbc4ab.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259731,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259731",
+                "long_title": "消失的命运",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第9话 消失的命运",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259731",
+                "short_link": "https://b23.tv/ep259731",
+                "skip": {
+                    "ed": {
+                        "end": 1336,
+                        "start": 1246
+                    },
+                    "op": {
+                        "end": 205,
+                        "start": 109
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 40345433,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ft411x79v",
+                "cid": 70858228,
+                "cover": "http://i0.hdslb.com/bfs/archive/0f006d07ba57a7958af23cb84da8631fc3fcf572.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259732,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259732",
+                "long_title": "大家的城市",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第10话 大家的城市",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259732",
+                "short_link": "https://b23.tv/ep259732",
+                "skip": {
+                    "ed": {
+                        "end": 1342,
+                        "start": 1251
+                    },
+                    "op": {
+                        "end": 196,
+                        "start": 100
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 40346456,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1At411x7w3",
+                "cid": 70859963,
+                "cover": "http://i0.hdslb.com/bfs/archive/52c47bf6b6a0f96fc687461f88d1c89b0b9e6973.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259733,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259733",
+                "long_title": "最后的希望",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第11话 最后的希望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259733",
+                "short_link": "https://b23.tv/ep259733",
+                "skip": {
+                    "ed": {
+                        "end": 1223,
+                        "start": 1132
+                    },
+                    "op": {
+                        "end": 166,
+                        "start": 70
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 40350428,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pt411x7ML",
+                "cid": 70866289,
+                "cover": "http://i0.hdslb.com/bfs/archive/b5aecadd11d333e2cbf7201ef31c522dc1948f81.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 259734,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259734",
+                "long_title": "回归",
+                "pub_time": 1547060100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《revisions》第12话 回归",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259734",
+                "short_link": "https://b23.tv/ep259734",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 64
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1196.9万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "“这是预言。一个巨大的危机，将会降临到你们五人的身上。到那时候能保护他们的只有你了。”\n小时候曾经历过被人诱拐的高中二年级生堂岛大介，与儿时玩伴的凯、露、爱铃爱铃、庆作一起，被卷入了不可思议的现象“涉谷漂流”之中。\n涉谷的市中心区穿越到了300年后的“未来”。在那里等待着他们的是，广阔无际的荒野和森林、散布的废墟……以及，未来人“revisions”与他们操纵着的巨大机械怪物。\n为了拯救理由不明地被肆意蹂躏着的涉谷，此时出现的是与诱拐事件中大介的恩人有着相同名字的少女·米罗。她为大介他们提供了只有他们才能驾驶的人型兵器“string puppet”。\n被孤立的街区，未知的敌人。不确定的过去与命运的预言。少年少女们，为了夺回“现在”而勇于挑战“未来”。绝对，要回到原来的时代——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4316402/",
+        "media_id": 4316402,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 259734,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 35690,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-10 02:55:00",
+            "pub_time_show": "2019年01月10日02:55",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 10378,
+            "score": 8.8
+        },
+        "record": "登记号：10417060206372612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26286,
+        "season_title": "revisions",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cc7a78b649508d108335a6ce34bcd964568bbd7d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4316402,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b5aecadd11d333e2cbf7201ef31c522dc1948f81.jpg",
+                    "id": 259734,
+                    "index_show": "全12话"
+                },
+                "season_id": 26286,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 741565,
+                    "series_follow": 741565,
+                    "views": 11969063
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4276,
+            "series_title": "revisions"
+        },
+        "share_copy": "《revisions》穿越时空，拯救同伴",
+        "share_sub_title": "穿越时空，拯救同伴",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26286",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/87a0c63b539c9e46ce92e441155b4b30c6bc60e5.jpg",
+        "stat": {
+            "coins": 29939,
+            "danmakus": 114886,
+            "favorite": 5227,
+            "favorites": 741565,
+            "likes": 26107,
+            "reply": 24884,
+            "share": 6718,
+            "views": 11969063
+        },
+        "status": 13,
+        "subtitle": "已观看1196.9万次",
+        "title": "revisions",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

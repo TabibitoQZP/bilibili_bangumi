@@ -1,0 +1,843 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "cover": "http://i0.hdslb.com/bfs/bangumi/2ca10857cb220c589c3f55ee9fd52fe0903a9d5c.png",
+            "head_bg_url": "",
+            "id": 59,
+            "link": "http://www.bilibili.com/topic/1308.html",
+            "pendants": [
+                {
+                    "image": "http://i1.hdslb.com/bfs/face/ddba0ee26ce46e0b2c85bb749a8d17d5512a91e4.png",
+                    "name": "坂本",
+                    "pid": 47
+                }
+            ],
+            "title": "坂本"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/14ba6643f22405e2777cca992002cc6411601334.jpg",
+        "episodes": [
+            {
+                "aid": 4305747,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs411z7AQ",
+                "cid": 10732848,
+                "cover": "http://i0.hdslb.com/bfs/archive/b8ddcb16922ebb88e51fa200a9c74e14887bf073.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 85829,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85829",
+                "long_title": "一年2班 坂本君",
+                "pub_time": 1460084400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第1话 一年2班 坂本君",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85829",
+                "short_link": "https://b23.tv/ep85829",
+                "skip": {
+                    "ed": {
+                        "end": 1392,
+                        "start": 1303
+                    },
+                    "op": {
+                        "end": 224,
+                        "start": 97
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2.1亿次",
+                "title": "1",
+                "vid": "vupload_10732848"
+            },
+            {
+                "aid": 4428210,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms41167xT",
+                "cid": 98359626,
+                "cover": "http://i0.hdslb.com/bfs/archive/df4c279b33e1b1515383ed44225486c689b6c49a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 86692,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86692",
+                "long_title": "与其被保护不如去保护",
+                "pub_time": 1461261600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第2话 与其被保护不如去保护",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86692",
+                "short_link": "https://b23.tv/ep86692",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1339
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "2",
+                "vid": "vupload_10732851"
+            },
+            {
+                "aid": 4497569,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Us411q7GK",
+                "cid": 10732857,
+                "cover": "http://i1.hdslb.com/bfs/archive/ee0ce5a0d0bead4673d5eb01ed584b0a1409ba2c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 86863,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86863",
+                "long_title": "跑腿小弟坂本",
+                "pub_time": 1461891738,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第3话 跑腿小弟坂本",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86863",
+                "short_link": "https://b23.tv/ep86863",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "3",
+                "vid": "vupload_10732857"
+            },
+            {
+                "aid": 4569184,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1us411B7Et",
+                "cid": 98377408,
+                "cover": "http://i1.hdslb.com/bfs/archive/bfc7caa58a18e8411305a9109ab617e1f778c204.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 87568,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep87568",
+                "long_title": "坂本是色狼吗",
+                "pub_time": 1462497320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第4话 坂本是色狼吗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep87568",
+                "short_link": "https://b23.tv/ep87568",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "4",
+                "vid": "vupload_10732862"
+            },
+            {
+                "aid": 4635354,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bs411B79c",
+                "cid": 10732867,
+                "cover": "http://i1.hdslb.com/bfs/archive/3a96cf61c8dd78bb470c855093ba3fe4e9e0fd4f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 87842,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep87842",
+                "long_title": "超凡脱俗的不良少年8823学长",
+                "pub_time": 1463101202,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第5话 超凡脱俗的不良少年8823学长",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep87842",
+                "short_link": "https://b23.tv/ep87842",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1282
+                    },
+                    "op": {
+                        "end": 214,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "5",
+                "vid": "vupload_10732867"
+            },
+            {
+                "aid": 4705284,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16s411B74o",
+                "cid": 98379033,
+                "cover": "http://i2.hdslb.com/bfs/archive/d5a159cc633d25a2032356c760f62eb3bc360c6b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 88255,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88255",
+                "long_title": "放学路上的规则",
+                "pub_time": 1463706014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第6话 放学路上的规则",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88255",
+                "short_link": "https://b23.tv/ep88255",
+                "skip": {
+                    "ed": {
+                        "end": 1306,
+                        "start": 1216
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 18
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "6",
+                "vid": "vupload_10732870"
+            },
+            {
+                "aid": 4775518,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ns411i7xJ",
+                "cid": 98379320,
+                "cover": "http://i2.hdslb.com/bfs/archive/fc0e7b42d4babed995f6f4a8ea48ef78a3e146a1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 88504,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88504",
+                "long_title": "坂本果然是色狼吗?",
+                "pub_time": 1464311101,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第7话 坂本果然是色狼吗?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88504",
+                "short_link": "https://b23.tv/ep88504",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1339
+                    },
+                    "op": {
+                        "end": 100,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "7",
+                "vid": "vupload_10732873"
+            },
+            {
+                "aid": 4846969,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cs411i7X9",
+                "cid": 10732877,
+                "cover": "http://i0.hdslb.com/bfs/archive/22aa7d81229e5aa4b6ee3d389bacbeabe28dae91.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 88839,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88839",
+                "long_title": "忧郁的文化祭",
+                "pub_time": 1464915901,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第8话 忧郁的文化祭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88839",
+                "short_link": "https://b23.tv/ep88839",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 104,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "8",
+                "vid": "vupload_10732877"
+            },
+            {
+                "aid": 4922937,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411q7w5",
+                "cid": 98379580,
+                "cover": "http://i0.hdslb.com/bfs/archive/d45440607b3aa35a6fadd459a6e90336d70edbee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 89139,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89139",
+                "long_title": "坂本君与我的相遇",
+                "pub_time": 1465520702,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第9话 坂本君与我的相遇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89139",
+                "short_link": "https://b23.tv/ep89139",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1339
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "9",
+                "vid": "vupload_10732879"
+            },
+            {
+                "aid": 4996796,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zs411e7AD",
+                "cid": 10732883,
+                "cover": "http://i0.hdslb.com/bfs/archive/efe1ca2d4e9ca69ec20feff3ebb4e5725985940e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 89140,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89140",
+                "long_title": "魔王",
+                "pub_time": 1466126846,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第10话 魔王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89140",
+                "short_link": "https://b23.tv/ep89140",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1341
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "10",
+                "vid": "vupload_10732883"
+            },
+            {
+                "aid": 5072788,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411v7Tf",
+                "cid": 10732885,
+                "cover": "http://i0.hdslb.com/bfs/archive/752720a4b6c578cee3e7d0cff6277e63a328139b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1468000,
+                "from": "bangumi",
+                "id": 89141,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89141",
+                "long_title": "不要温度",
+                "pub_time": 1466730302,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第11话 不要温度",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89141",
+                "short_link": "https://b23.tv/ep89141",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1309
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "11",
+                "vid": "vupload_10732885"
+            },
+            {
+                "aid": 5154880,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12s411v7k2",
+                "cid": 10732887,
+                "cover": "http://i0.hdslb.com/bfs/archive/bb52c06c1c78190eec99cb26829d76c3d49706a1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 89142,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89142",
+                "long_title": "再见 坂本君",
+                "pub_time": 1467335102,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第12话 再见 坂本君",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89142",
+                "short_link": "https://b23.tv/ep89142",
+                "skip": {
+                    "ed": {
+                        "end": 1441,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 217,
+                        "start": 127
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "12",
+                "vid": "vupload_10732887"
+            },
+            {
+                "aid": 6601286,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps41147eA",
+                "cid": 92698426,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a8d4d67d3330a377fc34a3800163a80bb0b364c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 96751,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96751",
+                "long_title": "TV未放送",
+                "pub_time": 1475935210,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《在下坂本，有何贵干？》第13话 TV未放送",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96751",
+                "short_link": "https://b23.tv/ep96751",
+                "skip": {
+                    "ed": {
+                        "end": 1438,
+                        "start": 1338
+                    },
+                    "op": {
+                        "end": 648,
+                        "start": 546
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "13",
+                "vid": "vupload_10783321"
+            }
+        ],
+        "evaluate": "于日本县立学文高中之中，有一名叫坂本的全能高中生，平常总是用著各种超乎常理的无厘头行为来完成各种琐事，导致周遭所有女性同学都对他钦佩绝倒，同时也引起所有男性同学的无限嫉妒。但不管面对其他人如何刁难，坂本总是能用各种帅气方式来让他人甘拜下风。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3450/",
+        "media_id": 3450,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 96751,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 20453,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-04-08 00:00:01",
+            "pub_time_show": "2016年4月8日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 40884,
+            "score": 9.4
+        },
+        "record": "登记号：10417060209453104",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 340,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3450,
+        "season_title": "在下坂本，有何贵干？",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/14ba6643f22405e2777cca992002cc6411601334.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3450,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4a8d4d67d3330a377fc34a3800163a80bb0b364c.jpg",
+                    "id": 96751,
+                    "index_show": "全13话"
+                },
+                "season_id": 3450,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5895876,
+                    "series_follow": 6004896,
+                    "views": 214945925
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c16fa6ed1c67d8f98a648e7aeac19ff7ec24c3bb.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/212be05f811ddc2f89b6e3d8732aea3f98c470eb.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/fedef31adb54610abba645624177da0fd51d8dbd.png",
+                "media_id": 28236712,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bff2a732979c5e28b6572bf479770f96322eaa80.png",
+                    "id": 466793,
+                    "index_show": "全13话"
+                },
+                "season_id": 41006,
+                "season_title": "中配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 202425,
+                    "series_follow": 6004896,
+                    "views": 10256524
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2109,
+            "series_title": "在下坂本，有何贵干？"
+        },
+        "share_copy": "《在下坂本，有何贵干？》帅气坂本，在线撩人",
+        "share_sub_title": "帅气坂本，在线撩人",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3450",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a5cc873ffd3765472c1e7444962aafeed4e71f73.jpg",
+        "stat": {
+            "coins": 723842,
+            "danmakus": 3251423,
+            "favorite": 31486,
+            "favorites": 5895876,
+            "likes": 579085,
+            "reply": 227686,
+            "share": 271477,
+            "views": 214945925
+        },
+        "status": 13,
+        "subtitle": "已观看2.1亿次",
+        "title": "在下坂本，有何贵干？",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

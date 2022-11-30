@@ -1,0 +1,936 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/fbeae585bcd440607bbe7671d98ded1edcba16b2.jpg",
+        "episodes": [
+            {
+                "aid": 50649232,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1g4411b7vU",
+                "cid": 88671457,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5b5ed0af9d8c69b7c63ed2f0e433f5bf825534fa.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 18901,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18901",
+                "long_title": "朝比奈实玖琉的冒险 Episode00",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第1话 朝比奈实玖琉的冒险 Episode00",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18901",
+                "short_link": "https://b23.tv/ep18901",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看453.9万次",
+                "title": "1",
+                "vid": "111892299"
+            },
+            {
+                "aid": 464324802,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PL411M7No",
+                "cid": 88671755,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1488000,
+                "from": "bangumi",
+                "id": 18902,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18902",
+                "long_title": "凉宫春日的忧郁 I",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第2话 凉宫春日的忧郁 I",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18902",
+                "short_link": "https://b23.tv/ep18902",
+                "skip": {
+                    "ed": {
+                        "end": 1487,
+                        "start": 1417
+                    },
+                    "op": {
+                        "end": 240,
+                        "start": 150
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "2",
+                "vid": "111892311"
+            },
+            {
+                "aid": 421793928,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1b3411t7Ka",
+                "cid": 88858079,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18903,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18903",
+                "long_title": "凉宫春日的忧郁 II",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第3话 凉宫春日的忧郁 II",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18903",
+                "short_link": "https://b23.tv/ep18903",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 202,
+                        "start": 112
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "3",
+                "vid": "111880057"
+            },
+            {
+                "aid": 251845553,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MY41147DY",
+                "cid": 88672021,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18904,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18904",
+                "long_title": "凉宫春日的退屈",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第4话 凉宫春日的退屈",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18904",
+                "short_link": "https://b23.tv/ep18904",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 81
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "4",
+                "vid": "111881884"
+            },
+            {
+                "aid": 464352298,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AL411M75k",
+                "cid": 88672179,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 18905,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18905",
+                "long_title": "凉宫春日的忧郁 III",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第5话 凉宫春日的忧郁 III",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18905",
+                "short_link": "https://b23.tv/ep18905",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1415
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 27
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "5",
+                "vid": "111902710"
+            },
+            {
+                "aid": 421789677,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1o341187NY",
+                "cid": 88672331,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18906,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18906",
+                "long_title": "孤岛综合症（前篇）",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第6话 孤岛综合症（前篇）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18906",
+                "short_link": "https://b23.tv/ep18906",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 159,
+                        "start": 69
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "6",
+                "vid": "111892026"
+            },
+            {
+                "aid": 634260895,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cb4y1b785",
+                "cid": 88672491,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 18907,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18907",
+                "long_title": "神秘信号",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第7话 神秘信号",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18907",
+                "short_link": "https://b23.tv/ep18907",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "7",
+                "vid": "111905748"
+            },
+            {
+                "aid": 251834506,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jY41147hR",
+                "cid": 88672644,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18908,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18908",
+                "long_title": "孤岛综合症（后篇）",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第8话 孤岛综合症（后篇）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18908",
+                "short_link": "https://b23.tv/ep18908",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "8",
+                "vid": "111907631"
+            },
+            {
+                "aid": 719361139,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BQ4y1v7zM",
+                "cid": 88672830,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18909,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18909",
+                "long_title": "Someday in the rain",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第9话 Someday in the rain",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18909",
+                "short_link": "https://b23.tv/ep18909",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "9",
+                "vid": "111892251"
+            },
+            {
+                "aid": 591852322,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Uq4y167wD",
+                "cid": 88672915,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 18910,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18910",
+                "long_title": "凉宫春日的忧郁 IV",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第10话 凉宫春日的忧郁 IV",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18910",
+                "short_link": "https://b23.tv/ep18910",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1371
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "10",
+                "vid": "111880814"
+            },
+            {
+                "aid": 719362379,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BQ4y1v7sb",
+                "cid": 88673109,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 18911,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18911",
+                "long_title": "射手座之日",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第11话 射手座之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18911",
+                "short_link": "https://b23.tv/ep18911",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "11",
+                "vid": "111917640"
+            },
+            {
+                "aid": 379336466,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Af4y1K7Qk",
+                "cid": 88673246,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 18912,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18912",
+                "long_title": "Live Alive",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第12话 Live Alive",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18912",
+                "short_link": "https://b23.tv/ep18912",
+                "skip": {
+                    "ed": {
+                        "end": 1438,
+                        "start": 1369
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "12",
+                "vid": "116359475"
+            },
+            {
+                "aid": 849338804,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bL4y1i73f",
+                "cid": 88673489,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1462000,
+                "from": "bangumi",
+                "id": 18913,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18913",
+                "long_title": "凉宫春日的忧郁 V",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第13话 凉宫春日的忧郁 V",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18913",
+                "short_link": "https://b23.tv/ep18913",
+                "skip": {
+                    "ed": {
+                        "end": 1461,
+                        "start": 1391
+                    },
+                    "op": {
+                        "end": 123,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "13",
+                "vid": "111903321"
+            },
+            {
+                "aid": 336761361,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RR4y1t7dQ",
+                "cid": 88673645,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 18914,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18914",
+                "long_title": "凉宫春日的忧郁 VI",
+                "pub_time": 1376065620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《凉宫春日的忧郁 2006》第14话 凉宫春日的忧郁 VI",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18914",
+                "short_link": "https://b23.tv/ep18914",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看453.9万次",
+                "title": "14",
+                "vid": "111904602"
+            }
+        ],
+        "evaluate": "　　“我毕业于东中，叫做凉宫春日。我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界人或者超能力者的话，就尽管来找我吧。”这是凉宫春日的宣言，也是她对于平庸生活的挑战。\n　　我们可能在很小时就不再相信圣诞老人的存在，也慢慢不会再对外星人，特异功能等等产生幻想。在生活的教化下习惯于平淡无奇的生活。可是不安于现状的凉宫同学却勇敢的建立起SOS团，用强烈的意志去试图改造这个了无新意的世界。她的忧郁，究竟从何而来，又将从何而去。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1056/",
+        "media_id": 1056,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全14话",
+            "id": 18914,
+            "is_new": 0,
+            "title": "14"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18051,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2006-04-02 00:00:00",
+            "pub_time_show": "2006年04月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 4488,
+            "score": 9.7
+        },
+        "record": "登记号：10417060207132611",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1056,
+        "season_title": "凉宫春日的忧郁 2006",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e7950f21042cade73ed4282d988d131769c98d5d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 24120616,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6fd2c7e77525f71587907a0d282e1b23a0983aa5.jpg",
+                    "id": 18942,
+                    "index_show": "全28话"
+                },
+                "season_id": 1057,
+                "season_title": "2009版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1130635,
+                    "series_follow": 1514859,
+                    "views": 17556730
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fbeae585bcd440607bbe7671d98ded1edcba16b2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1056,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0ae2aebc42014f23c0db9f6cde4453d6a09ce38d.jpg",
+                    "id": 18914,
+                    "index_show": "全14话"
+                },
+                "season_id": 1056,
+                "season_title": "2006版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 559210,
+                    "series_follow": 1514859,
+                    "views": 4538834
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/395937e084d9a260702062ff02a3e8a088d0c54e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2809,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0b4b6cec545dd9814f57da0ebed3254eb0f7fcb1.png",
+                    "id": 71827,
+                    "index_show": "全1话"
+                },
+                "season_id": 2809,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 583686,
+                    "series_follow": 1514859,
+                    "views": 3003965
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/649c562820255ec4fd7d166ae164c86b99b49947.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4735,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8c4b24a768cf94186750743ed98823ab4385476d.jpg",
+                    "id": 89657,
+                    "index_show": "全25话"
+                },
+                "season_id": 4735,
+                "season_title": "小凉宫",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 227472,
+                    "series_follow": 1514859,
+                    "views": 3444930
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 685,
+            "series_title": "凉宫春日的忧郁"
+        },
+        "share_copy": "《凉宫春日的忧郁 2006》来改造平庸的生活吧",
+        "share_sub_title": "来改造平庸的生活吧",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1056",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a1850dccdd9beb262d0ed6f6102fba10db2a5a5d.jpg",
+        "stat": {
+            "coins": 17882,
+            "danmakus": 56828,
+            "favorite": 2009,
+            "favorites": 559210,
+            "likes": 28549,
+            "reply": 5135,
+            "share": 3776,
+            "views": 4538834
+        },
+        "status": 13,
+        "subtitle": "已观看453.9万次",
+        "title": "凉宫春日的忧郁 2006",
+        "total": 14,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

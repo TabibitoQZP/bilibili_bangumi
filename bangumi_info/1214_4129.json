@@ -1,0 +1,208 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/3ae9495a2e46af81f3d5c58066f5bff47e00b7c9.jpg",
+        "episodes": [
+            {
+                "aid": 24966814,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rW411F7aU",
+                "cid": 42163090,
+                "cover": "http://i0.hdslb.com/bfs/archive/d484c7b42aca271dc7d6af91ca17af2ad48d6c63.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 7181000,
+                "from": "bangumi",
+                "id": 215976,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep215976?theme=movie",
+                "long_title": "",
+                "pub_time": 1529194080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《怪物之子》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep215976",
+                "short_link": "https://b23.tv/ep215976",
+                "skip": {
+                    "ed": {
+                        "end": 7180,
+                        "start": 6864
+                    },
+                    "op": {
+                        "end": 50,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看195.3万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "这个世上，除了人类的世界以外，还有另外一个世界ーー那就是怪物的世界。人类世界的「涩谷」与怪物世界的「涉天街」，两个世界本应没有交集。不过有一日，有一个人类少年「莲」迷失在怪物的世界，成为了怪物「熊彻」的弟子，并被授予了九太这个名字。这一偶然的相遇，正是超乎想象的冒险的开始。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md102172/",
+        "media_id": 102172,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 215976,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 21034,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-07-11 00:00:01",
+            "pub_time_show": "2015年7月11日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5064,
+            "score": 9.6
+        },
+        "record": "登记号：10417060213062301",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4129,
+        "season_title": "怪物之子",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3ae9495a2e46af81f3d5c58066f5bff47e00b7c9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 102172,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d484c7b42aca271dc7d6af91ca17af2ad48d6c63.jpg",
+                    "id": 215976,
+                    "index_show": "全1话"
+                },
+                "season_id": 4129,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 242120,
+                    "series_follow": 242120,
+                    "views": 1952904
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2353,
+            "series_title": "怪物之子"
+        },
+        "share_copy": "《怪物之子》寻找自己内心的剑！",
+        "share_sub_title": "寻找自己内心的剑！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4129",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/dd61373e310c80b661184bc1aacc39f30a5ece72.jpg",
+        "stat": {
+            "coins": 32453,
+            "danmakus": 46073,
+            "favorite": 2443,
+            "favorites": 242120,
+            "likes": 19468,
+            "reply": 3404,
+            "share": 16673,
+            "views": 1952904
+        },
+        "status": 13,
+        "subtitle": "已观看195.3万次",
+        "title": "怪物之子",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

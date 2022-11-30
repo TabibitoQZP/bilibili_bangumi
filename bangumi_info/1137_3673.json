@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a7800c67a364bfe653cbfce37563179525fe750a.jpg",
+        "episodes": [
+            {
+                "aid": 2085897,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xx411A7or",
+                "cid": 3232894,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fa180822950a0ffe931b8b62d23266a46ebb0501.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1537000,
+                "from": "bangumi",
+                "id": 100505,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100505?theme=movie",
+                "long_title": "",
+                "pub_time": 1483758741,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《阿茹茉妮》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100505",
+                "short_link": "https://b23.tv/ep100505",
+                "skip": {
+                    "ed": {
+                        "end": 1537,
+                        "start": 1440
+                    },
+                    "op": {
+                        "end": 12,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看233万次",
+                "title": "1",
+                "vid": "vupload_3232894"
+            }
+        ],
+        "evaluate": "主人公本城彰男（松冈祯丞 配音）是一个乐感极好的普通中学生，听过一遍的曲子就能记下来，他暗恋着同班女生树里（上田丽奈 配音），却从来没有机会走进她的世界。两个本属不同圈子的人，被一首奇特的小曲牵引在一起。本城第一次触碰到树里的真实世界，发现了她柔软脆弱的一面。 \n　　一个关于人偶少女与人类少年的奇幻梦境，一直困扰着树里，让她深感孤独。而本城，因为那首奇异之曲，也开始梦到了相同的故事。每个人都有自己的世界，本城能否走进树里的真实世界中去？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3673/",
+        "media_id": 3673,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 100505,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20614,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-03-01 00:00:01",
+            "pub_time_show": "2014年3月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1925,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3673,
+        "season_title": "阿茹茉妮",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a7800c67a364bfe653cbfce37563179525fe750a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3673,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/fa180822950a0ffe931b8b62d23266a46ebb0501.jpg",
+                    "id": 100505,
+                    "index_show": "全1话"
+                },
+                "season_id": 3673,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 279644,
+                    "series_follow": 279644,
+                    "views": 2329923
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2208,
+            "series_title": "阿茹茉妮"
+        },
+        "share_copy": "《阿茹茉妮》一场梦中的美丽相遇",
+        "share_sub_title": "一场梦中的美丽相遇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3673",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/130e66a4ae6d1f8b3dba991f8eb2bc4974e3e94e.jpg",
+        "stat": {
+            "coins": 12267,
+            "danmakus": 18738,
+            "favorite": 9197,
+            "favorites": 279644,
+            "likes": 22708,
+            "reply": 2033,
+            "share": 6527,
+            "views": 2329923
+        },
+        "status": 2,
+        "subtitle": "已观看233万次",
+        "title": "阿茹茉妮",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

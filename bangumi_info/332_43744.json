@@ -1,0 +1,396 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/4177a6ead8e1460a8141cd2b91fb28a5d9b06b2f.png",
+        "episodes": [],
+        "evaluate": "主人公柊诚一在某一天突然被传送到了一个奇幻世界。\n偶然吃下了谜之果实“进化之实”，获得了作弊体质！在异世界向着人生赢家突进的诚一将迎来新的转机！\n诚一被邀请成为巴巴多尔魔法学园的教师，他的使命是成为学园的救世主。然而在那里等待着他的，竟是一群问题学生！\n同时，魔神教团终于出动！他们为了复活魔神而暗中活动，诚一与从未有过的强敌的战斗即将拉开帷幕！",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/28340325",
+        "media_id": 28340325,
+        "mode": 2,
+        "new_ep": {
+            "desc": "敬请期待",
+            "id": 0,
+            "is_new": 0,
+            "title": ""
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 87812,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 0,
+            "pub_time": "2023-01-31 00:00:01",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 1,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 43744,
+        "season_title": "真・进化之实 踏上胜利的人生",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f9c8aaf0d094786c34112f09794e6b157b86929e.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/e86444fe345ddfb3f51030d44d6fd2104a73cd5b.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/5dae071ca6bfe2ab3b8b98f3b151837d65f6bcf0.png",
+                "media_id": 28235053,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/f917135c1f0dc3b90edc736e7dd184d97ca96e2a.png",
+                    "id": 424324,
+                    "index_show": "全12话"
+                },
+                "season_id": 39361,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1707478,
+                    "series_follow": 1709630,
+                    "views": 52358634
+                }
+            },
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4177a6ead8e1460a8141cd2b91fb28a5d9b06b2f.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/be41eda849d60584307ec3b4b11df63790b931b1.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/2b23b9965b84a12abcb2c34186195d8d1e5c37e2.png",
+                "media_id": 28340325,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "即将开播"
+                },
+                "season_id": 43744,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1698143,
+                    "series_follow": 1709630,
+                    "views": 218330
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 304650904,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HP411w7A7",
+                        "cid": 878934913,
+                        "cover": "http://i0.hdslb.com/bfs/archive/cb9c453d06f6d5a234d56e3c4b8db3cca85764e0.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 173000,
+                        "from": "bangumi",
+                        "id": 697643,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep697643",
+                        "long_title": "",
+                        "pub_time": 1667563200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《真・进化之实 踏上胜利的人生》特报PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep697643",
+                        "short_link": "https://b23.tv/ep697643",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 311,
+                            "danmakus": 82,
+                            "likes": 2495,
+                            "play": 194570,
+                            "reply": 500
+                        },
+                        "status": 2,
+                        "subtitle": "已观看21.8万次",
+                        "title": "特报PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 87827,
+                "title": "PV&其他",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 604640905,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1X84y1i7mE",
+                        "cid": 878987746,
+                        "cover": "http://i0.hdslb.com/bfs/archive/3fe21bdf46e0a06b2eab84113e5016abf6f69f04.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 78000,
+                        "from": "bangumi",
+                        "id": 697645,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep697645",
+                        "long_title": "",
+                        "pub_time": 1667563200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《真・进化之实 踏上胜利的人生》小剧场#01 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep697645",
+                        "short_link": "https://b23.tv/ep697645",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 24,
+                            "danmakus": 10,
+                            "likes": 1470,
+                            "play": 15540,
+                            "reply": 96
+                        },
+                        "status": 2,
+                        "subtitle": "已观看21.8万次",
+                        "title": "小剧场#01",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 517438894,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ag411z7oA",
+                        "cid": 886254358,
+                        "cover": "http://i0.hdslb.com/bfs/archive/90b2c8eca1179fffc18f4bf8152d746cf44b61f7.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 82000,
+                        "from": "bangumi",
+                        "id": 701350,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep701350",
+                        "long_title": "",
+                        "pub_time": 1668168000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《真・进化之实 踏上胜利的人生》小剧场#02 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep701350",
+                        "short_link": "https://b23.tv/ep701350",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 8,
+                            "danmakus": 2,
+                            "likes": 1338,
+                            "play": 8220,
+                            "reply": 26
+                        },
+                        "status": 2,
+                        "subtitle": "已观看21.8万次",
+                        "title": "小剧场#02",
+                        "vid": ""
+                    }
+                ],
+                "id": 87828,
+                "title": "迷你小剧场",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5668,
+            "series_title": "进化之实 踏上胜利的人生"
+        },
+        "share_copy": "《真・进化之实 踏上胜利的人生》与猩猩娘的搞笑冒险",
+        "share_sub_title": "与猩猩娘的搞笑冒险",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss43744",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/8c79ca07fee6a2c4488ac2c67bb3e913e3f017a8.png",
+        "stat": {
+            "coins": 343,
+            "danmakus": 94,
+            "favorite": 147,
+            "favorites": 1698143,
+            "likes": 5303,
+            "reply": 622,
+            "share": 258,
+            "views": 218330
+        },
+        "status": 13,
+        "subtitle": "已观看21.8万次",
+        "title": "真・进化之实 踏上胜利的人生",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859942,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

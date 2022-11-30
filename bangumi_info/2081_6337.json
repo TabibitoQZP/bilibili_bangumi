@@ -1,0 +1,974 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/71630610c1ae5e747adcc67ac5071ce24df95b53.jpg",
+        "episodes": [
+            {
+                "aid": 12128254,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411q7q2",
+                "cid": 94131349,
+                "cover": "http://i1.hdslb.com/bfs/archive/9f4c07d75296bbb085e79adf1e7b343b6dfc594a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113551,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113551",
+                "long_title": "前辈与异种",
+                "pub_time": 1499866800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第1话 前辈与异种",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113551",
+                "short_link": "https://b23.tv/ep113551",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 31,
+                        "start": 1
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 12356006,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13x411i7Mx",
+                "cid": 94131439,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa10942c2ac961899f5c2955c1203b27135ea8c7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113552,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113552",
+                "long_title": "前辈与小鬼当家",
+                "pub_time": 1500471600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第2话 前辈与小鬼当家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113552",
+                "short_link": "https://b23.tv/ep113552",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 35,
+                        "start": 5
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 12606115,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qx411p7bs",
+                "cid": 94131488,
+                "cover": "http://i2.hdslb.com/bfs/archive/2e637b2e8a790a258b907a35795bd4f8df987aa3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113553,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113553",
+                "long_title": "前辈与完美音调",
+                "pub_time": 1501076400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第3话 前辈与完美音调",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113553",
+                "short_link": "https://b23.tv/ep113553",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 36,
+                        "start": 6
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 12870906,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ax411H79B",
+                "cid": 94131539,
+                "cover": "http://i1.hdslb.com/bfs/archive/54fd9cce1871537fe09fe1a4a96eb7ac68631e8d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113554,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113554",
+                "long_title": "前辈与斯巴达300勇士",
+                "pub_time": 1501681200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第4话 前辈与斯巴达300勇士",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113554",
+                "short_link": "https://b23.tv/ep113554",
+                "skip": {
+                    "ed": {
+                        "end": 142,
+                        "start": 112
+                    },
+                    "op": {
+                        "end": 40,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 13153870,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1tx411n7fU",
+                "cid": 94131580,
+                "cover": "http://i0.hdslb.com/bfs/archive/b3d73898ef4e876362d4a2f4030308426fdcde35.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113555",
+                "long_title": "前辈与101忠狗",
+                "pub_time": 1502286000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第5话 前辈与101忠狗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113555",
+                "short_link": "https://b23.tv/ep113555",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 42,
+                        "start": 12
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 13441290,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lx411J7F2",
+                "cid": 94131640,
+                "cover": "http://i1.hdslb.com/bfs/archive/e32154c5a3027d51c4c13acc067595eb252b31a5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113556",
+                "long_title": "前辈与茄子 安达卢西亚之夏",
+                "pub_time": 1502890800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第6话 前辈与茄子 安达卢西亚之夏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113556",
+                "short_link": "https://b23.tv/ep113556",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 38,
+                        "start": 8
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 13713216,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411b71J",
+                "cid": 94131702,
+                "cover": "http://i2.hdslb.com/bfs/archive/47fd89cf6e7a4f0d2b7de7227522d2a82f714b4a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113557",
+                "long_title": "前辈与贞子vs伽椰子",
+                "pub_time": 1503495600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第7话 前辈与贞子vs伽椰子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113557",
+                "short_link": "https://b23.tv/ep113557",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 35,
+                        "start": 5
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 13992280,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1tx411t76x",
+                "cid": 94131781,
+                "cover": "http://i0.hdslb.com/bfs/archive/0e53f145d2be5ec5fcf0b7561c35249edf811df5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113558,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113558",
+                "long_title": "前辈与落魄大厨",
+                "pub_time": 1504100400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第8话 前辈与落魄大厨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113558",
+                "short_link": "https://b23.tv/ep113558",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 41,
+                        "start": 11
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 14219333,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11x411x7H9",
+                "cid": 94131829,
+                "cover": "http://i2.hdslb.com/bfs/archive/f12aabb69c7dfa0ec0acd66fb0da4d505ce2d940.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113559,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113559",
+                "long_title": "前辈与死侍",
+                "pub_time": 1504705200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第9话 前辈与死侍",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113559",
+                "short_link": "https://b23.tv/ep113559",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 36,
+                        "start": 6
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 14427343,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411s7qn",
+                "cid": 94131872,
+                "cover": "http://i0.hdslb.com/bfs/archive/c05cbfe3a123c0c542f5f1fa762959673c8e38df.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113560,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113560",
+                "long_title": "前辈与无仁义之战",
+                "pub_time": 1505310000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第10话 前辈与无仁义之战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113560",
+                "short_link": "https://b23.tv/ep113560",
+                "skip": {
+                    "ed": {
+                        "end": 150,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 49,
+                        "start": 19
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 14633884,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13x411x7rX",
+                "cid": 94132018,
+                "cover": "http://i1.hdslb.com/bfs/archive/888535ae1cb44a557f6204b6e44471b61bab4bf4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113561,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113561",
+                "long_title": "前辈与怪医杜立德",
+                "pub_time": 1505914800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第11话 前辈与怪医杜立德",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113561",
+                "short_link": "https://b23.tv/ep113561",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 41,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 14834796,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12x411G7iN",
+                "cid": 94132085,
+                "cover": "http://i2.hdslb.com/bfs/archive/e7c22c8e488a241a6f00b0f6a3e144995207f018.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 151000,
+                "from": "bangumi",
+                "id": 113562,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113562",
+                "long_title": "前辈与音乐之声",
+                "pub_time": 1506519600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《网球并不可笑嘛 第九季》第12话 前辈与音乐之声",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113562",
+                "short_link": "https://b23.tv/ep113562",
+                "skip": {
+                    "ed": {
+                        "end": 149,
+                        "start": 120
+                    },
+                    "op": {
+                        "end": 42,
+                        "start": 12
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看139.2万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "网球并不可笑 第九季",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6337/",
+        "media_id": 6337,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 113562,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 23324,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-07-12 21:40:00",
+            "pub_time_show": "2017年07月12日21:40",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 431,
+            "score": 9.3
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6337,
+        "season_title": "网球并不可笑嘛 第九季",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4c2d12405e0d7e465098d001837633316f8a4f32.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 18,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/914a4c857f9e4ea40db98157998febe7f5570196.jpg",
+                    "id": 104,
+                    "index_show": "全12话"
+                },
+                "season_id": 18,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33450,
+                    "series_follow": 205005,
+                    "views": 1777343
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/476460b97e5c2b73759f151b2e82944d8ef79aef.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 19,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/89ec5f8dcba39596881cd056bf7807e4c6c0f4c6.jpg",
+                    "id": 116,
+                    "index_show": "全12话"
+                },
+                "season_id": 19,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 24630,
+                    "series_follow": 205005,
+                    "views": 1495950
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/393f610dc2736980efb559bcc352db33ebba3e6f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2604,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0eaab0c89f9127e8f159652416a9e4341f274871.jpg",
+                    "id": 69176,
+                    "index_show": "全12话"
+                },
+                "season_id": 2604,
+                "season_title": "第五季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 25803,
+                    "series_follow": 205005,
+                    "views": 1235636
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1e8c9ea5069fde0294848086fc539f6b702ef824.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2792,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/709fa1d699fcbe6fcf23eed4bb5c46aebb0c8c6a.jpg",
+                    "id": 81847,
+                    "index_show": "全12话"
+                },
+                "season_id": 2792,
+                "season_title": "第六季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 30361,
+                    "series_follow": 205005,
+                    "views": 1225202
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7be97dca874ff1aa38e1ca9badcaf0dc92e54082.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3234,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/15df16a8ed46a916097f741f1d2bfa482c197826.jpg",
+                    "id": 85608,
+                    "index_show": "全12话"
+                },
+                "season_id": 3234,
+                "season_title": "第七季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33217,
+                    "series_follow": 205005,
+                    "views": 1348483
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eecc67dc1f1c1fecbb299ae2c450f337dcf0fcdb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5561,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/215548da8059191eba481bbf34e661f013ac2f4b.jpg",
+                    "id": 96344,
+                    "index_show": "全12话"
+                },
+                "season_id": 5561,
+                "season_title": "第八季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 55362,
+                    "series_follow": 205005,
+                    "views": 1085409
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e359a61e839240cfac77d8a7ed012e91b3a39904.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3457,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e38c49a6ba8958123bf0f128bf4153e95742c37c.jpg",
+                    "id": 89007,
+                    "index_show": "全12话"
+                },
+                "season_id": 3457,
+                "season_title": "兔龟",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 47767,
+                    "series_follow": 205005,
+                    "views": 790144
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/901709abf464c406b40ba3b99af84e4b1df02537.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6170,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/5db002a2c4547c34eef3b6d89b9a61e673e093ba.jpg",
+                    "id": 106417,
+                    "index_show": "全1话"
+                },
+                "season_id": 6170,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8344,
+                    "series_follow": 205005,
+                    "views": 68710
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/71630610c1ae5e747adcc67ac5071ce24df95b53.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6337,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/e7c22c8e488a241a6f00b0f6a3e144995207f018.jpg",
+                    "id": 113562,
+                    "index_show": "全12话"
+                },
+                "season_id": 6337,
+                "season_title": "第九季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 51173,
+                    "series_follow": 205005,
+                    "views": 1392337
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2ed29f9cb1508322395ba79ecfdb07250b340267.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 17,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a5573d6d1b1284d5c8b27d1a218cbe976a629d9f.jpg",
+                    "id": 92,
+                    "index_show": "全12话"
+                },
+                "season_id": 17,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 87725,
+                    "series_follow": 205005,
+                    "views": 1755051
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 17,
+            "series_title": "网球并不可笑嘛"
+        },
+        "share_copy": "《网球并不可笑嘛 第九季》思维跳跃的泡面番",
+        "share_sub_title": "思维跳跃的泡面番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6337",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/e55cbc9acb988b14c619be3ae880d7e4da4153ac.jpg",
+        "stat": {
+            "coins": 2695,
+            "danmakus": 2706,
+            "favorite": 223,
+            "favorites": 51173,
+            "likes": 2350,
+            "reply": 5139,
+            "share": 785,
+            "views": 1392337
+        },
+        "status": 2,
+        "subtitle": "已观看139.2万次",
+        "title": "网球并不可笑嘛 第九季",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

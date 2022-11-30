@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9ad3b01554f3413fcc71241e8d6980f2db871a5d.png",
+        "episodes": [
+            {
+                "aid": 968341622,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV14p4y1X7tU",
+                "cid": 195740181,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 326537,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326537",
+                "long_title": "",
+                "pub_time": 1590660397,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第01话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326537",
+                "short_link": "https://b23.tv/ep326537",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "01",
+                "vid": ""
+            },
+            {
+                "aid": 540808305,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV14i4y1s739",
+                "cid": 196005698,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1484000,
+                "from": "bangumi",
+                "id": 326538,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326538",
+                "long_title": "",
+                "pub_time": 1590660449,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第02话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326538",
+                "short_link": "https://b23.tv/ep326538",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "02",
+                "vid": ""
+            },
+            {
+                "aid": 795818072,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YC4y1p7BD",
+                "cid": 195740626,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1505000,
+                "from": "bangumi",
+                "id": 326539,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326539",
+                "long_title": "",
+                "pub_time": 1590660496,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第03话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326539",
+                "short_link": "https://b23.tv/ep326539",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "03",
+                "vid": ""
+            },
+            {
+                "aid": 370814893,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AZ4y1W7L1",
+                "cid": 196005997,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1449000,
+                "from": "bangumi",
+                "id": 326540,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326540",
+                "long_title": "",
+                "pub_time": 1590660534,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第04话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326540",
+                "short_link": "https://b23.tv/ep326540",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "04",
+                "vid": ""
+            },
+            {
+                "aid": 883261161,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jK4y1t79Q",
+                "cid": 195741059,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1482000,
+                "from": "bangumi",
+                "id": 326541,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326541",
+                "long_title": "",
+                "pub_time": 1590660588,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第05话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326541",
+                "short_link": "https://b23.tv/ep326541",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "05",
+                "vid": ""
+            },
+            {
+                "aid": 498363147,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SK411H7J4",
+                "cid": 195741298,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1555000,
+                "from": "bangumi",
+                "id": 326542,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326542",
+                "long_title": "",
+                "pub_time": 1590660622,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第06话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326542",
+                "short_link": "https://b23.tv/ep326542",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "06",
+                "vid": ""
+            },
+            {
+                "aid": 753318671,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Nk4y1r7Hm",
+                "cid": 195741596,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1573000,
+                "from": "bangumi",
+                "id": 326543,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326543",
+                "long_title": "",
+                "pub_time": 1590660659,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第07话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326543",
+                "short_link": "https://b23.tv/ep326543",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "07",
+                "vid": ""
+            },
+            {
+                "aid": 285774428,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uf4y1275a",
+                "cid": 195741789,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1558000,
+                "from": "bangumi",
+                "id": 326545,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326545",
+                "long_title": "",
+                "pub_time": 1590660693,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第08话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326545",
+                "short_link": "https://b23.tv/ep326545",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "08",
+                "vid": ""
+            },
+            {
+                "aid": 968368536,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rp4y1S7mi",
+                "cid": 195742034,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1455000,
+                "from": "bangumi",
+                "id": 326546,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326546",
+                "long_title": "",
+                "pub_time": 1590660759,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第09话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326546",
+                "short_link": "https://b23.tv/ep326546",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "09",
+                "vid": ""
+            },
+            {
+                "aid": 370847088,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GZ4y1W7QU",
+                "cid": 195742281,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 326547,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326547",
+                "long_title": "",
+                "pub_time": 1590660795,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326547",
+                "short_link": "https://b23.tv/ep326547",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 795797488,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV17C4y1p7Ju",
+                "cid": 196017452,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1433000,
+                "from": "bangumi",
+                "id": 326548,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326548",
+                "long_title": "",
+                "pub_time": 1590660837,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326548",
+                "short_link": "https://b23.tv/ep326548",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 540753228,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Si4y147tx",
+                "cid": 195742880,
+                "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1434000,
+                "from": "bangumi",
+                "id": 326549,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep326549",
+                "long_title": "",
+                "pub_time": 1590660958,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《列比乌斯/Levius》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep326549",
+                "short_link": "https://b23.tv/ep326549",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看303.3万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "新生历19世纪。在争夺阿加塔沃特采矿所有权的福萨尼亚纷争结束后的5年。\n在所有动力都使用“蒸汽”的这个时代，将机器融合于人体并进行格斗的格斗技非常盛行。\n在战争中失去父亲和自己的右臂，母亲也成为植物人的孤独少年列比乌斯在伯父扎克的帮助下，仿佛被命运所吸引一样，埋头于机关拳击赛使自己才能开花结果。\n然后，用无敌笑容凝视在机关拳斗Grade-Ⅲ不断超越强敌的列比乌斯的神秘的男人克朗博士。\n在列比乌斯脑海中闪现的战争的记忆——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229026/",
+        "media_id": 28229026,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 326549,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 48022,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-05-28 18:16:00",
+            "pub_time_show": "2020年05月28日18:16",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1344,
+            "score": 9.4
+        },
+        "record": "登记号：10417060208852304",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 33597,
+        "season_title": "列比乌斯/Levius",
+        "seasons": [
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9ad3b01554f3413fcc71241e8d6980f2db871a5d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229026,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/41119f8ef6e20bc561f581d5ec1e3c0a1d1ca1b7.jpg",
+                    "id": 326549,
+                    "index_show": "全12话"
+                },
+                "season_id": 33597,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 267449,
+                    "series_follow": 267449,
+                    "views": 3032558
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4989,
+            "series_title": "列比乌斯"
+        },
+        "share_copy": "《列比乌斯/Levius》蒸汽拳击的热血搏斗",
+        "share_sub_title": "蒸汽拳击的热血搏斗",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss33597",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/4589b70a23c7e0c46fa4ef5c04f1503d4f1d25cd.png",
+        "stat": {
+            "coins": 10476,
+            "danmakus": 12132,
+            "favorite": 6234,
+            "favorites": 267449,
+            "likes": 30489,
+            "reply": 2554,
+            "share": 4260,
+            "views": 3032558
+        },
+        "status": 13,
+        "subtitle": "已观看303.3万次",
+        "title": "列比乌斯/Levius",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

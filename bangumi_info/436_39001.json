@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7aa36b20d74bb8bed11db8e1a38fc413c64843ce.png",
+        "episodes": [
+            {
+                "aid": 420161728,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV193411B7qy",
+                "cid": 402091963,
+                "cover": "http://i0.hdslb.com/bfs/archive/b5bf6dd8ad1c0272523e9c4ced9e314ddf7044e9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 417072,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417072",
+                "long_title": "尚且无名的心情",
+                "pub_time": 1630152000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第1话 尚且无名的心情",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417072",
+                "short_link": "https://b23.tv/ep417072",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2856.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 335150600,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aA411c7Po",
+                "cid": 402092310,
+                "cover": "http://i0.hdslb.com/bfs/archive/5f391d4a07a6e85d9c74d1e0afc8a4d3fd196b52.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 417073,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417073",
+                "long_title": "禁止学园偶像？",
+                "pub_time": 1630152000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第2话 禁止学园偶像？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417073",
+                "short_link": "https://b23.tv/ep417073",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 377665339,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yf4y1N7zG",
+                "cid": 402092759,
+                "cover": "http://i0.hdslb.com/bfs/archive/31e6ca9fb13fbf9e10e3dd6eebc7f9b15d916912.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 417074,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417074",
+                "long_title": "可香",
+                "pub_time": 1630152000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第3话 可香",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417074",
+                "short_link": "https://b23.tv/ep417074",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 335765745,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zR4y1p7Tb",
+                "cid": 416861662,
+                "cover": "http://i0.hdslb.com/bfs/archive/a0b2fa5b2a34404e3b5d2039d370c2d4fdbe243d.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1294000,
+                "from": "bangumi",
+                "id": 417075,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417075",
+                "long_title": "街角银河",
+                "pub_time": 1633176000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第4话 街角银河",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417075",
+                "short_link": "https://b23.tv/ep417075",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 590811429,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mq4y1Z73F",
+                "cid": 416862087,
+                "cover": "http://i0.hdslb.com/bfs/archive/80bbea3a67f496f9429d0af268728aa59718e3ac.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1400000,
+                "from": "bangumi",
+                "id": 417076,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417076",
+                "long_title": "情热岛屿",
+                "pub_time": 1633176000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第5话 情热岛屿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417076",
+                "short_link": "https://b23.tv/ep417076",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 420764789,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV183411y7tn",
+                "cid": 416862425,
+                "cover": "http://i0.hdslb.com/bfs/archive/467dea9aa81e2021efb839679815159e9a08efef.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 417077,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep417077",
+                "long_title": "一直以来的梦想",
+                "pub_time": 1633176000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第6话 一直以来的梦想",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep417077",
+                "short_link": "https://b23.tv/ep417077",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 208851494,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17h41187qu",
+                "cid": 432780276,
+                "cover": "http://i0.hdslb.com/bfs/archive/569c6b4dac8667fcfb0e57e961c82a385fdc9455.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 427341,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427341",
+                "long_title": "决战 学生会长选举",
+                "pub_time": 1635595200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第7话 决战 学生会长选举",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427341",
+                "short_link": "https://b23.tv/ep427341",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 933862584,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MT4y1d77k",
+                "cid": 432870514,
+                "cover": "http://i0.hdslb.com/bfs/archive/ba6d12762b94d10265f98ffdc1d42ae86db78473.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 427342,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427342",
+                "long_title": "心意连结",
+                "pub_time": 1635595200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第8话 心意连结",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427342",
+                "short_link": "https://b23.tv/ep427342",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 933851234,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oT4y1R7Ao",
+                "cid": 432865244,
+                "cover": "http://i0.hdslb.com/bfs/archive/3abf0ec796e4111120e547c2f8b12e994bb75846.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 427343,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427343",
+                "long_title": "你们的名字是？",
+                "pub_time": 1635595200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第9话 你们的名字是？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427343",
+                "short_link": "https://b23.tv/ep427343",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 764216077,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kr4y1k73Z",
+                "cid": 440895899,
+                "cover": "http://i0.hdslb.com/bfs/archive/25a3c607096f1b39b8fad5cc98cbb34762032f3a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 429750,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep429750",
+                "long_title": "切克闹！！",
+                "pub_time": 1636804801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第10话 切克闹！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep429750",
+                "short_link": "https://b23.tv/ep429750",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 379230311,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13f4y1M7h9",
+                "cid": 440895300,
+                "cover": "http://i0.hdslb.com/bfs/archive/a1c8f8e64923758c14e9249f6703f86a171242b1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 429751,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep429751",
+                "long_title": "再一次，在那个地方",
+                "pub_time": 1636804801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第11话 再一次，在那个地方",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep429751",
+                "short_link": "https://b23.tv/ep429751",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 634148204,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17b4y1t7hU",
+                "cid": 440894552,
+                "cover": "http://i0.hdslb.com/bfs/archive/b9f64443b95e4e8183d4bd239e547badd11cfa21.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 429752,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep429752",
+                "long_title": "为大家而唱",
+                "pub_time": 1636804801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《LoveLive 爱与演唱会!超级明星!!》第12话 为大家而唱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep429752",
+                "short_link": "https://b23.tv/ep429752",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2856.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "私立结之丘女子高等学校，\n在表参道、原宿、青山三街道交界之处，一所新设立的学校今年迎来了第一批入学的学生。\n\n没有历史、没有学长、没有名气，要什么没什么的新学校里，\n以涩谷香音为中心的五位少女与“学园偶像”相遇了。\n\n我，果然还是最喜欢唱歌了！想通过歌声……实现愿望！\n\n尚且稚嫩的星星们，不断积累着大大的梦想——。\n\n纯白而拥有着无限可能的她们的「大家一起来实现的故事（学园偶像计划）」。\n展翅飞翔吧！我们的LoveLive！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234693/",
+        "media_id": 28234693,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 429752,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 60577,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-08-28 20:00:00",
+            "pub_time_show": "2021年08月28日20:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 34119,
+            "score": 9.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39001,
+        "season_title": "LoveLive 爱与演唱会!超级明星!!",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7aa36b20d74bb8bed11db8e1a38fc413c64843ce.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/31b5117536eb3a74cc62b6926f7768e6510482df.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/de6a2496f2f94b95ca0c0d4cc94d3d2e8babd8ba.png",
+                "media_id": 28234693,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b9f64443b95e4e8183d4bd239e547badd11cfa21.jpg",
+                    "id": 429752,
+                    "index_show": "全12话"
+                },
+                "season_id": 39001,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1237384,
+                    "series_follow": 1237384,
+                    "views": 28561044
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 249085442,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV11v411J7mB",
+                        "cid": 365851846,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2eae7e665dbcf204d3d09f2383ca58bc6c2cb1ab.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 64000,
+                        "from": "bangumi",
+                        "id": 417084,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep417084",
+                        "long_title": "",
+                        "pub_time": 1630058400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《LoveLive 爱与演唱会!超级明星!!》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep417084",
+                        "short_link": "https://b23.tv/ep417084",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 8650,
+                            "danmakus": 1478,
+                            "likes": 25375,
+                            "play": 889016,
+                            "reply": 4886
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2856.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 61860,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5580,
+            "series_title": "Love Live! Superstar!!"
+        },
+        "share_copy": "《LoveLive 爱与演唱会!超级明星!!》用歌声来实现梦想",
+        "share_sub_title": "用歌声来实现梦想",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39001",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/2414d7b6dc54e74dff305c62886e7f86b1a84069.png",
+        "stat": {
+            "coins": 253437,
+            "danmakus": 347911,
+            "favorite": 53934,
+            "favorites": 1237384,
+            "likes": 634530,
+            "reply": 43918,
+            "share": 32561,
+            "views": 28561044
+        },
+        "status": 13,
+        "subtitle": "已观看2856.1万次",
+        "title": "LoveLive 爱与演唱会!超级明星!!",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859943,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

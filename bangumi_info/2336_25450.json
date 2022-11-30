@@ -1,0 +1,268 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/78b39f08980f09315e8107bd7728178c2ba0695b.png",
+        "episodes": [
+            {
+                "aid": 30827763,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iW411f77g",
+                "cid": 53825849,
+                "cover": "http://i0.hdslb.com/bfs/archive/658e4d7d75d56cd994b05dcf9b67b7b8e28fd1af.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 3453000,
+                "from": "bangumi",
+                "id": 246805,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep246805?theme=movie",
+                "long_title": "樱华、天望的架桥",
+                "pub_time": 1535771220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剧场版 笑傲昙天(外传) 「后篇」》第1话 樱华、天望的架桥",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep246805",
+                "short_link": "https://b23.tv/ep246805",
+                "skip": {
+                    "ed": {
+                        "end": 3452,
+                        "start": 3210
+                    },
+                    "op": {
+                        "end": 25,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看39.2万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "明治时期，围绕着日本最大的湖泊·琵琶湖畔的监狱所展开的冒险剧作。\n被大蛇玩弄于鼓掌之中的—阴家、豺、风魔— 故事中描写了他们的过去以及未来。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md128432/",
+        "media_id": 128432,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 246805,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 34612,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-09-01 11:00:00",
+            "pub_time_show": "2018年09月01日11:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 301,
+            "score": 9.3
+        },
+        "record": "登记号：10417060209002912",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 1194,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 25450,
+        "season_title": "剧场版 笑傲昙天(外传) 「后篇」",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ac6323b7018df5d55152ff88aa3325d196aeafb2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4060,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/5e0c315f96e084093d41f8b34bcf00170a81b44e.jpg",
+                    "id": 113989,
+                    "index_show": "全12话"
+                },
+                "season_id": 4060,
+                "season_title": "TV版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 286649,
+                    "series_follow": 340324,
+                    "views": 2762971
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ae9fd505951ea1091cce255f5cc6fb0372d40037.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8712,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/f67932478bd2380a7d1e07e4eaa0f03998d195cb.jpg",
+                    "id": 126025,
+                    "index_show": "全1话"
+                },
+                "season_id": 21326,
+                "season_title": "剧场版·前篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 74731,
+                    "series_follow": 340324,
+                    "views": 820193
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c64e75c17824c2ae99aa2c1777f4e584b89992eb.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 92812,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0fa6d50ef0b312eb08ded76044382536c51eb474.jpg",
+                    "id": 212482,
+                    "index_show": "全1话"
+                },
+                "season_id": 24287,
+                "season_title": "剧场版·中篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33454,
+                    "series_follow": 340324,
+                    "views": 436000
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/78b39f08980f09315e8107bd7728178c2ba0695b.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 128432,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/658e4d7d75d56cd994b05dcf9b67b7b8e28fd1af.jpg",
+                    "id": 246805,
+                    "index_show": "全1话"
+                },
+                "season_id": 25450,
+                "season_title": "剧场版·后篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 33269,
+                    "series_follow": 340324,
+                    "views": 392333
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2300,
+            "series_title": "笑对阴天"
+        },
+        "share_copy": "《剧场版 笑傲昙天(外传) 「后篇」》大蛇再度出现？",
+        "share_sub_title": "大蛇再度出现？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss25450",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/19655669deb6cd2972f767f8759462b42d778bee.png",
+        "stat": {
+            "coins": 1713,
+            "danmakus": 3023,
+            "favorite": 210,
+            "favorites": 33269,
+            "likes": 2242,
+            "reply": 757,
+            "share": 123,
+            "views": 392333
+        },
+        "status": 2,
+        "subtitle": "已观看39.2万次",
+        "title": "剧场版 笑傲昙天(外传) 「后篇」",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

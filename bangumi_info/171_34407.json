@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/43cebed282c8af72960ece8a35826467c2501d77.png",
+        "episodes": [
+            {
+                "aid": 584789567,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wz4y1f7Mq",
+                "cid": 250248984,
+                "cover": "http://i0.hdslb.com/bfs/archive/50b9764cffec31e9a3cc145edc4e3f317904e658.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341099,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341099",
+                "long_title": "不眠之城的公主",
+                "pub_time": 1601946001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第1话 不眠之城的公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341099",
+                "short_link": "https://b23.tv/ep341099",
+                "skip": {
+                    "ed": {
+                        "end": 1412,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 969950366,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cp4y1r7Y8",
+                "cid": 250249278,
+                "cover": "http://i0.hdslb.com/bfs/archive/de977063bdb4a8fb04fc11532bee1f31b65110e6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341100,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341100",
+                "long_title": "公主和愤怒的茸毛",
+                "pub_time": 1602525601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第2话 公主和愤怒的茸毛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341100",
+                "short_link": "https://b23.tv/ep341100",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 627509127,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Et4y1i7YG",
+                "cid": 250249487,
+                "cover": "http://i0.hdslb.com/bfs/archive/eb2b9c4065f6cace61ed0050f04d0177a8b6d87a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341101,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341101",
+                "long_title": "公主和禁断的睿智",
+                "pub_time": 1603130401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第3话 公主和禁断的睿智",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341101",
+                "short_link": "https://b23.tv/ep341101",
+                "skip": {
+                    "ed": {
+                        "end": 1380,
+                        "start": 1291
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 457611310,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1a5411L7Wy",
+                "cid": 250250232,
+                "cover": "http://i0.hdslb.com/bfs/archive/87eeaf1f7528b151684ce402db567e3fa68431c1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341102,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341102",
+                "long_title": "公主和破坏和小小的冒险",
+                "pub_time": 1603735500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第4话 公主和破坏和小小的冒险",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341102",
+                "short_link": "https://b23.tv/ep341102",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 372727955,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RZ4y1V7PP",
+                "cid": 252128513,
+                "cover": "http://i0.hdslb.com/bfs/archive/a7f7b4a5d3a8ea0d87729c5cbff130594e569d69.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341103,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341103",
+                "long_title": "公主和战斗的女性们",
+                "pub_time": 1604340001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第5话 公主和战斗的女性们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341103",
+                "short_link": "https://b23.tv/ep341103",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1328
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 712637294,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qD4y197SR",
+                "cid": 254159996,
+                "cover": "http://i0.hdslb.com/bfs/archive/8c88de40973cdaf18c3db8c1ea49971a7e8677ca.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341104,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341104",
+                "long_title": "公主不带迷茫的选择",
+                "pub_time": 1604944801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第6话 公主不带迷茫的选择",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341104",
+                "short_link": "https://b23.tv/ep341104",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 927797931,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19K4y1Z7zP",
+                "cid": 257153489,
+                "cover": "http://i0.hdslb.com/bfs/archive/52b01a2bf98e16b41ced823a5f0e137a87a0fde9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341105,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341105",
+                "long_title": "更加不眠之城的公主",
+                "pub_time": 1605549601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第7话 更加不眠之城的公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341105",
+                "short_link": "https://b23.tv/ep341105",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 415440099,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AV411Y7Pn",
+                "cid": 258936902,
+                "cover": "http://i0.hdslb.com/bfs/archive/ac5437c3b192c437ec99cc5575fb0f1b437ca118.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341106,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341106",
+                "long_title": "公主和魔族的可怕恶梦",
+                "pub_time": 1606154400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第8话 公主和魔族的可怕恶梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341106",
+                "short_link": "https://b23.tv/ep341106",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 885398591,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RK4y1j7Eb",
+                "cid": 261751657,
+                "cover": "http://i0.hdslb.com/bfs/archive/ef5548d3aa1700ced573e5cd657c518a6772402b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341107,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341107",
+                "long_title": "公主和人质强化周",
+                "pub_time": 1606759200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第9话 公主和人质强化周",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341107",
+                "short_link": "https://b23.tv/ep341107",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 713104281,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AX4y1u7hE",
+                "cid": 263983359,
+                "cover": "http://i0.hdslb.com/bfs/archive/7fdf1a724196f14405654b772acb821c13571480.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341108,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341108",
+                "long_title": "公主和终结之城",
+                "pub_time": 1607364600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第10话 公主和终结之城",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341108",
+                "short_link": "https://b23.tv/ep341108",
+                "skip": {
+                    "ed": {
+                        "end": 1394,
+                        "start": 1305
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 288247489,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14f4y1e7NZ",
+                "cid": 266660589,
+                "cover": "http://i0.hdslb.com/bfs/archive/352035079a91498ca96e4494a95d81265fa98bd7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 341109,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341109",
+                "long_title": "公主无法入眠的梦",
+                "pub_time": 1607968800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第11话 公主无法入眠的梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341109",
+                "short_link": "https://b23.tv/ep341109",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 415651870,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17V411h7M7",
+                "cid": 270106979,
+                "cover": "http://i0.hdslb.com/bfs/archive/25b5c54890c0a0e345f45ee055dd3391f7db0a09.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 341110,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341110",
+                "long_title": "魔王城的睡眠公主",
+                "pub_time": 1608577201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《在魔王城说晚安》第12话 魔王城的睡眠公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341110",
+                "short_link": "https://b23.tv/ep341110",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看6935.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "从前，在那人与魔共同生活的时代。\n魔王将人类公主掳走，幽禁在了自己的城堡里——。\n被囚禁的栖夜莉丝公主，在囚牢中如此低语：“除了睡觉……没有别的事情干。”\n公主从囚牢中偷偷逃出来，为了获得更优质的睡眠而在魔王城中……探索!?\n随心所欲的人质公主把魔物们折腾得团团转！\n睡眠奇幻喜剧，开幕！",
+        "freya": {
+            "bubble_desc": "有人@了你",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229876/",
+        "media_id": 28229876,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 341110,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 49909,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-10-06 09:00:00",
+            "pub_time_show": "2020年10月06日09:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 49360,
+            "score": 9.7
+        },
+        "record": "登记号：10417060205332612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34407,
+        "season_title": "在魔王城说晚安",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/43cebed282c8af72960ece8a35826467c2501d77.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229876,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/25b5c54890c0a0e345f45ee055dd3391f7db0a09.jpg",
+                    "id": 341110,
+                    "index_show": "全12话"
+                },
+                "season_id": 34407,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2917082,
+                    "series_follow": 2917082,
+                    "views": 69356785
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 414720964,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hV4111753",
+                        "cid": 237564430,
+                        "cover": "http://i0.hdslb.com/bfs/archive/13694a52dd7b0cc55469e1f54e5adbdb0fae3342.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 63000,
+                        "from": "bangumi",
+                        "id": 339755,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339755",
+                        "long_title": "",
+                        "pub_time": 1600682400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《在魔王城说晚安》PV1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339755",
+                        "short_link": "https://b23.tv/ep339755",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 11268,
+                            "danmakus": 604,
+                            "likes": 25903,
+                            "play": 5388761,
+                            "reply": 2271
+                        },
+                        "status": 2,
+                        "subtitle": "已观看6935.7万次",
+                        "title": "PV1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 414720964,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hV4111753",
+                        "cid": 237564442,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/55b3324bfca86aa81fbcc9261bfa86639f4ffdc9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 98000,
+                        "from": "bangumi",
+                        "id": 339756,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339756",
+                        "long_title": "",
+                        "pub_time": 1600682400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《在魔王城说晚安》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339756",
+                        "short_link": "https://b23.tv/ep339756",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 11268,
+                            "danmakus": 604,
+                            "likes": 25903,
+                            "play": 5388761,
+                            "reply": 2271
+                        },
+                        "status": 2,
+                        "subtitle": "已观看6935.7万次",
+                        "title": "PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 50140,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5109,
+            "series_title": "在魔王城说晚安"
+        },
+        "share_copy": "《在魔王城说晚安》为了睡觉不择手段",
+        "share_sub_title": "为了睡觉不择手段",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34407",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/f180ed4bb1391ec816b41ec4dd834cd634ac759b.png",
+        "stat": {
+            "coins": 475163,
+            "danmakus": 469155,
+            "favorite": 24612,
+            "favorites": 2917082,
+            "likes": 1207593,
+            "reply": 48955,
+            "share": 78395,
+            "views": 69356781
+        },
+        "status": 13,
+        "subtitle": "已观看6935.7万次",
+        "title": "在魔王城说晚安",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

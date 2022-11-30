@@ -1,0 +1,186 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/667f4ae00ebdfd0b1cdb619aa27bd95fc8891747.jpg",
+        "episodes": [
+            {
+                "aid": 199571,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411w7SP",
+                "cid": 324669,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/02e087eff7a7000a5d2d1bca91cc69d8ba4cde78.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1475000,
+                "from": "bangumi",
+                "id": 89184,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89184",
+                "long_title": "野良剧",
+                "pub_time": 1465270022,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良剧》第1话 野良剧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89184",
+                "short_link": "https://b23.tv/ep89184",
+                "skip": {
+                    "ed": {
+                        "end": 1475,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看6.7万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "　　在一个传说中的监狱里，有着正直的好青年、漂亮的女人、军人模样的中年男人、看上去像孩子的宅女、谜一般的老人、此外还有一只猫。故事就是从这个与世隔绝的设施中开始了。\n　　有一天，设施内突然全面的停电，因此关着每一个人的门都能够被打开，这些人就这样相遇了。但是这座监狱里面并没有一个看守人员，那么他们究竟是怎么被关在里面的？里面除了这五个人以外没有人了，一切看上去都充满了谜团。他们联合策划着要从这座监狱逃出去，但是无论如何都招不到监狱的出口。随着谜之老人一个人的奇妙举动，这座设施也开始了异变……究竟这座设施有什么样的秘密，等待着他们的命运究竟如何？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4552/",
+        "media_id": 4552,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 89184,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21637,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-01-22 00:00:01",
+            "pub_time_show": "2011年1月22日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4552,
+        "season_title": "野良剧",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/667f4ae00ebdfd0b1cdb619aa27bd95fc8891747.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4552,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/02e087eff7a7000a5d2d1bca91cc69d8ba4cde78.jpg",
+                    "id": 89184,
+                    "index_show": "全1话"
+                },
+                "season_id": 4552,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 10813,
+                    "series_follow": 10813,
+                    "views": 67413
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2635,
+            "series_title": "野良剧"
+        },
+        "share_copy": "《野良剧》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4552",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/4be40db5a73cf0b4999588d76e2f4a4965b22756.jpg",
+        "stat": {
+            "coins": 124,
+            "danmakus": 537,
+            "favorite": 17,
+            "favorites": 10813,
+            "likes": 95,
+            "reply": 315,
+            "share": 108,
+            "views": 67413
+        },
+        "status": 2,
+        "subtitle": "已观看6.7万次",
+        "title": "野良剧",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

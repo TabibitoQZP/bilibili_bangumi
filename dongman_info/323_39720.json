@@ -1,0 +1,966 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/080f16d0defefeb31457692f52bf8b161bd83f68.jpg",
+        "episodes": [
+            {
+                "aid": 765320512,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yr4y1m7Ru",
+                "cid": 483658961,
+                "cover": "http://i0.hdslb.com/bfs/archive/7ce6b6e95fc246e846b1cf56a3d38b8639c6e68f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 426000,
+                "from": "bangumi",
+                "id": 457465,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep457465",
+                "long_title": "这是美丽的开始",
+                "pub_time": 1641783601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第1话 这是美丽的开始",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep457465",
+                "short_link": "https://b23.tv/ep457465",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看671.5万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 210315256,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pa411z78e",
+                "cid": 483659412,
+                "cover": "http://i0.hdslb.com/bfs/archive/4f7cfe6541dbed366f546a1e12f5f43042e3f011.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 389000,
+                "from": "bangumi",
+                "id": 457466,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep457466",
+                "long_title": "都是美丽惹的祸",
+                "pub_time": 1641783600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第2话 都是美丽惹的祸",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep457466",
+                "short_link": "https://b23.tv/ep457466",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 593232888,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16q4y1k7nW",
+                "cid": 483658295,
+                "cover": "http://i0.hdslb.com/bfs/archive/58f4b1cfdfafbce2511b0355e10b41fb64cce306.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 400000,
+                "from": "bangumi",
+                "id": 460039,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460039",
+                "long_title": "似是美丽的相遇",
+                "pub_time": 1642388400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第3话 似是美丽的相遇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460039",
+                "short_link": "https://b23.tv/ep460039",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 935681360,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bT4y11777",
+                "cid": 487796100,
+                "cover": "http://i0.hdslb.com/bfs/archive/e99e029a90142da8e073e861ce1891a13e8f9bf7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 391000,
+                "from": "bangumi",
+                "id": 460040,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460040",
+                "long_title": "源于美丽的危机",
+                "pub_time": 1642993200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第4话 源于美丽的危机",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460040",
+                "short_link": "https://b23.tv/ep460040",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 550739804,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19q4y1A7Fa",
+                "cid": 487796597,
+                "cover": "http://i0.hdslb.com/bfs/archive/26fa38caa18db7bb851e61637628a419b908ebc0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 417000,
+                "from": "bangumi",
+                "id": 460041,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460041",
+                "long_title": "属于美丽的决断",
+                "pub_time": 1643598000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第5话 属于美丽的决断",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460041",
+                "short_link": "https://b23.tv/ep460041",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 465715038,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yL411c7Ye",
+                "cid": 487796889,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc23670eed5b3a7ac39aafe922ef1182f492f02e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 427000,
+                "from": "bangumi",
+                "id": 460042,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460042",
+                "long_title": "对于美丽的背叛",
+                "pub_time": 1644202800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第6话 对于美丽的背叛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460042",
+                "short_link": "https://b23.tv/ep460042",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 636376961,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vb4y177GK",
+                "cid": 505497060,
+                "cover": "http://i0.hdslb.com/bfs/archive/b7919ae36be5073918306ae439ca3721b95eb6a1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 432000,
+                "from": "bangumi",
+                "id": 460043,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460043",
+                "long_title": "来自美丽的反击",
+                "pub_time": 1644807600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第7话 来自美丽的反击",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460043",
+                "short_link": "https://b23.tv/ep460043",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 636553120,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nb4y147Q6",
+                "cid": 508792194,
+                "cover": "http://i0.hdslb.com/bfs/archive/ddb8307d6a7d4d934d7a889aab34177bcf94eb28.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 425000,
+                "from": "bangumi",
+                "id": 460044,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460044",
+                "long_title": "发自美丽的灾难",
+                "pub_time": 1645412400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第8话 发自美丽的灾难",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460044",
+                "short_link": "https://b23.tv/ep460044",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 254086150,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iY411V74N",
+                "cid": 508792597,
+                "cover": "http://i0.hdslb.com/bfs/archive/60affe35a6b9ccd2f362938b6fdb94519b62e42c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 480000,
+                "from": "bangumi",
+                "id": 460045,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460045",
+                "long_title": "由自美丽的绝望",
+                "pub_time": 1646017200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第9话 由自美丽的绝望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460045",
+                "short_link": "https://b23.tv/ep460045",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 679063664,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ym4y1d7hi",
+                "cid": 508793018,
+                "cover": "http://i0.hdslb.com/bfs/archive/a1ad0ff0ab9a1da7a8bbd6376d8a17bbc1ba57cd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 428000,
+                "from": "bangumi",
+                "id": 460046,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460046",
+                "long_title": "花开的爆发",
+                "pub_time": 1646622000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第10话 花开的爆发",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460046",
+                "short_link": "https://b23.tv/ep460046",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 766618175,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1or4y1671Z",
+                "cid": 508793417,
+                "cover": "http://i0.hdslb.com/bfs/archive/03fd1e8210aeffab89207115dca608f19eada5a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 433000,
+                "from": "bangumi",
+                "id": 460047,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460047",
+                "long_title": "花开的裁决",
+                "pub_time": 1647226800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第11话 花开的裁决",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460047",
+                "short_link": "https://b23.tv/ep460047",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 636566874,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wb4y14718",
+                "cid": 508796583,
+                "cover": "http://i0.hdslb.com/bfs/archive/2566cb58da06a3ecdfa1a9fecafcde386be98fb1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 439000,
+                "from": "bangumi",
+                "id": 460048,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep460048",
+                "long_title": "花开的命运",
+                "pub_time": 1647831600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花开张美丽》第12话 花开的命运",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep460048",
+                "short_link": "https://b23.tv/ep460048",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看671.5万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "纯洁的少女张美丽因为阴差阳错转学到了华夏环球宇宙豪迈高等学校，在这里她遇到了形形色色的土豪帅哥温柔暖男霸道总裁命中王子，也遭遇了背叛。善良的少女张美丽将如何应对呢？同时，她神秘的身世也慢慢揭开——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235414/",
+        "media_id": 28235414,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 460048,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 62585,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-10 11:00:00",
+            "pub_time_show": "01月10日11:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3542,
+            "score": 9.4
+        },
+        "record": "备案号:0910417211204003",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39720,
+        "season_title": "花开张美丽",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/080f16d0defefeb31457692f52bf8b161bd83f68.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/a309b075576c99a7953637573f43ff52a9a0d4cf.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/d332a0cc1ea900c0d362f406b8e6f100500d64f3.jpg",
+                "media_id": 28235414,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2566cb58da06a3ecdfa1a9fecafcde386be98fb1.jpg",
+                    "id": 460048,
+                    "index_show": "全12话"
+                },
+                "season_id": 39720,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 226936,
+                    "series_follow": 226936,
+                    "views": 6714632
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 722603945,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV11D4y1c7jg",
+                        "cid": 466976419,
+                        "cover": "http://i0.hdslb.com/bfs/archive/f5ec6f8dd1080fa34541ce590dfe56cb1147e8fc.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 88000,
+                        "from": "bangumi",
+                        "id": 449855,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep449855",
+                        "long_title": "《同学你好》",
+                        "pub_time": 1641265200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《花开张美丽》主题曲 《同学你好》",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep449855",
+                        "short_link": "https://b23.tv/ep449855",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 395,
+                            "danmakus": 81,
+                            "likes": 3083,
+                            "play": 92561,
+                            "reply": 292
+                        },
+                        "status": 2,
+                        "subtitle": "已观看671.5万次",
+                        "title": "主题曲",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 592381278,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17q4y1B7z8",
+                        "cid": 462755820,
+                        "cover": "http://i0.hdslb.com/bfs/archive/32b68823f173562431e23633d3ad50c7053ba238.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 59000,
+                        "from": "bangumi",
+                        "id": 446726,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep446726",
+                        "long_title": "1月10日邂逅神颜少女张美丽",
+                        "pub_time": 1639969200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《花开张美丽》定档PV 1月10日邂逅神颜少女张美丽",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep446726",
+                        "short_link": "https://b23.tv/ep446726",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 159,
+                            "danmakus": 97,
+                            "likes": 3069,
+                            "play": 146891,
+                            "reply": 535
+                        },
+                        "status": 2,
+                        "subtitle": "已观看671.5万次",
+                        "title": "定档PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 676649262,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HU4y1M7YD",
+                        "cid": 443873390,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6851de322195dfb5c899014b7aa4a43e41d5e9aa.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 79000,
+                        "from": "bangumi",
+                        "id": 431185,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep431185",
+                        "long_title": "优秀学校里的平凡女生",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《花开张美丽》PV1 优秀学校里的平凡女生",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep431185",
+                        "short_link": "https://b23.tv/ep431185",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 223,
+                            "danmakus": 202,
+                            "likes": 3956,
+                            "play": 253184,
+                            "reply": 683
+                        },
+                        "status": 2,
+                        "subtitle": "已观看671.5万次",
+                        "title": "PV1",
+                        "vid": ""
+                    }
+                ],
+                "id": 62597,
+                "title": "PV花絮",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5825,
+            "series_title": "花开张美丽"
+        },
+        "share_copy": "《花开张美丽》这下巴，爱了吗",
+        "share_sub_title": "这下巴，爱了吗",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39720",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/1facb0a1f0c69aef56b97154ca0a44ce44973956.jpg",
+        "stat": {
+            "coins": 17077,
+            "danmakus": 26991,
+            "favorite": 5628,
+            "favorites": 226936,
+            "likes": 116860,
+            "reply": 10944,
+            "share": 23642,
+            "views": 6714632
+        },
+        "status": 13,
+        "subtitle": "已观看671.5万次",
+        "title": "花开张美丽",
+        "total": 12,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

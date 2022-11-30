@@ -1,0 +1,1770 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/85c6e348a00a54d0b86d538efb186e006a027e21.png",
+        "episodes": [
+            {
+                "aid": 82846771,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1BJ411H7dF",
+                "cid": 143589043,
+                "cover": "http://i0.hdslb.com/bfs/archive/e99ce336fdf89e2bd27505ba0b55c20d0e164bc8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307247,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307247",
+                "long_title": "LEVEL5超能力者",
+                "pub_time": 1578672300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第1话 LEVEL5超能力者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307247",
+                "short_link": "https://b23.tv/ep307247",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2.1亿次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 83853313,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11J411E731",
+                "cid": 144089354,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b8b3c07dda918ff11a732ba77ff0825b0f3abb8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307248,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307248",
+                "long_title": "大霸星祭",
+                "pub_time": 1579277100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第2话 大霸星祭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307248",
+                "short_link": "https://b23.tv/ep307248",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 287,
+                        "start": 197
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 84849359,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1p7411Y7PP",
+                "cid": 145105889,
+                "cover": "http://i0.hdslb.com/bfs/archive/89a37162d01b2950e1174175b6a1de3a30196d7b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307249,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307249",
+                "long_title": "气球猎人",
+                "pub_time": 1579881900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第3话 气球猎人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307249",
+                "short_link": "https://b23.tv/ep307249",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 85923520,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Q7411B72u",
+                "cid": 146872367,
+                "cover": "http://i0.hdslb.com/bfs/archive/adc6f1b9807f12502db447a50339ff69d1ca8ad1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307250,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307250",
+                "long_title": "篡改",
+                "pub_time": 1580486700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第4话 篡改",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307250",
+                "short_link": "https://b23.tv/ep307250",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 232,
+                        "start": 142
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 87402984,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1E741187SX",
+                "cid": 149347233,
+                "cover": "http://i0.hdslb.com/bfs/archive/63d07bf4fef372050df79ce8c5d4ea411bf9238f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307251,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307251",
+                "long_title": "信赖",
+                "pub_time": 1581091920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第5话 信赖",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307251",
+                "short_link": "https://b23.tv/ep307251",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 178,
+                        "start": 87
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 89005155,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1z7411g7AE",
+                "cid": 152034129,
+                "cover": "http://i0.hdslb.com/bfs/archive/f88fbb1b4583f3fb35755362f56901617f371f42.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307252,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307252",
+                "long_title": "开战",
+                "pub_time": 1581696299,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第6话 开战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307252",
+                "short_link": "https://b23.tv/ep307252",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 213,
+                        "start": 122
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 92478490,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18E411H72J",
+                "cid": 157898360,
+                "cover": "http://i0.hdslb.com/bfs/archive/35832d10812b14479abf3503e2c0cecbc1177e82.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307253,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307253",
+                "long_title": "百闻不如一见",
+                "pub_time": 1582905900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第7话 百闻不如一见",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307253",
+                "short_link": "https://b23.tv/ep307253",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 97929813,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iE411A7ib",
+                "cid": 167560924,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a09d2fd02cc01ed2b0646ec07b59943866cdabd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307254,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307254",
+                "long_title": "超电磁炮 x 心理掌握",
+                "pub_time": 1584720300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第8话 超电磁炮 x 心理掌握",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307254",
+                "short_link": "https://b23.tv/ep307254",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 190,
+                        "start": 100
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 582544388,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1D64y1M7S3",
+                "cid": 170823467,
+                "cover": "http://i0.hdslb.com/bfs/archive/047697cdef970a66c5a74c10f25c900c90a05ac2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307255,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307255",
+                "long_title": "警策看取",
+                "pub_time": 1585325100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第9话 警策看取",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307255",
+                "short_link": "https://b23.tv/ep307255",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 625013496,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yt4y1m7ga",
+                "cid": 173507512,
+                "cover": "http://i0.hdslb.com/bfs/archive/ca67c5b1e26ccdbe08926e681f461d0ec4780c1d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307256,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307256",
+                "long_title": "才人工房",
+                "pub_time": 1586017800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第10话 才人工房",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307256",
+                "short_link": "https://b23.tv/ep307256",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 840173190,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1w54y197x3",
+                "cid": 176502453,
+                "cover": "http://i0.hdslb.com/bfs/archive/e98e28236c0f4db0fa17d5d6ea98ba0db23be238.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307257,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307257",
+                "long_title": "参战",
+                "pub_time": 1586534700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第11话 参战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307257",
+                "short_link": "https://b23.tv/ep307257",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 285368302,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15f4y1S7vx",
+                "cid": 179574532,
+                "cover": "http://i0.hdslb.com/bfs/archive/5b85cf17918b270e76bd3550c14ffe3f0c5e8959.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307258,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307258",
+                "long_title": "外装代脑",
+                "pub_time": 1587139500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第12话 外装代脑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307258",
+                "short_link": "https://b23.tv/ep307258",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 264,
+                        "start": 174
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 370436568,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BZ4y1W7tf",
+                "cid": 190942966,
+                "cover": "http://i0.hdslb.com/bfs/archive/be0828128712873a888b063171f7a406063d73b3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307259,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307259",
+                "long_title": "S Y S T E M 以非神之躯领悟上天意志之人",
+                "pub_time": 1588349100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第13话 S Y S T E M 以非神之躯领悟上天意志之人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307259",
+                "short_link": "https://b23.tv/ep307259",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 410,
+                        "start": 320
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 285743250,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zf4y117CH",
+                "cid": 192725570,
+                "cover": "http://i0.hdslb.com/bfs/archive/70e7ebd2031c41be475b084ec6bd7fabb83b1b58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307260,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307260",
+                "long_title": "龙王之颚",
+                "pub_time": 1589558700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第14话 龙王之颚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307260",
+                "short_link": "https://b23.tv/ep307260",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "14",
+                "vid": ""
+            },
+            {
+                "aid": 498369348,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AK411p7KT",
+                "cid": 194478618,
+                "cover": "http://i0.hdslb.com/bfs/archive/280e90dde586f9b47400d52444b7d3efabac02d2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307261,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307261",
+                "long_title": "约定",
+                "pub_time": 1590163500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第15话 约定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307261",
+                "short_link": "https://b23.tv/ep307261",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "15",
+                "vid": ""
+            },
+            {
+                "aid": 753907408,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yk4y1B7gA",
+                "cid": 216050256,
+                "cover": "http://i0.hdslb.com/bfs/archive/409d1a8f2a1740659e9caab662e8116d0c11d907.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307262,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307262",
+                "long_title": "天赋梦路",
+                "pub_time": 1595606701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第16话 天赋梦路",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307262",
+                "short_link": "https://b23.tv/ep307262",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 255,
+                        "start": 165
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "16",
+                "vid": ""
+            },
+            {
+                "aid": 286611503,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1of4y1X7cp",
+                "cid": 222269095,
+                "cover": "http://i0.hdslb.com/bfs/archive/49d0392ecb4db414bf4978965a66474eb4d04acb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307263,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307263",
+                "long_title": "预知",
+                "pub_time": 1596211501,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第17话 预知",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307263",
+                "short_link": "https://b23.tv/ep307263",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 198,
+                        "start": 108
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "17",
+                "vid": ""
+            },
+            {
+                "aid": 796701498,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KC4y1t7hN",
+                "cid": 221660826,
+                "cover": "http://i0.hdslb.com/bfs/archive/42f3e832f60296802968c79b06116120e863eb57.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307264,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307264",
+                "long_title": "BustUpper",
+                "pub_time": 1596816300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第18话 BustUpper",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307264",
+                "short_link": "https://b23.tv/ep307264",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 194,
+                        "start": 104
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "18",
+                "vid": ""
+            },
+            {
+                "aid": 884157169,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yK4y1v74C",
+                "cid": 224665835,
+                "cover": "http://i0.hdslb.com/bfs/archive/5894df7f7e8ccea3acbc33f124b0cbc9a24f1f22.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307265,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307265",
+                "long_title": "奇缘",
+                "pub_time": 1597421101,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第19话 奇缘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307265",
+                "short_link": "https://b23.tv/ep307265",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 128
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "19",
+                "vid": ""
+            },
+            {
+                "aid": 754331202,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lk4y127Cc",
+                "cid": 227082927,
+                "cover": "http://i0.hdslb.com/bfs/archive/0058e40ff3c7f3d0baff5e5020517bde951f24c6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307266,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307266",
+                "long_title": "Ha det bra",
+                "pub_time": 1598025900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第20话 Ha det bra",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307266",
+                "short_link": "https://b23.tv/ep307266",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "20",
+                "vid": ""
+            },
+            {
+                "aid": 201992118,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sh411R7Hi",
+                "cid": 229819506,
+                "cover": "http://i0.hdslb.com/bfs/archive/75df506304cd21a5b9b31346251fed5215ca5b97.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307267,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307267",
+                "long_title": "分身",
+                "pub_time": 1598630701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第21话 分身",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307267",
+                "short_link": "https://b23.tv/ep307267",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 276,
+                        "start": 186
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "21",
+                "vid": ""
+            },
+            {
+                "aid": 796932201,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Uy4y1C7Qv",
+                "cid": 232209014,
+                "cover": "http://i0.hdslb.com/bfs/archive/df56bf07c5807846bb4b9a13b0c770154dc41cea.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307268,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307268",
+                "long_title": "食尸部队",
+                "pub_time": 1599235501,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第22话 食尸部队",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307268",
+                "short_link": "https://b23.tv/ep307268",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "22",
+                "vid": ""
+            },
+            {
+                "aid": 457068491,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1r5411b7rY",
+                "cid": 234317688,
+                "cover": "http://i0.hdslb.com/bfs/archive/87e9d38a11ccd771bd9e39709a0c5f2ada1af355.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307269,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307269",
+                "long_title": "附身",
+                "pub_time": 1599840301,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第23话 附身",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307269",
+                "short_link": "https://b23.tv/ep307269",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 222,
+                        "start": 132
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "23",
+                "vid": ""
+            },
+            {
+                "aid": 202141046,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17h411X7Q8",
+                "cid": 237479309,
+                "cover": "http://i0.hdslb.com/bfs/archive/5296bc3dfe6d90ed0007846b40ad5341505dec3b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307270,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307270",
+                "long_title": "扩散",
+                "pub_time": 1600445100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第24话 扩散",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307270",
+                "short_link": "https://b23.tv/ep307270",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 228,
+                        "start": 138
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "24",
+                "vid": ""
+            },
+            {
+                "aid": 797201440,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ny4y1k7ZA",
+                "cid": 238907859,
+                "cover": "http://i0.hdslb.com/bfs/archive/7f0224475479de0225ff4547d297516a54c83299.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307271,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307271",
+                "long_title": "我重要的朋友",
+                "pub_time": 1601049900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《某科学的超电磁炮T》第25话 我重要的朋友",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307271",
+                "short_link": "https://b23.tv/ep307271",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1365
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 122
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2.1亿次",
+                "title": "25",
+                "vid": ""
+            }
+        ],
+        "evaluate": "有 230 万人口，其中八成人口为学生的「学园都市」，是比其他地区科技更为先进，并从事「超能力开发」的特殊地区。而整座学园都市中仅有七人的等级 5 超能力者之一御坂美琴，由于她的能力与个性使然，因而被卷入了学园都市中所发生的种种事件……",
+        "freya": {
+            "bubble_desc": "就是你！不来一起看吗？",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224095/",
+        "media_id": 28224095,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全25话",
+            "id": 307271,
+            "is_new": 0,
+            "title": "25"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 39342,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-11 00:05:00",
+            "pub_time_show": "延期至07/25播出",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 124662,
+            "score": 9.8
+        },
+        "record": "登记号：10417060208762612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29325,
+        "season_title": "某科学的超电磁炮T",
+        "seasons": [
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/aad797f1f0212aba5578a1ed1c992ef1b9ff7c4b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 425,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1fc3bbd446c1100b6f4eeb818262d26c0c26251b.jpg",
+                    "id": 84363,
+                    "index_show": "全24话"
+                },
+                "season_id": 425,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5625939,
+                    "series_follow": 7983625,
+                    "views": 171775971
+                }
+            },
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/090d4aa97754d1d80206e461eb633b28b9deed07.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 427,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/02192d6310dd87f2f42ec03ae8639cfbaeef0d33.jpg",
+                    "id": 72043,
+                    "index_show": "全24话"
+                },
+                "season_id": 427,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2783243,
+                    "series_follow": 7983625,
+                    "views": 99842517
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/85c6e348a00a54d0b86d538efb186e006a027e21.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224095,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7f0224475479de0225ff4547d297516a54c83299.jpg",
+                    "id": 307271,
+                    "index_show": "全25话"
+                },
+                "season_id": 29325,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 6366714,
+                    "series_follow": 7983625,
+                    "views": 213449596
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 711908531,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13D4y1m7r1",
+                        "cid": 229505016,
+                        "cover": "http://i0.hdslb.com/bfs/archive/43adbcd7dafc48f9daadfc05a05c10cb0978b3d1.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 40000,
+                        "from": "bangumi",
+                        "id": 336784,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep336784",
+                        "long_title": "",
+                        "pub_time": 1598864897,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《某科学的超电磁炮T》杭州闪电队联动PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep336784",
+                        "short_link": "https://b23.tv/ep336784",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 8491,
+                            "danmakus": 1607,
+                            "likes": 19783,
+                            "play": 737770,
+                            "reply": 2066
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2.1亿次",
+                        "title": "杭州闪电队联动PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 79110151,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1UJ411C7eK",
+                        "cid": 136038300,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/3f1524f9e465e58264a50ea7de5dae29b90912bb.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 102504,
+                        "from": "bangumi",
+                        "id": 301190,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep301190",
+                        "long_title": "",
+                        "pub_time": 1576483020,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《某科学的超电磁炮T》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep301190",
+                        "short_link": "https://b23.tv/ep301190",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 65425,
+                            "danmakus": 21735,
+                            "likes": 28842,
+                            "play": 5868929,
+                            "reply": 26115
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2.1亿次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 79110151,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1UJ411C7eK",
+                        "cid": 135388770,
+                        "cover": "http://i0.hdslb.com/bfs/archive/f5743cd3340f6069ff5dbcb9c16a7c43f19b39e5.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 16327,
+                        "from": "bangumi",
+                        "id": 301053,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep301053",
+                        "long_title": "",
+                        "pub_time": 1576317660,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《某科学的超电磁炮T》CM ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep301053",
+                        "short_link": "https://b23.tv/ep301053",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 65425,
+                            "danmakus": 21735,
+                            "likes": 28842,
+                            "play": 5868929,
+                            "reply": 26115
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2.1亿次",
+                        "title": "CM",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 926293229,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1wT4y1E7cn",
+                        "cid": 211968416,
+                        "cover": "http://i0.hdslb.com/bfs/archive/7fcd23690c40117d8fd8115ab7e3c888ed066c5b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 103000,
+                        "from": "bangumi",
+                        "id": 331835,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep331835",
+                        "long_title": "",
+                        "pub_time": 1594624342,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《某科学的超电磁炮T》天赋梦路PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep331835",
+                        "short_link": "https://b23.tv/ep331835",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 18976,
+                            "danmakus": 3331,
+                            "likes": 31536,
+                            "play": 1139308,
+                            "reply": 5330
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2.1亿次",
+                        "title": "天赋梦路PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 39632,
+                "title": "PV",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episodes": [
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/54df83dbc82493adb28f23a5fa539bfbfec399db.jpg",
+                        "id": 118777,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep325953",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "某科学的超电磁炮T专访·上",
+                            "position": "",
+                            "season_id": "29325",
+                            "season_type": "1",
+                            "section_id": "48059",
+                            "section_type": "5"
+                        },
+                        "status": 0,
+                        "title": "某科学的超电磁炮T专访·上"
+                    },
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/image/000c7cdca120908df6c915c183c9cd89f96eaeea.jpg",
+                        "id": 118776,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep326550",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "某科学的超电磁炮T专访·下",
+                            "position": "",
+                            "season_id": "29325",
+                            "season_type": "1",
+                            "section_id": "48059",
+                            "section_type": "5"
+                        },
+                        "status": 0,
+                        "title": "某科学的超电磁炮T专访·下"
+                    }
+                ],
+                "id": 48059,
+                "report": {
+                    "season_id": "29325",
+                    "season_type": "1",
+                    "sec_title": "次元发电机专访",
+                    "section_id": "48059",
+                    "section_type": "5"
+                },
+                "title": "次元发电机专访",
+                "type": 5
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 254,
+            "series_title": "某科学的超电磁炮"
+        },
+        "share_copy": "《某科学的超电磁炮T》镇站之番！",
+        "share_sub_title": "镇站之番！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29325",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/d6b96118a865be0a88eb69f4ee7c455c82d4276e.jpg",
+        "stat": {
+            "coins": 3002775,
+            "danmakus": 2760827,
+            "favorite": 54338,
+            "favorites": 6366714,
+            "likes": 1944456,
+            "reply": 1180323,
+            "share": 172399,
+            "views": 213449596
+        },
+        "status": 13,
+        "subtitle": "已观看2.1亿次",
+        "title": "某科学的超电磁炮T",
+        "total": 25,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

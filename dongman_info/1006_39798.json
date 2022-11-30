@@ -1,0 +1,174 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/ed05c02bd80824a6abe8c4f3f609d458ffa1136c.png",
+        "episodes": [
+            {
+                "aid": 378816772,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vf4y1M7yk",
+                "cid": 431347131,
+                "cover": "http://i0.hdslb.com/bfs/archive/730b700aadfcc40f7c8203e434396cd72aadbb9b.png",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1079000,
+                "from": "bangumi",
+                "id": 427870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427870?theme=movie",
+                "long_title": "",
+                "pub_time": 1635761220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《大萝卜》生产队种萝卜大赛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427870",
+                "short_link": "https://b23.tv/ep427870",
+                "status": 2,
+                "subtitle": "已观看7946次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "反应的是大跃进的内容，一个生产队萝卜种的大，大家都分别展示，一个比一个大，最后结尾好像大家忽然发现自己所在的房子也是一个超级大萝卜。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235492/",
+        "media_id": 28235492,
+        "mode": 1,
+        "new_ep": {
+            "desc": "1960上映",
+            "id": 427870,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 62756,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-11-01 18:08:00",
+            "pub_time_show": "2021年11月01日18:08",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "public",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39798,
+        "season_title": "大萝卜",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《大萝卜》生产队种萝卜大赛",
+        "share_sub_title": "生产队种萝卜大赛",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39798",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a52d56b36bc840e01e1db19dd1dde6b02661d4b6.png",
+        "stat": {
+            "coins": 35,
+            "danmakus": 34,
+            "favorite": 63,
+            "favorites": 365,
+            "likes": 133,
+            "reply": 22,
+            "share": 10,
+            "views": 7946
+        },
+        "status": 2,
+        "subtitle": "已观看7946次",
+        "title": "大萝卜",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/0f3fbdd767f6b304f9cdded226a82931ed60e568.jpg",
+            "avatar_subscript_url": "",
+            "follower": 13334,
+            "is_follow": 0,
+            "mid": 289838202,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "少用形容词",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

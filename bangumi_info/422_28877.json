@@ -1,0 +1,234 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9a6851ae4154c70865fea2119944762ad7463eed.png",
+        "episodes": [
+            {
+                "aid": 73785784,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HE411h7nW",
+                "cid": 126693253,
+                "cover": "http://i0.hdslb.com/bfs/archive/39879658611c7c18de881990fdc2bb86599f46a4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 10460000,
+                "from": "bangumi",
+                "id": 289236,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep289236",
+                "long_title": "",
+                "pub_time": 1572343200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NARUTO to BORUTO THE LIVE 2019》正片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep289236",
+                "short_link": "https://b23.tv/ep289236",
+                "skip": {
+                    "ed": {
+                        "end": 10459,
+                        "start": 10448
+                    },
+                    "op": {
+                        "end": 70,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看749.5万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "【10月29日18:00~11月28日18:00限时观影】为纪念火影忍者企划20周年，主办方少年JUMP在10月5日和6日在幕张国际展览中心举办了名为『NARUTO to BORUTO THE LIVE 2019』的大型LIVE活动。本次LIVE活动集主题曲演唱、CV现场漫画配音、2.5次元音乐剧《火影忍者 晓之音》以及《火影忍者：究极忍者风暴4》游戏试玩于一身。\n~所有的忍道，在这里汇聚~",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28223281/",
+        "media_id": 28223281,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 289236,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 38766,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-10-29 18:00:00",
+            "pub_time_show": "2019年10月29日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1396,
+            "score": 9.2
+        },
+        "record": "登记号：10417060216372612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28877,
+        "season_title": "NARUTO to BORUTO THE LIVE 2019",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9a6851ae4154c70865fea2119944762ad7463eed.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223281,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/39879658611c7c18de881990fdc2bb86599f46a4.jpg",
+                    "id": 289236,
+                    "index_show": "全1话"
+                },
+                "season_id": 28877,
+                "season_title": "NtoB LIVE",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1271826,
+                    "series_follow": 2079069,
+                    "views": 7494857
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/212345f11472cd39d6209652ca926f2249fdff36.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3287,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2deda6733b8266ec67ae536aee93aa068ecdc5d7.jpg",
+                    "id": 102748,
+                    "index_show": "全57话"
+                },
+                "season_id": 3287,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1993411,
+                    "series_follow": 2079069,
+                    "views": 179584904
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2068,
+            "series_title": "火影忍者 疾风传"
+        },
+        "share_copy": "《NARUTO to BORUTO THE LIVE 2019》火影20周年节目",
+        "share_sub_title": "火影20周年节目",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28877",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/caf62f3ebd71b4ea05a757eb590d7033459ebf0a.png",
+        "stat": {
+            "coins": 20896,
+            "danmakus": 30694,
+            "favorite": 3817,
+            "favorites": 1271826,
+            "likes": 28706,
+            "reply": 5270,
+            "share": 9384,
+            "views": 7494857
+        },
+        "status": 13,
+        "subtitle": "已观看749.5万次",
+        "title": "NARUTO to BORUTO THE LIVE 2019",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

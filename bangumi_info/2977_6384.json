@@ -1,0 +1,238 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/e9bfc25ae73d3de5d37d1d5e016d4c8f4743d346.jpg",
+        "episodes": [
+            {
+                "aid": 12681229,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411W7Dj",
+                "cid": 20857658,
+                "cover": "http://i0.hdslb.com/bfs/archive/23479de4d3a8d8a3c18dedf8405862239e07bc0b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1149000,
+                "from": "bangumi",
+                "id": 113887,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep113887",
+                "long_title": "上海公演群访",
+                "pub_time": 1501238713,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《火影忍者舞台剧 虹桥艺术中心采访篇》第1话 上海公演群访",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep113887",
+                "short_link": "https://b23.tv/ep113887",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 3,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看134.2万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "2.5次元舞台剧 10月登陆中国",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6384/",
+        "media_id": 6384,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 113887,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 23371,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-07-28 18:00:00",
+            "pub_time_show": "2017年07月28日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 338,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "cooperate",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6384,
+        "season_title": "火影忍者舞台剧 虹桥艺术中心采访篇",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e9bfc25ae73d3de5d37d1d5e016d4c8f4743d346.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5604,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/40e3b8651155ec5526918093dbd5de5bdd864a7f.jpg",
+                    "id": 102800,
+                    "index_show": "全5话"
+                },
+                "season_id": 5604,
+                "season_title": "东京公演",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 37887,
+                    "series_follow": 43867,
+                    "views": 5606019
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e9bfc25ae73d3de5d37d1d5e016d4c8f4743d346.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5764,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/ce9b3f8639895e853de861a9e47dc744d28beb10.jpg",
+                    "id": 97938,
+                    "index_show": "全20话"
+                },
+                "season_id": 5764,
+                "season_title": "便服采访篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 7798,
+                    "series_follow": 43867,
+                    "views": 834155
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e9bfc25ae73d3de5d37d1d5e016d4c8f4743d346.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6384,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/23479de4d3a8d8a3c18dedf8405862239e07bc0b.jpg",
+                    "id": 113887,
+                    "index_show": "全1话"
+                },
+                "season_id": 6384,
+                "season_title": "虹桥艺术中心采访篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8369,
+                    "series_follow": 43867,
+                    "views": 1342006
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3359,
+            "series_title": "火影忍者舞台剧"
+        },
+        "share_copy": "《火影忍者舞台剧 虹桥艺术中心采访篇》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6384",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/44929be91ebfa8770850d48b7affa7d889eed7ae.jpg",
+        "stat": {
+            "coins": 329,
+            "danmakus": 1268,
+            "favorite": 533,
+            "favorites": 8369,
+            "likes": 2406,
+            "reply": 355,
+            "share": 365,
+            "views": 1342006
+        },
+        "status": 2,
+        "subtitle": "已观看134.2万次",
+        "title": "火影忍者舞台剧 虹桥艺术中心采访篇",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

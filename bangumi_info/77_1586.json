@@ -1,0 +1,955 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "cover": "http://i0.hdslb.com/bfs/bangumi/2ca10857cb220c589c3f55ee9fd52fe0903a9d5c.png",
+            "head_bg_url": "",
+            "id": 69,
+            "link": "",
+            "pendants": [
+                {
+                    "image": "http://i2.hdslb.com/bfs/face/be7e2e3d36e89b93d72d8127a346c442100556a4.png",
+                    "name": "远坂凛",
+                    "pid": 64
+                }
+            ],
+            "title": "FSN UBW"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e67e09c9e48a32371a81100e0f65a61b18aabb24.png",
+        "episodes": [
+            {
+                "aid": 1577372,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mx411P79U",
+                "cid": 2433510,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e5216528e8b6751ac91ded7847c5b53cc63f15b6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2874000,
+                "from": "bangumi",
+                "id": 67704,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep67704",
+                "long_title": "序章",
+                "pub_time": 1412440200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第0话 序章",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep67704",
+                "short_link": "https://b23.tv/ep67704",
+                "skip": {
+                    "ed": {
+                        "end": 2840,
+                        "start": 2692
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 118
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "0",
+                "vid": "vupload_2416721"
+            },
+            {
+                "aid": 1612398,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411P7M2",
+                "cid": 2452844,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9f4a5f0fe87f7b57c23e7b254ba39748976054e9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2876000,
+                "from": "bangumi",
+                "id": 29140,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29140",
+                "long_title": "冬之日，命运之夜",
+                "pub_time": 1413045000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第1话 冬之日，命运之夜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29140",
+                "short_link": "https://b23.tv/ep29140",
+                "skip": {
+                    "ed": {
+                        "end": 2850,
+                        "start": 2762
+                    },
+                    "op": {
+                        "end": 265,
+                        "start": 162
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "1",
+                "vid": "vupload_2464132"
+            },
+            {
+                "aid": 1633522,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15x411P7Fc",
+                "cid": 2484233,
+                "cover": "http://i0.hdslb.com/bfs/archive/7eedb0099fcdd8467d84b006495f87d3c947c0e5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 29139,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29139",
+                "long_title": "开幕之时",
+                "pub_time": 1413649800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第2话 开幕之时",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29139",
+                "short_link": "https://b23.tv/ep29139",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 114,
+                        "start": 24
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "2",
+                "vid": "vupload_2484538"
+            },
+            {
+                "aid": 1654426,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18x411P7fJ",
+                "cid": 2521396,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/47809e9f283df17dd82b5cca55a7b06cb349e46f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 29138,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29138",
+                "long_title": "初战",
+                "pub_time": 1414254600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第3话 初战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29138",
+                "short_link": "https://b23.tv/ep29138",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 50
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "3",
+                "vid": "vupload_2521563"
+            },
+            {
+                "aid": 1674473,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ix411P7Rn",
+                "cid": 2554067,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/36892ff25f3a4bb89af4c19f7989e6b6ca4fae3e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 29137,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29137",
+                "long_title": "战意之所在",
+                "pub_time": 1414859400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第4话 战意之所在",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29137",
+                "short_link": "https://b23.tv/ep29137",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 147,
+                        "start": 57
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "4",
+                "vid": "vupload_2555174"
+            },
+            {
+                "aid": 1694498,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yx411P7DU",
+                "cid": 2585186,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a1e770a5d2d2a6cab820d2ef878d45d3a9344d1e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 29136,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29136",
+                "long_title": "放学后的舞蹈",
+                "pub_time": 1415464200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第5话 放学后的舞蹈",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29136",
+                "short_link": "https://b23.tv/ep29136",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "5",
+                "vid": "vupload_2585353"
+            },
+            {
+                "aid": 1715793,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sx411P7L9",
+                "cid": 2620852,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/95d874eaefa61a2d2592a956a908dd43355a9332.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 29135,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29135",
+                "long_title": "海市蜃楼",
+                "pub_time": 1416069000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第6话 海市蜃楼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29135",
+                "short_link": "https://b23.tv/ep29135",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "6",
+                "vid": "vupload_2620872"
+            },
+            {
+                "aid": 1737248,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zx411P7ha",
+                "cid": 2654062,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5b8aa64cf594ab361d1c1fc0c7773cdce6f7d9a7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1453000,
+                "from": "bangumi",
+                "id": 29134,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29134",
+                "long_title": "死斗的报酬",
+                "pub_time": 1416673800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第7话 死斗的报酬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29134",
+                "short_link": "https://b23.tv/ep29134",
+                "skip": {
+                    "ed": {
+                        "end": 1287,
+                        "start": 1196
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 46
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "7",
+                "vid": "vupload_2653849"
+            },
+            {
+                "aid": 1758529,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV19x411P74d",
+                "cid": 2689191,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8cccd3a5c40bd96f1298d9446b9fecd7dfc8b77d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1434000,
+                "from": "bangumi",
+                "id": 29133,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29133",
+                "long_title": "冬之日，心之所在",
+                "pub_time": 1417278600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第8话 冬之日，心之所在",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29133",
+                "short_link": "https://b23.tv/ep29133",
+                "skip": {
+                    "ed": {
+                        "end": 1412,
+                        "start": 1322
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 46
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "8",
+                "vid": "vupload_2689235"
+            },
+            {
+                "aid": 1777752,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1gx411N78D",
+                "cid": 2729384,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0f18fb17c751531b55e3b4bf62d71ef6434d7fd1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 29132,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29132",
+                "long_title": "两人的距离",
+                "pub_time": 1417883400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第9话 两人的距离",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29132",
+                "short_link": "https://b23.tv/ep29132",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 32
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 1797855,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Px411N7Dw",
+                "cid": 140906479,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fa4e42a6d715d3538b2bc9172e93d87934346e6a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 29131,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29131",
+                "long_title": "第五个契约者",
+                "pub_time": 1418488200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第10话 第五个契约者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29131",
+                "short_link": "https://b23.tv/ep29131",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "10",
+                "vid": "vupload_2758344"
+            },
+            {
+                "aid": 1815626,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hx411N7gc",
+                "cid": 2799408,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/afc2288b7b1635ec535f1c4aa179a466659c7b81.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 29130,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29130",
+                "long_title": "来访者翩然而至",
+                "pub_time": 1419093000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第11话 来访者翩然而至",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29130",
+                "short_link": "https://b23.tv/ep29130",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "11",
+                "vid": "vupload_2799655"
+            },
+            {
+                "aid": 1836103,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12x411w7WQ",
+                "cid": 2889754,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/25e9da6dd71e4aaa23a7dc04b6f97a94ea1ddd9d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2882000,
+                "from": "bangumi",
+                "id": 29129,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29129",
+                "long_title": "最后的选择",
+                "pub_time": 1419703200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》第12话 最后的选择",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29129",
+                "short_link": "https://b23.tv/ep29129",
+                "skip": {
+                    "ed": {
+                        "end": 2841,
+                        "start": 2725
+                    },
+                    "op": {
+                        "end": 193,
+                        "start": 103
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.9亿次",
+                "title": "12",
+                "vid": "vupload_2889736"
+            }
+        ],
+        "evaluate": "Fate/stay night -UBW-是FSN的第二条路线Unlimited Blade Works的TV化作品。通过2010年1月23日上映的UBW剧场版，为我们应该已对该路线的故事情节有所了解。而即将于2014年10月4日播出的TV版到底又有何不同呢？\n或许是对游戏情节更加细致的描写，亦或是对某些未出现的场景作出的补充。于齿轮转动的无边旷野中，耳边再次回响起那浅吟低唱的咒文时，伴随着我们度过的那段难忘的圣杯战争又将重燃战火……",
+        "freya": {
+            "bubble_desc": "原来你也爱看这个片子呀",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1586/",
+        "media_id": 1586,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 29129,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 18388,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-10-04 00:00:00",
+            "pub_time_show": "2014年10月04日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 25703,
+            "score": 9.5
+        },
+        "record": "登记号：10417060210242604",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1586,
+        "season_title": "Fate/stay night [Unlimited Blade Works] 第一季",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e67e09c9e48a32371a81100e0f65a61b18aabb24.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1586,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/25e9da6dd71e4aaa23a7dc04b6f97a94ea1ddd9d.jpg",
+                    "id": 29129,
+                    "index_show": "全13话"
+                },
+                "season_id": 1586,
+                "season_title": "UBW第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4655794,
+                    "series_follow": 6123110,
+                    "views": 191376616
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1a70dca34c06545c36d7e5f29155c8c8817e36e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1587,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6488933b75122a79f2c2c211d38f20c7017527d8.jpg",
+                    "id": 63732,
+                    "index_show": "全13话"
+                },
+                "season_id": 1587,
+                "season_title": "UBW第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3080448,
+                    "series_follow": 6123110,
+                    "views": 160057859
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1cfc53c179f64af499c63166284077d5d2f27b69.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2843,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8fac6d6aa712227d2dcde17abc575d3930b8c855.jpg",
+                    "id": 73965,
+                    "index_show": "全1话"
+                },
+                "season_id": 2843,
+                "season_title": "UBW SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1129049,
+                    "series_follow": 6123110,
+                    "views": 13840432
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8cb95a71ddd461bcd31cbb75b6c1449570fd24ff.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/f23d15932c45bb9da0a3f52b8130483179d736ab.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/4cd3c274272ead20fb669d486d272e1fa70fef09.png",
+                "media_id": 19011368,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/60b83dd7391aec49d399aed511b8badceac3261e.jpg",
+                    "id": 264972,
+                    "index_show": "2019-01-11上映"
+                },
+                "season_id": 26703,
+                "season_title": "HF",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 1709247,
+                    "series_follow": 6123110,
+                    "views": 35029402
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4de96771bc75627711470bf0864dda9c3e950bbc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/b5cbded71b7e6ba880b99fa38ecee4090368bfbd.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/0909218926a39c4b5d6707ebbd70eca22888cd25.png",
+                "media_id": 28222114,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/873057df52b7ceeaffb7a1d6f119e7d04785519c.jpg",
+                    "id": 282467,
+                    "index_show": "2019-07-12上映"
+                },
+                "season_id": 28332,
+                "season_title": "HFII",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 4241247,
+                    "series_follow": 6123110,
+                    "views": 24335185
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1113d844ad3a9b42af576d80142146cbecc1b7ff.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 120732,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e3993240914c3d881d97e4527a52efa2a9dcdeaf.jpg",
+                    "id": 239630,
+                    "index_show": "全24话"
+                },
+                "season_id": 25210,
+                "season_title": "FATE TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1521052,
+                    "series_follow": 6123110,
+                    "views": 35007180
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b7ee578ff3c258f173587db3f687fa2d56e3b8c1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223622,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ae6fcc22f6c627a899bfe2d736765cc83cd4e827.png",
+                    "id": 292341,
+                    "index_show": "全1话"
+                },
+                "season_id": 29006,
+                "season_title": "UBW 剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 853635,
+                    "series_follow": 6123110,
+                    "views": 5713438
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1088,
+            "series_title": "Fate/stay night"
+        },
+        "share_copy": "《Fate/stay night [Unlimited Blade Works] 第一季》圣杯战争来袭",
+        "share_sub_title": "圣杯战争来袭",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1586",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/914431dfd467a7af781b0b383319a600bda85664.jpg",
+        "stat": {
+            "coins": 469982,
+            "danmakus": 5497678,
+            "favorite": 30331,
+            "favorites": 4655794,
+            "likes": 470306,
+            "reply": 201837,
+            "share": 208756,
+            "views": 191376616
+        },
+        "status": 2,
+        "subtitle": "已观看1.9亿次",
+        "title": "Fate/stay night [Unlimited Blade Works] 第一季",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

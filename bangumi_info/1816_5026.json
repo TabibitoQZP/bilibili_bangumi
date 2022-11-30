@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/5a7ca76e6a90132f4e8e5f03627f9e673a6547a9.jpg",
+        "episodes": [
+            {
+                "aid": 8453359,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ex41117FY",
+                "cid": 13918191,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190000,
+                "from": "bangumi",
+                "id": 101501,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101501",
+                "long_title": "香蕉喵",
+                "pub_time": 1486437300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第1话 香蕉喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101501",
+                "short_link": "https://b23.tv/ep101501",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "1",
+                "vid": "vupload_13918191"
+            },
+            {
+                "aid": 549322433,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV19q4y1u7T1",
+                "cid": 13918192,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101502,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101502",
+                "long_title": "香蕉喵的伙伴们 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第2话 香蕉喵的伙伴们 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101502",
+                "short_link": "https://b23.tv/ep101502",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "2",
+                "vid": "vupload_13918192"
+            },
+            {
+                "aid": 464341499,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fL411T7EF",
+                "cid": 13918193,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101503,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101503",
+                "long_title": "香蕉喵与电视 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第3话 香蕉喵与电视 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101503",
+                "short_link": "https://b23.tv/ep101503",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "3",
+                "vid": "vupload_13918193"
+            },
+            {
+                "aid": 806834314,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1F34y1o7UA",
+                "cid": 13918194,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101504,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101504",
+                "long_title": "香蕉喵与老鼠 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第4话 香蕉喵与老鼠 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101504",
+                "short_link": "https://b23.tv/ep101504",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "4",
+                "vid": "vupload_13918194"
+            },
+            {
+                "aid": 506853283,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jg411N75Z",
+                "cid": 13918195,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101505,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101505",
+                "long_title": "香蕉喵与电冰箱 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第5话 香蕉喵与电冰箱 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101505",
+                "short_link": "https://b23.tv/ep101505",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "5",
+                "vid": "vupload_13918195"
+            },
+            {
+                "aid": 891802437,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1TP4y1L7jg",
+                "cid": 13918196,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101506,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101506",
+                "long_title": "香蕉喵出门了 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第6话 香蕉喵出门了 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101506",
+                "short_link": "https://b23.tv/ep101506",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "6",
+                "vid": "vupload_13918196"
+            },
+            {
+                "aid": 379283291,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ef4y1M7TQ",
+                "cid": 13918197,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190230,
+                "from": "bangumi",
+                "id": 101507,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101507",
+                "long_title": "香蕉喵的午夜探险 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第7话 香蕉喵的午夜探险 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101507",
+                "short_link": "https://b23.tv/ep101507",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "7",
+                "vid": "vupload_13918197"
+            },
+            {
+                "aid": 806768750,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1634y1d7nD",
+                "cid": 13918198,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101508,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101508",
+                "long_title": "香蕉喵与野猫 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第8话 香蕉喵与野猫 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101508",
+                "short_link": "https://b23.tv/ep101508",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "8",
+                "vid": "vupload_13918198"
+            },
+            {
+                "aid": 719356529,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qQ4y1v79w",
+                "cid": 13918199,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190230,
+                "from": "bangumi",
+                "id": 101509,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101509",
+                "long_title": "香蕉喵在浴室 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第9话 香蕉喵在浴室 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101509",
+                "short_link": "https://b23.tv/ep101509",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "9",
+                "vid": "vupload_13918199"
+            },
+            {
+                "aid": 934331950,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12M4y1A7N6",
+                "cid": 13918200,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190230,
+                "from": "bangumi",
+                "id": 101510,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101510",
+                "long_title": "香蕉喵与气球 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第10话 香蕉喵与气球 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101510",
+                "short_link": "https://b23.tv/ep101510",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "10",
+                "vid": "vupload_13918200"
+            },
+            {
+                "aid": 336781889,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1QR4y1t7jg",
+                "cid": 13918201,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101511,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101511",
+                "long_title": "香蕉喵之散步 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第11话 香蕉喵之散步 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101511",
+                "short_link": "https://b23.tv/ep101511",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "11",
+                "vid": "vupload_13918201"
+            },
+            {
+                "aid": 849273861,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ML4y1i7H9",
+                "cid": 13918202,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190165,
+                "from": "bangumi",
+                "id": 101512,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101512",
+                "long_title": "香蕉喵之午睡 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第12话 香蕉喵之午睡 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101512",
+                "short_link": "https://b23.tv/ep101512",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "12",
+                "vid": "vupload_13918202"
+            },
+            {
+                "aid": 251826073,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1GY411473P",
+                "cid": 13918203,
+                "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 190230,
+                "from": "bangumi",
+                "id": 101513,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep101513",
+                "long_title": "香蕉喵与生日会 喵",
+                "pub_time": 1486437332,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《香蕉喵》第13话 香蕉喵与生日会 喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep101513",
+                "short_link": "https://b23.tv/ep101513",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看86.2万次",
+                "title": "13",
+                "vid": "vupload_13918203"
+            }
+        ],
+        "evaluate": "Q-LiA的原创角色“香蕉猫”，是藏在香蕉里的不可思议的猫咪。被香蕉皮包住的部分任何人都看不见，混在真正的香蕉堆里生活。没人的时候会偷偷跑出来玩，偷偷地恶作剧，最喜欢玩乐和甜点心，梦想是成为巧克力香蕉。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5026/",
+        "media_id": 5026,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 101513,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 21942,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-07-04 00:00:01",
+            "pub_time_show": "2016年7月4日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 388,
+            "score": 9.5
+        },
+        "record": "登记号：10417060205382204",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5026,
+        "season_title": "香蕉喵",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5a7ca76e6a90132f4e8e5f03627f9e673a6547a9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5026,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/ac49b52105069b478f983b80f7d610f67e72f309.jpg",
+                    "id": 101513,
+                    "index_show": "全13话"
+                },
+                "season_id": 5026,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 78632,
+                    "series_follow": 140406,
+                    "views": 862350
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/52df11ffc5c9946a8cdb035f3c09e376e934118a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222687,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2d1a5b4675b9bd0e97a62b8637e0ac0b4d019f87.jpg",
+                    "id": 285143,
+                    "index_show": "全13话"
+                },
+                "season_id": 28589,
+                "season_title": "2019",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 77857,
+                    "series_follow": 140406,
+                    "views": 1028264
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2969,
+            "series_title": "香蕉喵"
+        },
+        "share_copy": "《香蕉喵》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5026",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ca914d6150e5a3c22540526337f4d42418a112c8.jpg",
+        "stat": {
+            "coins": 3317,
+            "danmakus": 8509,
+            "favorite": 824,
+            "favorites": 78632,
+            "likes": 4151,
+            "reply": 1359,
+            "share": 5072,
+            "views": 862350
+        },
+        "status": 2,
+        "subtitle": "已观看86.2万次",
+        "title": "香蕉喵",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7c9002f893f1a9debde1c38b860d64ef31c20d03.png",
+        "episodes": [
+            {
+                "aid": 26753891,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s411J7jn",
+                "cid": 94678321,
+                "cover": "http://i0.hdslb.com/bfs/archive/2950395070f04114ef68de7b0712f6d3fa60282d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1457127,
+                "from": "bangumi",
+                "id": 234406,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234406",
+                "long_title": "深蓝",
+                "pub_time": 1531503900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第1话 深蓝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234406",
+                "short_link": "https://b23.tv/ep234406",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.5亿次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 27297663,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411N7Wh",
+                "cid": 102476481,
+                "cover": "http://i0.hdslb.com/bfs/archive/c8af5ba8e0985d4bb835b7996f69fa453a38a131.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1457127,
+                "from": "bangumi",
+                "id": 234407,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234407",
+                "long_title": "在水中",
+                "pub_time": 1532107500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第2话 在水中",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234407",
+                "short_link": "https://b23.tv/ep234407",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 27876294,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411A773",
+                "cid": 48707411,
+                "cover": "http://i0.hdslb.com/bfs/archive/05ebefcd1b67468fd595f725a6561467b754f590.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456956,
+                "from": "bangumi",
+                "id": 234408,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234408",
+                "long_title": "新世界",
+                "pub_time": 1532712300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第3话 新世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234408",
+                "short_link": "https://b23.tv/ep234408",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 28423563,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs41137Ad",
+                "cid": 49175814,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5f9abb5ee234958eaa3bff704d497aba0b0e322f.png",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1458000,
+                "from": "bangumi",
+                "id": 234409,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234409",
+                "long_title": "男竞",
+                "pub_time": 1533317100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第4话 男竞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234409",
+                "short_link": "https://b23.tv/ep234409",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 29016724,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411u7YT",
+                "cid": 50332582,
+                "cover": "http://i0.hdslb.com/bfs/archive/157902b19597d38c58d5eee2f43bb6d23ee8b262.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456998,
+                "from": "bangumi",
+                "id": 234410,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234410",
+                "long_title": "马后炮",
+                "pub_time": 1533921906,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第5话 马后炮",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234410",
+                "short_link": "https://b23.tv/ep234410",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 29607551,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wW411d7bq",
+                "cid": 51687665,
+                "cover": "http://i0.hdslb.com/bfs/archive/9ed202031055b596e2d85f72eb5df8a5018fc91f.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456957,
+                "from": "bangumi",
+                "id": 234411,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234411",
+                "long_title": "第一位潜伴",
+                "pub_time": 1534526719,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第6话 第一位潜伴",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234411",
+                "short_link": "https://b23.tv/ep234411",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 30209020,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PW411D7Lx",
+                "cid": 52677737,
+                "cover": "http://i0.hdslb.com/bfs/archive/2a96eae2d66e795797cfb53fb43cc8cae9003f9b.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456914,
+                "from": "bangumi",
+                "id": 234412,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234412",
+                "long_title": "双打",
+                "pub_time": 1535131531,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第7话 双打",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234412",
+                "short_link": "https://b23.tv/ep234412",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 30806086,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16W411f7jk",
+                "cid": 53803449,
+                "cover": "http://i0.hdslb.com/bfs/archive/86ed49343cc3cba1cfa6b5373b5d8244f4aaf21d.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456956,
+                "from": "bangumi",
+                "id": 234413,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234413",
+                "long_title": "男人的鸡尾酒",
+                "pub_time": 1535736299,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第8话 男人的鸡尾酒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234413",
+                "short_link": "https://b23.tv/ep234413",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 31271243,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zW411d7qS",
+                "cid": 54641772,
+                "cover": "http://i0.hdslb.com/bfs/archive/c18460a43ac45c2cc94c78cd4f167a005f223af4.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456998,
+                "from": "bangumi",
+                "id": 234414,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234414",
+                "long_title": "国王游戏",
+                "pub_time": 1536341108,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第9话 国王游戏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234414",
+                "short_link": "https://b23.tv/ep234414",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 31713065,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1JW411y7iS",
+                "cid": 55460691,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b92b31e722a0d87d71be671ee08ba896b6b784c.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456873,
+                "from": "bangumi",
+                "id": 234415,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234415",
+                "long_title": "登陆冲绳",
+                "pub_time": 1536945900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第10话 登陆冲绳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234415",
+                "short_link": "https://b23.tv/ep234415",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 32155610,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WW411r7P2",
+                "cid": 56256117,
+                "cover": "http://i0.hdslb.com/bfs/archive/239013094ac041c4c847683791fc347865fb6675.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1456957,
+                "from": "bangumi",
+                "id": 234416,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234416",
+                "long_title": "你们误会了",
+                "pub_time": 1537550700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第11话 你们误会了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234416",
+                "short_link": "https://b23.tv/ep234416",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 32629491,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wW411S7hq",
+                "cid": 491239290,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a698f1c6c5d609aa68fcc8f9b1c9432277fdd4f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 234417,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep234417",
+                "long_title": "御通",
+                "pub_time": 1538155500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《碧蓝之海》第12话 御通",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep234417",
+                "short_link": "https://b23.tv/ep234417",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.5亿次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md102312/",
+        "media_id": 102312,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 234417,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 34017,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-07-14 01:25:00",
+            "pub_time_show": "2018年07月14日01:25",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 134390,
+            "score": 9.9
+        },
+        "record": "登记号：10417060216092307",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 24581,
+        "season_title": "碧蓝之海",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7c9002f893f1a9debde1c38b860d64ef31c20d03.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 102312,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4a698f1c6c5d609aa68fcc8f9b1c9432277fdd4f.jpg",
+                    "id": 234417,
+                    "index_show": "全12话"
+                },
+                "season_id": 24581,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4665212,
+                    "series_follow": 4665213,
+                    "views": 153252951
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4030,
+            "series_title": "碧蓝之海"
+        },
+        "share_copy": "《碧蓝之海》干了这杯可燃乌龙茶",
+        "share_sub_title": "干了这杯可燃乌龙茶",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss24581",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d53419a6890bb3eceaa04b22d54ff0b2f7344558.jpg",
+        "stat": {
+            "coins": 1023603,
+            "danmakus": 1062505,
+            "favorite": 91739,
+            "favorites": 4665212,
+            "likes": 1124739,
+            "reply": 94571,
+            "share": 241822,
+            "views": 153252951
+        },
+        "status": 13,
+        "subtitle": "已观看1.5亿次",
+        "title": "碧蓝之海",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

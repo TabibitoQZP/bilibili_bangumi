@@ -1,0 +1,212 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/d773fd0d66dcfb6db3e8bdcb233a96516eb9c43c.jpg",
+        "episodes": [
+            {
+                "aid": 858375,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11s411o73p",
+                "cid": 1247895,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/99ad4d8cf6ba28cef0814acaf8d83450ca9ed25f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 480
+                },
+                "duration": 2968000,
+                "from": "bangumi",
+                "id": 88472,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88472",
+                "long_title": "Love Live Alive",
+                "pub_time": 1464231757,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《机甲创世记 OVA》第1话 Love Live Alive",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88472",
+                "short_link": "https://b23.tv/ep88472",
+                "skip": {
+                    "ed": {
+                        "end": 2968,
+                        "start": 2875
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看21.4万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "于1985年9月21日采音乐录影带的形式制作在日本发行。以新作画面与旧作片段相互交错成；内容为承接TV结尾剧情的后续发展，由白莱（イエロー）的演唱会作为焦点贯串全剧，描述他在活动前和歌唱中忆起往事，曲终人散后意外再度与众友们重聚。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4056/",
+        "media_id": 4056,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 88472,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20719,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "1985-09-21 00:00:01",
+            "pub_time_show": "1985年9月21日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4056,
+        "season_title": "机甲创世记 OVA",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d773fd0d66dcfb6db3e8bdcb233a96516eb9c43c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4056,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/99ad4d8cf6ba28cef0814acaf8d83450ca9ed25f.jpg",
+                    "id": 88472,
+                    "index_show": "全1话"
+                },
+                "season_id": 4056,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3265,
+                    "series_follow": 8915,
+                    "views": 214162
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/45e8700d85581762aa0093d91bdff7d0a30a3cd0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2432,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/99ad4d8cf6ba28cef0814acaf8d83450ca9ed25f.jpg",
+                    "id": 58408,
+                    "index_show": "全25话"
+                },
+                "season_id": 2432,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 7068,
+                    "series_follow": 8915,
+                    "views": 214162
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1652,
+            "series_title": "机甲创世记"
+        },
+        "share_copy": "《机甲创世记 OVA》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4056",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/3f90fbd52b724dc7a23a2fe4694ff6600d533bce.jpg",
+        "stat": {
+            "coins": 146,
+            "danmakus": 2251,
+            "favorite": 38,
+            "favorites": 3265,
+            "likes": 466,
+            "reply": 217,
+            "share": 18,
+            "views": 214162
+        },
+        "status": 2,
+        "subtitle": "已观看21.4万次",
+        "title": "机甲创世记 OVA",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

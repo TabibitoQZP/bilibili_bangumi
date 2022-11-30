@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1535,
+            "title": "补番月台第一期（1号站台）"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/4fed6a1e2e9aae0f171c904c36c23384586e8d90.png",
+        "episodes": [
+            {
+                "aid": 4433361,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1us41167E4",
+                "cid": 54751622,
+                "cover": "http://i0.hdslb.com/bfs/archive/c92f2c99ebf15e780e9f82b5a349cc63364ad252.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 3765000,
+                "from": "bangumi",
+                "id": 86701,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86701?theme=movie",
+                "long_title": "秒速5厘米",
+                "pub_time": 1461295820,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《秒速五厘米》第1话 秒速5厘米",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86701",
+                "short_link": "https://b23.tv/ep86701",
+                "skip": {
+                    "ed": {
+                        "end": 3764,
+                        "start": 3592
+                    },
+                    "op": {
+                        "end": 4,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3292.8万次",
+                "title": "1",
+                "vid": "vupload_7182741"
+            }
+        ],
+        "evaluate": "【本片翻译由澄空学园字幕组提供】秒速五厘米是日本导演新海诚在2007年发布的动画电影，全作由《樱花抄》、《宇航员》和《秒速五厘米》三话组成。导演结合樱花、电车、卫星等美丽的意象，讲述了围绕着男主角远野贵树和女主角篠原明里、澄田花苗之间所发生的唯美而又忧伤的故事。\n\n少年远野贵树与少女筱原明里，这两人是幼时的同班同学兼好友，但自从小学毕业之后却没能再见一次面。分隔两地的贵树与明里一直靠书信保持联络，直到贵树知道自己即将举家搬到鹿儿岛那个遥远的地方。两人约定了见面的时间，但计划好的行程偏偏却遇上了暴风雪……。",
+        "freya": {
+            "bubble_desc": "你收到1个打招呼",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2688/",
+        "media_id": 2688,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 86701,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 19727,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-03-03 00:00:00",
+            "pub_time_show": "2007年03月03日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 25346,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2688,
+        "season_title": "秒速五厘米",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4fed6a1e2e9aae0f171c904c36c23384586e8d90.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2688,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c92f2c99ebf15e780e9f82b5a349cc63364ad252.jpg",
+                    "id": 86701,
+                    "index_show": "全1话"
+                },
+                "season_id": 2688,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3310859,
+                    "series_follow": 3310859,
+                    "views": 32927974
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1831,
+            "series_title": "秒速五厘米"
+        },
+        "share_copy": "《秒速五厘米》一生的距离",
+        "share_sub_title": "一生的距离",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2688",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b69486b16beb8123bf6cdfcc713c692d0dbb4e89.jpg",
+        "stat": {
+            "coins": 317506,
+            "danmakus": 751393,
+            "favorite": 84002,
+            "favorites": 3310859,
+            "likes": 308925,
+            "reply": 55357,
+            "share": 157039,
+            "views": 32927974
+        },
+        "status": 2,
+        "subtitle": "已观看3292.8万次",
+        "title": "秒速五厘米",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

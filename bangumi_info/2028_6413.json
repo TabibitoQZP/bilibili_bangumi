@@ -1,0 +1,806 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a5abc622993d18fc23ca19324f350b17b5a1c4e6.jpg",
+        "episodes": [
+            {
+                "aid": 13780177,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19x411b7Ab",
+                "cid": 23153192,
+                "cover": "http://i0.hdslb.com/bfs/archive/a9569eb0fbe2001980394bf71634c81cc33e1098.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 4247000,
+                "from": "bangumi",
+                "id": 114494,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep114494?theme=movie",
+                "long_title": "",
+                "pub_time": 1504597140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《精灵宝可梦 剧场版15：酋雷姆VS圣剑士 凯路迪欧》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep114494",
+                "short_link": "https://b23.tv/ep114494",
+                "skip": {
+                    "ed": {
+                        "end": 4243,
+                        "start": 4000
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看83.4万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "　　故事描述小智与皮卡丘、艾莉丝、天桐一行人正搭乘火城前往洛祥的旅途中，在行经山区时发现一只从未见过的神奇宝贝，但它却受了伤一动也不动。其实它正是被称为三位圣剑士的后继者，梦幻的神奇宝贝‧凯路迪欧。就在此时，最强的龙系神奇宝贝酋雷姆突然来袭！面对能变换成焰白酋雷姆与闇黑酋雷姆两种型态，并拥有压倒性力量的酋雷姆，小智一行人千钧一发逃过酋雷姆的追击。面对酋雷姆的穷追不舍，在行进列车与飞行船间发生战斗，他们能否战胜这次的强大挑战呢？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6413/",
+        "media_id": 6413,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 114494,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 23396,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-07-14 00:00:00",
+            "pub_time_show": "2012年07月14日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 187,
+            "score": 8.2
+        },
+        "record": "登记号：10417060213952112",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6413,
+        "season_title": "精灵宝可梦 剧场版15：酋雷姆VS圣剑士 凯路迪欧",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dbe1a179091041b12d579705fd21f0c3b69413e9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5758,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/b6b092fc1dfeedc85e3bbe386704295a1f14ead5.jpg",
+                    "id": 97475,
+                    "index_show": "全1话"
+                },
+                "season_id": 5758,
+                "season_title": "剧场版1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 136321,
+                    "series_follow": 620699,
+                    "views": 2107782
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a610ebfdf57d27bd523fae6ad8bb570c2841dcf8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5757,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/eeca85f34bfb9b85d7295cd73a0af7b5d0a1adfe.jpg",
+                    "id": 97474,
+                    "index_show": "全1话"
+                },
+                "season_id": 5757,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 75550,
+                    "series_follow": 620699,
+                    "views": 1330019
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/638f020cfca367c6465a3f3dc440c296809f394b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233198,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/49330dcc6f32190ae198ef16af77097b759732cf.jpg",
+                    "id": 372905,
+                    "index_show": "全1话"
+                },
+                "season_id": 37522,
+                "season_title": "剧场版3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 275980,
+                    "series_follow": 620699,
+                    "views": 410829
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5872f9bad23b858f5175cd9f4083f39ee26ba760.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5756,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/06aa4a7ce7476b5608c7433b17a37e8a057a3393.jpg",
+                    "id": 97473,
+                    "index_show": "全1话"
+                },
+                "season_id": 5756,
+                "season_title": "剧场版4",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60486,
+                    "series_follow": 620699,
+                    "views": 869319
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61319eceea9c1006bd2a5ede87310212d2f9b9d8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5755,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/8ef09e30276accfeb9455c91d5d8ebb11f0746ca.jpg",
+                    "id": 97472,
+                    "index_show": "全1话"
+                },
+                "season_id": 5755,
+                "season_title": "剧场版5",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 68088,
+                    "series_follow": 620699,
+                    "views": 1003806
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/386a9fb6d813385b13299a697a74ac6e485f3443.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5754,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/c94e60b5eabde62d62a11fbec76942c713ebc12e.jpg",
+                    "id": 97471,
+                    "index_show": "全1话"
+                },
+                "season_id": 5754,
+                "season_title": "剧场版6",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60428,
+                    "series_follow": 620699,
+                    "views": 832713
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7665cdb8399fb2b3d1b3c68deba5b49291206cc9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5753,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/a9bc5f104d97a59991b52dd00460e0874d5312c8.jpg",
+                    "id": 97470,
+                    "index_show": "全1话"
+                },
+                "season_id": 5753,
+                "season_title": "剧场版7",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63367,
+                    "series_follow": 620699,
+                    "views": 950160
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1ba1b1ad3feecf8522e8b042471b2b281899e56f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5752,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/44d09287b2e9bc2efcb8dac3a933dc70b1ebafbc.jpg",
+                    "id": 97469,
+                    "index_show": "全1话"
+                },
+                "season_id": 5752,
+                "season_title": "剧场版8",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63885,
+                    "series_follow": 620699,
+                    "views": 969585
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/03ea2b099bc2ad932d1e33b83c7574a3e3110173.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5751,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/12bdcf2a1c5731f10dcc58f383ed394c80b6a8eb.jpg",
+                    "id": 97468,
+                    "index_show": "全1话"
+                },
+                "season_id": 5751,
+                "season_title": "剧场版9",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 61079,
+                    "series_follow": 620699,
+                    "views": 857946
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d7b214532e9155fb54da628bd38480045b68f4b0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5750,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9cda680f4b2a90b8cacc88df0151be8849862585.jpg",
+                    "id": 97467,
+                    "index_show": "全1话"
+                },
+                "season_id": 5750,
+                "season_title": "剧场版10",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 65309,
+                    "series_follow": 620699,
+                    "views": 1155580
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d0fd988aba4f54e466b06bfbde38e99ed8a753b0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5749,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/5a9729895bc070f1ef3a9fc122b1f474a470539d.jpg",
+                    "id": 97465,
+                    "index_show": "全1话"
+                },
+                "season_id": 5749,
+                "season_title": "剧场版11",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60626,
+                    "series_follow": 620699,
+                    "views": 943371
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/41d6588aba69c4a3d3f6de13551c45b14bdf535c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5746,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/fcc732df2f8ef3f5c2938bb3d5000f28ad4e08dd.jpg",
+                    "id": 97456,
+                    "index_show": "全1话"
+                },
+                "season_id": 5746,
+                "season_title": "剧场版12",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 72380,
+                    "series_follow": 620699,
+                    "views": 1740232
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/08ffcebfd0fa08a2e4397b8e7ef5d12104ecfbe6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5745,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2d58670beb06be1b1a205e55921187752954272d.jpg",
+                    "id": 97455,
+                    "index_show": "全1话"
+                },
+                "season_id": 5745,
+                "season_title": "剧场版13",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 57351,
+                    "series_follow": 620699,
+                    "views": 891330
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92d89f5d3562ec75512eb613e6e822de45c425d8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4477,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f938813152d2112184880d08777a935d1c9cfb32.jpg",
+                    "id": 100889,
+                    "index_show": "全1话"
+                },
+                "season_id": 4477,
+                "season_title": "剧场版14 黑",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 59068,
+                    "series_follow": 620699,
+                    "views": 832260
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7671944a747bf17a10eff11788a3d784cd9b3283.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4475,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6d73e6454cd6c8eae0ab1f951b668d6193ac3379.jpg",
+                    "id": 100890,
+                    "index_show": "全1话"
+                },
+                "season_id": 4475,
+                "season_title": "剧场版14 白",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 56495,
+                    "series_follow": 620699,
+                    "views": 721227
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a5abc622993d18fc23ca19324f350b17b5a1c4e6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6413,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a9569eb0fbe2001980394bf71634c81cc33e1098.jpg",
+                    "id": 114494,
+                    "index_show": "全1话"
+                },
+                "season_id": 6413,
+                "season_title": "剧场版15",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 55654,
+                    "series_follow": 620699,
+                    "views": 834296
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3b9d38fb03e5772de8d8f2bb03f050296671b048.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5744,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1239592921ad1c405601846bb4b575e823d49229.jpg",
+                    "id": 97454,
+                    "index_show": "全1话"
+                },
+                "season_id": 5744,
+                "season_title": "剧场版16",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 66848,
+                    "series_follow": 620699,
+                    "views": 1323749
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/523953d6ea1465ac1dc9022b0a69a0c17c5c0704.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6389,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/de6d7da56040bd094085b771242496af7c0c77c1.jpg",
+                    "id": 113990,
+                    "index_show": "全1话"
+                },
+                "season_id": 6389,
+                "season_title": "剧场版17",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 64428,
+                    "series_follow": 620699,
+                    "views": 1178452
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/09b6d4b54083e8d0299a5d19d94246c1f0f348e9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6480,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2937fefb29c733fe5d0de3050d1ff071fac07851.jpg",
+                    "id": 114712,
+                    "index_show": "全1话"
+                },
+                "season_id": 6480,
+                "season_title": "剧场版18",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 91452,
+                    "series_follow": 620699,
+                    "views": 2160819
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ce73adea52812dff7d5c013c707bd9fa33c3cc12.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/7e2af2bed300f1e53cf789d7477faee1a89cf883.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/082659a6daa0d4677bcd209824bfc0b2143f5b44.png",
+                "media_id": 70612,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3d078ea3db04e761548e7b96c246f95531d39ded.jpg",
+                    "id": 195189,
+                    "index_show": "2017-11-11上映"
+                },
+                "season_id": 12477,
+                "season_title": "剧场版19",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 118604,
+                    "series_follow": 620699,
+                    "views": 6431591
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/26b7ed2c0f3d900be410018ee2d76f784159fb8b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228297,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/dccbfa12d7b72ae15dc4d8993d3c19ebdffcf8bc.jpg",
+                    "id": 316161,
+                    "index_show": "全1话"
+                },
+                "season_id": 32934,
+                "season_title": "剧场版20",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 82879,
+                    "series_follow": 620699,
+                    "views": 1848261
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/24798c889add9dee5f1e7372c1f25c3cd2ff0f0b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228298,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e3682e275de2f7f6addef3b0cbb00265d18bae89.jpg",
+                    "id": 316646,
+                    "index_show": "全1话"
+                },
+                "season_id": 32935,
+                "season_title": "剧场版21",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 67766,
+                    "series_follow": 620699,
+                    "views": 1779273
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/0d9eb6c6a871ce7493b7c41a0fd53c1c88e91b3c.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/f2035acd07e01bb8c9d11b1e475c0eb4d3892972.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/d855744ba42d515f5217b1ca42c0ac2eb07a88d7.png",
+                "media_id": 28234726,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ddf64f4138bfeddfa9d6909c470cb71426f7af38.png",
+                    "id": 409074,
+                    "index_show": "2020-12-04上映"
+                },
+                "season_id": 39034,
+                "season_title": "剧场版22",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 424928,
+                    "series_follow": 620699,
+                    "views": 9682716
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8ce4ed7ccf1db944dfeabb0e5dfaa13077a6559e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/3d563a6648e3091692783c34dfd830f5b0b53008.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ef58f7cf402790a8e0d569eb9d3d89b9f4cbe53f.png",
+                "media_id": 28236391,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/52c82e2b3ac6a0665a4a52f063e94749e109a092.png",
+                    "id": 467283,
+                    "index_show": "2021-09-10上映"
+                },
+                "season_id": 40685,
+                "season_title": "剧场版23",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 543846,
+                    "series_follow": 620699,
+                    "views": 6403514
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3453,
+            "series_title": "精灵宝可梦 剧场版"
+        },
+        "share_copy": "《精灵宝可梦 剧场版15：酋雷姆VS圣剑士 凯路迪欧》就决定是你了！",
+        "share_sub_title": "就决定是你了！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6413",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/73ee79324d804222878c9f410005dbc5780730e7.jpg",
+        "stat": {
+            "coins": 818,
+            "danmakus": 5608,
+            "favorite": 294,
+            "favorites": 55654,
+            "likes": 1922,
+            "reply": 485,
+            "share": 263,
+            "views": 834296
+        },
+        "status": 13,
+        "subtitle": "已观看83.4万次",
+        "title": "精灵宝可梦 剧场版15：酋雷姆VS圣剑士 凯路迪欧",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,792 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/52385016afa0a7fd0e47ae169d9933dde893f7ee.jpg",
+        "episodes": [
+            {
+                "aid": 3239450,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ns411d7pN",
+                "cid": 5108263,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c47cfc6a5000348f4c374e844674edb2dea220e2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77693,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77693",
+                "long_title": "La Bambina",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第01话 La Bambina",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77693",
+                "short_link": "https://b23.tv/ep77693",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 758,
+                        "start": 753
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "01",
+                "vid": "vupload_5108263"
+            },
+            {
+                "aid": 294319091,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12F411h7tK",
+                "cid": 5107912,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1fc4563237f2491ac3362604e66ca26b642bf795.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77694,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77694",
+                "long_title": "双剑双枪的亚莉亚",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第02话 双剑双枪的亚莉亚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77694",
+                "short_link": "https://b23.tv/ep77694",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "02",
+                "vid": "vupload_5107912"
+            },
+            {
+                "aid": 891789478,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1VP4y1L7Tt",
+                "cid": 5107913,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b0543214dfc1b7d4ac338135084a7c5413345689.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77695,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77695",
+                "long_title": "初次任务",
+                "pub_time": 1447814880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第03话 初次任务",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77695",
+                "short_link": "https://b23.tv/ep77695",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "03",
+                "vid": "vupload_5107913"
+            },
+            {
+                "aid": 294306592,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kF411h7QX",
+                "cid": 5120173,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8ab55deb8bd12a191fbbec24e0e05ec4eb407732.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77696,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77696",
+                "long_title": "武侦杀手",
+                "pub_time": 1447814880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第04话 武侦杀手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77696",
+                "short_link": "https://b23.tv/ep77696",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "04",
+                "vid": "vupload_5120173"
+            },
+            {
+                "aid": 251772322,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1dY411x7VT",
+                "cid": 5107915,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bbffbc8c097bb8c07d80b152ee102f451c828df2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77697,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77697",
+                "long_title": "武侦宪章第一条",
+                "pub_time": 1447814880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第05话 武侦宪章第一条",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77697",
+                "short_link": "https://b23.tv/ep77697",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "05",
+                "vid": "vupload_5107915"
+            },
+            {
+                "aid": 676790545,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1jU4y1u7hK",
+                "cid": 5107916,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8f174456e9b8fd2940e3cabe8b9d98df24391407.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77698,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77698",
+                "long_title": "星伽巫女",
+                "pub_time": 1447814880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第06话 星伽巫女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77698",
+                "short_link": "https://b23.tv/ep77698",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "06",
+                "vid": "vupload_5107916"
+            },
+            {
+                "aid": 549280282,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rq4y1u7EN",
+                "cid": 5107917,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2f705baf284e42dd20d77ea6082010f1644512f6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77699,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77699",
+                "long_title": "笼中鸟",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第07话 笼中鸟",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77699",
+                "short_link": "https://b23.tv/ep77699",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "07",
+                "vid": "vupload_5107917"
+            },
+            {
+                "aid": 209304560,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ph41147ff",
+                "cid": 5107918,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0a58f55ac03a94b9903834ffe8f6fb48cf88e282.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77700,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77700",
+                "long_title": "魔 剑",
+                "pub_time": 1447814880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第08话 魔 剑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77700",
+                "short_link": "https://b23.tv/ep77700",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "08",
+                "vid": "vupload_5107918"
+            },
+            {
+                "aid": 719314497,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zQ4y1U7K5",
+                "cid": 5107919,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4597a4fc3f32317b77e49a1449d4516088717c98.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77701,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77701",
+                "long_title": "蜂蜜色的陷阱",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第09话 蜂蜜色的陷阱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77701",
+                "short_link": "https://b23.tv/ep77701",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "09",
+                "vid": "vupload_5107919"
+            },
+            {
+                "aid": 379272740,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wf4y1M7ex",
+                "cid": 5107920,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2e62f97860d9bae6e405fa2f2f256bc1f1f17877.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77702,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77702",
+                "long_title": "特 训",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第10话 特 训",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77702",
+                "short_link": "https://b23.tv/ep77702",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "10",
+                "vid": "vupload_5107920"
+            },
+            {
+                "aid": 849353107,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1LL4y1p7kv",
+                "cid": 5107921,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/95d2a64f95cb393dc046f855086aa8abe512a761.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 77703,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77703",
+                "long_title": "潜 入",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第11话 潜 入",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77703",
+                "short_link": "https://b23.tv/ep77703",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "11",
+                "vid": "vupload_5107921"
+            },
+            {
+                "aid": 976843451,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1u44y1Y7R4",
+                "cid": 5107922,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b2acfde45a7cb8928efa208c8f0619395156280f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 77704,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77704",
+                "long_title": "弗拉德",
+                "pub_time": 1447814905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《绯弹的亚里亚》第12话 弗拉德",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77704",
+                "short_link": "https://b23.tv/ep77704",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2957.5万次",
+                "title": "12",
+                "vid": "vupload_5107922"
+            }
+        ],
+        "evaluate": "　故事设定在一场警察无法应对的世界范围内的治安危机当中，产生了一种在法律限制内解决个人或组织的委托以弥补警察不足的职业——武侦。而在专门培养“武侦”的特殊学校东京武侦高中里，侦探科二年级的男主角・远山金次，因为拥有某种神秘体质，在某种契机之下会让大脑细胞活性化。对于这一点他始终希望对其他人保密，只祈求能过平凡的校园生活。可惜事与愿违，某天在上学途中他被卷入一起炸弹攻击，更因此和强袭科的超精英——神崎‧H‧亚莉亚相遇。就这样，被迫与S级的最强武侦亚里亚组队的金次，他的平凡日常生活逐渐地离他而去。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2993/",
+        "media_id": 2993,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 77704,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 19890,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-04-14 00:00:00",
+            "pub_time_show": "2011年04月14日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5492,
+            "score": 8.8
+        },
+        "record": "登记号：10417060200452606",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2993,
+        "season_title": "绯弹的亚里亚",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/52385016afa0a7fd0e47ae169d9933dde893f7ee.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2993,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/b2acfde45a7cb8928efa208c8f0619395156280f.jpg",
+                    "id": 77704,
+                    "index_show": "全12话"
+                },
+                "season_id": 2993,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1434524,
+                    "series_follow": 1754618,
+                    "views": 29574972
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e0fa59a7a750f97bc20cf70e0f9f8982ce0bb3aa.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2764,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/75381a5f00c70c7116c2f4757f65b73c3e789435.jpg",
+                    "id": 81854,
+                    "index_show": "全12话"
+                },
+                "season_id": 2764,
+                "season_title": "外传",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 600632,
+                    "series_follow": 1754618,
+                    "views": 15143784
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/52385016afa0a7fd0e47ae169d9933dde893f7ee.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3439,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ec0632f02188c0bc604c1742223d4d6bea68ff69.jpg",
+                    "id": 85151,
+                    "index_show": "全1话"
+                },
+                "season_id": 3439,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 194440,
+                    "series_follow": 1754618,
+                    "views": 26938045
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 581,
+            "series_title": "绯弹的亚里亚"
+        },
+        "share_copy": "《绯弹的亚里亚》刑侦学园动作大片！",
+        "share_sub_title": "刑侦学园动作大片！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2993",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/19ed5cca631316cde79a18851466fa8ec6ed51e1.jpg",
+        "stat": {
+            "coins": 78272,
+            "danmakus": 1708732,
+            "favorite": 8607,
+            "favorites": 1434524,
+            "likes": 67119,
+            "reply": 20204,
+            "share": 18013,
+            "views": 29574971
+        },
+        "status": 2,
+        "subtitle": "已观看2957.5万次",
+        "title": "绯弹的亚里亚",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

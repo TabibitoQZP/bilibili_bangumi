@@ -1,0 +1,551 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/335cca70c72b3371498f5e7d037637252ac37b91.jpg",
+        "episodes": [
+            {
+                "aid": 754361339,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV14k4y127sj",
+                "cid": 226956202,
+                "cover": "http://i0.hdslb.com/bfs/archive/9d9485daee85f4199645f9ef0f85a2541edc0222.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1253000,
+                "from": "bangumi",
+                "id": 336016,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep336016",
+                "long_title": "",
+                "pub_time": 1597982401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《异常生物见闻录 特别篇》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep336016",
+                "short_link": "https://b23.tv/ep336016",
+                "status": 2,
+                "subtitle": "已观看382.3万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "普通待业青年郝仁在找工作时，阴差阳错成为了希灵帝国女神渡鸦12345的审查官，负责处理地球中各种异类事件，本以为自己的任务就是打打酱油，照顾好异类租客，偶尔出去维护下世界和平。没想到这一次……搞大了！！……一阵鸡飞狗跳后，以为终于能安定下来好好过个年，但…真会如他所愿吗？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229682/",
+        "media_id": 28229682,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 336016,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 49458,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-08-21 12:00:00",
+            "pub_time_show": "2020年08月21日12:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 13673,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34235,
+        "season_title": "异常生物见闻录 特别篇",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cc393610a9ce2574260b0dee9978e05c460cd7e7.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4313642,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/8c7de50efbecec39fd3f0ab40938ced8d98ad088.png",
+                    "id": 282466,
+                    "index_show": "全13话"
+                },
+                "season_id": 26191,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1132798,
+                    "series_follow": 1204279,
+                    "views": 29695594
+                }
+            },
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/335cca70c72b3371498f5e7d037637252ac37b91.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229682,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9d9485daee85f4199645f9ef0f85a2541edc0222.png",
+                    "id": 336016,
+                    "index_show": "全1话"
+                },
+                "season_id": 34235,
+                "season_title": "特别篇",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1063447,
+                    "series_follow": 1204279,
+                    "views": 3823497
+                }
+            },
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/0965d9558c1bad85c575186fb12d332855473534.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/7572827d6bb9027a6830b136ebddcc91a5ede7ee.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/cb64e124f4eb28059a2555566f493a4bfd7aa691.png",
+                "media_id": 28339912,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "即将开播"
+                },
+                "season_id": 43338,
+                "season_title": "序",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1194571,
+                    "series_follow": 1204279,
+                    "views": 231261
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 712098319,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1LD4y1o7ed",
+                        "cid": 235266958,
+                        "cover": "http://i0.hdslb.com/bfs/archive/22310ba503492b5f4e568af9968276294781da8c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 260000,
+                        "from": "bangumi",
+                        "id": 337905,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep337905",
+                        "long_title": "你你你你要跳舞吗？17恰恰恰",
+                        "pub_time": 1600075616,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇幕后花絮4 你你你你要跳舞吗？17恰恰恰",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep337905",
+                        "short_link": "https://b23.tv/ep337905",
+                        "stat": {
+                            "coin": 1378,
+                            "danmakus": 205,
+                            "likes": 3603,
+                            "play": 114391,
+                            "reply": 429
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇幕后花絮4",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 969596307,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hp4y1e7p1",
+                        "cid": 234006306,
+                        "cover": "http://i0.hdslb.com/bfs/archive/111e1a01f81e8443a46d83dbd06b8a314164544d.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 342000,
+                        "from": "bangumi",
+                        "id": 337582,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep337582",
+                        "long_title": "终于...制作组疯了",
+                        "pub_time": 1599731348,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇幕后花絮3 终于...制作组疯了",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep337582",
+                        "short_link": "https://b23.tv/ep337582",
+                        "stat": {
+                            "coin": 1569,
+                            "danmakus": 391,
+                            "likes": 3685,
+                            "play": 82065,
+                            "reply": 381
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇幕后花絮3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 329512507,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1cA411H7qb",
+                        "cid": 233117862,
+                        "cover": "http://i0.hdslb.com/bfs/archive/27a7ba2a008c35546572beb426601fe5c11b9c8d.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 337266,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep337266",
+                        "long_title": "制作现场实录，“女装”大佬领路",
+                        "pub_time": 1599471927,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇幕后花絮2 制作现场实录，“女装”大佬领路",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep337266",
+                        "short_link": "https://b23.tv/ep337266",
+                        "stat": {
+                            "coin": 935,
+                            "danmakus": 72,
+                            "likes": 2815,
+                            "play": 61278,
+                            "reply": 197
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇幕后花絮2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 841905949,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1X54y1e7Eh",
+                        "cid": 232097077,
+                        "cover": "http://i0.hdslb.com/bfs/archive/77bc2b4828e93eea40c1c316239c040c075c5241.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 301000,
+                        "from": "bangumi",
+                        "id": 337111,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep337111",
+                        "long_title": "贰飞下海，“精分”现场",
+                        "pub_time": 1599204960,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇幕后花絮1 贰飞下海，“精分”现场",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep337111",
+                        "short_link": "https://b23.tv/ep337111",
+                        "stat": {
+                            "coin": 1100,
+                            "danmakus": 368,
+                            "likes": 2909,
+                            "play": 58056,
+                            "reply": 324
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇幕后花絮1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 329299882,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1KA411n7N6",
+                        "cid": 225364245,
+                        "cover": "http://i0.hdslb.com/bfs/archive/a84a7cb5949a33dcb5ca3f21cf5b5e448b785cc8.jpg",
+                        "dimension": {
+                            "height": 720,
+                            "rotate": 0,
+                            "width": 1280
+                        },
+                        "duration": 56000,
+                        "from": "bangumi",
+                        "id": 335614,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep335614",
+                        "long_title": "当事人片酬大公开",
+                        "pub_time": 1597638600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇PV 当事人片酬大公开",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep335614",
+                        "short_link": "https://b23.tv/ep335614",
+                        "stat": {
+                            "coin": 2130,
+                            "danmakus": 363,
+                            "likes": 3781,
+                            "play": 351270,
+                            "reply": 2372
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 926804992,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1KT4y1L7UR",
+                        "cid": 225861165,
+                        "cover": "http://i0.hdslb.com/bfs/archive/28952c00b90f23564c2c7b584b8452a3873e2269.jpg",
+                        "dimension": {
+                            "height": 720,
+                            "rotate": 0,
+                            "width": 1280
+                        },
+                        "duration": 102000,
+                        "from": "bangumi",
+                        "id": 335908,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep335908",
+                        "long_title": "声优应援",
+                        "pub_time": 1597809601,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异常生物见闻录 特别篇》特别篇PV2 声优应援",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep335908",
+                        "short_link": "https://b23.tv/ep335908",
+                        "stat": {
+                            "coin": 1304,
+                            "danmakus": 772,
+                            "likes": 2980,
+                            "play": 125206,
+                            "reply": 791
+                        },
+                        "status": 2,
+                        "subtitle": "已观看382.3万次",
+                        "title": "特别篇PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 49484,
+                "title": "其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4242,
+            "series_title": "异常生物见闻录"
+        },
+        "share_copy": "《异常生物见闻录 特别篇》我是郝仁，是个好人",
+        "share_sub_title": "我是郝仁，是个好人",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34235",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/9cdff1e01aa3e6b7e592dfc9fec02ad41f915cb2.jpg",
+        "stat": {
+            "coins": 63493,
+            "danmakus": 26874,
+            "favorite": 2993,
+            "favorites": 1063447,
+            "likes": 56901,
+            "reply": 13550,
+            "share": 4094,
+            "views": 3823497
+        },
+        "status": 2,
+        "subtitle": "已观看382.3万次",
+        "title": "异常生物见闻录 特别篇",
+        "total": 1,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

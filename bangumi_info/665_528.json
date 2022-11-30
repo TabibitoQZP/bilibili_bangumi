@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/3a3ff8f00d46761aaef22cc8ae4834086ce57632.jpg",
+        "episodes": [
+            {
+                "aid": 8760895,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qx411y7sb",
+                "cid": 14443439,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1205c3e637f099b7a7a462c217e8f16f0664ff07.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9779,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9779",
+                "long_title": "境界",
+                "pub_time": 1487727786,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第1话 境界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9779",
+                "short_link": "https://b23.tv/ep9779",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 66
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "1",
+                "vid": "vupload_14443439"
+            },
+            {
+                "aid": 634331154,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1sb4y1b77L",
+                "cid": 14443440,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d2b84e028e8e06637e53bcb3d26eba9dae2d08fd.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9780,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9780",
+                "long_title": "人鬼",
+                "pub_time": 1487726475,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第2话 人鬼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9780",
+                "short_link": "https://b23.tv/ep9780",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 111
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "2",
+                "vid": "vupload_14443440"
+            },
+            {
+                "aid": 421820953,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1x3411t75C",
+                "cid": 14443441,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dfcda7fbe14fc65c4c8741b2fa87c72653cdca1a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9778,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9778",
+                "long_title": "鬼追",
+                "pub_time": 1487725719,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第3话 鬼追",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9778",
+                "short_link": "https://b23.tv/ep9778",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 50
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "3",
+                "vid": "vupload_14443441"
+            },
+            {
+                "aid": 336867205,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yR4y1x7zh",
+                "cid": 14443442,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/76867c4c449c4d14100037ad0aa17ab25f9f716e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9777,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9777",
+                "long_title": "归乡",
+                "pub_time": 1487727701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第4话 归乡",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9777",
+                "short_link": "https://b23.tv/ep9777",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 90
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "4",
+                "vid": "vupload_14443442"
+            },
+            {
+                "aid": 209351276,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bh41147x2",
+                "cid": 14443443,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0014b84b583f3c93eadec6bc77193ccedd691675.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9776,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9776",
+                "long_title": "庇佑",
+                "pub_time": 1487754238,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第5话 庇佑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9776",
+                "short_link": "https://b23.tv/ep9776",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 123,
+                        "start": 33
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "5",
+                "vid": "vupload_14443443"
+            },
+            {
+                "aid": 591859052,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zq4y167R8",
+                "cid": 14443444,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fe9bac399d25c19911b78effe4eba7e2870bc723.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9775,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9775",
+                "long_title": "外持",
+                "pub_time": 1487767775,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第6话 外持",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9775",
+                "short_link": "https://b23.tv/ep9775",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 111
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "6",
+                "vid": "vupload_14443444"
+            },
+            {
+                "aid": 294253214,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xF411h7RL",
+                "cid": 14443445,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ab7e70a28a66a2f4e3cc974357003c53406b77f2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9774,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9774",
+                "long_title": "约定",
+                "pub_time": 1487735184,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第7话 约定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9774",
+                "short_link": "https://b23.tv/ep9774",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 26
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "7",
+                "vid": "vupload_14443445"
+            },
+            {
+                "aid": 209338076,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yh41147nL",
+                "cid": 14443446,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c77a23bc5adbf742bc0232128ca48778ac3c66ab.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9773,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9773",
+                "long_title": "邂逅",
+                "pub_time": 1487730600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第8话 邂逅",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9773",
+                "short_link": "https://b23.tv/ep9773",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1209
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "8",
+                "vid": "vupload_14443446"
+            },
+            {
+                "aid": 336776483,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1mR4y1t7Xg",
+                "cid": 14443447,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cb38b085dd4c10c4dac8b65ad7476ca9fd4cf766.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9772,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9772",
+                "long_title": "看守",
+                "pub_time": 1487733117,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第9话 看守",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9772",
+                "short_link": "https://b23.tv/ep9772",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 39
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "9",
+                "vid": "vupload_14443447"
+            },
+            {
+                "aid": 719265543,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1eQ4y1U7JE",
+                "cid": 14443448,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5bb43fa3b284f97370266698c6ecbbc0ebfe9fe5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9771,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9771",
+                "long_title": "孤影",
+                "pub_time": 1487728329,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第10话 孤影",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9771",
+                "short_link": "https://b23.tv/ep9771",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 226,
+                        "start": 136
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "10",
+                "vid": "vupload_14443448"
+            },
+            {
+                "aid": 506772520,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ag411N7DN",
+                "cid": 14443449,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ec2699e2b81fe08420dd8894556cb5e4caef69d1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9770,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9770",
+                "long_title": "现身",
+                "pub_time": 1487740740,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第11话 现身",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9770",
+                "short_link": "https://b23.tv/ep9770",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 112,
+                        "start": 22
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "11",
+                "vid": "vupload_14443449"
+            },
+            {
+                "aid": 934352933,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1wM4y1P7ts",
+                "cid": 14443450,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/02a8ddf27ab04ed5483c40f537d9605cf2d59fe2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9769,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9769",
+                "long_title": "代价",
+                "pub_time": 1487720687,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第12话 代价",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9769",
+                "short_link": "https://b23.tv/ep9769",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 207,
+                        "start": 117
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "12",
+                "vid": "vupload_14443450"
+            },
+            {
+                "aid": 506805731,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vg411N7i5",
+                "cid": 14443451,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f2908d0d6a83b37631f2da3ad520b2c0d2ca0594.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 9768,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9768",
+                "long_title": "宿缘",
+                "pub_time": 1487740920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第一季》第13话 宿缘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9768",
+                "short_link": "https://b23.tv/ep9768",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 182,
+                        "start": 92
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1194.3万次",
+                "title": "13",
+                "vid": "vupload_14443451"
+            }
+        ],
+        "evaluate": "五年前，大冢村一夜之间瘟疫流行，周围的村庄为了防止疫病蔓延，一把火烧毁了整个大冢村。大冢村的三个孩子，犬冢信乃、犬川庄介以及滨路得以幸存。三人被教会收养，并在别的村庄中过着平静的生活。而在大冢村事件中获得了特殊的能力的信乃和庄介，则一直不明原因地被帝国教会总部寻找。大冢村事件发生的五年后，终于寻觅到信乃与庄介踪迹的教会总部，为了引诱两人来帝都，竟然带走了滨路……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md528/",
+        "media_id": 528,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 9768,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 17506,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-01-05 00:00:00",
+            "pub_time_show": "2013年01月05日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2796,
+            "score": 9.7
+        },
+        "record": "登记号：10417060205522607",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 528,
+        "season_title": "八犬传 -东方八犬异闻- 第一季",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3a3ff8f00d46761aaef22cc8ae4834086ce57632.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 528,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f2908d0d6a83b37631f2da3ad520b2c0d2ca0594.jpg",
+                    "id": 9768,
+                    "index_show": "全13话"
+                },
+                "season_id": 528,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 710444,
+                    "series_follow": 775424,
+                    "views": 11943021
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7329a30f1fafadaa81a682fbf267403f35952d95.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 529,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                    "id": 9781,
+                    "index_show": "全13话"
+                },
+                "season_id": 529,
+                "season_title": " 第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 374655,
+                    "series_follow": 775424,
+                    "views": 7412899
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 315,
+            "series_title": "八犬传-东方八犬异闻-"
+        },
+        "share_copy": "《八犬传 -东方八犬异闻- 第一季》大正风除魔冒险佳作",
+        "share_sub_title": "大正风除魔冒险佳作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss528",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a3274e4df84be097df4a23cf66895cc6e88fdf2e.jpg",
+        "stat": {
+            "coins": 20964,
+            "danmakus": 270139,
+            "favorite": 9444,
+            "favorites": 710444,
+            "likes": 52419,
+            "reply": 5589,
+            "share": 7620,
+            "views": 11943021
+        },
+        "status": 2,
+        "subtitle": "已观看1194.3万次",
+        "title": "八犬传 -东方八犬异闻- 第一季",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

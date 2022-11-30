@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/b4f434a5bc79b094a26aae7dfafef42dca7c1277.jpg",
+        "episodes": [
+            {
+                "aid": 926728694,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yT4y157DT",
+                "cid": 270756633,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335892,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335892",
+                "long_title": "",
+                "pub_time": 1597805460,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第01话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335892",
+                "short_link": "https://b23.tv/ep335892",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 268,
+                        "start": 177
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看183.3万次",
+                "title": "01",
+                "vid": ""
+            },
+            {
+                "aid": 584229532,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1e64y1c7TH",
+                "cid": 270757088,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335893,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335893",
+                "long_title": "",
+                "pub_time": 1597805520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第02话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335893",
+                "short_link": "https://b23.tv/ep335893",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 105,
+                        "start": 15
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "02",
+                "vid": ""
+            },
+            {
+                "aid": 926691125,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rT4y157kP",
+                "cid": 270757471,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335894,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335894",
+                "long_title": "",
+                "pub_time": 1597805580,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第03话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335894",
+                "short_link": "https://b23.tv/ep335894",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 139,
+                        "start": 48
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "03",
+                "vid": ""
+            },
+            {
+                "aid": 584164387,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1V64y1c75F",
+                "cid": 270757935,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335895,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335895",
+                "long_title": "",
+                "pub_time": 1597805880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第04话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335895",
+                "short_link": "https://b23.tv/ep335895",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 46
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "04",
+                "vid": ""
+            },
+            {
+                "aid": 371731286,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LZ4y1K78L",
+                "cid": 270758178,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335896,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335896",
+                "long_title": "",
+                "pub_time": 1597805940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第05话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335896",
+                "short_link": "https://b23.tv/ep335896",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 42
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "05",
+                "vid": ""
+            },
+            {
+                "aid": 584216758,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1J64y1c7vH",
+                "cid": 270758414,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335897,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335897",
+                "long_title": "",
+                "pub_time": 1597806000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第06话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335897",
+                "short_link": "https://b23.tv/ep335897",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 105,
+                        "start": 15
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "06",
+                "vid": ""
+            },
+            {
+                "aid": 244198390,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wv411i7Ef",
+                "cid": 270758688,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335898,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335898",
+                "long_title": "",
+                "pub_time": 1597806060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第07话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335898",
+                "short_link": "https://b23.tv/ep335898",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 123,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "07",
+                "vid": ""
+            },
+            {
+                "aid": 796637425,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xC4y187f9",
+                "cid": 270758888,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335899,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335899",
+                "long_title": "",
+                "pub_time": 1597806120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第08话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335899",
+                "short_link": "https://b23.tv/ep335899",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 34
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "08",
+                "vid": ""
+            },
+            {
+                "aid": 754176791,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ck4y1U72m",
+                "cid": 270759103,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335900,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335900",
+                "long_title": "",
+                "pub_time": 1597806240,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第09话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335900",
+                "short_link": "https://b23.tv/ep335900",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "09",
+                "vid": ""
+            },
+            {
+                "aid": 841674129,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1n54y1i7ZE",
+                "cid": 270759419,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335902,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335902",
+                "long_title": "",
+                "pub_time": 1597806360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335902",
+                "short_link": "https://b23.tv/ep335902",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 227,
+                        "start": 136
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 414238560,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15V411U7LR",
+                "cid": 270759943,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335903,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335903",
+                "long_title": "",
+                "pub_time": 1597806480,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335903",
+                "short_link": "https://b23.tv/ep335903",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 414203153,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GV411U77s",
+                "cid": 270760295,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335904,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335904",
+                "long_title": "",
+                "pub_time": 1597806540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335904",
+                "short_link": "https://b23.tv/ep335904",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 414210051,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NV411U7Vg",
+                "cid": 270760528,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335905,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335905",
+                "long_title": "",
+                "pub_time": 1597806594,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第13话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335905",
+                "short_link": "https://b23.tv/ep335905",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 499240782,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18K411T7it",
+                "cid": 270760755,
+                "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 335906,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335906",
+                "long_title": "",
+                "pub_time": 1597806600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔术士欧菲流浪之旅》第14话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335906",
+                "short_link": "https://b23.tv/ep335906",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看183.3万次",
+                "title": "14",
+                "vid": ""
+            }
+        ],
+        "evaluate": "生活在大陆最高级的魔术士养成机关“牙之塔”的奇利男谢洛，是在大陆最强魔术士·查尔德曼的教导下修行学习，并继承了他所有战斗技术和暗杀技术的被称为“钢之继承者”的精英魔术士。\n为了寻找在某次实验中变成了异形姿态的义姐·阿莎莉，离开了“牙之塔”的奇利男谢洛舍弃了过去，改名为欧菲，在多多坎达市做着非法放贷的营生。他在那里遇到了不请自来的大小姐克丽奥以及少年弟子马吉克，并与他们一起踏上了拯救阿莎莉的旅程。\n与此同时，欧菲遇见了前来讨伐阿莎莉的曾经的师父·查尔德曼与哈帝亚、可米库隆等过去的同伴们，种种思绪交错过后，欧菲还是决定走上自己选择的道路。\n欧菲一行人穿越了芬里尔之森，赶往塔弗雷姆。终于，他们抵达了欧菲曾经修行的地方“牙之塔”所在的城市。在那里等待着欧菲他们的是，超乎想象的强大敌人。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224146/",
+        "media_id": 28224146,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全14话",
+            "id": 335906,
+            "is_new": 0,
+            "title": "14"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 39392,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-07 00:00:01",
+            "pub_time_show": "2020年1月7日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 583,
+            "score": 6.5
+        },
+        "record": "登记号：10417060206012207",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29367,
+        "season_title": "魔术士欧菲流浪之旅",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b4f434a5bc79b094a26aae7dfafef42dca7c1277.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224146,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/05d27534aa591e162683f110374567bff8f98e76.jpg",
+                    "id": 335906,
+                    "index_show": "全14话"
+                },
+                "season_id": 29367,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 105034,
+                    "series_follow": 358544,
+                    "views": 1833265
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3fa7b5f039bad7fb097d4fd7446edf0a108e0faf.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231927,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a39256a9fd7647590f5a520b60423e92f4340d6c.jpg",
+                    "id": 374035,
+                    "index_show": "全11话"
+                },
+                "season_id": 36284,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 304288,
+                    "series_follow": 358544,
+                    "views": 2749768
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4783,
+            "series_title": "魔术士欧菲流浪之旅"
+        },
+        "share_copy": "《魔术士欧菲流浪之旅》音声魔法的奇幻战斗",
+        "share_sub_title": "音声魔法的奇幻战斗",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29367",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/19720b21a21385f31c55fef50a2fa00386529950.jpg",
+        "stat": {
+            "coins": 2029,
+            "danmakus": 4910,
+            "favorite": 889,
+            "favorites": 105034,
+            "likes": 11746,
+            "reply": 1086,
+            "share": 251,
+            "views": 1833265
+        },
+        "status": 13,
+        "subtitle": "已观看183.3万次",
+        "title": "魔术士欧菲流浪之旅",
+        "total": 14,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859947,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

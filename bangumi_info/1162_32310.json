@@ -1,0 +1,745 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "http://i0.hdslb.com/bfs/bangumi/fe895ac0668d9d3546f23cef4605163957693fb7.jpg",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/54e768711991fa7bf27d703b6141ab4b3e62f49e.jpg",
+        "episodes": [
+            {
+                "aid": 82453021,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LJ411572s",
+                "cid": 141076245,
+                "cover": "http://i0.hdslb.com/bfs/archive/ee2be93f589e94a3b245743eed5dca56c91f9dc7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5621000,
+                "from": "bangumi",
+                "id": 311622,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep311622?theme=movie",
+                "long_title": "",
+                "pub_time": 1579860000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《龙珠Z：复活的弗利萨》宇宙大魔王归来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep311622",
+                "short_link": "https://b23.tv/ep311622",
+                "status": 13,
+                "subtitle": "已观看628.5万次",
+                "title": "原版",
+                "vid": ""
+            },
+            {
+                "aid": 82451383,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15J41157Fn",
+                "cid": 141073647,
+                "cover": "http://i0.hdslb.com/bfs/archive/06b273f5921e36914cdcf95052558f48df9489d6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5621000,
+                "from": "bangumi",
+                "id": 311623,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep311623?theme=movie",
+                "long_title": "",
+                "pub_time": 1579860000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《龙珠Z：复活的弗利萨》宇宙大魔王归来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep311623",
+                "short_link": "https://b23.tv/ep311623",
+                "status": 13,
+                "subtitle": "已观看628.5万次",
+                "title": "中文",
+                "vid": ""
+            }
+        ],
+        "evaluate": "许多年前，宇宙最大魔王弗利萨接连败在超级赛亚人之手，他的残党欲孽则流浪宇宙之中寻找那美克星人的新定居点，以期将弗利萨再度复活。几经周折，军队代理索尔贝利用地球的龙珠把弗利萨带回人间，而这个刚刚复活不久的魔王很快展开了他的复仇计划。半年之后，浩浩荡荡的弗利萨大军降临地球，悟饭、比克大魔王、克林、天津饭、武天老师挺身而出，而孙悟空和贝吉塔则正跟随维斯在遥远的宇宙深处接受试炼。\n危机时刻，地球被入侵的消息终于传到维斯和比鲁斯那里，悟空、贝吉塔即将与他们宿命中的冤家再度展开对决……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28227516/",
+        "media_id": 28227516,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2016年10月21日上映",
+            "id": 311623,
+            "is_new": 0,
+            "title": "中文"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 42498,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-24 18:00:00",
+            "pub_time_show": "2020年01月24日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2188,
+            "score": 7.9
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 32310,
+        "season_title": "龙珠Z：复活的弗利萨",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/54e768711991fa7bf27d703b6141ab4b3e62f49e.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/0627bacf6e05515edc2c45dfb7005d38b39826ef.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/74e9847df5ed7a5c08fb53b4f5fb5830d65e5841.png",
+                "media_id": 28227516,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/06b273f5921e36914cdcf95052558f48df9489d6.jpg",
+                    "id": 311623,
+                    "index_show": "2016-10-21上映"
+                },
+                "season_id": 32310,
+                "season_title": "龙珠Z：复活的弗利萨",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 270190,
+                    "series_follow": 270190,
+                    "views": 6285284
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 983055330,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Bt4y1t7UW",
+                        "cid": 764079298,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_65c2261c182a40209baf43591dea8bb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567060,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567060?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656982428,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567060",
+                        "short_link": "https://b23.tv/ep567060",
+                        "stat": {
+                            "coin": 8,
+                            "danmakus": 9,
+                            "likes": 91,
+                            "play": 4333,
+                            "reply": 6
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 940548329,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1TW4y167JF",
+                        "cid": 764079506,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_606eba331c4847d5abf565476d434eb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567065,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567065?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656982488,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567065",
+                        "short_link": "https://b23.tv/ep567065",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 2,
+                            "likes": 7,
+                            "play": 1377,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 770518780,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Xr4y1M7Hx",
+                        "cid": 764079435,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_d942e2598c544af68fa0f7ff529750b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567071,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567071?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656982522,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567071",
+                        "short_link": "https://b23.tv/ep567071",
+                        "stat": {
+                            "coin": 1,
+                            "danmakus": 6,
+                            "likes": 134,
+                            "play": 3704,
+                            "reply": 4
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 343115076,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1f94y1R7ef",
+                        "cid": 764079004,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_487dbfe5576d41fcadb8e1f1c29484b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567072,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567072?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1656982536,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567072",
+                        "short_link": "https://b23.tv/ep567072",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 10,
+                            "likes": 232,
+                            "play": 5835,
+                            "reply": 12
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 728116913,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1SS4y1n71Q",
+                        "cid": 764081225,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_06ffa1cd21214b799ef049865e441bb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 567093,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep567093?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1656982786,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep567093",
+                        "short_link": "https://b23.tv/ep567093",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 3,
+                            "likes": 75,
+                            "play": 2381,
+                            "reply": 3
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 855463849,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HL4y1w79p",
+                        "cid": 760826398,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_03e69060514749bd877e991d5bb5beb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 541779,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep541779?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656658069,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep541779",
+                        "short_link": "https://b23.tv/ep541779",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 6,
+                            "play": 1100,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 600435961,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1PB4y1W7DS",
+                        "cid": 760827723,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_f62d5d96d2824e5ea307179ddf8783b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 541849,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep541849?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656658434,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep541849",
+                        "short_link": "https://b23.tv/ep541849",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 602,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 512887900,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1v3411w7no",
+                        "cid": 760831884,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_40ed95f124774907981b2049f29d9db_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 541865,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep541865?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656658548,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep541865",
+                        "short_link": "https://b23.tv/ep541865",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 510,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 385396821,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1JZ4y1e7Hs",
+                        "cid": 760849044,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_bbd04e181595418ca216b6fc69aefeb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 542023,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep542023?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1656659601,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep542023",
+                        "short_link": "https://b23.tv/ep542023",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 7,
+                            "play": 903,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 427907055,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1UG411s7iC",
+                        "cid": 760835835,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_840d3692cd224dff9185df11b9dfd8b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 542034,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep542034?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1656659695,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《龙珠Z：复活的弗利萨》龙珠Z：复活的弗利萨 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep542034",
+                        "short_link": "https://b23.tv/ep542034",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 795,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看628.5万次",
+                        "title": "龙珠Z：复活的弗利萨",
+                        "vid": ""
+                    }
+                ],
+                "id": 80719,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4841,
+            "series_title": "龙珠 剧场版"
+        },
+        "share_copy": "《龙珠Z：复活的弗利萨》宇宙大魔王归来",
+        "share_sub_title": "宇宙大魔王归来",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss32310",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/50e25b9c5b56f2b8ecfcea563ac1bbe5848b74e2.jpg",
+        "stat": {
+            "coins": 10768,
+            "danmakus": 57661,
+            "favorite": 2538,
+            "favorites": 270190,
+            "likes": 31601,
+            "reply": 6108,
+            "share": 4009,
+            "views": 6285284
+        },
+        "status": 13,
+        "subtitle": "已观看628.5万次",
+        "title": "龙珠Z：复活的弗利萨",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815764,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

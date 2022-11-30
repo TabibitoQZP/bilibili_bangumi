@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5355e44d9c94715ff92c34088483215411ea0825.png",
+        "episodes": [
+            {
+                "aid": 507902952,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13u411U7Ux",
+                "cid": 477090302,
+                "cover": "http://i0.hdslb.com/bfs/archive/14a64e61caacd72c4d4ddf64d9d72ad957cd6fc9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1271000,
+                "from": "bangumi",
+                "id": 450031,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450031",
+                "long_title": "漆黑降临",
+                "pub_time": 1641736800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第1话 漆黑降临",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450031",
+                "short_link": "https://b23.tv/ep450031",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看113.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 893019393,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zP4y1E7iq",
+                "cid": 481430613,
+                "cover": "http://i0.hdslb.com/bfs/archive/f276338303322d49209fe57a8b5e0e1477a8ad75.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1292000,
+                "from": "bangumi",
+                "id": 450032,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450032",
+                "long_title": "赤橙的誓言",
+                "pub_time": 1642341600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第2话 赤橙的誓言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450032",
+                "short_link": "https://b23.tv/ep450032",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 678305605,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mm4y1S781",
+                "cid": 487773642,
+                "cover": "http://i0.hdslb.com/bfs/archive/ccef182307ed88fac0e6e346b60af72087b451a1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1296000,
+                "from": "bangumi",
+                "id": 450033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450033",
+                "long_title": "铁绀的记忆",
+                "pub_time": 1642946400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第3话 铁绀的记忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450033",
+                "short_link": "https://b23.tv/ep450033",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 466049413,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iL411F7oG",
+                "cid": 494525900,
+                "cover": "http://i0.hdslb.com/bfs/archive/198d66ee26e38fe078cbaae735f718ab07f20526.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1296000,
+                "from": "bangumi",
+                "id": 450034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450034",
+                "long_title": "栀子色的灯",
+                "pub_time": 1643551200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第4话 栀子色的灯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450034",
+                "short_link": "https://b23.tv/ep450034",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 678810270,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zm4y1o7L6",
+                "cid": 500850517,
+                "cover": "http://i0.hdslb.com/bfs/archive/5126051c0d262cc7c670323b19a3df80437042ed.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1296000,
+                "from": "bangumi",
+                "id": 450035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450035",
+                "long_title": "钝色的遗言",
+                "pub_time": 1644156000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第5话 钝色的遗言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450035",
+                "short_link": "https://b23.tv/ep450035",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 254097766,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16Y411V7tt",
+                "cid": 507597724,
+                "cover": "http://i0.hdslb.com/bfs/archive/fab398a385b4520be8a5968911af55a64d8e69c4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1279000,
+                "from": "bangumi",
+                "id": 450036,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep450036",
+                "long_title": "黑红的邂逅",
+                "pub_time": 1644760800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第6话 黑红的邂逅",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep450036",
+                "short_link": "https://b23.tv/ep450036",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 424015166,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1334117776",
+                "cid": 511084576,
+                "cover": "http://i0.hdslb.com/bfs/archive/26f4ac64b962bde2c64a0c5c90ae8fb421669fb1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1301000,
+                "from": "bangumi",
+                "id": 465709,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465709",
+                "long_title": "鸦羽色的试炼",
+                "pub_time": 1645365600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第7话 鸦羽色的试炼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465709",
+                "short_link": "https://b23.tv/ep465709",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 679343224,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Em4y1R7si",
+                "cid": 516571192,
+                "cover": "http://i0.hdslb.com/bfs/archive/9318ac5be96e7f33e945789144a69f8db0029b4f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1301000,
+                "from": "bangumi",
+                "id": 465710,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465710",
+                "long_title": "薄樱的祈愿",
+                "pub_time": 1645970400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第8话 薄樱的祈愿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465710",
+                "short_link": "https://b23.tv/ep465710",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 254588828,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SY411g778",
+                "cid": 542790268,
+                "cover": "http://i0.hdslb.com/bfs/archive/b3cad5683d11ecac5f8fb77cb34269d477032db8.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1301000,
+                "from": "bangumi",
+                "id": 465711,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465711",
+                "long_title": "朱华的逆心",
+                "pub_time": 1646575200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第9话 朱华的逆心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465711",
+                "short_link": "https://b23.tv/ep465711",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 552200042,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hi4y1C7wk",
+                "cid": 548289059,
+                "cover": "http://i0.hdslb.com/bfs/archive/0283fc2ac763f72167987d65b0fd59c47d8f8c9a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1301000,
+                "from": "bangumi",
+                "id": 468709,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep468709",
+                "long_title": "绯色的决心",
+                "pub_time": 1647180000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第10话 绯色的决心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep468709",
+                "short_link": "https://b23.tv/ep468709",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 254993200,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UY411n7FU",
+                "cid": 553983708,
+                "cover": "http://i0.hdslb.com/bfs/archive/fbec140f1f2fd9997935415aaac89adff049826f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1290000,
+                "from": "bangumi",
+                "id": 468710,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep468710",
+                "long_title": "灭紫的愿望",
+                "pub_time": 1647784800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第11话 灭紫的愿望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep468710",
+                "short_link": "https://b23.tv/ep468710",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 297654999,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16F411W7VK",
+                "cid": 559974950,
+                "cover": "http://i0.hdslb.com/bfs/archive/99ed774aab19970fcb52b311202ff017328dd610.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1301000,
+                "from": "bangumi",
+                "id": 468711,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep468711",
+                "long_title": "锈色铠武",
+                "pub_time": 1648389601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《锈色铠甲 黎明》第12话 锈色铠武",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep468711",
+                "short_link": "https://b23.tv/ep468711",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看113.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "由于漫长的战乱，室町幕府日渐式微\n世界进入了崇尚血债血偿的战国时代\n山海秘境，纪之国\n这片茂密的森林深处，有一个以八咫乌为军旗纹章的枪炮集团。\n他们以佣兵为业，驰骋沙场，其名为“杂贺众”。\n继承杂贺众首领名号的人名为孙一，是一名从异国漂流至此的青年。\n而另一边，最早察觉欧洲列强侵略意图的三郎，则为了守护日本而四处奔走。\n原本毫无交集的两人随着异国侵略者的袭击而产生了联系。\n这群身处战国时代的男人会如何贯彻自己的信念与正义。他们的故事正式开幕——！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235962/",
+        "media_id": 28235962,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 468711,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 63495,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-09 22:00:00",
+            "pub_time_show": "01月09日22:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 824,
+            "score": 3.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40258,
+        "season_title": "锈色铠甲 黎明",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5355e44d9c94715ff92c34088483215411ea0825.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/0ba66d300222ea77db2f3d654b6f094b139a3504.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/940d4b03f578cbeea4cb2b88e640599042086540.png",
+                "media_id": 28235962,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/99ed774aab19970fcb52b311202ff017328dd610.png",
+                    "id": 468711,
+                    "index_show": "全12话"
+                },
+                "season_id": 40258,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 118832,
+                    "series_follow": 118832,
+                    "views": 1137268
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 677548002,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Em4y1972a",
+                        "cid": 467116035,
+                        "cover": "http://i0.hdslb.com/bfs/archive/20ccd5f9a4240479d838d5e62ebc1f68889c3b21.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 31000,
+                        "from": "bangumi",
+                        "id": 449865,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep449865",
+                        "long_title": "",
+                        "pub_time": 1640267400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《锈色铠甲 黎明》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep449865",
+                        "short_link": "https://b23.tv/ep449865",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 44,
+                            "danmakus": 32,
+                            "likes": 571,
+                            "play": 168030,
+                            "reply": 155
+                        },
+                        "status": 2,
+                        "subtitle": "已观看113.7万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 63981,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5877,
+            "series_title": "锈色铠甲 黎明"
+        },
+        "share_copy": "《锈色铠甲 黎明》反向2.5次元舞台",
+        "share_sub_title": "反向2.5次元舞台",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40258",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/840c4179155efa3db0af7f7f3bccf16c2a5b8056.png",
+        "stat": {
+            "coins": 933,
+            "danmakus": 1559,
+            "favorite": 333,
+            "favorites": 118832,
+            "likes": 34683,
+            "reply": 1654,
+            "share": 639,
+            "views": 1137268
+        },
+        "status": 13,
+        "subtitle": "已观看113.7万次",
+        "title": "锈色铠甲 黎明",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859947,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

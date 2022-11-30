@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/177b0784b271b1bc517b9606adfc6ee6f1e430cf.jpg",
+        "episodes": [
+            {
+                "aid": 8014773,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ts411h7Kp",
+                "cid": 13169486,
+                "cover": "http://i2.hdslb.com/bfs/archive/5dab58bae29d2bd3c0330feef9fdf90d1b487ad8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 769000,
+                "from": "bangumi",
+                "id": 100722,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100722",
+                "long_title": "神明、幸福美满",
+                "pub_time": 1484448045,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《元气少女缘结神 新婚篇》第1话 神明、幸福美满",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100722",
+                "short_link": "https://b23.tv/ep100722",
+                "skip": {
+                    "ed": {
+                        "end": 768,
+                        "start": 713
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1172万次",
+                "title": "1",
+                "vid": "vupload_13169486"
+            }
+        ],
+        "evaluate": "描写了高中毕业和御影神社毕业临近，向着各自道路前进的奈奈生，巴卫，瑞稀、鞍马的最后时光",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5882/",
+        "media_id": 5882,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 100722,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22799,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-12-20 00:00:01",
+            "pub_time_show": "2016年12月20日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3730,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5882,
+        "season_title": "元气少女缘结神 新婚篇",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2b1aa93137e60ffc61d2376b9aba49def796149b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1523,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/96b8d176de9f448cf63adcae6bf9bde22bd4ef82.jpg",
+                    "id": 28659,
+                    "index_show": "全12话"
+                },
+                "season_id": 1523,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2897276,
+                    "series_follow": 3140099,
+                    "views": 50797216
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/177b0784b271b1bc517b9606adfc6ee6f1e430cf.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5882,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/5dab58bae29d2bd3c0330feef9fdf90d1b487ad8.jpg",
+                    "id": 100722,
+                    "index_show": "全1话"
+                },
+                "season_id": 5882,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 748218,
+                    "series_follow": 3140099,
+                    "views": 11720179
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1045,
+            "series_title": "元气少女缘结神"
+        },
+        "share_copy": "《元气少女缘结神 新婚篇》啊~老夫的少女心",
+        "share_sub_title": "啊~老夫的少女心",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5882",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b0147ca076f5c9f10714d1204551355d81986645.jpg",
+        "stat": {
+            "coins": 89642,
+            "danmakus": 144863,
+            "favorite": 10046,
+            "favorites": 748218,
+            "likes": 49702,
+            "reply": 13354,
+            "share": 16883,
+            "views": 11720179
+        },
+        "status": 2,
+        "subtitle": "已观看1172万次",
+        "title": "元气少女缘结神 新婚篇",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

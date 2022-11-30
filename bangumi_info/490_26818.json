@@ -1,0 +1,827 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a3b2db2edeeac4fb51446724458cf93fe46d2797.jpg",
+        "episodes": [
+            {
+                "aid": 48394822,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ub411g7zH",
+                "cid": 84763740,
+                "cover": "http://i0.hdslb.com/bfs/archive/0c1d717b9274fc81de9155891812e1790a99e707.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 267811,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267811",
+                "long_title": "初次的告白",
+                "pub_time": 1554490500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第1话 初次的告白",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267811",
+                "short_link": "https://b23.tv/ep267811",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1795.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 49082084,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15b411K78N",
+                "cid": 93560253,
+                "cover": "http://i0.hdslb.com/bfs/archive/92f1a7138062705abef91a9aac4e8642e2eaaa38.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1405000,
+                "from": "bangumi",
+                "id": 267812,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267812",
+                "long_title": "其实是谢谢你的",
+                "pub_time": 1555096200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第2话 其实是谢谢你的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267812",
+                "short_link": "https://b23.tv/ep267812",
+                "skip": {
+                    "ed": {
+                        "end": 1398,
+                        "start": 1309
+                    },
+                    "op": {
+                        "end": 192,
+                        "start": 103
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 49822818,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19b411G7HT",
+                "cid": 87234809,
+                "cover": "http://i0.hdslb.com/bfs/archive/36671c91b0c17ea674c68642a040e2e378a1b5da.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 267813,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267813",
+                "long_title": "感到白忙一场",
+                "pub_time": 1555700100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第3话 感到白忙一场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267813",
+                "short_link": "https://b23.tv/ep267813",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 76
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 50552023,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1n4411h79q",
+                "cid": 88504128,
+                "cover": "http://i0.hdslb.com/bfs/archive/3ddcd855cf1e249d25de3bcff95b230b13bfffb7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 267814,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267814",
+                "long_title": "成为弟子",
+                "pub_time": 1556304900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第4话 成为弟子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267814",
+                "short_link": "https://b23.tv/ep267814",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 240,
+                        "start": 150
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 51321427,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1s441147bY",
+                "cid": 89839609,
+                "cover": "http://i0.hdslb.com/bfs/archive/8892f6db9b64c690df3fbf8c592fab0164f82d8e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 267815,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267815",
+                "long_title": "阿鲁阿鲁有的没的",
+                "pub_time": 1556909700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第5话 阿鲁阿鲁有的没的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267815",
+                "short_link": "https://b23.tv/ep267815",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1342
+                    },
+                    "op": {
+                        "end": 194,
+                        "start": 105
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 52040382,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1U4411Y7Vo",
+                "cid": 91105416,
+                "cover": "http://i0.hdslb.com/bfs/archive/32e39d7708c592ce697051366675989562989e46.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 267816,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267816",
+                "long_title": "用五七五夏季到来",
+                "pub_time": 1557514500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第6话 用五七五夏季到来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267816",
+                "short_link": "https://b23.tv/ep267816",
+                "skip": {
+                    "ed": {
+                        "end": 1431,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 194,
+                        "start": 105
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 52743562,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1W441177yL",
+                "cid": 93560513,
+                "cover": "http://i0.hdslb.com/bfs/archive/39dab1b4e43737f0c8f3605d406420b8bb3ad14c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1434000,
+                "from": "bangumi",
+                "id": 267817,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267817",
+                "long_title": "温柔的泪水",
+                "pub_time": 1558119300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第7话 温柔的泪水",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267817",
+                "short_link": "https://b23.tv/ep267817",
+                "skip": {
+                    "ed": {
+                        "end": 1427,
+                        "start": 1338
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 53461192,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1y4411L7uN",
+                "cid": 93530748,
+                "cover": "http://i0.hdslb.com/bfs/archive/b7600248f19fa9cb15c0a4ebd3cf66fe17afe904.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 267818,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267818",
+                "long_title": "从外面欢迎回家",
+                "pub_time": 1558724100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第8话 从外面欢迎回家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267818",
+                "short_link": "https://b23.tv/ep267818",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 54
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 54073326,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1C4411H7Ku",
+                "cid": 94594598,
+                "cover": "http://i0.hdslb.com/bfs/archive/e673f7334f6f86fd1e1c81093593672a36ac011b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 267819,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267819",
+                "long_title": "绝妙的咖喱烤薄饼",
+                "pub_time": 1559328900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第9话 绝妙的咖喱烤薄饼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267819",
+                "short_link": "https://b23.tv/ep267819",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 54837342,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV164411K7gR",
+                "cid": 95910734,
+                "cover": "http://i0.hdslb.com/bfs/archive/2cc41bff98f8f52307844e788413adeac35c1f4c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 267820,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267820",
+                "long_title": "第一次被说的",
+                "pub_time": 1559933700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第10话 第一次被说的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267820",
+                "short_link": "https://b23.tv/ep267820",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 55549901,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1N4411N7MC",
+                "cid": 97123491,
+                "cover": "http://i0.hdslb.com/bfs/archive/6fc73fd3505f6d2e6e8c93ce6e9e6a58edbaa5fa.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 267821,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267821",
+                "long_title": "从按手机到噗哩噗哩",
+                "pub_time": 1560538500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第11话 从按手机到噗哩噗哩",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267821",
+                "short_link": "https://b23.tv/ep267821",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 249,
+                        "start": 160
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 56339071,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1S441137Lz",
+                "cid": 98457481,
+                "cover": "http://i0.hdslb.com/bfs/archive/5245537760cef58a5555f0ebd7332b2b9ebc1e13.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 267822,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep267822",
+                "long_title": "说不定的话一定",
+                "pub_time": 1561143300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《一个人的〇〇小日子》第12话 说不定的话一定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep267822",
+                "short_link": "https://b23.tv/ep267822",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 221,
+                        "start": 131
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1795.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "极度怕生的少女一里波知，在小学时就只有一位朋友，就是这仅有的一位朋友，和波知定下了约定「波知要在中学毕业前和全班同学成为朋友」如果做不到的话就和波知绝交？！但是，一紧张就迈不开步子，无法面对他人视线的波知，做不到主动和人谈话。在之前，甚至连交朋友的方法都不知道，波知的交友作战总是伴随着小小的意外和失败，她真的能够成功交到朋友吗。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md23200609/",
+        "media_id": 23200609,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 267822,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 36335,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-04-06 02:55:00",
+            "pub_time_show": "2019年04月06日02:55",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 8218,
+            "score": 9.6
+        },
+        "record": "登记号：10417060203462303",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 1194,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26818,
+        "season_title": "一个人的〇〇小日子",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a3b2db2edeeac4fb51446724458cf93fe46d2797.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 23200609,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5245537760cef58a5555f0ebd7332b2b9ebc1e13.jpg",
+                    "id": 267822,
+                    "index_show": "全12话"
+                },
+                "season_id": 26818,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1102119,
+                    "series_follow": 1102119,
+                    "views": 17957095
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 46920954,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Hb411J7df",
+                        "cid": 82182944,
+                        "cover": "http://i0.hdslb.com/bfs/archive/bbb7d73e4307e05eda49d029977808a5f2acc753.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 112356,
+                        "from": "bangumi",
+                        "id": 265600,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep265600",
+                        "long_title": "",
+                        "pub_time": 1553165961,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《一个人的〇〇小日子》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep265600",
+                        "short_link": "https://b23.tv/ep265600",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1085,
+                            "danmakus": 330,
+                            "likes": 499,
+                            "play": 445825,
+                            "reply": 1194
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1795.7万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 36339,
+                "title": "预告",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4364,
+            "series_title": "一个人的〇〇小日子"
+        },
+        "share_copy": "《一个人的〇〇小日子》想和大家成为朋友",
+        "share_sub_title": "想和大家成为朋友",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26818",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/03ff5d139507c641a5be2a04686614d2c821e971.jpg",
+        "stat": {
+            "coins": 94016,
+            "danmakus": 264290,
+            "favorite": 7904,
+            "favorites": 1102119,
+            "likes": 117236,
+            "reply": 26996,
+            "share": 13743,
+            "views": 17957098
+        },
+        "status": 13,
+        "subtitle": "已观看1795.7万次",
+        "title": "一个人的〇〇小日子",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

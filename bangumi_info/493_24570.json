@@ -1,0 +1,940 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/0342f8915854f6ee18869137b0361d3b70d9f9da.png",
+        "episodes": [
+            {
+                "aid": 26615279,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1us411H7Vd",
+                "cid": 47872481,
+                "cover": "http://i0.hdslb.com/bfs/archive/cfe723be55d39c24739befdb9ff0682dfb7ccf63.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232261,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232261",
+                "long_title": "萌芽的出发起跳！",
+                "pub_time": 1531323000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第1话 萌芽的出发起跳！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232261",
+                "short_link": "https://b23.tv/ep232261",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1332
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1818.3万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 27163705,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss411E7RS",
+                "cid": 46815641,
+                "cover": "http://i0.hdslb.com/bfs/archive/69b2bf1488c78bba1483c29568ab5f7e1b504a12.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232262,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232262",
+                "long_title": "流星的承诺！",
+                "pub_time": 1531927800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第2话 流星的承诺！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232262",
+                "short_link": "https://b23.tv/ep232262",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 27711572,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ts411N75a",
+                "cid": 47833523,
+                "cover": "http://i0.hdslb.com/bfs/archive/c9412c7d5b1a62bcbf485945dbfd9cf9493864e4.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232263,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232263",
+                "long_title": "异国的握拳游！",
+                "pub_time": 1532532600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第3话 异国的握拳游！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232263",
+                "short_link": "https://b23.tv/ep232263",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 61
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 28275862,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411w7DU",
+                "cid": 48887006,
+                "cover": "http://i0.hdslb.com/bfs/archive/caf311f82ddb1ed35c349bb79b166d877c64c4ca.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232264,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232264",
+                "long_title": "丧失的妨碍！",
+                "pub_time": 1533137400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第4话 丧失的妨碍！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232264",
+                "short_link": "https://b23.tv/ep232264",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 28859679,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Es411M7KY",
+                "cid": 50023672,
+                "cover": "http://i0.hdslb.com/bfs/archive/82c9416c30d0f9fc102fd2bccff854cc6973dc3b.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232265,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232265",
+                "long_title": "预兆的体能训练！",
+                "pub_time": 1533742200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第5话 预兆的体能训练！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232265",
+                "short_link": "https://b23.tv/ep232265",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 29441740,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1JW411R7zW",
+                "cid": 51185508,
+                "cover": "http://i0.hdslb.com/bfs/archive/e16986314dfe8c1379d6e8dbb5961fd6dc70c385.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232266,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232266",
+                "long_title": "深渊的人鱼",
+                "pub_time": 1534347000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第6话 深渊的人鱼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232266",
+                "short_link": "https://b23.tv/ep232266",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 208,
+                        "start": 119
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 30041490,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XW411Q7ya",
+                "cid": 52460375,
+                "cover": "http://i0.hdslb.com/bfs/archive/38a13bd49d162424e8d776057df35589638547f2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232267,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232267",
+                "long_title": "孤傲的混合泳",
+                "pub_time": 1534951800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第7话 孤傲的混合泳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232267",
+                "short_link": "https://b23.tv/ep232267",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 66
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 30655697,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss411c7Fw",
+                "cid": 53511071,
+                "cover": "http://i0.hdslb.com/bfs/archive/e9f4229f7b76655d41b638ee3cdc687251189e74.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232268,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232268",
+                "long_title": "灵魂的变形！",
+                "pub_time": 1535556600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第8话 灵魂的变形！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232268",
+                "short_link": "https://b23.tv/ep232268",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1318
+                    },
+                    "op": {
+                        "end": 193,
+                        "start": 104
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 31158668,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qW411Z74X",
+                "cid": 54430077,
+                "cover": "http://i0.hdslb.com/bfs/archive/7c10a90fe8e394cd83b7b8caf36733241e3cab4c.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232269,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232269",
+                "long_title": "风平浪静的幕间休息",
+                "pub_time": 1536161400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第9话 风平浪静的幕间休息",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232269",
+                "short_link": "https://b23.tv/ep232269",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 111
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 31594859,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XW411C7eg",
+                "cid": 55247680,
+                "cover": "http://i0.hdslb.com/bfs/archive/89646a0279998ef28cfa18ecc771ac273c50e952.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232270,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232270",
+                "long_title": "希望的抓台出发！",
+                "pub_time": 1536766200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第10话 希望的抓台出发！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232270",
+                "short_link": "https://b23.tv/ep232270",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 161,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 32053713,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QW41167gd",
+                "cid": 56071204,
+                "cover": "http://i0.hdslb.com/bfs/archive/1441c78f6f8fc808bcad36cfe4e13a9dfd30cf75.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232271,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232271",
+                "long_title": "集结的流线体型",
+                "pub_time": 1537371000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第11话 集结的流线体型",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232271",
+                "short_link": "https://b23.tv/ep232271",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 61
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 32530746,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aW411U7j8",
+                "cid": 56921255,
+                "cover": "http://i0.hdslb.com/bfs/archive/5c26238ac26144bd2e7d11ecef4ff59bbfe03c8a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232272,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232272",
+                "long_title": "Dive to the Future！",
+                "pub_time": 1537975800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Free!-Dive to the Future-》第12话 Dive to the Future！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232272",
+                "short_link": "https://b23.tv/ep232272",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1818.3万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "高中毕业，心中留存着通过游泳联系起来的羁绊，\n向着各自的未来迈出步伐的遥等人。\n遥在东京和曾经一起游过接力赛的旭重逢了。\n遥中学时的记忆被唤醒。\n在他的心中苏醒的，是“那时”郁弥的身姿。\n和遥一起上京的真琴，开始向新的梦想迈进，\n而出发前往悉尼的凛，则在新天地迎来了意外的邂逅。\n在他们各自的未来前方等待着的，会是新的挑战吗？\n还是说，是与残存的过去之间的对峙……？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md102232/",
+        "media_id": 102232,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 232272,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 34011,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-07-11 23:30:00",
+            "pub_time_show": "2018年07月11日23:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6504,
+            "score": 9.6
+        },
+        "record": "登记号：10417060206112807",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 341,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 24570,
+        "season_title": "Free!-Dive to the Future-",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/46872e4e59ee0e3e3afc8479ba5a2f6a3c266671.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 120712,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1182fab5f279e75c291fc5a1ee0ce8f32262848f.jpg",
+                    "id": 239642,
+                    "index_show": "全12话"
+                },
+                "season_id": 4394,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1302080,
+                    "series_follow": 2073240,
+                    "views": 18960203
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d044295f382a3f992c0c240e91e17139ce7f6fce.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 124972,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ef8bc5f0c9336320684837857048befcf0c0bed5.png",
+                    "id": 400826,
+                    "index_show": "全13话"
+                },
+                "season_id": 5201,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 506175,
+                    "series_follow": 2073240,
+                    "views": 10938556
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bdaf189cf6f606c4bd5f0db891af99ee2eeb60b6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5239,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d95a5a74dd0e9488d6416e6cd91e290396be3d9d.jpg",
+                    "id": 92886,
+                    "index_show": "全1话"
+                },
+                "season_id": 5239,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 291088,
+                    "series_follow": 2073240,
+                    "views": 862877
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/99baa3fabb97121ba74e5c7b72358aa42df2f1be.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 118152,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3ba34cac5add3927d6b60bf6704cb08c0cd97934.jpg",
+                    "id": 235620,
+                    "index_show": "全1话"
+                },
+                "season_id": 25101,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 141285,
+                    "series_follow": 2073240,
+                    "views": 1536692
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9c399a458ae516e0155f273c493dcafbf488d312.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 114452,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2bcbf50410d128485179e3ed903b0a31b8e90d0d.jpg",
+                    "id": 233310,
+                    "index_show": "全1话"
+                },
+                "season_id": 25001,
+                "season_title": "剧场版3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 173560,
+                    "series_follow": 2073240,
+                    "views": 1350113
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0342f8915854f6ee18869137b0361d3b70d9f9da.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 102232,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5c26238ac26144bd2e7d11ecef4ff59bbfe03c8a.jpg",
+                    "id": 232272,
+                    "index_show": "全12话"
+                },
+                "season_id": 24570,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1088623,
+                    "series_follow": 2073240,
+                    "views": 18183119
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/777e75287b9201b44dea3286d28e149f063e1f4a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228860,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5168f0b53dd81f6e36decac9c6f0f0e930bba986.jpg",
+                    "id": 324899,
+                    "index_show": "全1话"
+                },
+                "season_id": 33457,
+                "season_title": "剧场版4",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1286596,
+                    "series_follow": 2073240,
+                    "views": 1657754
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2ba31569926ce9811c5ac6799a81009ad77ac31d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233711,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0be3636e3acbf229ee0a2968434950a5860e59ba.jpg",
+                    "id": 387268,
+                    "index_show": "全1话"
+                },
+                "season_id": 38031,
+                "season_title": "交响音乐会",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 49367,
+                    "series_follow": 2073240,
+                    "views": 563846
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2532,
+            "series_title": "Free!"
+        },
+        "share_copy": "《Free!-Dive to the Future-》跃进未来！",
+        "share_sub_title": "跃进未来！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss24570",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/18830b0d52ca7d26db4800d665c62976618b4765.jpg",
+        "stat": {
+            "coins": 65854,
+            "danmakus": 433645,
+            "favorite": 6968,
+            "favorites": 1088623,
+            "likes": 121596,
+            "reply": 51314,
+            "share": 7473,
+            "views": 18183119
+        },
+        "status": 13,
+        "subtitle": "已观看1818.3万次",
+        "title": "Free!-Dive to the Future-",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

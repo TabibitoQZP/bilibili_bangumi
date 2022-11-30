@@ -1,0 +1,435 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9841ea48499f02ba626cefe83a5e77e80195738d.png",
+        "episodes": [
+            {
+                "aid": 754723254,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rk4y1k7T3",
+                "cid": 238232808,
+                "cover": "http://i0.hdslb.com/bfs/archive/7b08b5f0317f371c2019c1a7668f95ce24332d22.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 7129000,
+                "from": "bangumi",
+                "id": 340311,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep340311",
+                "long_title": "启程的黎明",
+                "pub_time": 1600947001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《来自深渊 剧场版总集篇》上 启程的黎明",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep340311",
+                "short_link": "https://b23.tv/ep340311",
+                "skip": {
+                    "ed": {
+                        "end": 7128,
+                        "start": 7030
+                    },
+                    "op": {
+                        "end": 22,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看731.5万次",
+                "title": "上",
+                "vid": ""
+            },
+            {
+                "aid": 712163214,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CD4y1o7kt",
+                "cid": 238838478,
+                "cover": "http://i0.hdslb.com/bfs/archive/756f5962ac0041afbd60dc6aa29b9292cf861342.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6340000,
+                "from": "bangumi",
+                "id": 340346,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep340346",
+                "long_title": "漂泊的黄昏",
+                "pub_time": 1600947000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《来自深渊 剧场版总集篇》下 漂泊的黄昏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep340346",
+                "short_link": "https://b23.tv/ep340346",
+                "skip": {
+                    "ed": {
+                        "end": 6339,
+                        "start": 6160
+                    },
+                    "op": {
+                        "end": 22,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看731.5万次",
+                "title": "下",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。\n不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，\n沉眠着现在的人类无法制造的贵重遗物。\n“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。\n如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。\n住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，\n梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。\n这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28230043/",
+        "media_id": 28230043,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全2话",
+            "id": 340346,
+            "is_new": 0,
+            "title": "下"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 50084,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-09-24 19:30:00",
+            "pub_time_show": "2020年09月24日19:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 11650,
+            "score": 9.8
+        },
+        "record": "登记号：10417060207712805",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34544,
+        "season_title": "来自深渊 剧场版总集篇",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9841ea48499f02ba626cefe83a5e77e80195738d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28230043,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/756f5962ac0041afbd60dc6aa29b9292cf861342.png",
+                    "id": 340346,
+                    "index_show": "全2话"
+                },
+                "season_id": 34544,
+                "season_title": "总集篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 610339,
+                    "series_follow": 1118030,
+                    "views": 7315079
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5673d16feb135892e01e06b25fa09e9f373ba0ff.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28230042,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bbb7a28b3ce5e2ccebb697fed0256aa0b3bd2804.jpg",
+                    "id": 340931,
+                    "index_show": "全1话"
+                },
+                "season_id": 34543,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 839035,
+                    "series_follow": 1118030,
+                    "views": 8363687
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 457188352,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1P5411j7Mt",
+                        "cid": 237165953,
+                        "cover": "http://i0.hdslb.com/bfs/archive/c76ea1749ad241d1db3797b461643e803911364c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 46000,
+                        "from": "bangumi",
+                        "id": 339627,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339627",
+                        "long_title": "",
+                        "pub_time": 1600596000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《来自深渊 剧场版总集篇》启程的黎明PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339627",
+                        "short_link": "https://b23.tv/ep339627",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1467,
+                            "danmakus": 112,
+                            "likes": 6118,
+                            "play": 417454,
+                            "reply": 1012
+                        },
+                        "status": 2,
+                        "subtitle": "已观看731.5万次",
+                        "title": "启程的黎明PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 976803856,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1o44y1a7Fo",
+                        "cid": 237165968,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/2621fbc44deed56cebd41bb4476b16421c5624ea.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 46000,
+                        "from": "bangumi",
+                        "id": 339628,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep339628",
+                        "long_title": "",
+                        "pub_time": 1600596000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《来自深渊 剧场版总集篇》漂泊的黄昏PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep339628",
+                        "short_link": "https://b23.tv/ep339628",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 202,
+                            "danmakus": 49,
+                            "likes": 581,
+                            "play": 59041,
+                            "reply": 22
+                        },
+                        "status": 2,
+                        "subtitle": "已观看731.5万次",
+                        "title": "漂泊的黄昏PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 50122,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3748,
+            "series_title": "来自深渊"
+        },
+        "share_copy": "《来自深渊 剧场版总集篇》冒险和求知的代价",
+        "share_sub_title": "冒险和求知的代价",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34544",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/33e846821b210ab082f0c884be3ce94a9631107c.png",
+        "stat": {
+            "coins": 61656,
+            "danmakus": 76042,
+            "favorite": 13246,
+            "favorites": 610339,
+            "likes": 114627,
+            "reply": 9774,
+            "share": 36092,
+            "views": 7315079
+        },
+        "status": 13,
+        "subtitle": "已观看731.5万次",
+        "title": "来自深渊 剧场版总集篇",
+        "total": 2,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

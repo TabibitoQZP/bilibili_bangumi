@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/10df490079aa1555d6ef4ea5c140f032dc6fc89a.png",
+        "episodes": [
+            {
+                "aid": 498853820,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zK411H7QJ",
+                "cid": 210249220,
+                "cover": "http://i0.hdslb.com/bfs/archive/442a4d913a1bbdbe53754ee955bceaa4858be4e7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330720,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330720",
+                "long_title": "五岭登场",
+                "pub_time": 1594121400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第1话 五岭登场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330720",
+                "short_link": "https://b23.tv/ep330720",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 328868072,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cA411v7sa",
+                "cid": 212415185,
+                "cover": "http://i0.hdslb.com/bfs/archive/086a2e9303aae0fd3fa5bf32cddb2125a712c07d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330721,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330721",
+                "long_title": "赤川住宅区遗址",
+                "pub_time": 1594726200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第2话 赤川住宅区遗址",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330721",
+                "short_link": "https://b23.tv/ep330721",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 753977443,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fk4y127jb",
+                "cid": 215016404,
+                "cover": "http://i0.hdslb.com/bfs/archive/399ae5418cb57eea002c8c07d479f3cf1b8b1d2d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330722,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330722",
+                "long_title": "胜败",
+                "pub_time": 1595331000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第3话 胜败",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330722",
+                "short_link": "https://b23.tv/ep330722",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 969123722,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zp4y1q7ea",
+                "cid": 217589470,
+                "cover": "http://i0.hdslb.com/bfs/archive/22ad149ccafdffec2387fbabc566ce15909d1fd8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330723,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330723",
+                "long_title": "相遇",
+                "pub_time": 1595935800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第4话 相遇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330723",
+                "short_link": "https://b23.tv/ep330723",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 541519966,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ui4y1378L",
+                "cid": 220348870,
+                "cover": "http://i0.hdslb.com/bfs/archive/dd4caae44d3808ae0fccab59b1319a2dd1488669.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330724,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330724",
+                "long_title": "开始检定",
+                "pub_time": 1596540600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第5话 开始检定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330724",
+                "short_link": "https://b23.tv/ep330724",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 711671474,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SD4y1U7Sc",
+                "cid": 223148749,
+                "cover": "http://i0.hdslb.com/bfs/archive/2575b98b640e9738b02cbd58e1f53ef170c8e383.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330725,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330725",
+                "long_title": "各自的试炼",
+                "pub_time": 1597145400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第6话 各自的试炼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330725",
+                "short_link": "https://b23.tv/ep330725",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 796823943,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CC4y1t7Dv",
+                "cid": 225921973,
+                "cover": "http://i0.hdslb.com/bfs/archive/ac722c9da58b9a8b8a3c5cdabc3159a43bb6f7bd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330726,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330726",
+                "long_title": "信赖",
+                "pub_time": 1597750200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第7话 信赖",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330726",
+                "short_link": "https://b23.tv/ep330726",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 711932556,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18D4y1m73B",
+                "cid": 228741757,
+                "cover": "http://i0.hdslb.com/bfs/archive/be816bc70742b3144a2250d0f4eb59f007823023.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330727,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330727",
+                "long_title": "了断",
+                "pub_time": 1598355000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第8话 了断",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330727",
+                "short_link": "https://b23.tv/ep330727",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 969483727,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tp4y1e7Dp",
+                "cid": 231249715,
+                "cover": "http://i0.hdslb.com/bfs/archive/a8acb4ff24aa7828cea1ce2929b9df37717bf609.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330728,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330728",
+                "long_title": "草叶之影",
+                "pub_time": 1598959800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第9话 草叶之影",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330728",
+                "short_link": "https://b23.tv/ep330728",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 287044421,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18f4y1X7wm",
+                "cid": 233614878,
+                "cover": "http://i0.hdslb.com/bfs/archive/68c14b166dafdd145acbfb62413cb936c9c8e547.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330729,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330729",
+                "long_title": "虫",
+                "pub_time": 1599564600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第10话 虫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330729",
+                "short_link": "https://b23.tv/ep330729",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 969602683,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ep4y1e7a5",
+                "cid": 235612362,
+                "cover": "http://i0.hdslb.com/bfs/archive/70840ba5b2604399154677367902944f761ef679.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 330730,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330730",
+                "long_title": "蝇王铠甲",
+                "pub_time": 1600169401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第11话 蝇王铠甲",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330730",
+                "short_link": "https://b23.tv/ep330730",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 542227222,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ji4y1E7ui",
+                "cid": 237949715,
+                "cover": "http://i0.hdslb.com/bfs/archive/c5272a9c78dbed7d12dd3943b3f4db9216145dcf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 330731,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330731",
+                "long_title": "完全的存在",
+                "pub_time": 1600774201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法律事务所 第二季》第12话 完全的存在",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330731",
+                "short_link": "https://b23.tv/ep330731",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看301.8万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "拥有着可以制裁伤害人类的恶灵并将其送往彼世的能力的天才魔法律执行人六冰透及其助手草野次郎，\n一直以来都有为恶灵所困扰的人们来向他们求助。\n和圆宙继战斗过后数日，\n六冰和次郎从魔监狱返回，终于回到了自己的日常生活之中。\n然而在这样的六冰等人的面前，执行人五岭陀罗尼丸的出现，将他们卷入了新的战斗之中——。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229240/",
+        "media_id": 28229240,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 330731,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 48387,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-07-07 19:30:00",
+            "pub_time_show": "2020年07月07日19:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 846,
+            "score": 8.6
+        },
+        "record": "登记号：10417060204132407",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 33809,
+        "season_title": "魔法律事务所 第二季",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/10df490079aa1555d6ef4ea5c140f032dc6fc89a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229240,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c5272a9c78dbed7d12dd3943b3f4db9216145dcf.jpg",
+                    "id": 330731,
+                    "index_show": "全12话"
+                },
+                "season_id": 33809,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 334866,
+                    "series_follow": 334866,
+                    "views": 3017580
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 710889855,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV18Q4y1P7YS",
+                        "cid": 205213064,
+                        "cover": "http://i0.hdslb.com/bfs/archive/bc36a8cfa2f44afa280fb1d5ae4fbb0bc3d28601.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 146000,
+                        "from": "bangumi",
+                        "id": 329576,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep329576",
+                        "long_title": "",
+                        "pub_time": 1593079200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《魔法律事务所 第二季》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep329576",
+                        "short_link": "https://b23.tv/ep329576",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 201,
+                            "danmakus": 47,
+                            "likes": 354,
+                            "play": 364191,
+                            "reply": 243
+                        },
+                        "status": 2,
+                        "subtitle": "已观看301.8万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 48662,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4043,
+            "series_title": "魔法律事务所"
+        },
+        "share_copy": "《魔法律事务所 第二季》奇幻魔法热血战斗番",
+        "share_sub_title": "奇幻魔法热血战斗番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss33809",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/b94af13bdd10c1c1dd1912328d665333c4324d77.png",
+        "stat": {
+            "coins": 5923,
+            "danmakus": 9147,
+            "favorite": 461,
+            "favorites": 334866,
+            "likes": 39979,
+            "reply": 3262,
+            "share": 613,
+            "views": 3017580
+        },
+        "status": 13,
+        "subtitle": "已观看301.8万次",
+        "title": "魔法律事务所 第二季",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

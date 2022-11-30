@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/dcea91f056de9148ffa061bbe8d83cfea1380f5d.jpg",
+        "episodes": [
+            {
+                "aid": 51022623,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1e4411t7YM",
+                "cid": 91944537,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/483b078a3d3a4c40531a30b055204f93dc5db19e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6518000,
+                "from": "bangumi",
+                "id": 272539,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep272539",
+                "long_title": "",
+                "pub_time": 1558336620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《古城荆棘王》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep272539",
+                "short_link": "https://b23.tv/ep272539",
+                "skip": {
+                    "ed": {
+                        "end": 6517,
+                        "start": 6259
+                    },
+                    "op": {
+                        "end": 33,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看44.3万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "近未来，被世人称为“美杜莎”的后天性细胞硬化症候群（ACIS）泛滥全球，被感染者经过30~60的潜伏期后，在短短的12天内就会病发身亡。死时全身石化，其状恐怖。由于没有任何的特效药和对峙办法，人类世界陷入一片末日般的恐慌之中。就在此时，科学研发企业维纳斯门宣称可通过冷冻睡眠的办法为人类保留生命的希望，但是全球仅有160人有资格走入冷冻胶囊。女孩一色霞幸运地成为160人中的一员，但是她也要被迫和相亲相爱的双胞胎姐妹生离死别。当小霞再次醒来时，发现维纳斯门总部情景怪异，接着一群奇怪生物袭击了这些人，最终只有极少数人侥幸活了下来。等待小霞的，将会是怎样残酷的命运……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28221041/",
+        "media_id": 28221041,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 272539,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "positive": {
+            "id": 37408,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2010-05-01 00:00:01",
+            "pub_time_show": "2010年5月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 691,
+            "score": 8.8
+        },
+        "record": "登记号：10417060203432310",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 27812,
+        "season_title": "古城荆棘王",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dcea91f056de9148ffa061bbe8d83cfea1380f5d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28221041,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/483b078a3d3a4c40531a30b055204f93dc5db19e.jpg",
+                    "id": 272539,
+                    "index_show": "全1话"
+                },
+                "season_id": 27812,
+                "season_title": "古城荆棘王",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 93205,
+                    "series_follow": 93205,
+                    "views": 442876
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4417,
+            "series_title": "古城荆棘王"
+        },
+        "share_copy": "《古城荆棘王》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss27812",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b2b4e6b4ddca3a569b45710664ab12667026f10b.jpg",
+        "stat": {
+            "coins": 3424,
+            "danmakus": 4442,
+            "favorite": 3029,
+            "favorites": 93205,
+            "likes": 7534,
+            "reply": 756,
+            "share": 1500,
+            "views": 442876
+        },
+        "status": 2,
+        "subtitle": "已观看44.3万次",
+        "title": "古城荆棘王",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,903 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/d8a6884c2f839a5ffe5a0637608eec7910763411.png",
+        "episodes": [
+            {
+                "aid": 752705614,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rk4y197rc",
+                "cid": 174710760,
+                "cover": "http://i0.hdslb.com/bfs/archive/360ae36bf5f15b2986b405b737d1bd8020f4d376.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317766,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317766",
+                "long_title": "冒险的开始 ～夕阳的天空中蘑菇奶油煎～",
+                "pub_time": 1586185200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第1话 冒险的开始 ～夕阳的天空中蘑菇奶油煎～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317766",
+                "short_link": "https://b23.tv/ep317766",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看9415.8万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 752731743,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wk4y1R7Sq",
+                "cid": 177854556,
+                "cover": "http://i0.hdslb.com/bfs/archive/a0a14f84b05b57b0d03e460d2df959e5a5c8eaf7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317767,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317767",
+                "long_title": "随性猫咪的恶作剧 ～黄金色的暖暖饭团～",
+                "pub_time": 1586790000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第2话 随性猫咪的恶作剧 ～黄金色的暖暖饭团～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317767",
+                "short_link": "https://b23.tv/ep317767",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 38
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 967787809,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Np4y1y7AY",
+                "cid": 181014247,
+                "cover": "http://i0.hdslb.com/bfs/archive/4229a3dfe687df102c62b98468cb4f5cac0acb4c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317768,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317768",
+                "long_title": "美食最前线 ～隐藏风味加入天上的果实～",
+                "pub_time": 1587394800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第3话 美食最前线 ～隐藏风味加入天上的果实～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317768",
+                "short_link": "https://b23.tv/ep317768",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 285449749,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sf4y1S7zw",
+                "cid": 183981418,
+                "cover": "http://i0.hdslb.com/bfs/archive/916f3fcbb5cc301936bc478cac8621c441450b79.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317769,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317769",
+                "long_title": "欢迎来到美食殿 ～夜幕之下炖牛肉～",
+                "pub_time": 1587999600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第4话 欢迎来到美食殿 ～夜幕之下炖牛肉～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317769",
+                "short_link": "https://b23.tv/ep317769",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 498031993,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yK41157aF",
+                "cid": 187013865,
+                "cover": "http://i0.hdslb.com/bfs/archive/c84c4c8661375d646e5b294afbf447151d7ccf03.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317770,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317770",
+                "long_title": "充满爱的粥 ～承载黎明的命运～",
+                "pub_time": 1588604400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第5话 充满爱的粥 ～承载黎明的命运～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317770",
+                "short_link": "https://b23.tv/ep317770",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 45
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 583213795,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hz4y1d7ug",
+                "cid": 192479113,
+                "cover": "http://i0.hdslb.com/bfs/archive/b3b4bbee355240131da078532c183081ac8de939.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317771,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317771",
+                "long_title": "启程的旋律 ～星空是刺激的香味～",
+                "pub_time": 1589209200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第6话 启程的旋律 ～星空是刺激的香味～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317771",
+                "short_link": "https://b23.tv/ep317771",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 108,
+                        "start": 19
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 498246580,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KK411s7sT",
+                "cid": 192519469,
+                "cover": "http://i0.hdslb.com/bfs/archive/e1231fb6b3aa2b3e737f85498bc5c36febbad3fc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317772,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317772",
+                "long_title": "贯穿黑暗之光 ～要好姐妹的完美搭配～",
+                "pub_time": 1589814000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第7话 贯穿黑暗之光 ～要好姐妹的完美搭配～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317772",
+                "short_link": "https://b23.tv/ep317772",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 625868856,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wt4y1y7yH",
+                "cid": 195074550,
+                "cover": "http://i0.hdslb.com/bfs/archive/4ee0638d5c57a4b498435dd83d67b712d1e30138.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317773,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317773",
+                "long_title": "小小的甜心儿童餐 ～田园风玉子烧套餐～",
+                "pub_time": 1590418800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第8话 小小的甜心儿童餐 ～田园风玉子烧套餐～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317773",
+                "short_link": "https://b23.tv/ep317773",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 147,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 498447373,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xK411p7kZ",
+                "cid": 197600032,
+                "cover": "http://i0.hdslb.com/bfs/archive/3fb95eefe19eb3d5b5c86d3dfa7ec3b61e59a2a0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317774,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317774",
+                "long_title": "美食度假 ～海滨的香味是触手味～",
+                "pub_time": 1591023600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第9话 美食度假 ～海滨的香味是触手味～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317774",
+                "short_link": "https://b23.tv/ep317774",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 710972752,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zD4y1D7PX",
+                "cid": 200013700,
+                "cover": "http://i0.hdslb.com/bfs/archive/2957e509db884df5c2d869678ca2f0c4370a928d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317775,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317775",
+                "long_title": "永恒之暗集结之华 ～是诅咒的布丁～",
+                "pub_time": 1591628400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第10话 永恒之暗集结之华 ～是诅咒的布丁～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317775",
+                "short_link": "https://b23.tv/ep317775",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 100,
+                        "start": 11
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 668610980,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ma4y1Y7jW",
+                "cid": 202342886,
+                "cover": "http://i0.hdslb.com/bfs/archive/9bf4cdd96535f68a986a93a77e87e0649445ea10.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317776,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317776",
+                "long_title": "夕阳My home ～迅速探索和热狗～",
+                "pub_time": 1592233200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第11话 夕阳My home ～迅速探索和热狗～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317776",
+                "short_link": "https://b23.tv/ep317776",
+                "skip": {
+                    "ed": {
+                        "end": 1346,
+                        "start": 1257
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 35
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 926095069,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CT4y1J7gE",
+                "cid": 207056210,
+                "cover": "http://i0.hdslb.com/bfs/archive/ba9297b1dbc8ee41927b1720e0e11d36010836eb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317777,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317777",
+                "long_title": "随性西点师自豪的一品 ～迷宫与可丽饼的回忆～",
+                "pub_time": 1592838000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第12话 随性西点师自豪的一品 ～迷宫与可丽饼的回忆～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317777",
+                "short_link": "https://b23.tv/ep317777",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 201226779,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Az411v7om",
+                "cid": 207142641,
+                "cover": "http://i0.hdslb.com/bfs/archive/e36a0521481e7f6050635fb081b49c39bbc61117.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 317778,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep317778",
+                "long_title": "失落公主 ～带来大家的笑容～",
+                "pub_time": 1593442800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《公主连结Re:Dive》第13话 失落公主 ～带来大家的笑容～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep317778",
+                "short_link": "https://b23.tv/ep317778",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看9415.8万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "平静的风吹过美丽的大地——阿斯特莱亚大陆。在大陆的某个角落，失去记忆的少年佑树醒了过来。照顾他的小小指引者可可萝。总是饿肚子的美少女剑士佩可莉姆。有一点冷酷的猫耳魔法少女凯露。在命运的指引下，他们创立了名为“美食殿堂”的公会。现在，佑树和她们的冒险揭幕了。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28228339/",
+        "media_id": 28228339,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 317778,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 43268,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-04-06 23:00:00",
+            "pub_time_show": "2020年04月06日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 53767,
+            "score": 9.5
+        },
+        "record": "登记号：10417060201772803",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 32963,
+        "season_title": "公主连结Re:Dive",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d8a6884c2f839a5ffe5a0637608eec7910763411.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228339,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e36a0521481e7f6050635fb081b49c39bbc61117.jpg",
+                    "id": 317778,
+                    "index_show": "全13话"
+                },
+                "season_id": 32963,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3182426,
+                    "series_follow": 3540995,
+                    "views": 94157980
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/60d9685ebae04a4e2092857d5ee41a4de7316652.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/1cc9601f8d2cafe43c1f6d5f9e72960a0b50ae5f.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/e57d32b41df3a3d9e5c940c365613a32785509af.png",
+                "media_id": 28235857,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/672172276b3203f0e20aed6ea1bd5b7252f9ff4f.jpg",
+                    "id": 474225,
+                    "index_show": "全12话"
+                },
+                "season_id": 40153,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3234121,
+                    "series_follow": 3540995,
+                    "views": 31599362
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 98138042,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1FE411w7Gf",
+                        "cid": 167525590,
+                        "cover": "http://i0.hdslb.com/bfs/archive/4e784280136f7e8e9531f6e8caa2f2c9f451001f.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 88000,
+                        "from": "bangumi",
+                        "id": 316732,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep316732",
+                        "long_title": "",
+                        "pub_time": 1584957600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《公主连结Re:Dive》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep316732",
+                        "short_link": "https://b23.tv/ep316732",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 11199,
+                            "danmakus": 3281,
+                            "likes": 2723,
+                            "play": 2932434,
+                            "reply": 5209
+                        },
+                        "status": 2,
+                        "subtitle": "已观看9415.8万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 43958,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4883,
+            "series_title": "公主连结 Re:Dive"
+        },
+        "share_copy": "《公主连结Re:Dive》厉害了呀，骑士君",
+        "share_sub_title": "厉害了呀，骑士君",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss32963",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/d2f15ab77d21f978f426dbaa5cb5aaac430fc88c.jpg",
+        "stat": {
+            "coins": 571344,
+            "danmakus": 1819280,
+            "favorite": 20434,
+            "favorites": 3182426,
+            "likes": 520734,
+            "reply": 173956,
+            "share": 96068,
+            "views": 94157980
+        },
+        "status": 13,
+        "subtitle": "已观看9415.8万次",
+        "title": "公主连结Re:Dive",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

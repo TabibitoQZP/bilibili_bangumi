@@ -1,0 +1,212 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/77507fa583f3a854b53250fe7b20b742d6983a1e.jpg",
+        "episodes": [
+            {
+                "aid": 1928724,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Px411A7Fo",
+                "cid": 2978868,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a2ec7d0f63f72b79bbd81e05ed737f6a98f56567.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1681000,
+                "from": "bangumi",
+                "id": 88651,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88651?theme=movie",
+                "long_title": "圣诞老人公司",
+                "pub_time": 1464749695,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣诞老人公司》第1话 圣诞老人公司",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88651",
+                "short_link": "https://b23.tv/ep88651",
+                "skip": {
+                    "ed": {
+                        "end": 1681,
+                        "start": 1561
+                    },
+                    "op": {
+                        "end": 16,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看7.9万次",
+                "title": "1",
+                "vid": "afb453bf72"
+            }
+        ],
+        "evaluate": "日本有間獨一無二的聖誕老人公司。他們夏天作襪子、冬天則送禮物給孩子們。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4259/",
+        "media_id": 4259,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 88651,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21276,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-10-25 00:00:01",
+            "pub_time_show": "2014年10月25日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4259,
+        "season_title": "圣诞老人公司",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/77507fa583f3a854b53250fe7b20b742d6983a1e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4259,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a2ec7d0f63f72b79bbd81e05ed737f6a98f56567.jpg",
+                    "id": 88651,
+                    "index_show": "全1话"
+                },
+                "season_id": 4259,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 11525,
+                    "series_follow": 19128,
+                    "views": 78852
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2c8e092284f225b22601e44f308380c975a11583.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228384,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/dbe54a4a597ec36ed48774be6c9fc07df5925fa0.jpg",
+                    "id": 316711,
+                    "index_show": "全1话"
+                },
+                "season_id": 32996,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 9785,
+                    "series_follow": 19128,
+                    "views": 80128
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2452,
+            "series_title": "圣诞老人公司"
+        },
+        "share_copy": "《圣诞老人公司》为了送达全世界孩子的圣诞礼物！",
+        "share_sub_title": "为了送达全世界孩子的圣诞礼物！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4259",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/3b6b55b72a0457a054624796cfbb9c7bd1ad0b4b.jpg",
+        "stat": {
+            "coins": 127,
+            "danmakus": 1039,
+            "favorite": 54,
+            "favorites": 11525,
+            "likes": 254,
+            "reply": 190,
+            "share": 57,
+            "views": 78852
+        },
+        "status": 2,
+        "subtitle": "已观看7.9万次",
+        "title": "圣诞老人公司",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

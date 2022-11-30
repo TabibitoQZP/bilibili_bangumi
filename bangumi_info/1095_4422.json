@@ -1,0 +1,208 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f44a1f92e83bc4a8be6b19df619cee1abd48681b.jpg",
+        "episodes": [
+            {
+                "aid": 78148513,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wJ411i7wp",
+                "cid": 133839848,
+                "cover": "http://i0.hdslb.com/bfs/archive/f1dfef25bdf241abafb000cee1e01ba871082994.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 4990000,
+                "from": "bangumi",
+                "id": 300242,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep300242?theme=movie",
+                "long_title": "AURA ～魔龙院光牙最后的战斗～",
+                "pub_time": 1576057680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《AURA ～魔龙院光牙最后的战斗～》第1话 AURA ～魔龙院光牙最后的战斗～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep300242",
+                "short_link": "https://b23.tv/ep300242",
+                "skip": {
+                    "ed": {
+                        "end": 4934,
+                        "start": 4652
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看157.1万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "刚升上高中一年级的佐藤一郎，某天在晚上潜入学校拿东西时，遇见了身穿蓝色斗篷，拿着金属杖的美少女。自从遇到她之后，佐藤期望的平稳学生生活渐渐的离他而去。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224170/",
+        "media_id": 28224170,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 300242,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 21374,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-04-13 00:00:01",
+            "pub_time_show": "2013年4月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 4073,
+            "score": 9.7
+        },
+        "record": "登记号：10417060208522910",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4422,
+        "season_title": "AURA ～魔龙院光牙最后的战斗～",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f44a1f92e83bc4a8be6b19df619cee1abd48681b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224170,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/f1dfef25bdf241abafb000cee1e01ba871082994.jpg",
+                    "id": 300242,
+                    "index_show": "全1话"
+                },
+                "season_id": 4422,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 307258,
+                    "series_follow": 307258,
+                    "views": 1571444
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2550,
+            "series_title": "AURA ～魔龙院光牙最后的战斗～"
+        },
+        "share_copy": "《AURA ～魔龙院光牙最后的战斗～》当退役中二少年，遇上现役中二少女",
+        "share_sub_title": "当退役中二少年，遇上现役中二少女",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4422",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/bebf805d1b7989726050ee299e2f1278889b9c07.jpg",
+        "stat": {
+            "coins": 32911,
+            "danmakus": 22053,
+            "favorite": 11402,
+            "favorites": 307258,
+            "likes": 42008,
+            "reply": 2072,
+            "share": 6098,
+            "views": 1571444
+        },
+        "status": 13,
+        "subtitle": "已观看157.1万次",
+        "title": "AURA ～魔龙院光牙最后的战斗～",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

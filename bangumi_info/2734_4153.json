@@ -1,0 +1,186 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/d6bb008fcd05ba49ca33e239bd87748511c4eee5.jpg",
+        "episodes": [
+            {
+                "aid": 2984290,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1us411277J",
+                "cid": 4676247,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f214c812df2d8da68e45d50e3863c7b099014133.jpg",
+                "dimension": {
+                    "height": 480,
+                    "rotate": 0,
+                    "width": 864
+                },
+                "duration": 652000,
+                "from": "bangumi",
+                "id": 88568,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88568",
+                "long_title": "故事少女穗乃花",
+                "pub_time": 1464337875,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《故事少女穗乃花》第1话 故事少女穗乃花",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88568",
+                "short_link": "https://b23.tv/ep88568",
+                "skip": {
+                    "ed": {
+                        "end": 652,
+                        "start": 590
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看10万次",
+                "title": "1",
+                "vid": "vupload_4676247"
+            }
+        ],
+        "evaluate": "桑岛法子出演网络动画《故事少女穗乃果》",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4153/",
+        "media_id": 4153,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 88568,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21086,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-07-31 00:00:01",
+            "pub_time_show": "2015年7月31日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4153,
+        "season_title": "故事少女穗乃花",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d6bb008fcd05ba49ca33e239bd87748511c4eee5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4153,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f214c812df2d8da68e45d50e3863c7b099014133.jpg",
+                    "id": 88568,
+                    "index_show": "全1话"
+                },
+                "season_id": 4153,
+                "season_title": "WEB",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 15605,
+                    "series_follow": 15605,
+                    "views": 99969
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2370,
+            "series_title": "故事少女穗乃花"
+        },
+        "share_copy": "《故事少女穗乃花》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4153",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/22bb356d49dd16182f6fd95ff8329397d0037e38.jpg",
+        "stat": {
+            "coins": 173,
+            "danmakus": 594,
+            "favorite": 14,
+            "favorites": 15605,
+            "likes": 397,
+            "reply": 284,
+            "share": 68,
+            "views": 99969
+        },
+        "status": 2,
+        "subtitle": "已观看10万次",
+        "title": "故事少女穗乃花",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

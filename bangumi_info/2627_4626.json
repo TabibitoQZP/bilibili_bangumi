@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/fcd2728c36037baaf875f57b034e392708421ae3.jpg",
+        "episodes": [
+            {
+                "aid": 3000996,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps41127bL",
+                "cid": 4704227,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4180c9acf857b8148810bf8c6a7197e62218f7f4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 252000,
+                "from": "bangumi",
+                "id": 89471,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89471",
+                "long_title": "",
+                "pub_time": 1465637159,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《偷影子的老鼠》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89471",
+                "short_link": "https://b23.tv/ep89471",
+                "skip": {
+                    "ed": {
+                        "end": 252,
+                        "start": 237
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看25万次",
+                "title": "1",
+                "vid": "vupload_4704227"
+            }
+        ],
+        "evaluate": "       作者Sabrina Cotugno，1990年7月27日生的狮子座九零后动画人，这部作品则是她在Calarts（加州艺术学院）第四年的作品，讲的是一个关于一只名叫Beopup的小狐狸在森林里毫无保护并不愉快的狩猎的故事，剧情十分巧妙。\n　　作者拥有Calarts角色动画美术学士学位，同时还是一名哥布林的交换生，并在皮克斯进行着实习工作。她热衷于故事的讲述，一般来说她从脑海中角色和情节的凌乱的数据库中画下灵感，然后通过短片的形式展现给大家。当然，除了短片创作外，她还喜欢漫画和烹饪。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4626/",
+        "media_id": 4626,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 89471,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21576,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-01-01 00:00:01",
+            "pub_time_show": "2012年1月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 151,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4626,
+        "season_title": "偷影子的老鼠",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fcd2728c36037baaf875f57b034e392708421ae3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4626,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/4180c9acf857b8148810bf8c6a7197e62218f7f4.jpg",
+                    "id": 89471,
+                    "index_show": "全1话"
+                },
+                "season_id": 4626,
+                "season_title": "WEB",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 19352,
+                    "series_follow": 19352,
+                    "views": 250058
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2682,
+            "series_title": "偷影子的老鼠"
+        },
+        "share_copy": "《偷影子的老鼠》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4626",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/00c12ad507b0424a2527176ed8092314f54664dd.jpg",
+        "stat": {
+            "coins": 875,
+            "danmakus": 417,
+            "favorite": 186,
+            "favorites": 19352,
+            "likes": 1305,
+            "reply": 182,
+            "share": 927,
+            "views": 250058
+        },
+        "status": 2,
+        "subtitle": "已观看25万次",
+        "title": "偷影子的老鼠",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

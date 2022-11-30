@@ -1,0 +1,959 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5064d5adf17f281e351b5846b7b274be6f080b93.png",
+        "episodes": [
+            {
+                "aid": 846427388,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1T54y1p7go",
+                "cid": 363837762,
+                "cover": "http://i0.hdslb.com/bfs/archive/a713cb58850d20a391b541cd69dc978d8b6e6661.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1199000,
+                "from": "bangumi",
+                "id": 409600,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409600",
+                "long_title": "请问乘客之中有没有侦探？",
+                "pub_time": 1625409000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》1上 请问乘客之中有没有侦探？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409600",
+                "short_link": "https://b23.tv/ep409600",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "1上",
+                "vid": ""
+            },
+            {
+                "aid": 248980103,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ov411H7Np",
+                "cid": 363837433,
+                "cover": "http://i0.hdslb.com/bfs/archive/a1baafca41ad69a3b4ce951fdad8211f4ee5d909.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1588000,
+                "from": "bangumi",
+                "id": 409795,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409795",
+                "long_title": "开幕 青春恋爱喜剧篇",
+                "pub_time": 1625409001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》1下 开幕 青春恋爱喜剧篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409795",
+                "short_link": "https://b23.tv/ep409795",
+                "skip": {
+                    "ed": {
+                        "end": 1552,
+                        "start": 1463
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "1下",
+                "vid": ""
+            },
+            {
+                "aid": 761520101,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1z64y1b73Z",
+                "cid": 367552455,
+                "cover": "http://i0.hdslb.com/bfs/archive/92dabdd137817c99d156a72c6572403e60c9627c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1358000,
+                "from": "bangumi",
+                "id": 409605,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409605",
+                "long_title": "记忆从未磨灭",
+                "pub_time": 1626012001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第2话 记忆从未磨灭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409605",
+                "short_link": "https://b23.tv/ep409605",
+                "skip": {
+                    "ed": {
+                        "end": 1353,
+                        "start": 1263
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 931747961,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BM4y1K7sm",
+                "cid": 375407449,
+                "cover": "http://i0.hdslb.com/bfs/archive/0e7c47471992f403948bb6e6c92a743410be8959.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1387000,
+                "from": "bangumi",
+                "id": 409606,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409606",
+                "long_title": "这就是唯喵品质！",
+                "pub_time": 1626616801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第3话 这就是唯喵品质！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409606",
+                "short_link": "https://b23.tv/ep409606",
+                "skip": {
+                    "ed": {
+                        "end": 1381,
+                        "start": 1291
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 42
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 419400284,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mV411p7vt",
+                "cid": 376160660,
+                "cover": "http://i0.hdslb.com/bfs/archive/6dc147d2aa5c726ce47a1c5805f49c9aa8c17e0e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409607,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409607",
+                "long_title": "那只眼所看到的东西",
+                "pub_time": 1627219800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第4话 那只眼所看到的东西",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409607",
+                "short_link": "https://b23.tv/ep409607",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 292088129,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sf4y1G769",
+                "cid": 379905899,
+                "cover": "http://i0.hdslb.com/bfs/archive/a4061e7422b14fa744a2023bf1249e925b8eff7b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409608,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409608",
+                "long_title": "那是为了一年后的未来",
+                "pub_time": 1627824601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第5话 那是为了一年后的未来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409608",
+                "short_link": "https://b23.tv/ep409608",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 258,
+                        "start": 168
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 377233229,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11o4y1m7dC",
+                "cid": 384289429,
+                "cover": "http://i0.hdslb.com/bfs/archive/b7049dbc18256502ae59a8f8ef743fc019d7eb82.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409609,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409609",
+                "long_title": "业火恶魔，寒冰女王",
+                "pub_time": 1628429401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第6话 业火恶魔，寒冰女王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409609",
+                "short_link": "https://b23.tv/ep409609",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 249803211,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nv411T71j",
+                "cid": 395214531,
+                "cover": "http://i0.hdslb.com/bfs/archive/795a80f0eebe4809f0b4e1aabd03cd6fe2e791f0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409610,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409610",
+                "long_title": "将来，你总会回想起这一天",
+                "pub_time": 1629034201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第7话 将来，你总会回想起这一天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409610",
+                "short_link": "https://b23.tv/ep409610",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 292408550,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12f4y137W3",
+                "cid": 393740719,
+                "cover": "http://i0.hdslb.com/bfs/archive/1a35f17a7daeb0ac89e6c20be917f1e1fe1e5f5c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409611,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409611",
+                "long_title": "然后再次踏上旅程",
+                "pub_time": 1629639000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第8话 然后再次踏上旅程",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409611",
+                "short_link": "https://b23.tv/ep409611",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 975205760,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1M44y1873R",
+                "cid": 398460059,
+                "cover": "http://i0.hdslb.com/bfs/archive/286002b791e19cd897b0237f7449a1609be6fe2f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409612,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409612",
+                "long_title": "SPES",
+                "pub_time": 1630243801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第9话 SPES",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409612",
+                "short_link": "https://b23.tv/ep409612",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 211,
+                        "start": 121
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 762857565,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1M64y1h7yr",
+                "cid": 402599062,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f3c7e3b788737b5f93c67fe33120543063da836.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409613,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409613",
+                "long_title": "所以我当不了侦探",
+                "pub_time": 1630848601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第10话 所以我当不了侦探",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409613",
+                "short_link": "https://b23.tv/ep409613",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 547899063,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Eq4y1N7KY",
+                "cid": 406445755,
+                "cover": "http://i0.hdslb.com/bfs/archive/af37846562ef525163e0dac8a4264ba752a00a21.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 409614,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409614",
+                "long_title": "希望中的光芒",
+                "pub_time": 1631453401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第11话 希望中的光芒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409614",
+                "short_link": "https://b23.tv/ep409614",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 211,
+                        "start": 121
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 805510935,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1A34y1X751",
+                "cid": 410277263,
+                "cover": "http://i0.hdslb.com/bfs/archive/59d8a9c5af8fd0493ebaa40251d5fbb269eb2d2b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 409615,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409615",
+                "long_title": "和你一起度过的那耀眼的三年",
+                "pub_time": 1632058201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《侦探已死》第12话 和你一起度过的那耀眼的三年",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409615",
+                "short_link": "https://b23.tv/ep409615",
+                "skip": {
+                    "ed": {
+                        "end": 1350,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5270.4万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "“你、来当我的助手吧。”\n有着被卷入事件体质的少年・君冢君彦，在高空一万米的飞机上，成为了自称是侦探的天使般的美丽少女・谢丝塔的助手。二人为了同世界各地的敌人战斗，三年来辗转于世界各地，展开了一系列惊心动魄的冒险。不久之后，侦探就去世了。\n动荡的日子已经过去了一年。已升入高三的君冢也沉溺在了名为日常的温水中，过着极其普通的学生生活。然而，他的身边却出现了一个委托人。\n“你就是名侦探？”\n以和同年级的少女夏凪渚相遇为契机，连接过去和现在的宏大故事再次开始了——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234637/",
+        "media_id": 28234637,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 409615,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 60410,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-07-04 22:30:00",
+            "pub_time_show": "2021年07月04日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 32559,
+            "score": 7.1
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38945,
+        "season_title": "侦探已死",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5064d5adf17f281e351b5846b7b274be6f080b93.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/cc5b3f78c16976509d7c38671c0ed1d4e9061028.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/fcec4d44a7604a95413706a82e9f7bc4e7e59c28.png",
+                "media_id": 28234637,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/59d8a9c5af8fd0493ebaa40251d5fbb269eb2d2b.jpg",
+                    "id": 409615,
+                    "index_show": "全12话"
+                },
+                "season_id": 38945,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2551939,
+                    "series_follow": 2551939,
+                    "views": 52704307
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 673908113,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17U4y1V7os",
+                        "cid": 362998111,
+                        "cover": "http://i0.hdslb.com/bfs/archive/b485589a2213836ff809d4195ab95ad2790deaa5.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 74000,
+                        "from": "bangumi",
+                        "id": 409672,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep409672",
+                        "long_title": "",
+                        "pub_time": 1625228400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《侦探已死》特报PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep409672",
+                        "short_link": "https://b23.tv/ep409672",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 4402,
+                            "danmakus": 392,
+                            "likes": 12547,
+                            "play": 982362,
+                            "reply": 1021
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5270.4万次",
+                        "title": "特报PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 376412498,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1eo4y1C7e3",
+                        "cid": 362998603,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2339fbe8d581b2b0130d74dd9a9198cfdb2d7c5f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 102000,
+                        "from": "bangumi",
+                        "id": 409673,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep409673",
+                        "long_title": "",
+                        "pub_time": 1625228400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《侦探已死》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep409673",
+                        "short_link": "https://b23.tv/ep409673",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 5463,
+                            "danmakus": 463,
+                            "likes": 13927,
+                            "play": 1150016,
+                            "reply": 862
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5270.4万次",
+                        "title": "PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 60742,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5558,
+            "series_title": "侦探已死"
+        },
+        "share_copy": "《侦探已死》“你是名侦探吗？”",
+        "share_sub_title": "“你是名侦探吗？”",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38945",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/4f827b23e83b4e0dc251cd68f5d1600687c4775a.png",
+        "stat": {
+            "coins": 357723,
+            "danmakus": 698470,
+            "favorite": 65730,
+            "favorites": 2551939,
+            "likes": 982632,
+            "reply": 61011,
+            "share": 37955,
+            "views": 52704307
+        },
+        "status": 13,
+        "subtitle": "已观看5270.4万次",
+        "title": "侦探已死",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/4c63af5172b7df4e20461c650fa4cd65e2da3e7e.jpg",
+        "episodes": [
+            {
+                "aid": 7922414,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fs411h7SB",
+                "cid": 13007366,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17e5e4c53437bbc3dab38acca0ed9c94cd2347ee.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 722961,
+                "from": "bangumi",
+                "id": 100564,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100564",
+                "long_title": "",
+                "pub_time": 1483941731,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《剧场版 魔法禁书目录炭 SP》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100564",
+                "short_link": "https://b23.tv/ep100564",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看694.3万次",
+                "title": "1",
+                "vid": "vupload_2547608"
+            }
+        ],
+        "evaluate": "魔法禁书目录 剧场版 恩底弥翁的奇迹 特典",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5867/",
+        "media_id": 5867,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 100564,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22786,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-08-28 00:00:01",
+            "pub_time_show": "2013年8月28日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1602,
+            "score": 9.2
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5867,
+        "season_title": "剧场版 魔法禁书目录炭 SP",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/85ecf86a69c6f337ec7762922471eaf63020b26f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 963,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/7ae927db5eb1e7fc4e54f6894127ab3a778325c2.jpg",
+                    "id": 83833,
+                    "index_show": "全24话"
+                },
+                "season_id": 963,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3549917,
+                    "series_follow": 5393689,
+                    "views": 97472035
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fd9befa36466ffd6d6580a8a904f212c73af932a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 964,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f4da5e1c59132466d082296c4eeacbd3117a31b.jpg",
+                    "id": 17365,
+                    "index_show": "全24话"
+                },
+                "season_id": 964,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1804652,
+                    "series_follow": 5393689,
+                    "views": 63363960
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b324979bd71fdca9f6448789aafad12a834a1ca5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 965,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/033ddb524eabc1b568cafe629187910efdfd2464.jpg",
+                    "id": 84277,
+                    "index_show": "全1话"
+                },
+                "season_id": 965,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 770500,
+                    "series_follow": 5393689,
+                    "views": 10249835
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/85ecf86a69c6f337ec7762922471eaf63020b26f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3784,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1db3a876f529a51c148866fb41578ae147c3c1c9.jpg",
+                    "id": 86482,
+                    "index_show": "全4话"
+                },
+                "season_id": 3784,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 277958,
+                    "series_follow": 5393689,
+                    "views": 6943492
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4c63af5172b7df4e20461c650fa4cd65e2da3e7e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5867,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/17e5e4c53437bbc3dab38acca0ed9c94cd2347ee.jpg",
+                    "id": 100564,
+                    "index_show": "全1话"
+                },
+                "season_id": 5867,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 216579,
+                    "series_follow": 5393689,
+                    "views": 6943492
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a92892921f3209f7784a954c37467c9869a1d4c1.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 134912,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2c36291ed7ff3c3623c3986d6d3327505c443f7a.jpg",
+                    "id": 250459,
+                    "index_show": "全26话"
+                },
+                "season_id": 25617,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3144815,
+                    "series_follow": 5393689,
+                    "views": 107269654
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 621,
+            "series_title": "魔法禁书目录"
+        },
+        "share_copy": "《剧场版 魔法禁书目录炭 SP》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5867",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/f325034554efc3d1bebf4ce0fdd24eead072a2f8.jpg",
+        "stat": {
+            "coins": 22896,
+            "danmakus": 79220,
+            "favorite": 858,
+            "favorites": 216579,
+            "likes": 21262,
+            "reply": 4758,
+            "share": 622,
+            "views": 6943492
+        },
+        "status": 2,
+        "subtitle": "已观看694.3万次",
+        "title": "剧场版 魔法禁书目录炭 SP",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

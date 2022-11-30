@@ -1,0 +1,802 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/420743b813462d6f0537a1ba0ff49e01ac7355fc.png",
+        "episodes": [
+            {
+                "aid": 726398521,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rS4y1h7tn",
+                "cid": 720072535,
+                "cover": "http://i0.hdslb.com/bfs/archive/5f93479b16ce82535ca4eb4c43f4062b797fa1e5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 510676,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep510676",
+                "long_title": "芭蕾舞这东西 怎么可能学啊！",
+                "pub_time": 1652464800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第1话 芭蕾舞这东西 怎么可能学啊！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep510676",
+                "short_link": "https://b23.tv/ep510676",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 208,
+                        "start": 118
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看208.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 639171571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rY4y1z7um",
+                "cid": 724157145,
+                "cover": "http://i0.hdslb.com/bfs/archive/29af8baff0987588826670201143d9a2bb0e3b58.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 510677,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep510677",
+                "long_title": "这个人……没法和他交朋友！",
+                "pub_time": 1653069600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第2话 这个人……没法和他交朋友！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep510677",
+                "short_link": "https://b23.tv/ep510677",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 49
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 769226490,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17r4y147H3",
+                "cid": 724157144,
+                "cover": "http://i0.hdslb.com/bfs/archive/d8648a0cb21f93987974e4692c36f4dfdb557ef7.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 510678,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep510678",
+                "long_title": "男子气概是什么？",
+                "pub_time": 1653674401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第3话 男子气概是什么？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep510678",
+                "short_link": "https://b23.tv/ep510678",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 342147460,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1g94y1m7RB",
+                "cid": 736155863,
+                "cover": "http://i0.hdslb.com/bfs/archive/c20ccf005699eef363389c6a8a89e6d52bb386a2.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 514573,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep514573",
+                "long_title": "我终于可以跳芭蕾舞了",
+                "pub_time": 1654279200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第4话 我终于可以跳芭蕾舞了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep514573",
+                "short_link": "https://b23.tv/ep514573",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 554858484,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qv4y137SL",
+                "cid": 740156113,
+                "cover": "http://i0.hdslb.com/bfs/archive/119e46a32e0e71078e2c7c3816e30915174305f5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 514574,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep514574",
+                "long_title": "我怎么能死掉啊",
+                "pub_time": 1654884000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第5话 我怎么能死掉啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep514574",
+                "short_link": "https://b23.tv/ep514574",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 197,
+                        "start": 109
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 982306935,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ft4y1n7wP",
+                "cid": 740156114,
+                "cover": "http://i0.hdslb.com/bfs/archive/57cf1538210b8f71b5deb23c130171ee25ce4ed5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 514575,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep514575",
+                "long_title": "我为什么在跳芭蕾舞啊？",
+                "pub_time": 1655488800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第6话 我为什么在跳芭蕾舞啊？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep514575",
+                "short_link": "https://b23.tv/ep514575",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 214,
+                        "start": 126
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 983389560,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ht4y1475a",
+                "cid": 772077803,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f33b0ffdf0954d2487520c434b20fa4883def12.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1401000,
+                "from": "bangumi",
+                "id": 598596,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep598596",
+                "long_title": "啊 好羞耻",
+                "pub_time": 1657908000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第7话 啊 好羞耻",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep598596",
+                "short_link": "https://b23.tv/ep598596",
+                "skip": {
+                    "ed": {
+                        "end": 1385,
+                        "start": 1294
+                    },
+                    "op": {
+                        "end": 204,
+                        "start": 113
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 555908574,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ce4y1R7dk",
+                "cid": 772077705,
+                "cover": "http://i0.hdslb.com/bfs/archive/e5b17ba90e40f720e5108bbb8b6ede4b2f48812b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1258000,
+                "from": "bangumi",
+                "id": 598597,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep598597",
+                "long_title": "啊 好想再来一遍!!",
+                "pub_time": 1658512800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第8话 啊 好想再来一遍!!",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep598597",
+                "short_link": "https://b23.tv/ep598597",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 470880704,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ET411J7D7",
+                "cid": 772077706,
+                "cover": "http://i0.hdslb.com/bfs/archive/05df0262065ee327f5a9773926fdcaf58476c1de.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1390000,
+                "from": "bangumi",
+                "id": 598598,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep598598",
+                "long_title": "我也想跳得更好啊！",
+                "pub_time": 1659117600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第9话 我也想跳得更好啊！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep598598",
+                "short_link": "https://b23.tv/ep598598",
+                "skip": {
+                    "ed": {
+                        "end": 1375,
+                        "start": 1285
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 34
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 556010043,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ye4y1X7kv",
+                "cid": 776656313,
+                "cover": "http://i0.hdslb.com/bfs/archive/0c275d560aa0b62d2d50aa305ef534551cface07.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1367000,
+                "from": "bangumi",
+                "id": 621421,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep621421",
+                "long_title": "都，你必须……待在他身边",
+                "pub_time": 1659722400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第10话 都，你必须……待在他身边",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep621421",
+                "short_link": "https://b23.tv/ep621421",
+                "skip": {
+                    "ed": {
+                        "end": 1350,
+                        "start": 1261
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 37
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 813554560,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1e34y1J7Tx",
+                "cid": 776656277,
+                "cover": "http://i0.hdslb.com/bfs/archive/97670db0a3de9a3f2068c31ae94c5e5679560885.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1413000,
+                "from": "bangumi",
+                "id": 621422,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep621422",
+                "long_title": "啊 我好像喜欢古典芭蕾",
+                "pub_time": 1660327200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞动不止》第11话 啊 我好像喜欢古典芭蕾",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep621422",
+                "short_link": "https://b23.tv/ep621422",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看208.1万次",
+                "title": "11",
+                "vid": ""
+            }
+        ],
+        "evaluate": "首席男舞者——有资格饰演王子的芭蕾舞者。\n村尾润平是一名初二学生，他幼时被芭蕾舞的魅力吸引，但父亲的去世，让他决心“成为男子汉”，放弃了学习芭蕾舞。但有一天，美女转学生——五代都出现在了他面前。\n都发现润平喜爱芭蕾舞，并邀请他学舞。于是，润平和都的发小——森流莺一同，正式走上了成为芭蕾舞者的道路。\n“我要成为第一个日本籍首席男舞者”\n只有为芭蕾舞牺牲一切的人，才能在古典芭蕾舞界拥有一席之地。而润平这个彻头彻尾的初学者，又将面临怎样的命运？\n著名漫画家——GEORGE朝仓，其作品首次动画化！MAPPA（制作）×境宗久（导演）挑战芭蕾舞者们的热血青春芭蕾舞故事！！\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28237242/",
+        "media_id": 28237242,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 621422,
+            "is_new": 0,
+            "title": "11"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 66352,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-05-14 02:00:00",
+            "pub_time_show": "05月14日02:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1140,
+            "score": 8.9
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41533,
+        "season_title": "舞动不止",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/420743b813462d6f0537a1ba0ff49e01ac7355fc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8e563a29a9fb6b91df791a12eb5f869d038fc1e9.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/bbd0c93e09e30e27646b20424a44b2d9d2d31ea3.png",
+                "media_id": 28237242,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/97670db0a3de9a3f2068c31ae94c5e5679560885.png",
+                    "id": 621422,
+                    "index_show": "全11话"
+                },
+                "season_id": 41533,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 198674,
+                    "series_follow": 198674,
+                    "views": 2080733
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 212688577,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Qa411x7WP",
+                        "cid": 562773920,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d4dc06f4ab1cfd2d79afd6a18403a067f1d15376.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 47000,
+                        "from": "bangumi",
+                        "id": 477485,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep477485",
+                        "long_title": "",
+                        "pub_time": 1648636200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《舞动不止》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep477485",
+                        "short_link": "https://b23.tv/ep477485",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 381,
+                            "danmakus": 55,
+                            "likes": 2773,
+                            "play": 423166,
+                            "reply": 604
+                        },
+                        "status": 2,
+                        "subtitle": "已观看208.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 66363,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6063,
+            "series_title": "舞动不止"
+        },
+        "share_copy": "《舞动不止》芭蕾舞者们的世界",
+        "share_sub_title": "芭蕾舞者们的世界",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41533",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/4ef341fa95646a7c2549e08ba00358b411fba0ee.png",
+        "stat": {
+            "coins": 7801,
+            "danmakus": 8986,
+            "favorite": 1938,
+            "favorites": 198674,
+            "likes": 62597,
+            "reply": 2872,
+            "share": 1363,
+            "views": 2080733
+        },
+        "status": 13,
+        "subtitle": "已观看208.1万次",
+        "title": "舞动不止",
+        "total": 11,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

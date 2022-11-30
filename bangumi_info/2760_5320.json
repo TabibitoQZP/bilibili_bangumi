@@ -1,0 +1,786 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/9344b6f4b0c828c3837cee8fcdaf7a3fbb2250a1.jpg",
+        "episodes": [
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6273127,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 480,
+                    "rotate": 0,
+                    "width": 704
+                },
+                "duration": 1367000,
+                "from": "bangumi",
+                "id": 93115,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93115",
+                "long_title": "繼承行星的人",
+                "pub_time": 1469413885,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第1话 繼承行星的人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93115",
+                "short_link": "https://b23.tv/ep93115",
+                "skip": {
+                    "ed": {
+                        "end": 1351,
+                        "start": 1272
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "1",
+                "vid": "vupload_6273127"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6273128,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316571,
+                "from": "bangumi",
+                "id": 93116,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93116",
+                "long_title": "戰艦之歌",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第2话 戰艦之歌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93116",
+                "short_link": "https://b23.tv/ep93116",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "2",
+                "vid": "vupload_6273128"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6273129,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316478,
+                "from": "bangumi",
+                "id": 93117,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93117",
+                "long_title": "宇宙的接觸",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第3话 宇宙的接觸",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93117",
+                "short_link": "https://b23.tv/ep93117",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "3",
+                "vid": "vupload_6273129"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6273130,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1412493,
+                "from": "bangumi",
+                "id": 93118,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93118",
+                "long_title": "前哨",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第4话 前哨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93118",
+                "short_link": "https://b23.tv/ep93118",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "4",
+                "vid": "vupload_6273130"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6273131,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316437,
+                "from": "bangumi",
+                "id": 93119,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93119",
+                "long_title": "天使與太空船",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第5话 天使與太空船",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93119",
+                "short_link": "https://b23.tv/ep93119",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "5",
+                "vid": "vupload_6273131"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6275450,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316456,
+                "from": "bangumi",
+                "id": 93120,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93120",
+                "long_title": "來自過去的熱線",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第6话 來自過去的熱線",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93120",
+                "short_link": "https://b23.tv/ep93120",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "6",
+                "vid": "vupload_6275450"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6275451,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1412607,
+                "from": "bangumi",
+                "id": 93121,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93121",
+                "long_title": "輪環的世界",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第7话 輪環的世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93121",
+                "short_link": "https://b23.tv/ep93121",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "7",
+                "vid": "vupload_6275451"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6275452,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1315805,
+                "from": "bangumi",
+                "id": 93122,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93122",
+                "long_title": "月亮是無慈悲的黑暗帝王",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第8话 月亮是無慈悲的黑暗帝王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93122",
+                "short_link": "https://b23.tv/ep93122",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "8",
+                "vid": "vupload_6275452"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6281643,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316896,
+                "from": "bangumi",
+                "id": 93123,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93123",
+                "long_title": "人類不如",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第9话 人類不如",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93123",
+                "short_link": "https://b23.tv/ep93123",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "9",
+                "vid": "vupload_6281643"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6281644,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1412609,
+                "from": "bangumi",
+                "id": 93124,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93124",
+                "long_title": "女人不知道的男人",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第10话 女人不知道的男人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93124",
+                "short_link": "https://b23.tv/ep93124",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "10",
+                "vid": "vupload_6281644"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6281645,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1315968,
+                "from": "bangumi",
+                "id": 93125,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93125",
+                "long_title": "邁向成長的義式",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第11话 邁向成長的義式",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93125",
+                "short_link": "https://b23.tv/ep93125",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "11",
+                "vid": "vupload_6281645"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6281646,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1316130,
+                "from": "bangumi",
+                "id": 93126,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93126",
+                "long_title": "蓋尼米得的溫柔男人",
+                "pub_time": 1469413860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第12话 蓋尼米得的溫柔男人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93126",
+                "short_link": "https://b23.tv/ep93126",
+                "skip": {
+                    "ed": {
+                        "end": 1299,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "12",
+                "vid": "vupload_6281646"
+            },
+            {
+                "aid": 3900025,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197eM",
+                "cid": 6281647,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                "dimension": {
+                    "height": 480,
+                    "rotate": 0,
+                    "width": 704
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 93127,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep93127",
+                "long_title": "幼年期的開始",
+                "pub_time": 1469413885,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《基因攻防战》第13话 幼年期的開始",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep93127",
+                "short_link": "https://b23.tv/ep93127",
+                "skip": {
+                    "ed": {
+                        "end": 1396,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 65,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看17.8万次",
+                "title": "13",
+                "vid": "vupload_6281647"
+            }
+        ],
+        "evaluate": "　21世纪末，由于人类一昧的浪费资源破坏环境，加上被毫无根据的主义主张所怂恿而互相残杀，终究到了面临 灭亡的困境。为了避免灭亡，他们所作的选择是利用基因 操作，采取强制性的进化方法，预先准备程式而从 DNA产 出生命，连性格和适应能力都能掌控。由于人们丧失了恋爱、感情和支配欲，社会因此相当安定，一直到了23世纪 ，终于确立了完整的基因操作社会……\n　　Bandai Visual在2001年的力作之一。 透过近未来的舞台， 刻画出科技与人类息息相关的世界观。 剧中的两类超有型的机械人设计， 一直是动漫的瞩目焦点。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5320/",
+        "media_id": 5320,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 93127,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 22295,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2001-04-05 00:00:01",
+            "pub_time_show": "2001年4月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": -1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5320,
+        "season_title": "基因攻防战",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9344b6f4b0c828c3837cee8fcdaf7a3fbb2250a1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5320,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/61d7b85d2404d09f3253e6974a63d54fa90e23b2.jpg",
+                    "id": 93127,
+                    "index_show": "全13话"
+                },
+                "season_id": 5320,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 14981,
+                    "series_follow": 14981,
+                    "views": 177800
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3190,
+            "series_title": "基因攻防战"
+        },
+        "share_copy": "《基因攻防战》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5320",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d468451deb19e00c175ad8646ec0ade6f5d28fce.jpg",
+        "stat": {
+            "coins": 123,
+            "danmakus": 1345,
+            "favorite": 71,
+            "favorites": 14981,
+            "likes": 282,
+            "reply": 132,
+            "share": 53,
+            "views": 177800
+        },
+        "status": 2,
+        "subtitle": "已观看17.8万次",
+        "title": "基因攻防战",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

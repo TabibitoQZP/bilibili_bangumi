@@ -1,0 +1,174 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1210,
+            "title": "AME影视专区"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/94bb897f224e693eacbef0f8ba6048ece4eadb9f.png",
+        "episodes": [
+            {
+                "aid": 379567951,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vf4y1T7x5",
+                "cid": 452011387,
+                "cover": "http://i0.hdslb.com/bfs/archive/95b9c4181763527694bad88f1f4d5a3ca5ed46b7.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 146000,
+                "from": "bangumi",
+                "id": 445778,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep445778?theme=movie",
+                "long_title": "",
+                "pub_time": 1639648801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《全糖不加冰》人生需要全糖",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep445778",
+                "short_link": "https://b23.tv/ep445778",
+                "status": 2,
+                "subtitle": "已观看17.9万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "快生活节奏里，人们的心越来越浮躁，一味的追求虚无的东西而渐渐忽视身边触手可及的幸福，疫情期间更是让人们意识到了身边事物的重要性，作品将小幸福通过动画形成集合体展现。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236011/",
+        "media_id": 28236011,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2021上映",
+            "id": 445778,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 63565,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-12-16 17:49:00",
+            "pub_time_show": "2021年12月16日17:49",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40307,
+        "season_title": "全糖不加冰",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《全糖不加冰》人生需要全糖",
+        "share_sub_title": "人生需要全糖",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40307",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/cd6e11249d9014e1e454b7c08d83e39b9127ff5c.png",
+        "stat": {
+            "coins": 153,
+            "danmakus": 39,
+            "favorite": 246,
+            "favorites": 1672,
+            "likes": 1431,
+            "reply": 253,
+            "share": 65,
+            "views": 179151
+        },
+        "status": 2,
+        "subtitle": "已观看17.9万次",
+        "title": "全糖不加冰",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/d89c4acc3168187f081dcf1cdbb6a48a493282da.jpg",
+            "avatar_subscript_url": "",
+            "follower": 14005,
+            "is_follow": 0,
+            "mid": 353488692,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "AME影视计划",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

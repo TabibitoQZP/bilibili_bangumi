@@ -1,0 +1,1521 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/029d70cba6b87269045cb5281c400e7646ebe33d.png",
+        "episodes": [
+            {
+                "aid": 82464988,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1uJ41157b3",
+                "cid": 141097903,
+                "cover": "http://i0.hdslb.com/bfs/archive/de47af3c33da05a82e45984a486b31a7fa35d4bc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307501,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307501",
+                "long_title": "昆·扎扎号",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第1话 昆·扎扎号",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307501",
+                "short_link": "https://b23.tv/ep307501",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 283,
+                        "start": 193
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看379.4万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 82478015,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WJ41157TQ",
+                "cid": 141119692,
+                "cover": "http://i0.hdslb.com/bfs/archive/6b225ed2043a4ef05f4970cc4e54351131c8ab59.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307502,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307502",
+                "long_title": "赏金与极小龙的恶魔风",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第2话 赏金与极小龙的恶魔风",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307502",
+                "short_link": "https://b23.tv/ep307502",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 203,
+                        "start": 113
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 82546710,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yJ41157qf",
+                "cid": 141237648,
+                "cover": "http://i0.hdslb.com/bfs/archive/5b7ff8e40f524b822a1fe0b26510084f72d03992.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307503,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307503",
+                "long_title": "光龙",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第3话 光龙",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307503",
+                "short_link": "https://b23.tv/ep307503",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 279,
+                        "start": 189
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 82551977,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11J41157hp",
+                "cid": 141246983,
+                "cover": "http://i0.hdslb.com/bfs/archive/b06f358990f6240498c65b956666b5a8f38b95ae.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307504,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307504",
+                "long_title": "乘船理由与法式龙酱糜",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第4话 乘船理由与法式龙酱糜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307504",
+                "short_link": "https://b23.tv/ep307504",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 166,
+                        "start": 76
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 82569203,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16J41157DQ",
+                "cid": 141275575,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f6de28b1894c9485878939cb38ee0c1eaf76c02.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307505,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307505",
+                "long_title": "空中海盗与烟熏龙肉",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第5话 空中海盗与烟熏龙肉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307505",
+                "short_link": "https://b23.tv/ep307505",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 269,
+                        "start": 179
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 82570065,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16J41157e9",
+                "cid": 141277240,
+                "cover": "http://i0.hdslb.com/bfs/archive/e66a25db7e45037922b2b9d5fe43fa467d822284.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307506,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307506",
+                "long_title": "祭典与龙肉手抻汤面",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第6话 祭典与龙肉手抻汤面",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307506",
+                "short_link": "https://b23.tv/ep307506",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 82570652,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16J41157KL",
+                "cid": 141278258,
+                "cover": "http://i0.hdslb.com/bfs/archive/8af8ee8cd756a65b2cb9d6a935042d8535d057c7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307507,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307507",
+                "long_title": "大灾难与能吃的龙",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第7话 大灾难与能吃的龙",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307507",
+                "short_link": "https://b23.tv/ep307507",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 208,
+                        "start": 118
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 82572907,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kJ41157ws",
+                "cid": 141282076,
+                "cover": "http://i0.hdslb.com/bfs/archive/fdf9a176f556594721261c6fbefe64e574a5e412.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307508,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307508",
+                "long_title": "暴龙捕获作战",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第8话 暴龙捕获作战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307508",
+                "short_link": "https://b23.tv/ep307508",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 249,
+                        "start": 159
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 82577341,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GJ411G73r",
+                "cid": 141289521,
+                "cover": "http://i0.hdslb.com/bfs/archive/f3d2d5e8519f297b0d9f4b6a494962f155c5a8fb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307509,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307509",
+                "long_title": "赈灾炖菜与炸龙排",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第9话 赈灾炖菜与炸龙排",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307509",
+                "short_link": "https://b23.tv/ep307509",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 196,
+                        "start": 106
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 82582494,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VJ411G7Pf",
+                "cid": 141297968,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b17ff021d8023549fb92f184c5050d2d40b1704.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307510,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307510",
+                "long_title": "渡龙与谷底",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第10话 渡龙与谷底",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307510",
+                "short_link": "https://b23.tv/ep307510",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 250,
+                        "start": 160
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 82582632,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GJ411G7iN",
+                "cid": 141298317,
+                "cover": "http://i0.hdslb.com/bfs/archive/a3dd793860fb01d07d5764723e701dbebf40dad9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307511,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307511",
+                "long_title": "小小的龙与龙脑猎人锅",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第11话 小小的龙与龙脑猎人锅",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307511",
+                "short_link": "https://b23.tv/ep307511",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 87
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 82586484,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15J411G7na",
+                "cid": 141305037,
+                "cover": "http://i0.hdslb.com/bfs/archive/e7936f779057c497ff1783b446fd9230d446d16c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 307512,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307512",
+                "long_title": "龙之回廊",
+                "pub_time": 1578501600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎龙飞船》第12话 龙之回廊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307512",
+                "short_link": "https://b23.tv/ep307512",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看379.4万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "空之霸者·龙“Dragon”，这一存在对于大多数地面上的人类来说是威胁，也就是一场灾难，同时也是制药、炼油以及食用这些价值的“藏宝山”。\n有一种存在专门狩猎这样的龙“Dragon”，他们操纵着捕龙船，穿越天际，狩猎恶龙，以此持续着他们的旅行。\n他们就是“捕龙人”。这是一个关于一艘名为“昆·扎扎号”的捕龙船以及在这个船上的船员们的物语。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224138/",
+        "media_id": 28224138,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 307512,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 39383,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-09 00:40:00",
+            "pub_time_show": "2020年01月09日00:40",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5199,
+            "score": 8.8
+        },
+        "record": "登记号：10417060206412801",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29359,
+        "season_title": "猎龙飞船",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/029d70cba6b87269045cb5281c400e7646ebe33d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224138,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e7936f779057c497ff1783b446fd9230d446d16c.jpg",
+                    "id": 307512,
+                    "index_show": "全12话"
+                },
+                "season_id": 29359,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 217679,
+                    "series_follow": 217679,
+                    "views": 3794252
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 89833634,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14741177V6",
+                        "cid": 153431403,
+                        "cover": "http://i0.hdslb.com/bfs/archive/eb2c3f43e55580846e0bea1efdf9d05b4e83eda0.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313135,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313135",
+                        "long_title": "龙尾排三明治 前篇",
+                        "pub_time": 1578484800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第1话 龙尾排三明治 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313135",
+                        "short_link": "https://b23.tv/ep313135",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 33,
+                            "danmakus": 65,
+                            "likes": 1063,
+                            "play": 25252,
+                            "reply": 93
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 89950157,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1h7411L7K4",
+                        "cid": 153629648,
+                        "cover": "http://i0.hdslb.com/bfs/archive/832230dd86a3dc5d55a4fc416d233c4436e6d19c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313136,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313136",
+                        "long_title": "龙尾排三明治 后篇",
+                        "pub_time": 1579089600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第2话 龙尾排三明治 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313136",
+                        "short_link": "https://b23.tv/ep313136",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 17,
+                            "danmakus": 22,
+                            "likes": 1081,
+                            "play": 13430,
+                            "reply": 46
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 89954899,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1h7411L7ZZ",
+                        "cid": 153637556,
+                        "cover": "http://i0.hdslb.com/bfs/archive/9301ac420dd1417b8ca00b77b2bc21590d31cacd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313137,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313137",
+                        "long_title": "双孢蘑菇塞龙肉熟成烟熏火腿馅网烧 前篇",
+                        "pub_time": 1579694400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第3话 双孢蘑菇塞龙肉熟成烟熏火腿馅网烧 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313137",
+                        "short_link": "https://b23.tv/ep313137",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 19,
+                            "danmakus": 19,
+                            "likes": 1060,
+                            "play": 10138,
+                            "reply": 37
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 90077216,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1f7411L7B2",
+                        "cid": 153844123,
+                        "cover": "http://i0.hdslb.com/bfs/archive/78c5ba3bb0a1017a8f0f994a769ef8f404abf5fd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313138,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313138",
+                        "long_title": "双孢蘑菇塞龙肉熟成烟熏火腿馅网烧 后篇",
+                        "pub_time": 1580299200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第4话 双孢蘑菇塞龙肉熟成烟熏火腿馅网烧 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313138",
+                        "short_link": "https://b23.tv/ep313138",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 11,
+                            "danmakus": 6,
+                            "likes": 1203,
+                            "play": 8227,
+                            "reply": 27
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "4",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 90100348,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1T7411j7r3",
+                        "cid": 153882573,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0b429a777e6a59fc167bec837cf648238760d99e.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313139,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313139",
+                        "long_title": "克拉肯触手生肉片 前篇",
+                        "pub_time": 1580904000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第5话 克拉肯触手生肉片 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313139",
+                        "short_link": "https://b23.tv/ep313139",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 12,
+                            "danmakus": 8,
+                            "likes": 1278,
+                            "play": 9718,
+                            "reply": 35
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "5",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 90104454,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1M7411j7Xa",
+                        "cid": 153889440,
+                        "cover": "http://i0.hdslb.com/bfs/archive/cd1aa24c5bdc6dc535eb99af77e0d4134433efee.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313140,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313140",
+                        "long_title": "克拉肯触手生肉片 后篇",
+                        "pub_time": 1581508800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第6话 克拉肯触手生肉片 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313140",
+                        "short_link": "https://b23.tv/ep313140",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 8,
+                            "danmakus": 9,
+                            "likes": 1330,
+                            "play": 8702,
+                            "reply": 37
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "6",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 90106133,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1M7411j7V1",
+                        "cid": 153892550,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e544d37b76ef0da85def31edbbeed9e41c474aec.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313141,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313141",
+                        "long_title": "捕龙船伙食奶酪汉堡 前篇",
+                        "pub_time": 1582113600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第7话 捕龙船伙食奶酪汉堡 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313141",
+                        "short_link": "https://b23.tv/ep313141",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 40,
+                            "danmakus": 157,
+                            "likes": 2204,
+                            "play": 36150,
+                            "reply": 409
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "7",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 91861436,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV187411K7dW",
+                        "cid": 156858622,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/2dcd9541331f4bfe5e2780ba2a83de869f06e961.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 135000,
+                        "from": "bangumi",
+                        "id": 313142,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313142",
+                        "long_title": "捕龙船伙食奶酪汉堡 后篇",
+                        "pub_time": 1582718400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第8话 捕龙船伙食奶酪汉堡 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313142",
+                        "short_link": "https://b23.tv/ep313142",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 45,
+                            "danmakus": 70,
+                            "likes": 2669,
+                            "play": 31707,
+                            "reply": 158
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "8",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 93715001,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1FE411x7Hs",
+                        "cid": 160006329,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e7858975987e7c694d614e50cb42f3abfc89a891.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313143,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313143",
+                        "long_title": "炸龙排 前篇",
+                        "pub_time": 1583323200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第9话 炸龙排 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313143",
+                        "short_link": "https://b23.tv/ep313143",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 25,
+                            "danmakus": 45,
+                            "likes": 2539,
+                            "play": 28385,
+                            "reply": 128
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "9",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 95491585,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1tE411L7XM",
+                        "cid": 163025485,
+                        "cover": "http://i0.hdslb.com/bfs/archive/31025fb4422bb924c0dfbb2f1c2cd67642d83692.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 141000,
+                        "from": "bangumi",
+                        "id": 313144,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313144",
+                        "long_title": "炸龙排 后篇",
+                        "pub_time": 1583928000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第10话 炸龙排 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313144",
+                        "short_link": "https://b23.tv/ep313144",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 21,
+                            "danmakus": 65,
+                            "likes": 2622,
+                            "play": 28014,
+                            "reply": 103
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "10",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 97725084,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1sE411N77B",
+                        "cid": 166827779,
+                        "cover": "http://i0.hdslb.com/bfs/archive/08f554c80a5a5667081b080f7d4659052f64eec8.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 140000,
+                        "from": "bangumi",
+                        "id": 313145,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313145",
+                        "long_title": "库恩风炖菜 前篇",
+                        "pub_time": 1584532800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第11话 库恩风炖菜 前篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313145",
+                        "short_link": "https://b23.tv/ep313145",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 9,
+                            "danmakus": 6,
+                            "likes": 2206,
+                            "play": 15589,
+                            "reply": 39
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "11",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 285099118,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ec411h7Wo",
+                        "cid": 172663705,
+                        "cover": "http://i0.hdslb.com/bfs/archive/fab7efa346e2f254a08dad41925fbc5bda5e4298.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 140000,
+                        "from": "bangumi",
+                        "id": 313146,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep313146",
+                        "long_title": "库恩风炖菜 后篇",
+                        "pub_time": 1585742400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》第12话 库恩风炖菜 后篇",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep313146",
+                        "short_link": "https://b23.tv/ep313146",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 49,
+                            "danmakus": 21,
+                            "likes": 3330,
+                            "play": 26230,
+                            "reply": 161
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "12",
+                        "vid": ""
+                    }
+                ],
+                "id": 42786,
+                "title": "米卡的厨房",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 80850530,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19J411Y7NW",
+                        "cid": 138379612,
+                        "cover": "http://i0.hdslb.com/bfs/archive/f7b8db1aed7d49300dd6fe5d1422e9f137a8f34e.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 306630,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep306630",
+                        "long_title": "",
+                        "pub_time": 1577440325,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎龙飞船》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep306630",
+                        "short_link": "https://b23.tv/ep306630",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 122,
+                            "danmakus": 124,
+                            "likes": 87,
+                            "play": 139393,
+                            "reply": 561
+                        },
+                        "status": 2,
+                        "subtitle": "已观看379.4万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 41893,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4778,
+            "series_title": "空挺Dragons"
+        },
+        "share_copy": "《猎龙飞船》猎龙和美食的浪漫",
+        "share_sub_title": "猎龙和美食的浪漫",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29359",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/fc6ef2395942ddf4895b4b40669db2aafe709e13.jpg",
+        "stat": {
+            "coins": 13176,
+            "danmakus": 29397,
+            "favorite": 1266,
+            "favorites": 217679,
+            "likes": 41227,
+            "reply": 8825,
+            "share": 3987,
+            "views": 3794252
+        },
+        "status": 13,
+        "subtitle": "已观看379.4万次",
+        "title": "猎龙飞船",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

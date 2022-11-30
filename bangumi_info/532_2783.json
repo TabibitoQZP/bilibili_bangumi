@@ -1,0 +1,740 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/66ae74593891a95ee80d2c7cabc41d141acec928.jpg",
+        "episodes": [
+            {
+                "aid": 2973208,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rs411176x",
+                "cid": 4647270,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/82d50d1b5faf324f89664cedc2d9bcfdba15d085.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70378,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70378",
+                "long_title": "棒打出头狗",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第1话 棒打出头狗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70378",
+                "short_link": "https://b23.tv/ep70378",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 92
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "1",
+                "vid": "vupload_4647270"
+            },
+            {
+                "aid": 251842706,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1uY41147VA",
+                "cid": 4647271,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1f08aebe6e66f967911e7f7c1410ca5eac45af5f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70379,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70379",
+                "long_title": "趁热打狗",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第2话 趁热打狗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70379",
+                "short_link": "https://b23.tv/ep70379",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 74
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "2",
+                "vid": "vupload_4647271"
+            },
+            {
+                "aid": 209366993,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rh41147oP",
+                "cid": 4647272,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/74dce6a901fbcfca202517b559497dad8e13ce50.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70381,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70381",
+                "long_title": "飞狗扑火",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第3话 飞狗扑火",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70381",
+                "short_link": "https://b23.tv/ep70381",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 87
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "3",
+                "vid": "vupload_4647272"
+            },
+            {
+                "aid": 549316770,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xq4y1u7Ni",
+                "cid": 4647273,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d298b1d5237627d52208fa7f26441c1c5e5e9804.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70385,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70385",
+                "long_title": "慌不择犬",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第4话 慌不择犬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70385",
+                "short_link": "https://b23.tv/ep70385",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 92
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "4",
+                "vid": "vupload_4647273"
+            },
+            {
+                "aid": 676758483,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KU4y1u7Qq",
+                "cid": 4658087,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c22e0ee381d4ea2b59470c47b9ad7862148b9bb4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70386,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70386",
+                "long_title": "不入虎穴焉得虎子",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第5话 不入虎穴焉得虎子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70386",
+                "short_link": "https://b23.tv/ep70386",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 40
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "5",
+                "vid": "vupload_4658087"
+            },
+            {
+                "aid": 464343735,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cL411M7Vz",
+                "cid": 4647275,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/62eed3c3dea2fadb73550e47fbdb0dcf4b653ed4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70388,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70388",
+                "long_title": "狗不打不相识",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第6话 狗不打不相识",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70388",
+                "short_link": "https://b23.tv/ep70388",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 86
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "6",
+                "vid": "vupload_4647275"
+            },
+            {
+                "aid": 764373643,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cr4y1k7FY",
+                "cid": 4647276,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/895a9ee2a6836ba8d8c5c8e8dff307cc6544ee21.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70389,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70389",
+                "long_title": "枪打出头狗",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第7话 枪打出头狗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70389",
+                "short_link": "https://b23.tv/ep70389",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 63
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "7",
+                "vid": "vupload_4647276"
+            },
+            {
+                "aid": 721762923,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12S4y197Am",
+                "cid": 4647277,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c65df8fc2cd821f63d6b18739ee94cf1d58efb7d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70390,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70390",
+                "long_title": "犬及必反",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第8话 犬及必反",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70390",
+                "short_link": "https://b23.tv/ep70390",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 94,
+                        "start": 6
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "8",
+                "vid": "vupload_4647277"
+            },
+            {
+                "aid": 676863505,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1dU4y1K7hz",
+                "cid": 4647278,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f6f1c8324c8aff154c1c1d103556c58fe5e9ec92.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70392,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70392",
+                "long_title": "无犬不起浪",
+                "pub_time": 1443495180,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第9话 无犬不起浪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70392",
+                "short_link": "https://b23.tv/ep70392",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "9",
+                "vid": "vupload_4647278"
+            },
+            {
+                "aid": 976830844,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1K44y1Y7GW",
+                "cid": 4647279,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cfccef1a33676a1e7946f3c33d396fda95ef72b9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70393,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70393",
+                "long_title": "光阴似犬",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第10话 光阴似犬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70393",
+                "short_link": "https://b23.tv/ep70393",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 22
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "10",
+                "vid": "vupload_4647279"
+            },
+            {
+                "aid": 251778255,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1UY411x7sY",
+                "cid": 4647280,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/553dde750417acb6c9d0aa3c16b47d9cf8c37d57.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70394,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70394",
+                "long_title": "相狗即是缘",
+                "pub_time": 1443495208,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第11话 相狗即是缘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70394",
+                "short_link": "https://b23.tv/ep70394",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 36
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "11",
+                "vid": "vupload_4647280"
+            },
+            {
+                "aid": 591783468,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xq4y167Z3",
+                "cid": 4647281,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a15e967b70ead3a730fb760cc8b5cfd8d3f84074.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70396,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70396",
+                "long_title": "狗与剪刀的正确用法",
+                "pub_time": 1443495180,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《狗与剪刀的正确用法》第12话 狗与剪刀的正确用法",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70396",
+                "short_link": "https://b23.tv/ep70396",
+                "skip": {
+                    "ed": {
+                        "end": 1339,
+                        "start": 1272
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1699.1万次",
+                "title": "12",
+                "vid": "vupload_4647281"
+            }
+        ],
+        "evaluate": "    「还没看完怎麼能死！」某一天，我意外死在强盗手中，却由於身为书痴的执著而奇迹似地复活……以腊肠狗的外貌复活。为什麼是狗啊！这样叫我要怎麼看书！我正在烦恼时，眼前出现把剪刀当武器的虐待狂──夏野雾姬。这人怎麼看都是个危险分子，可是她听得懂狗语，而且，她的真实身分竟是我最崇拜的作家秋山忍！我今後该如何是好？杀死我的强盗又下落何处？第十二届ENTAME大赏优秀赏得奖作品，悬疑风格的无厘头喜剧！\n\n    由更伊俊介所著、锅岛哲弘绘制插画的轻小说「狗与剪刀的正确用法」TV动画化决定，预定于今年7月开始播放。本作曾荣获第12回Entame大赏小说部门优秀赏，单行本至今已推出了本篇6卷外加短篇集2卷。而由大庭下门负责作画的漫画，已于「月刊少年Ace」2012年7月号上开始连载，单行本已发行了1卷。\n\n    本作动画的制作公司确定是GONZO，4月新番「绝对防卫利维坦」以及同样也是7月开播的「有你的小镇」均是由GONZO制作的。出演动画的声优阵容与去年3月推出的广播剧CD一样，也是由樱井孝宏、井上麻里奈、阿澄佳奈、伊藤静这四位知名声优分别出演男主角春海和人、女主角夏野雾姬、男主角的妹妹..",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2783/",
+        "media_id": 2783,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 70396,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 19838,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-07-01 00:00:00",
+            "pub_time_show": "2013年07月01日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5699,
+            "score": 9.1
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2783,
+        "season_title": "狗与剪刀的正确用法",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/66ae74593891a95ee80d2c7cabc41d141acec928.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2783,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a15e967b70ead3a730fb760cc8b5cfd8d3f84074.jpg",
+                    "id": 70396,
+                    "index_show": "全12话"
+                },
+                "season_id": 2783,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 963441,
+                    "series_follow": 963441,
+                    "views": 16991261
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1885,
+            "series_title": "狗与剪刀的正确用法"
+        },
+        "share_copy": "《狗与剪刀的正确用法》死后变成了狗？",
+        "share_sub_title": "死后变成了狗？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2783",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/406c85f00e9e3aafc78ac89f16390b554d2b747c.jpg",
+        "stat": {
+            "coins": 52376,
+            "danmakus": 811062,
+            "favorite": 8057,
+            "favorites": 963441,
+            "likes": 58890,
+            "reply": 12332,
+            "share": 15725,
+            "views": 16991261
+        },
+        "status": 2,
+        "subtitle": "已观看1699.1万次",
+        "title": "狗与剪刀的正确用法",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,790 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/42076533236ebd6bdf26ed818032469e6e69c043.jpg",
+        "episodes": [
+            {
+                "aid": 903985,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ss411o7FE",
+                "cid": 1314405,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/698d5a04afa4d56fe6a685f842338163a3f5c54b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5052,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5052",
+                "long_title": "来了！来了！",
+                "pub_time": 1389221272,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第1话 来了！来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5052",
+                "short_link": "https://b23.tv/ep5052",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "1",
+                "vid": "123868856"
+            },
+            {
+                "aid": 913612,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xs411o7Zi",
+                "cid": 1327342,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b9b8440de3c9fb83db1b6d19a05d3225edfe33c6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5051,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5051",
+                "long_title": "来学校了！",
+                "pub_time": 1389839067,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第2话 来学校了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5051",
+                "short_link": "https://b23.tv/ep5051",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "2",
+                "vid": "124325236"
+            },
+            {
+                "aid": 924255,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns411Z7CG",
+                "cid": 1341484,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1d862ef83a8f0a53dff6dfca7fe67f337fcef592.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5050,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5050",
+                "long_title": "姐姐们来了！",
+                "pub_time": 1390448510,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第3话 姐姐们来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5050",
+                "short_link": "https://b23.tv/ep5050",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "3",
+                "vid": "124791282"
+            },
+            {
+                "aid": 936422,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fs411o7at",
+                "cid": 1357255,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b291c2a222bd64894516a87dec34ab00c6d57bb4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5049,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5049",
+                "long_title": "硬派的孝喜来了！",
+                "pub_time": 1391055473,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第4话 硬派的孝喜来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5049",
+                "short_link": "https://b23.tv/ep5049",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "4",
+                "vid": "125238636"
+            },
+            {
+                "aid": 947792,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1As411Z7vy",
+                "cid": 1373324,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9bffed4015b0f6d0f304b60bf1d5e34bd48a9589.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5048,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5048",
+                "long_title": "泳装，来了！",
+                "pub_time": 1391664013,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第5话 泳装，来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5048",
+                "short_link": "https://b23.tv/ep5048",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "5",
+                "vid": "125571652"
+            },
+            {
+                "aid": 961517,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411Z7CQ",
+                "cid": 1391044,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/233b8c47264fc1a7537c85f915597f9775d803c0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5047,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5047",
+                "long_title": "帅哥，来了！",
+                "pub_time": 1392267723,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第6话 帅哥，来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5047",
+                "short_link": "https://b23.tv/ep5047",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "6",
+                "vid": "126056837"
+            },
+            {
+                "aid": 974778,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1gs411Z7nD",
+                "cid": 1409249,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/218a40a8a3403dae3b4932581bd27c9998bf128a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180333,
+                "from": "bangumi",
+                "id": 5046,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5046",
+                "long_title": "圣诞节、来了！",
+                "pub_time": 1392875100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第7话 圣诞节、来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5046",
+                "short_link": "https://b23.tv/ep5046",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "7",
+                "vid": "126579845"
+            },
+            {
+                "aid": 986038,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss411Z7Aa",
+                "cid": 1424966,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d854ac5f66052c7c95ae30cc173bbdc0d34aece0.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180181,
+                "from": "bangumi",
+                "id": 5045,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5045",
+                "long_title": "正月、来了！",
+                "pub_time": 1393477980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第8话 正月、来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5045",
+                "short_link": "https://b23.tv/ep5045",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "8",
+                "vid": "127118725"
+            },
+            {
+                "aid": 996464,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ts411Z7mX",
+                "cid": 1440732,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5b22c43a64d936bf5658bc5fd924516aa691916d.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180011,
+                "from": "bangumi",
+                "id": 5044,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5044",
+                "long_title": "情人节、快来了！",
+                "pub_time": 1394082900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第9话 情人节、快来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5044",
+                "short_link": "https://b23.tv/ep5044",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "9",
+                "vid": "127690474"
+            },
+            {
+                "aid": 1007484,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ns411Z7Tc",
+                "cid": 1456946,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7e5ddaecf274b2f8ee2011b79d79e55f54036242.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180167,
+                "from": "bangumi",
+                "id": 5043,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5043",
+                "long_title": "情人节、来了！",
+                "pub_time": 1394687340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第10话 情人节、来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5043",
+                "short_link": "https://b23.tv/ep5043",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "10",
+                "vid": "128277549"
+            },
+            {
+                "aid": 1018419,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1es411Z71G",
+                "cid": 1473362,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b7f039dea936a5aa5546174258958b6a3572930e.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180160,
+                "from": "bangumi",
+                "id": 5042,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5042",
+                "long_title": "白色情人节、来了！",
+                "pub_time": 1395290640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第11话 白色情人节、来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5042",
+                "short_link": "https://b23.tv/ep5042",
+                "skip": {
+                    "ed": {
+                        "end": 177,
+                        "start": 147
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "11",
+                "vid": "128870475"
+            },
+            {
+                "aid": 1023142,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs411Z7b8",
+                "cid": 1480306,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c712393f9a3c54d3c51999c3e465178568948890.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180000,
+                "from": "bangumi",
+                "id": 5041,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5041",
+                "long_title": "看病、来了！",
+                "pub_time": 1395508830,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第12话 看病、来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5041",
+                "short_link": "https://b23.tv/ep5041",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "12",
+                "vid": "129102151"
+            },
+            {
+                "aid": 1023198,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs411Z74x",
+                "cid": 1480382,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/558e0309061912fa94d8a6084fa91950baecf5cb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 264000,
+                "from": "bangumi",
+                "id": 5040,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep5040",
+                "long_title": "第一次的…来了！",
+                "pub_time": 1395511631,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《姐姐来了》第13话 第一次的…来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep5040",
+                "short_link": "https://b23.tv/ep5040",
+                "skip": {
+                    "ed": {
+                        "end": 264,
+                        "start": 230
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1997.7万次",
+                "title": "13",
+                "vid": "129105611"
+            }
+        ],
+        "evaluate": "某日，由于父亲再婚而多了“姐姐”的水原朋也（13岁）面前出现了超级弟控水原一香（17岁）！作为弟控的水原一香身边还有形形色色的同学们，最高最强的抖S琉璃，爆乳宅女麻里奈！于是水原朋也一边觉得姐姐的爱好沉重一边与“姐姐们”展开了丰富多彩的生活喜剧！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md238/",
+        "media_id": 238,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 5040,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 17225,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-01-08 00:00:00",
+            "pub_time_show": "2014年01月08日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3168,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 238,
+        "season_title": "姐姐来了",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/42076533236ebd6bdf26ed818032469e6e69c043.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 238,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/558e0309061912fa94d8a6084fa91950baecf5cb.jpg",
+                    "id": 5040,
+                    "index_show": "全13话"
+                },
+                "season_id": 238,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 563245,
+                    "series_follow": 563245,
+                    "views": 19977300
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 151,
+            "series_title": "姐姐来了"
+        },
+        "share_copy": "《姐姐来了》沙雕姐弟的日常",
+        "share_sub_title": "沙雕姐弟的日常",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss238",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/569052ac4ddec0372cd9e23d277a97572bcf4e57.jpg",
+        "stat": {
+            "coins": 25464,
+            "danmakus": 78566,
+            "favorite": 3927,
+            "favorites": 563245,
+            "likes": 51254,
+            "reply": 9947,
+            "share": 5323,
+            "views": 19977300
+        },
+        "status": 2,
+        "subtitle": "已观看1997.7万次",
+        "title": "姐姐来了",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

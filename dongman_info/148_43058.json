@@ -1,0 +1,1033 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1516,
+            "title": "明日方舟追番活动"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/037f854d0ec1748bad9e6494603d650c72cb2bc2.png",
+        "episodes": [
+            {
+                "aid": 689471209,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wm4y1F7vw",
+                "cid": 895248017,
+                "cover": "http://i0.hdslb.com/bfs/archive/0df01a04630cf25ae47b289d5a5e2543fba95609.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 680720,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep680720",
+                "long_title": "觉醒",
+                "pub_time": 1666974180,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第1话 觉醒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep680720",
+                "short_link": "https://b23.tv/ep680720",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看945.8万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 647156360,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fe4y1t7C6",
+                "cid": 885072742,
+                "cover": "http://i0.hdslb.com/bfs/archive/528e1a4a08971433d26c49250c1cfe922b7cbb9e.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 1428000,
+                "from": "bangumi",
+                "id": 680721,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep680721",
+                "long_title": "危殆",
+                "pub_time": 1667578980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第2话 危殆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep680721",
+                "short_link": "https://b23.tv/ep680721",
+                "skip": {
+                    "ed": {
+                        "end": 1427,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 6,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看945.8万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 562432452,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1uv4y1S7v6",
+                "cid": 885905843,
+                "cover": "http://i0.hdslb.com/bfs/archive/c112c5a000857068d510d10de7b49cb60396789c.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 680722,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep680722",
+                "long_title": "归家",
+                "pub_time": 1668183780,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第3话 归家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep680722",
+                "short_link": "https://b23.tv/ep680722",
+                "skip": {
+                    "ed": {
+                        "end": 1428,
+                        "start": 1339
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 66
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看945.8万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 262455790,
+                "badge": "预告",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "预告"
+                },
+                "badge_type": 1,
+                "bvid": "BV1HY411Z7s7",
+                "cid": 885904701,
+                "cover": "http://i0.hdslb.com/bfs/archive/0797461cbf50ae7eea9c78a4f1b572b61cef977a.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 31000,
+                "from": "bangumi",
+                "id": 693042,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep693042",
+                "long_title": "契约",
+                "pub_time": 1668183780,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第4集预告 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep693042",
+                "short_link": "https://b23.tv/ep693042",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看945.8万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 305244327,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12P411g7gn",
+                "cid": 894264881,
+                "cover": "http://i0.hdslb.com/bfs/archive/0797461cbf50ae7eea9c78a4f1b572b61cef977a.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 680723,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep680723",
+                "long_title": "契约",
+                "pub_time": 1668788580,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第4话 契约",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep680723",
+                "short_link": "https://b23.tv/ep680723",
+                "skip": {
+                    "ed": {
+                        "end": 1428,
+                        "start": 1339
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看945.8万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 517692907,
+                "badge": "预告",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "预告"
+                },
+                "badge_type": 1,
+                "bvid": "BV16g411q7Y9",
+                "cid": 894261409,
+                "cover": "http://i0.hdslb.com/bfs/archive/874a505da973a7229dc7a315810425cdb90e7596.jpg",
+                "dimension": {
+                    "height": 1632,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 31000,
+                "from": "bangumi",
+                "id": 693043,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep693043",
+                "long_title": "",
+                "pub_time": 1668788580,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《明日方舟：黎明前奏 中配版》第5集预告 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep693043",
+                "short_link": "https://b23.tv/ep693043",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看945.8万次",
+                "title": "5",
+                "vid": ""
+            }
+        ],
+        "evaluate": "为躲避无规律发生的天灾，大多数泰拉人生活在移动城市中。天灾过后会留下蕴藏巨大能量的源石，这在给予文明飞跃进步的同时，也引发了极具传染性的不治之症——矿石病。\n致力于解决天灾与矿石病带来的诸多问题，罗德岛积极游走于泰拉的各个角落。同时自称“为感染者争夺基本权利”的整合运动，正在引发前所未闻的大规模暴动……",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28339621/",
+        "media_id": 28339621,
+        "mode": 2,
+        "new_ep": {
+            "desc": "连载中, 每周六 00:23更新",
+            "id": 680723,
+            "is_new": 0,
+            "title": "4"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 86292,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 1,
+            "pub_time": "2022-10-29 00:23:00",
+            "pub_time_show": "10月29日00:23",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1556,
+            "score": 9.2
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 340,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 43058,
+        "season_title": "明日方舟：黎明前奏 中配版",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3004006d0fcde7ddbe246084132776881959882e.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/62aed121788f74fd1a3a79ffe637091a0b843e2d.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/79f93097de95a293c96697353640fdb05ccd539f.png",
+                "media_id": 28339620,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0797461cbf50ae7eea9c78a4f1b572b61cef977a.jpg",
+                    "id": 680715,
+                    "index_show": "更新至第4话"
+                },
+                "season_id": 43057,
+                "season_title": "日配版",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1404213,
+                    "series_follow": 1564418,
+                    "views": 20465918
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/037f854d0ec1748bad9e6494603d650c72cb2bc2.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/1a638b05a596dce3cb8baa2c81956ed92bbb8d3d.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/30da1fa62193c03ae767a40d679de434f080d6cd.png",
+                "media_id": 28339621,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0797461cbf50ae7eea9c78a4f1b572b61cef977a.jpg",
+                    "id": 680723,
+                    "index_show": "更新至第4话"
+                },
+                "season_id": 43058,
+                "season_title": "中配版",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 880217,
+                    "series_follow": 1564418,
+                    "views": 9458129
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 262709630,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1MY411o7SV",
+                        "cid": 895154917,
+                        "cover": "http://i0.hdslb.com/bfs/archive/5394337040b6813d87d95ac51565fffd36625c3b.jpg",
+                        "dimension": {
+                            "height": 2160,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 262000,
+                        "from": "bangumi",
+                        "id": 702955,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep702955",
+                        "long_title": "《Alive（Monster Siren Records）》 Music Video",
+                        "pub_time": 1668783600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》片头曲MV 《Alive（Monster Siren Records）》 Music Video",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep702955",
+                        "short_link": "https://b23.tv/ep702955",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1024,
+                            "danmakus": 60,
+                            "likes": 6001,
+                            "play": 40520,
+                            "reply": 151
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "片头曲MV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 262156998,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1rY411f73W",
+                        "cid": 878407635,
+                        "cover": "http://i0.hdslb.com/bfs/archive/897063811f0e02cc02e8c2fdd6311ccd7d5863de.jpg",
+                        "dimension": {
+                            "height": 1632,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 697108,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep697108",
+                        "long_title": "《Alive(Monster Siren Records)》",
+                        "pub_time": 1667617200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》片头曲 《Alive(Monster Siren Records)》",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep697108",
+                        "short_link": "https://b23.tv/ep697108",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1472,
+                            "danmakus": 40,
+                            "likes": 6780,
+                            "play": 119235,
+                            "reply": 146
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "片头曲",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 474726270,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qK411S7X6",
+                        "cid": 878407711,
+                        "cover": "http://i0.hdslb.com/bfs/archive/abbbabfcee52d0110a9b18c42bbf17c18d9c8152.jpg",
+                        "dimension": {
+                            "height": 1632,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 697109,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep697109",
+                        "long_title": "《BE ME(Monster Siren Records)》",
+                        "pub_time": 1667617200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》片尾曲 《BE ME(Monster Siren Records)》",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep697109",
+                        "short_link": "https://b23.tv/ep697109",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1955,
+                            "danmakus": 98,
+                            "likes": 8007,
+                            "play": 109807,
+                            "reply": 178
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "片尾曲",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 816792887,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1gG4y1H7P9",
+                        "cid": 868642293,
+                        "cover": "http://i0.hdslb.com/bfs/archive/fb856df9278948a03993c22f95b0b5c0b35b5f3b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 96000,
+                        "from": "bangumi",
+                        "id": 691866,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep691866",
+                        "long_title": "",
+                        "pub_time": 1666530600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》正式PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep691866",
+                        "short_link": "https://b23.tv/ep691866",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 7725,
+                            "danmakus": 363,
+                            "likes": 25655,
+                            "play": 928276,
+                            "reply": 1671
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "正式PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 773280127,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1y14y1Y7Kb",
+                        "cid": 841038786,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d944e3981dd5ff03491e63facee59a92894b03d3.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 82000,
+                        "from": "bangumi",
+                        "id": 680470,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep680470",
+                        "long_title": "10月29日，为我们带去胜利的希望",
+                        "pub_time": 1664010000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》定档PV 10月29日，为我们带去胜利的希望",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep680470",
+                        "short_link": "https://b23.tv/ep680470",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 15311,
+                            "danmakus": 909,
+                            "likes": 36052,
+                            "play": 1335845,
+                            "reply": 2112
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "定档PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 260859879,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17e411K7hG",
+                        "cid": 841042204,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6f2550b9958835fafac18334ef1a9bdd71305eb1.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 56000,
+                        "from": "bangumi",
+                        "id": 680469,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep680469",
+                        "long_title": "",
+                        "pub_time": 1664010000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》先导PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep680469",
+                        "short_link": "https://b23.tv/ep680469",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 5295,
+                            "danmakus": 63,
+                            "likes": 6903,
+                            "play": 191495,
+                            "reply": 251
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "先导PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 688294856,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1524y1o7ND",
+                        "cid": 841040936,
+                        "cover": "http://i0.hdslb.com/bfs/archive/7b647bc6b687af6fac95b85cac068a2107989dfa.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 49000,
+                        "from": "bangumi",
+                        "id": 680468,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep680468",
+                        "long_title": "",
+                        "pub_time": 1664010000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》先导PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep680468",
+                        "short_link": "https://b23.tv/ep680468",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1850,
+                            "danmakus": 57,
+                            "likes": 5372,
+                            "play": 114727,
+                            "reply": 282
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "先导PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 431902792,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1yG411L7kB",
+                        "cid": 873359380,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ad125ad8987f23a33156b840765a42b758d86c92.png",
+                        "dimension": {
+                            "height": 816,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 31000,
+                        "from": "bangumi",
+                        "id": 693040,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep693040",
+                        "long_title": "",
+                        "pub_time": 1666974180,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》第2集预告 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep693040",
+                        "short_link": "https://b23.tv/ep693040",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 9218,
+                            "danmakus": 604,
+                            "likes": 16512,
+                            "play": 446405,
+                            "reply": 806
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "第2集预告",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 604709441,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1584y1q7U1",
+                        "cid": 878412157,
+                        "cover": "http://i0.hdslb.com/bfs/archive/b8e623aec398590e471ad1c6522d2d82ea843e6e.png",
+                        "dimension": {
+                            "height": 816,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 31000,
+                        "from": "bangumi",
+                        "id": 693041,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep693041",
+                        "long_title": "",
+                        "pub_time": 1667578980,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《明日方舟：黎明前奏 中配版》第3集预告 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep693041",
+                        "short_link": "https://b23.tv/ep693041",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 663,
+                            "danmakus": 37,
+                            "likes": 6832,
+                            "play": 131028,
+                            "reply": 97
+                        },
+                        "status": 2,
+                        "subtitle": "已观看945.8万次",
+                        "title": "第3集预告",
+                        "vid": ""
+                    }
+                ],
+                "id": 86361,
+                "title": "预告",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6231,
+            "series_title": "明日方舟"
+        },
+        "share_copy": "《明日方舟：黎明前奏 中配版》罗德岛出击！",
+        "share_sub_title": "罗德岛出击！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss43058",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/0e132ce4b39fd3d229111f7686b27f2a30f9aee5.jpg",
+        "stat": {
+            "coins": 131614,
+            "danmakus": 63776,
+            "favorite": 36843,
+            "favorites": 880218,
+            "likes": 280081,
+            "reply": 17543,
+            "share": 31772,
+            "views": 9458131
+        },
+        "status": 13,
+        "subtitle": "已观看945.8万次",
+        "title": "明日方舟：黎明前奏 中配版",
+        "total": 8,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

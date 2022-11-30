@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/557d34915075b0fcdaeef9c4f6d1212dca95c379.png",
+        "episodes": [
+            {
+                "aid": 40451039,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qt411p7Z1",
+                "cid": 71046347,
+                "cover": "http://i0.hdslb.com/bfs/archive/c44aef312097bcf8e666fd539670f119507379ea.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259890,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259890",
+                "long_title": "小红帽的森林",
+                "pub_time": 1547190000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第1话 小红帽的森林",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259890",
+                "short_link": "https://b23.tv/ep259890",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 40
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看894.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 41019415,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ft411a7cg",
+                "cid": 72053794,
+                "cover": "http://i0.hdslb.com/bfs/archive/2a659d298dd90e6562ea649a4db463bdadf1c00e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259891,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259891",
+                "long_title": "堂吉诃德的信念",
+                "pub_time": 1547794800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第2话 堂吉诃德的信念",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259891",
+                "short_link": "https://b23.tv/ep259891",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 91
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 41641422,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ut411b7ka",
+                "cid": 73123614,
+                "cover": "http://i0.hdslb.com/bfs/archive/f8c00405958074d9e5cd33b86e1a5ff29a39667a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259892,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259892",
+                "long_title": "追忆的灰姑娘",
+                "pub_time": 1548399600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第3话 追忆的灰姑娘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259892",
+                "short_link": "https://b23.tv/ep259892",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 215,
+                        "start": 125
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 42324846,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18b411k7QB",
+                "cid": 74287247,
+                "cover": "http://i0.hdslb.com/bfs/archive/8d5397ab2a9097e64eb46cd582311b473f346eab.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259893,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259893",
+                "long_title": "艾克斯的起程",
+                "pub_time": 1549004400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第4话 艾克斯的起程",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259893",
+                "short_link": "https://b23.tv/ep259893",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 42934327,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xb41167K9",
+                "cid": 75286472,
+                "cover": "http://i0.hdslb.com/bfs/archive/21dd2410f671072d9a43ddabc54f42e0f25d84c3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259894,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259894",
+                "long_title": "梦想与浪漫的金银岛",
+                "pub_time": 1549609200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第5话 梦想与浪漫的金银岛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259894",
+                "short_link": "https://b23.tv/ep259894",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 43625150,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bb41127cU",
+                "cid": 76442009,
+                "cover": "http://i0.hdslb.com/bfs/archive/8f1678d6433f3cb93e65ca5718f7af24ae712544.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259895,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259895",
+                "long_title": "艾克斯和白雪公主",
+                "pub_time": 1550214198,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第6话 艾克斯和白雪公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259895",
+                "short_link": "https://b23.tv/ep259895",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 153,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 44364124,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tb411h75a",
+                "cid": 77682507,
+                "cover": "http://i0.hdslb.com/bfs/archive/e506f9a4148ce77c75d58b27e5cf116833fc1a06.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259896,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259896",
+                "long_title": "格尔达和冰雪女王",
+                "pub_time": 1550819496,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第7话 格尔达和冰雪女王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259896",
+                "short_link": "https://b23.tv/ep259896",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 27
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 45006427,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hb411b7p1",
+                "cid": 78823759,
+                "cover": "http://i0.hdslb.com/bfs/archive/b2c728b226ed3e2d36408039172468c7dd1ade21.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259897,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259897",
+                "long_title": "鬼岛的兄妹",
+                "pub_time": 1551423768,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第8话 鬼岛的兄妹",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259897",
+                "short_link": "https://b23.tv/ep259897",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 161,
+                        "start": 71
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 45665992,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sb411v787",
+                "cid": 80368534,
+                "cover": "http://i0.hdslb.com/bfs/archive/82bdbc13c3c7958761b744d24e0ef5b79872bcfe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259898,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259898",
+                "long_title": "热沙的阿拉丁",
+                "pub_time": 1552028400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第9话 热沙的阿拉丁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259898",
+                "short_link": "https://b23.tv/ep259898",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 20
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 46328176,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rb411H7Rc",
+                "cid": 81169808,
+                "cover": "http://i0.hdslb.com/bfs/archive/205f6d06c4c6264ed7be87d20643802eab89b17a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259899,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259899",
+                "long_title": "奥尔良的圣女",
+                "pub_time": 1552633482,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第10话 奥尔良的圣女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259899",
+                "short_link": "https://b23.tv/ep259899",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 46985755,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wb41177Pr",
+                "cid": 82297172,
+                "cover": "http://i0.hdslb.com/bfs/archive/2c18374a57c150f63f0f892a3c628243442e10db.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 259900,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259900",
+                "long_title": "不可思议国度的蕾娜",
+                "pub_time": 1553238639,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第11话 不可思议国度的蕾娜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259900",
+                "short_link": "https://b23.tv/ep259900",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 47647093,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1db411x7Q4",
+                "cid": 83460411,
+                "cover": "http://i0.hdslb.com/bfs/archive/708ef17371b2a72da17602b153108c667c0dce6f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 259901,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259901",
+                "long_title": "不为人知的童话",
+                "pub_time": 1553842800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《格林笔记 The Animation》第12话 不为人知的童话",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259901",
+                "short_link": "https://b23.tv/ep259901",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 83
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看894.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "人们从出生开始就被赋予了一本书。从生到死按照“命运之书”记载的脚本生存下去的宿命。在此之中，持有空白脚本的“空白之书”出生的艾克斯，与同样拥有“空白之书”的同伴们相遇，踏上了寻找自己使命的旅程。这是一部被不断阅读过的童话故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5871233/",
+        "media_id": 5871233,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 259901,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 35684,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-11 15:00:00",
+            "pub_time_show": "2019年01月11日15:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3666,
+            "score": 8.9
+        },
+        "record": "登记号：10417060209432801",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26280,
+        "season_title": "格林笔记 The Animation",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/557d34915075b0fcdaeef9c4f6d1212dca95c379.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5871233,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/708ef17371b2a72da17602b153108c667c0dce6f.jpg",
+                    "id": 259901,
+                    "index_show": "全12话"
+                },
+                "season_id": 26280,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 637925,
+                    "series_follow": 637925,
+                    "views": 8946822
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4270,
+            "series_title": "格林笔记"
+        },
+        "share_copy": "《格林笔记 The Animation》用旅途书写空白之书",
+        "share_sub_title": "用旅途书写空白之书",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26280",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a8d190315592d2d84e45f6205361bb983fc67566.png",
+        "stat": {
+            "coins": 28699,
+            "danmakus": 106839,
+            "favorite": 3415,
+            "favorites": 637925,
+            "likes": 40343,
+            "reply": 22470,
+            "share": 3802,
+            "views": 8946822
+        },
+        "status": 13,
+        "subtitle": "已观看894.7万次",
+        "title": "格林笔记 The Animation",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,878 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/48df0069b6b95d2f625515d7b956e2ce89609985.png",
+        "episodes": [
+            {
+                "aid": 203712908,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15h411y7vJ",
+                "cid": 281396911,
+                "cover": "http://i0.hdslb.com/bfs/archive/8d24d2cf6f4d639af93e4c6dd2d2cc7eaab760a0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374368,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374368",
+                "long_title": "文豪野犬等",
+                "pub_time": 1610469001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第1话 文豪野犬等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374368",
+                "short_link": "https://b23.tv/ep374368",
+                "skip": {
+                    "ed": {
+                        "end": 700,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2366万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 713737423,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11X4y1K7Qj",
+                "cid": 284425878,
+                "cover": "http://i0.hdslb.com/bfs/archive/c2c8848377ae9d0803493ebe921b2461e39ca1cf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374369,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374369",
+                "long_title": "去赏花吧！等",
+                "pub_time": 1611073800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第2话 去赏花吧！等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374369",
+                "short_link": "https://b23.tv/ep374369",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 203832004,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ch41117ry",
+                "cid": 287898847,
+                "cover": "http://i0.hdslb.com/bfs/archive/9720b2a3a3cb0cd07e45d2a126cdceaf6398c244.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374370,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374370",
+                "long_title": "跑腿大作战等",
+                "pub_time": 1611678600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第3话 跑腿大作战等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374370",
+                "short_link": "https://b23.tv/ep374370",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 713978895,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1EX4y1N791",
+                "cid": 291476627,
+                "cover": "http://i0.hdslb.com/bfs/archive/231d8f8b3cddcb4662e0556cc1219ebfe2622e49.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374371,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374371",
+                "long_title": "芥川的跑腿任务等",
+                "pub_time": 1612283400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第4话 芥川的跑腿任务等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374371",
+                "short_link": "https://b23.tv/ep374371",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 799090545,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wy4y1Y75Q",
+                "cid": 295249774,
+                "cover": "http://i0.hdslb.com/bfs/archive/addf8eabf017e9ca42423b12c26d081e529ab6ee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374372,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374372",
+                "long_title": "太宰·中也14岁（中二病）等",
+                "pub_time": 1612888200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第5话 太宰·中也14岁（中二病）等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374372",
+                "short_link": "https://b23.tv/ep374372",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 756643673,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mr4y1P7Br",
+                "cid": 298273289,
+                "cover": "http://i0.hdslb.com/bfs/archive/49375b3cab81e21ade7f302f8876b6832422af01.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374373,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374373",
+                "long_title": "担惊受怕的太宰先生等",
+                "pub_time": 1613493000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第6话 担惊受怕的太宰先生等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374373",
+                "short_link": "https://b23.tv/ep374373",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 204280008,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zh411r7pW",
+                "cid": 301516152,
+                "cover": "http://i0.hdslb.com/bfs/archive/36c51bdc1793006e272ec15c1169f0630d26da21.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374374,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374374",
+                "long_title": "文野托儿所！",
+                "pub_time": 1614097800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第7话 文野托儿所！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374374",
+                "short_link": "https://b23.tv/ep374374",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 801931434,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wy4y177oT",
+                "cid": 305062215,
+                "cover": "http://i0.hdslb.com/bfs/archive/68093332b489bdcc1a037aa40ed0b8c36e97ed12.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374375,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374375",
+                "long_title": "加油樋口！等",
+                "pub_time": 1614702600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第8话 加油樋口！等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374375",
+                "short_link": "https://b23.tv/ep374375",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 929512672,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aK4y1D7sT",
+                "cid": 308038151,
+                "cover": "http://i0.hdslb.com/bfs/archive/e51e11ff0aa65f02ba8d948d3c3c1dc351ed809d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374376,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374376",
+                "long_title": "与谢野医师粗心大意忘了东西等",
+                "pub_time": 1615307400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第9话 与谢野医师粗心大意忘了东西等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374376",
+                "short_link": "https://b23.tv/ep374376",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 374627520,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TZ4y1w7PT",
+                "cid": 311028742,
+                "cover": "http://i0.hdslb.com/bfs/archive/6c80cc483afd24c5d4ad7bf1c7ff1e5d17404472.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374377,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374377",
+                "long_title": "与白虎一起做关东煮等",
+                "pub_time": 1615912200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第10话 与白虎一起做关东煮等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374377",
+                "short_link": "https://b23.tv/ep374377",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 289847411,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kf4y1x7FG",
+                "cid": 314235641,
+                "cover": "http://i0.hdslb.com/bfs/archive/1cb522dd56fd41147cd7b4fd4c04a0d602db59e7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374378,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374378",
+                "long_title": "黑手党时代篇",
+                "pub_time": 1616517000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第11话 黑手党时代篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374378",
+                "short_link": "https://b23.tv/ep374378",
+                "skip": {
+                    "ed": {
+                        "end": 699,
+                        "start": 610
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 714826729,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HX4y1G7jm",
+                "cid": 317332530,
+                "cover": "http://i0.hdslb.com/bfs/archive/24b8c7caa40fa21dd648c13189d5bcdb1f066bd0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 701000,
+                "from": "bangumi",
+                "id": 374379,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374379",
+                "long_title": "互换灵魂剧场等",
+                "pub_time": 1617121800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《文豪野犬 汪！》第12话 互换灵魂剧场等",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374379",
+                "short_link": "https://b23.tv/ep374379",
+                "skip": {
+                    "ed": {
+                        "end": 681,
+                        "start": 639
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2366万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "西化的浪潮冲击之下的架空都市「横滨」中，以旧时文豪为名的人们使用着神秘的「异能力」进行着生死决斗的动作大作「文豪野犬」。\n\n哭泣、呐喊、以灵魂互相碰撞，奔走在生与死的界限的「武装侦探社」与「港口黑手党」的角色们居然——变成了可爱的Q版人物，装傻、吐槽，根本停不下来！？\n\n搞笑衍生动画，在此开幕！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28231930/",
+        "media_id": 28231930,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 374379,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 53195,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-01-13 00:30:00",
+            "pub_time_show": "2021年01月13日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 9620,
+            "score": 9.8
+        },
+        "record": "登记号：10417060207742712",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 36287,
+        "season_title": "文豪野犬 汪！",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/956d61c245c5ac99ac8063f92402ce9c89243475.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 21988886,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7cfd73a5edaba47384f311d14fa31fc639d452db.jpg",
+                    "id": 267761,
+                    "index_show": "全12话"
+                },
+                "season_id": 26769,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3056158,
+                    "series_follow": 3475428,
+                    "views": 70037203
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/48df0069b6b95d2f625515d7b956e2ce89609985.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231930,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/24b8c7caa40fa21dd648c13189d5bcdb1f066bd0.jpg",
+                    "id": 374379,
+                    "index_show": "全12话"
+                },
+                "season_id": 36287,
+                "season_title": "Q版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2827142,
+                    "series_follow": 3475428,
+                    "views": 23659527
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 203222075,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Dh411Z75S",
+                        "cid": 267668453,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/fff16002ab4be32db2dc7a529a0a5fa8d284860e.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 371652,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep371652",
+                        "long_title": "",
+                        "pub_time": 1608195600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《文豪野犬 汪！》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep371652",
+                        "short_link": "https://b23.tv/ep371652",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 16599,
+                            "danmakus": 5438,
+                            "likes": 42233,
+                            "play": 1870697,
+                            "reply": 4719
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2366万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 54676,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2033,
+            "series_title": "文豪野犬"
+        },
+        "share_copy": "《文豪野犬 汪！》异能者都变成Q版了",
+        "share_sub_title": "异能者都变成Q版了",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss36287",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/60e49a0c9f70621825087d48f9074dda4f338ba6.png",
+        "stat": {
+            "coins": 212974,
+            "danmakus": 229732,
+            "favorite": 13616,
+            "favorites": 2827142,
+            "likes": 563765,
+            "reply": 30750,
+            "share": 23561,
+            "views": 23659527
+        },
+        "status": 13,
+        "subtitle": "已观看2366万次",
+        "title": "文豪野犬 汪！",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/0c05a5090cefb03eac9863792cb40c3e7a1677f1.png",
+        "episodes": [
+            {
+                "aid": 423697825,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1W3411E7jh",
+                "cid": 504134495,
+                "cover": "http://i0.hdslb.com/bfs/archive/80c4e1f3ebd32184f988d9d6e23e71363065dc5b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2886000,
+                "from": "bangumi",
+                "id": 469639,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep469639",
+                "long_title": "RGB",
+                "pub_time": 1643814000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第1话 RGB",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep469639",
+                "short_link": "https://b23.tv/ep469639",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看179.2万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 381427410,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LZ4y1R7jB",
+                "cid": 504607953,
+                "cover": "http://i0.hdslb.com/bfs/archive/ed5122b97ddee41d6d378b4674582c5ae96b5a83.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 469640,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep469640",
+                "long_title": "深褐色·涂鸦",
+                "pub_time": 1644418800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第2话 深褐色·涂鸦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep469640",
+                "short_link": "https://b23.tv/ep469640",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 509042630,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cu411R7fo",
+                "cid": 510029839,
+                "cover": "http://i0.hdslb.com/bfs/archive/4b69c6d1b4e34957313d565c127b89d10ace408a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 469641,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep469641",
+                "long_title": "朝为红颜",
+                "pub_time": 1645023601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第3话 朝为红颜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep469641",
+                "short_link": "https://b23.tv/ep469641",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 851824833,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iL4y1g75v",
+                "cid": 515102973,
+                "cover": "http://i0.hdslb.com/bfs/archive/e4cd7db957fff16d47d3a602a0cbad0e8a9100e8.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 472203,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep472203",
+                "long_title": "深灰色的城市",
+                "pub_time": 1645628400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第4话 深灰色的城市",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep472203",
+                "short_link": "https://b23.tv/ep472203",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 681903170,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZU4y1Z78W",
+                "cid": 700422141,
+                "cover": "http://i0.hdslb.com/bfs/archive/b2d1ed6f568e41938a8b91b2d6a355f0906d625e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 472204,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep472204",
+                "long_title": "红线",
+                "pub_time": 1646233200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第5话 红线",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep472204",
+                "short_link": "https://b23.tv/ep472204",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 894725394,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eP4y1M7YN",
+                "cid": 545515120,
+                "cover": "http://i0.hdslb.com/bfs/archive/7beba84c7435ec02064c6f02a97ff0057341ec1f.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 472205,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep472205",
+                "long_title": "翠色统治之下",
+                "pub_time": 1646838001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第6话 翠色统治之下",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep472205",
+                "short_link": "https://b23.tv/ep472205",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 382353059,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13Z4y167hr",
+                "cid": 550174708,
+                "cover": "http://i0.hdslb.com/bfs/archive/d15d8d21ec1e58231d3b25e58323a5cc9f25f521.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 474633,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep474633",
+                "long_title": "黄金日出",
+                "pub_time": 1647442800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第7话 黄金日出",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep474633",
+                "short_link": "https://b23.tv/ep474633",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 254898009,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jY411n7DM",
+                "cid": 555699833,
+                "cover": "http://i0.hdslb.com/bfs/archive/aba8bda95fbcd3a57b17452c594405d0b95f6298.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 474634,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep474634",
+                "long_title": "黑雾",
+                "pub_time": 1648047600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第8话 黑雾",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep474634",
+                "short_link": "https://b23.tv/ep474634",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 937748948,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vT4y1e7q6",
+                "cid": 561687187,
+                "cover": "http://i0.hdslb.com/bfs/archive/f10ee2d0f4fdee5b7124f627c09407c403ca7c8a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 474635,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep474635",
+                "long_title": "银白之盐",
+                "pub_time": 1648652401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第9话 银白之盐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep474635",
+                "short_link": "https://b23.tv/ep474635",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 340714721,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1o94y1d7bp",
+                "cid": 586327452,
+                "cover": "http://i0.hdslb.com/bfs/archive/39d0735c7a138eb053ec8c9b07425db5150cdac8.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1438000,
+                "from": "bangumi",
+                "id": 479443,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep479443",
+                "long_title": "假面的坦白",
+                "pub_time": 1649862000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第10话 假面的坦白",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep479443",
+                "short_link": "https://b23.tv/ep479443",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 810853987,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1234y1Y75r",
+                "cid": 580423519,
+                "cover": "http://i0.hdslb.com/bfs/archive/d672fe73dbba47b6753937f8a9a962c859e1d4a6.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 479444,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep479444",
+                "long_title": "加色混合",
+                "pub_time": 1650466800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第11话 加色混合",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep479444",
+                "short_link": "https://b23.tv/ep479444",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 383317205,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fZ4y1y7YQ",
+                "cid": 580027821,
+                "cover": "http://i0.hdslb.com/bfs/archive/a383ea290afd584faf489adf4d31092e7a3d8575.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1446000,
+                "from": "bangumi",
+                "id": 479445,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep479445",
+                "long_title": "青春24区",
+                "pub_time": 1651071601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《东京24区》第12话 青春24区",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep479445",
+                "short_link": "https://b23.tv/ep479445",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看179.2万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "漂浮于东京湾上的人工岛「极东法令外特别地区」——通称“24区”。\n生长于这座岛上的翔太、兰和昂辉虽然家庭、爱好和性格各不相同，却是形影不离的竹马之交。\n然而他们的关系却因为某桩案件发生了巨大的变化。\n在案件的一周年追思弥撒上，偶然重逢的三人的电话突然一齐响起。那是本应已逝去的同伴的来电，逼迫他们作出“未来的选择”。三人以自己深信的方式，试图守护所爱的24区和人们的未来，然而——\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235945/",
+        "media_id": 28235945,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 479445,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 63476,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-02-02 23:00:00",
+            "pub_time_show": "02月02日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 628,
+            "score": 7.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40241,
+        "season_title": "东京24区",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/0c05a5090cefb03eac9863792cb40c3e7a1677f1.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/21bffd88ad86fa34b3a9a62d44c2b99f3da674bd.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/eab96f439ee24bbad4f13a27a9c037008a3baa71.png",
+                "media_id": 28235945,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a383ea290afd584faf489adf4d31092e7a3d8575.png",
+                    "id": 479445,
+                    "index_show": "全12话"
+                },
+                "season_id": 40241,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 85001,
+                    "series_follow": 85001,
+                    "views": 1792372
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 723648040,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV14S4y1y7uk",
+                        "cid": 499741953,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6b8f13490190c4198df699a0895a620b501d9e42.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 470108,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep470108",
+                        "long_title": "",
+                        "pub_time": 1643799600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《东京24区》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep470108",
+                        "short_link": "https://b23.tv/ep470108",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 63,
+                            "danmakus": 6,
+                            "likes": 595,
+                            "play": 26755,
+                            "reply": 81
+                        },
+                        "status": 2,
+                        "subtitle": "已观看179.2万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 725459799,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1QS4y117r9",
+                        "cid": 568953673,
+                        "cover": "http://i0.hdslb.com/bfs/archive/a5faa19b0e51295364d7549009c8aa2dd4ee5cb8.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 1446000,
+                        "from": "bangumi",
+                        "id": 478502,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep478502",
+                        "long_title": "反转胶片",
+                        "pub_time": 1649257200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《东京24区》总集篇 反转胶片",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep478502",
+                        "short_link": "https://b23.tv/ep478502",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 104,
+                            "danmakus": 1,
+                            "likes": 3882,
+                            "play": 19013,
+                            "reply": 57
+                        },
+                        "status": 2,
+                        "subtitle": "已观看179.2万次",
+                        "title": "总集篇",
+                        "vid": ""
+                    }
+                ],
+                "id": 65203,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5874,
+            "series_title": "东京24区"
+        },
+        "share_copy": "《东京24区》无法回头的选择",
+        "share_sub_title": "无法回头的选择",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40241",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/f918e5ffd13b8c6ddf603e8dcc6f8746f97d7d2f.png",
+        "stat": {
+            "coins": 4030,
+            "danmakus": 5362,
+            "favorite": 1544,
+            "favorites": 85001,
+            "likes": 48185,
+            "reply": 1561,
+            "share": 434,
+            "views": 1792372
+        },
+        "status": 13,
+        "subtitle": "已观看179.2万次",
+        "title": "东京24区",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859948,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

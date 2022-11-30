@@ -1,0 +1,966 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5d7ace14a73a154d02d8f8926ca4a95ccb5da14c.jpg",
+        "episodes": [
+            {
+                "aid": 290246384,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13f4y1p7te",
+                "cid": 326822765,
+                "cover": "http://i0.hdslb.com/bfs/archive/df715c9b8f1f44dd2e88e9e19b6e5d6a3cf39a51.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399546,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399546",
+                "long_title": "「召唤」",
+                "pub_time": 1618934401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第1话 「召唤」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399546",
+                "short_link": "https://b23.tv/ep399546",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 57,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 502710680,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MK411c738",
+                "cid": 327214833,
+                "cover": "http://i0.hdslb.com/bfs/archive/01ad7d3e9ed020388e7d03bae2988699405dac15.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399547,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399547",
+                "long_title": "「深交」",
+                "pub_time": 1618934401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第2话 「深交」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399547",
+                "short_link": "https://b23.tv/ep399547",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1271
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 42
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 887656293,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17K4y1P71w",
+                "cid": 330871413,
+                "cover": "http://i0.hdslb.com/bfs/archive/e6bdbb9c012ffc8fd03eb43102f78bb1422f1698.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399548,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399548",
+                "long_title": "「王都」",
+                "pub_time": 1618934401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第3话 「王都」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399548",
+                "short_link": "https://b23.tv/ep399548",
+                "skip": {
+                    "ed": {
+                        "end": 1344,
+                        "start": 1254
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 247775612,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iv411L7EU",
+                "cid": 330871675,
+                "cover": "http://i0.hdslb.com/bfs/archive/20b2422b1f8665f08dfc4247d187ac687a181074.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399549,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399549",
+                "long_title": "「奇迹」",
+                "pub_time": 1619539201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第4话 「奇迹」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399549",
+                "short_link": "https://b23.tv/ep399549",
+                "skip": {
+                    "ed": {
+                        "end": 1351,
+                        "start": 1262
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 82
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 290463974,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ef4y1a7jD",
+                "cid": 333597311,
+                "cover": "http://i0.hdslb.com/bfs/archive/b8af2d427a65110cb9dddaa7e6ee5d50f951321e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399550,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399550",
+                "long_title": "「鉴定」",
+                "pub_time": 1620144001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第5话 「鉴定」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399550",
+                "short_link": "https://b23.tv/ep399550",
+                "skip": {
+                    "ed": {
+                        "end": 1384,
+                        "start": 1295
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 460574928,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1154113727",
+                "cid": 336887383,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e83f7453805d602b4d307fe4ee914aae12ff3a0a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399551,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399551",
+                "long_title": "「淑女」",
+                "pub_time": 1620748801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第6话 「淑女」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399551",
+                "short_link": "https://b23.tv/ep399551",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 71
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 973170745,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1344y1r7aj",
+                "cid": 344332510,
+                "cover": "http://i0.hdslb.com/bfs/archive/560c9c27922e0098743331f023583b7d9e799ca9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399552,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399552",
+                "long_title": "「幕间」",
+                "pub_time": 1621353601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第7话 「幕间」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399552",
+                "short_link": "https://b23.tv/ep399552",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1279
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 40
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 973324100,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1M44y1k7VB",
+                "cid": 344333074,
+                "cover": "http://i0.hdslb.com/bfs/archive/171464fc129f83ed1e80342512c22c4c4375c5e9.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399553,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399553",
+                "long_title": "「觉醒」",
+                "pub_time": 1621958401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第8话 「觉醒」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399553",
+                "short_link": "https://b23.tv/ep399553",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 230,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 760913240,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1S64y1k7CT",
+                "cid": 347102966,
+                "cover": "http://i0.hdslb.com/bfs/archive/4150da7fa87fa8d90966c43de54e3d591cb7c0ef.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399554,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399554",
+                "long_title": "「圣女」",
+                "pub_time": 1622563201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第9话 「圣女」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399554",
+                "short_link": "https://b23.tv/ep399554",
+                "skip": {
+                    "ed": {
+                        "end": 1397,
+                        "start": 1308
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 84
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 461065011,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1X5411M7zF",
+                "cid": 366743929,
+                "cover": "http://i0.hdslb.com/bfs/archive/c945280c929dfa6e809183241a02ff8b445100ce.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399555",
+                "long_title": "「日记」",
+                "pub_time": 1623168001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第10话 「日记」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399555",
+                "short_link": "https://b23.tv/ep399555",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 34
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 418641766,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UV41147Yc",
+                "cid": 366725937,
+                "cover": "http://i0.hdslb.com/bfs/archive/26d06980294eb1b72f0687888c250e59b8f13c3c.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399556",
+                "long_title": "「窘境」",
+                "pub_time": 1623772801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第11话 「窘境」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399556",
+                "short_link": "https://b23.tv/ep399556",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 88
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 673755766,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aU4y1G7EV",
+                "cid": 365885286,
+                "cover": "http://i0.hdslb.com/bfs/archive/11329aa527679160153eead26ac61435de1e2276.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 399557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep399557",
+                "long_title": "「返回」",
+                "pub_time": 1624377601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《圣女魔力无所不能》第12话 「返回」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep399557",
+                "short_link": "https://b23.tv/ep399557",
+                "skip": {
+                    "ed": {
+                        "end": 1377,
+                        "start": 1290
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 27
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3530.2万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "稍微有点工作狂的20几岁的职员·圣，在加班回家的一个夜里突然被光芒包围，被召唤到了异世界成了「圣女」。而且同时被召唤的还是两个人！？王子却只搭理另一位女高中生，对圣完全无视。\n「既然如此那我也就随心所欲了哦？」\n\n于是圣跑出王宫，活用对植物的热爱，在药用植物研究所中作为普通人工作了起来。在所长约翰、导师裘德的帮助下，学习药水的制作以及魔力的使用。然而制作的东西都会有五成左右的能力增幅，意外发挥出了作为「圣女」的能力。\n与此同时，圣的药水拯救了濒死的骑士团长·阿尔伯特，渐渐地，圣可能才是真正的「圣女」的传言渐渐传开了——！？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233918/",
+        "media_id": 28233918,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 399557,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 57929,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-04-21 00:00:00",
+            "pub_time_show": "2021年04月21日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 13078,
+            "score": 8.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38236,
+        "season_title": "圣女魔力无所不能",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5d7ace14a73a154d02d8f8926ca4a95ccb5da14c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233918,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/11329aa527679160153eead26ac61435de1e2276.png",
+                    "id": 399557,
+                    "index_show": "全12话"
+                },
+                "season_id": 38236,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1435829,
+                    "series_follow": 1435829,
+                    "views": 35301958
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 332841188,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19A411V7ZT",
+                        "cid": 329814753,
+                        "cover": "http://i0.hdslb.com/bfs/archive/7b5bd775ebe6054e2b820f0f6e5688c28b6ac772.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 675000,
+                        "from": "bangumi",
+                        "id": 401387,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep401387",
+                        "long_title": "石川由依&樱井孝宏&小林裕介&八代拓",
+                        "pub_time": 1619517600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《圣女魔力无所不能》声优问候视频 石川由依&樱井孝宏&小林裕介&八代拓",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep401387",
+                        "short_link": "https://b23.tv/ep401387",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 765,
+                            "danmakus": 257,
+                            "likes": 5774,
+                            "play": 316536,
+                            "reply": 151
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3530.2万次",
+                        "title": "声优问候视频",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 332284823,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV16A411N79j",
+                        "cid": 314718341,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/44ff9fcb77845919fb5efedb0b4db43c51b3055a.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 101000,
+                        "from": "bangumi",
+                        "id": 395943,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep395943",
+                        "long_title": "",
+                        "pub_time": 1616592600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《圣女魔力无所不能》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep395943",
+                        "short_link": "https://b23.tv/ep395943",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3091,
+                            "danmakus": 451,
+                            "likes": 14765,
+                            "play": 2077210,
+                            "reply": 2093
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3530.2万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 672577123,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV16U4y1h7cw",
+                        "cid": 323102270,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ebf207aadebbd2b51327e90dcbf7b88e6e6d5f97.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 35000,
+                        "from": "bangumi",
+                        "id": 400752,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep400752",
+                        "long_title": "",
+                        "pub_time": 1618913158,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《圣女魔力无所不能》先行PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep400752",
+                        "short_link": "https://b23.tv/ep400752",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 331,
+                            "danmakus": 7,
+                            "likes": 1351,
+                            "play": 157466,
+                            "reply": 61
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3530.2万次",
+                        "title": "先行PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 58171,
+                "title": "PV&其他",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5363,
+            "series_title": "圣女魔力无所不能"
+        },
+        "share_copy": "《圣女魔力无所不能》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38236",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/6ad37a072b87a3a4b94a025ca8ffcf3266c7e13b.png",
+        "stat": {
+            "coins": 129558,
+            "danmakus": 299618,
+            "favorite": 15310,
+            "favorites": 1435829,
+            "likes": 475028,
+            "reply": 36975,
+            "share": 14941,
+            "views": 35301958
+        },
+        "status": 13,
+        "subtitle": "已观看3530.2万次",
+        "title": "圣女魔力无所不能",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859941,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

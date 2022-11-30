@@ -1,0 +1,755 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/b93980b9cf087056f9c6e867c6d2984d75534246.png",
+        "episodes": [
+            {
+                "aid": 248272145,
+                "badge": "付费",
+                "badge_info": {
+                    "bg_color": "#FAAB4B",
+                    "bg_color_night": "#BA833F",
+                    "text": "付费"
+                },
+                "badge_type": 2,
+                "bvid": "BV11v411G7BZ",
+                "cid": 343860744,
+                "cover": "http://i0.hdslb.com/bfs/archive/85b98823e8e095753989471a16e56ba73fdb71aa.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5764000,
+                "from": "bangumi",
+                "id": 405183,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep405183?theme=movie",
+                "long_title": "",
+                "pub_time": 1622282400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《生化危机：恶化》游戏改编全CG电影",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep405183",
+                "short_link": "https://b23.tv/ep405183",
+                "status": 8,
+                "subtitle": "已观看428.6万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "7年前，一颗核弹将浣熊市的一切隐藏在历史之中。7年后的今天，美国中西部城市哈佛维尔，参议员朗·戴维斯因群众抗议其与威法玛公司的关系而被困飞机场。正当他乔装打扮准备离开之时，一位抗议者咬死了参议员的警卫...",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234229/",
+        "media_id": 28234229,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2008年10月18日上映",
+            "id": 405183,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 1,
+                "allow_vip_discount": 1,
+                "forbid_bb": 0
+            },
+            "price": "3.0",
+            "promotion": "成为大会员可半价观看本片！",
+            "view_start_time": 0,
+            "vip_discount": 50,
+            "vip_first_promotion": "",
+            "vip_promotion": ""
+        },
+        "positive": {
+            "id": 58444,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-05-29 18:00:00",
+            "pub_time_show": "2021年05月29日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1982,
+            "score": 6.2
+        },
+        "record": "新出像进字(2010)374号",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38541,
+        "season_title": "生化危机：恶化",
+        "seasons": [
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b93980b9cf087056f9c6e867c6d2984d75534246.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/d3824c15b4898c1f29fef43ec2c7d50c949466db.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/47cd6416f6b176b05bfb71cfd6f148c472473381.png",
+                "media_id": 28234229,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/85b98823e8e095753989471a16e56ba73fdb71aa.png",
+                    "id": 405183,
+                    "index_show": "2008-10-18上映"
+                },
+                "season_id": 38541,
+                "season_title": "生化危机：恶化",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 96314,
+                    "series_follow": 158936,
+                    "views": 4286389
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9382d6e76f79e6e537c7ee2564ddce8b7ac38a31.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/170b5ab6c6880e335bc42ced3dea3c44966d5f6d.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/df6a596ec5d3dcc7d31c207c304cac41f67de68a.png",
+                "media_id": 28234228,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/910997f2c0e7f92b45889741e01fcd657da5f880.png",
+                    "id": 407625,
+                    "index_show": "2012-09-25上映"
+                },
+                "season_id": 38540,
+                "season_title": "生化危机：诅咒",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 118403,
+                    "series_follow": 158936,
+                    "views": 5937059
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f3f8bdf02724b27883a154d93165c51384a93adc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/34fefc3e6c59ca50221b754b69ced6600fe2658b.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/6e8bcc51e1db294ecb9de497dd765ac7882bc40a.png",
+                "media_id": 28237255,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/80161f7651fa5879d2ec23fdc8e266cd520a7660.png",
+                    "id": 477648,
+                    "index_show": "2017-05-27上映"
+                },
+                "season_id": 41546,
+                "season_title": "生化危机：复仇",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 143312,
+                    "series_follow": 158936,
+                    "views": 2282005
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 641114130,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1cY4y1h7C7",
+                        "cid": 585860251,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_c9935ca881e6dbfb5af99628d2b116b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 498314,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep498314?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1650991829,
+                        "pv": 0,
+                        "release_date": "2022-04-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep498314",
+                        "short_link": "https://b23.tv/ep498314",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 1,
+                            "likes": 24,
+                            "play": 5348,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 981122803,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1544y137LE",
+                        "cid": 585863862,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9e9015aba1fe43a55af0a2063b55bfb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 498439,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep498439?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1650992346,
+                        "pv": 0,
+                        "release_date": "2022-04-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep498439",
+                        "short_link": "https://b23.tv/ep498439",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 11,
+                            "play": 3304,
+                            "reply": 3
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 983941139,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Vt4y1V7yh",
+                        "cid": 786809396,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_23b425be5cfc4e5bb6c0c5cb97bd9fb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 665039,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep665039?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1659004327,
+                        "pv": 0,
+                        "release_date": "2022-07-28",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep665039",
+                        "short_link": "https://b23.tv/ep665039",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 959,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 728999811,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1PS4y1b77m",
+                        "cid": 786809034,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_1e4d34d082eb48a9b2bb131a34c00bb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 665040,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep665040?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1659004359,
+                        "pv": 0,
+                        "release_date": "2022-07-28",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep665040",
+                        "short_link": "https://b23.tv/ep665040",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 7,
+                            "play": 1194,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 771464728,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1sr4y1j7ho",
+                        "cid": 786821361,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_7cf104d0b07a4f1db4bc15f92a60f2b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 665064,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep665064?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1659005062,
+                        "pv": 0,
+                        "release_date": "2022-07-28",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep665064",
+                        "short_link": "https://b23.tv/ep665064",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 1276,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 516548023,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Sg411h7bP",
+                        "cid": 859764246,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_2403af3c9ccc4a9a80359df3b21278b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 687231,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687231?theme=movie",
+                        "long_title": "精彩看点 6",
+                        "pub_time": 1665573495,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 6",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687231",
+                        "short_link": "https://b23.tv/ep687231",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 271,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 261590089,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ye411L7Xb",
+                        "cid": 859774408,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_e8987f91b13341f0a3e823b0ce9dffb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 687285,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687285?theme=movie",
+                        "long_title": "精彩看点 7",
+                        "pub_time": 1665574387,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 7",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687285",
+                        "short_link": "https://b23.tv/ep687285",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 349,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 774066018,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1R14y177oT",
+                        "cid": 859775399,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9a8d657af63449cbb0a20fe82543ffb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 687286,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687286?theme=movie",
+                        "long_title": "精彩看点 8",
+                        "pub_time": 1665574403,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 8",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687286",
+                        "short_link": "https://b23.tv/ep687286",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 491,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 389066300,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV18d4y117uk",
+                        "cid": 859775197,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_234316f1d4184b5392d40a363b01a0b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 121000,
+                        "from": "bangumi",
+                        "id": 687287,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687287?theme=movie",
+                        "long_title": "精彩看点 9",
+                        "pub_time": 1665574409,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 9",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687287",
+                        "short_link": "https://b23.tv/ep687287",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 297,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 516585126,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1cg411a7hH",
+                        "cid": 859777531,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_b298f0e98f2f4b669256be1e53865cb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 687300,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep687300?theme=movie",
+                        "long_title": "精彩看点 10",
+                        "pub_time": 1665574666,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：恶化》生化危机：恶化 精彩看点 10",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep687300",
+                        "short_link": "https://b23.tv/ep687300",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 229,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看428.6万次",
+                        "title": "生化危机：恶化",
+                        "vid": ""
+                    }
+                ],
+                "id": 69389,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5541,
+            "series_title": "生化危机(动画)"
+        },
+        "share_copy": "《生化危机：恶化》游戏改编全CG电影",
+        "share_sub_title": "游戏改编全CG电影",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38541",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/c0f0156d0bd4c449e12361474aebbd1389bc6152.png",
+        "stat": {
+            "coins": 7109,
+            "danmakus": 17965,
+            "favorite": 5925,
+            "favorites": 96314,
+            "likes": 37198,
+            "reply": 4400,
+            "share": 2874,
+            "views": 4286389
+        },
+        "status": 8,
+        "subtitle": "已观看428.6万次",
+        "title": "生化危机：恶化",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815764,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

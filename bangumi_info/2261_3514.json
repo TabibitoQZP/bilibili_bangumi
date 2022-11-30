@@ -1,0 +1,268 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/08add0d238abc34fb463c8c7e40509db0f4158b4.jpg",
+        "episodes": [
+            {
+                "aid": 622998,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411f7G7",
+                "cid": 1227294,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b9a0369ed41645dd7b8bc73bdd0f6ee6b4da0361.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 540
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 85622,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85622",
+                "long_title": "春色无暇赏 正值夏暑天",
+                "pub_time": 1459235530,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《花牌情缘 OAD》第1话 春色无暇赏 正值夏暑天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85622",
+                "short_link": "https://b23.tv/ep85622",
+                "skip": {
+                    "ed": {
+                        "end": 1327,
+                        "start": 1253
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 105
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看52.7万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "漫画单行本第22卷限定版同捆OAD动画。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3514/",
+        "media_id": 3514,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 85622,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20500,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-09-13 00:00:01",
+            "pub_time_show": "2013年9月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 438,
+            "score": 6.3
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3514,
+        "season_title": "花牌情缘 OAD",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e717a165487c8befe79f2bd10393e360901e832e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 616,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/30f088deeff27dd61bcca76cd7afac62ccdf3d0b.png",
+                    "id": 11215,
+                    "index_show": "全25话"
+                },
+                "season_id": 616,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 438330,
+                    "series_follow": 609605,
+                    "views": 6287565
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/08add0d238abc34fb463c8c7e40509db0f4158b4.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 617,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/295ac4e043a305b9d1494d76bea0e3bf23418e74.jpg",
+                    "id": 11241,
+                    "index_show": "全25话"
+                },
+                "season_id": 617,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 144853,
+                    "series_follow": 609605,
+                    "views": 3159839
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/08add0d238abc34fb463c8c7e40509db0f4158b4.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3514,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/b9a0369ed41645dd7b8bc73bdd0f6ee6b4da0361.jpg",
+                    "id": 85622,
+                    "index_show": "全1话"
+                },
+                "season_id": 3514,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 37737,
+                    "series_follow": 609605,
+                    "views": 526904
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6828f8e84384f8ae3fd71da5696989e055cf2159.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222678,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7849bd83c0934bb57f330d26194a5d5bc78df469.jpg",
+                    "id": 286942,
+                    "index_show": "全24话"
+                },
+                "season_id": 28584,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 471568,
+                    "series_follow": 609605,
+                    "views": 7497493
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 373,
+            "series_title": "花牌情缘"
+        },
+        "share_copy": "《花牌情缘 OAD》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3514",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/6869d62459b0e98a9711400fcc1a5979cebfd4c7.jpg",
+        "stat": {
+            "coins": 1200,
+            "danmakus": 33195,
+            "favorite": 94,
+            "favorites": 37737,
+            "likes": 435,
+            "reply": 1039,
+            "share": 131,
+            "views": 526904
+        },
+        "status": 2,
+        "subtitle": "已观看52.7万次",
+        "title": "花牌情缘 OAD",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

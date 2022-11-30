@@ -1,0 +1,260 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/ad98866958fb137938af02bfa209fccd6f8edf7d.jpg",
+        "episodes": [
+            {
+                "aid": 456228438,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV145411Y7iW",
+                "cid": 207457044,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/18ae289030b5e8cd3858033cb1373dff718dbd3f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 85198,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85198",
+                "long_title": "不值一提的宝物、这一页",
+                "pub_time": 1593770520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赤发白雪姬 OVA 不值一提的宝物、这一页》第1话 不值一提的宝物、这一页",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85198",
+                "short_link": "https://b23.tv/ep85198",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1345
+                    },
+                    "op": {
+                        "end": 229,
+                        "start": 140
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看47.4万次",
+                "title": "1",
+                "vid": "vupload_6003836"
+            }
+        ],
+        "evaluate": "于2016年1月5日发售、漫画《赤发白雪姬》第15卷单行本的同捆DVD，由TV动画的原班人马制作。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3447/",
+        "media_id": 3447,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 85198,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 20164,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-01-05 00:00:01",
+            "pub_time_show": "2016年1月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1102,
+            "score": 9.6
+        },
+        "record": "登记号：10417060196612306",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3447,
+        "season_title": "赤发白雪姬 OVA 不值一提的宝物、这一页",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/08b4cc4bbef5c6ed8eff267201fbb1fbe3ef9faf.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2578,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/4108cc8bce8e5035663d5a3a2cdfec928c94adb8.jpg",
+                    "id": 69179,
+                    "index_show": "全12话"
+                },
+                "season_id": 2578,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1463685,
+                    "series_follow": 1666115,
+                    "views": 32859686
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/554ec0eb9cbad1c55d3f24d1eb852479f496933a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3107,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/95b98c0b124835c4b375f7d2f1674b9c96c13669.jpg",
+                    "id": 85610,
+                    "index_show": "全12话"
+                },
+                "season_id": 3107,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 729438,
+                    "series_follow": 1666115,
+                    "views": 19825994
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ad98866958fb137938af02bfa209fccd6f8edf7d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3447,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/18ae289030b5e8cd3858033cb1373dff718dbd3f.jpg",
+                    "id": 85198,
+                    "index_show": "全1话"
+                },
+                "season_id": 3447,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 178552,
+                    "series_follow": 1666115,
+                    "views": 474289
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1759,
+            "series_title": "赤发白雪姬"
+        },
+        "share_copy": "《赤发白雪姬 OVA 不值一提的宝物、这一页》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3447",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ad3e642ac64f1c0ecf7ccc0fd40cdb7a6b442d81.jpg",
+        "stat": {
+            "coins": 3785,
+            "danmakus": 2293,
+            "favorite": 1056,
+            "favorites": 178552,
+            "likes": 11092,
+            "reply": 1060,
+            "share": 680,
+            "views": 474289
+        },
+        "status": 13,
+        "subtitle": "已观看47.4万次",
+        "title": "赤发白雪姬 OVA 不值一提的宝物、这一页",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

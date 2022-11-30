@@ -1,0 +1,733 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/ae41fbfe3851354b4690dfbc1d012eaabcf3aab0.jpg",
+        "episodes": [
+            {
+                "aid": 628731570,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qt4y1z7QV",
+                "cid": 284184399,
+                "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 13643,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13643",
+                "long_title": "",
+                "pub_time": 1612175700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13643",
+                "short_link": "https://b23.tv/ep13643",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 191,
+                        "start": 101
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "1",
+                "vid": "80830188"
+            },
+            {
+                "aid": 416135371,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YV411t7mb",
+                "cid": 284184660,
+                "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 13642,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13642",
+                "long_title": "",
+                "pub_time": 1612175700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第2话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13642",
+                "short_link": "https://b23.tv/ep13642",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "2",
+                "vid": "81313579"
+            },
+            {
+                "aid": 416182447,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zV411t7EF",
+                "cid": 284184884,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/09ee14ca6ccea811959cc3021cfddbf858f2b318.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 13641,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13641",
+                "long_title": "",
+                "pub_time": 1612175760,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第3话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13641",
+                "short_link": "https://b23.tv/ep13641",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 204,
+                        "start": 114
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "3",
+                "vid": "81802891"
+            },
+            {
+                "aid": 246200721,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mv411W71v",
+                "cid": 284185097,
+                "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1374000,
+                "from": "bangumi",
+                "id": 13640,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13640",
+                "long_title": "",
+                "pub_time": 1612175760,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第4话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13640",
+                "short_link": "https://b23.tv/ep13640",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 98
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "4",
+                "vid": "82341361"
+            },
+            {
+                "aid": 203741035,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wh411y7vr",
+                "cid": 284185323,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ef74cd2f41c43d542f40970c875bdee24d9fb425.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 13639,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13639",
+                "long_title": "",
+                "pub_time": 1612175820,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第5话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13639",
+                "short_link": "https://b23.tv/ep13639",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 147,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "5",
+                "vid": "82787289"
+            },
+            {
+                "aid": 203721029,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14h411y721",
+                "cid": 290357707,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fa9151cacd13134d568bf2c93a4677e6667d30fb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 13638,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13638",
+                "long_title": "",
+                "pub_time": 1612175880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第6话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13638",
+                "short_link": "https://b23.tv/ep13638",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 47
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "6",
+                "vid": "83236421"
+            },
+            {
+                "aid": 843700713,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1L54y1s7uG",
+                "cid": 290358148,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/51691745aed2b671dd9728acb35bd86e4bab62d9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1374000,
+                "from": "bangumi",
+                "id": 13637,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13637",
+                "long_title": "",
+                "pub_time": 1612175880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第7话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13637",
+                "short_link": "https://b23.tv/ep13637",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 79
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "7",
+                "vid": "83768602"
+            },
+            {
+                "aid": 628737090,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11t4y1z7cU",
+                "cid": 284186011,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d1d20438140cb5358fa367a8d91dcec61ea766e8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 13636,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13636",
+                "long_title": "",
+                "pub_time": 1612175940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第8话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13636",
+                "short_link": "https://b23.tv/ep13636",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "8",
+                "vid": "84242021"
+            },
+            {
+                "aid": 713732254,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RX4y1K7kT",
+                "cid": 284186216,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3b83b511a8a968a9977f39d5bc2aab059b639973.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1373000,
+                "from": "bangumi",
+                "id": 13635,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13635",
+                "long_title": "",
+                "pub_time": 1612175940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第9话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13635",
+                "short_link": "https://b23.tv/ep13635",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 128
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "9",
+                "vid": "84687564"
+            },
+            {
+                "aid": 246237974,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sv411W7g7",
+                "cid": 284186402,
+                "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1374000,
+                "from": "bangumi",
+                "id": 13634,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13634",
+                "long_title": "",
+                "pub_time": 1612176000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13634",
+                "short_link": "https://b23.tv/ep13634",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "10",
+                "vid": "85137918"
+            },
+            {
+                "aid": 458738926,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1M5411H7M8",
+                "cid": 284186620,
+                "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 13633,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep13633",
+                "long_title": "",
+                "pub_time": 1612176000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏雪密会》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep13633",
+                "short_link": "https://b23.tv/ep13633",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.2万次",
+                "title": "11",
+                "vid": "85616675"
+            }
+        ],
+        "evaluate": "故事讲述在花店打工的一心一意青年叶月、失去了丈夫的花店店长六花、以及店长六花已经死去的丈夫的幽灵——这三人之间的纯情三角恋爱关系的物语。\n　　在鲜花店打工、眼神凶恶的青年叶月，对这家花店的店长六花一见钟情。徘徊在对店长六花的暗恋之情中的叶月，在为自己第一次到六花房间里而感到异常欣喜的时候，却看到了一个从来都没有见过的男人半裸着身体出现。一心一意的叶月自然是深受打击十分沮丧，可是这个男人居然是六花已经去世的丈夫的幽灵？！于是，低温专情青年×清凉寡妇×草食系执着灵的纯情三角恋爱关系急速展开。\n\n《夏雪密会（夏雪ランデブー）》是由动画工房制作的电视动画作品，自2012年7月5日起每周四深夜在富士电视台播出。本作改编自日本漫画家河内遥的同名漫画作品，该漫画从「FEEL YOUNG」2009年7月号开始连载，历时两年半，正篇已于2011年12月8日完结，在2011年“这本漫画真厉害”的评选中获得第五位。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md760/",
+        "media_id": 760,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 13633,
+            "is_new": 0,
+            "title": "11"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17759,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-02-01 00:00:01",
+            "pub_time_show": "2021年2月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1059,
+            "score": 9.4
+        },
+        "record": "登记号：10417060202522507",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 760,
+        "season_title": "夏雪密会",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/ae41fbfe3851354b4690dfbc1d012eaabcf3aab0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 760,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/da22b22d04e80943c6d5e441c0e5b799dd53df53.png",
+                    "id": 13633,
+                    "index_show": "全11话"
+                },
+                "season_id": 760,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 133245,
+                    "series_follow": 133245,
+                    "views": 242382
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 474,
+            "series_title": "夏雪密会"
+        },
+        "share_copy": "《夏雪密会》活着的人总是要向前",
+        "share_sub_title": "活着的人总是要向前",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss760",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/39b8d306188fb8d489a0debbcf41b7d424d8f87a.jpg",
+        "stat": {
+            "coins": 1737,
+            "danmakus": 2416,
+            "favorite": 311,
+            "favorites": 133245,
+            "likes": 7549,
+            "reply": 1058,
+            "share": 2911,
+            "views": 242382
+        },
+        "status": 13,
+        "subtitle": "已观看24.2万次",
+        "title": "夏雪密会",
+        "total": 11,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859947,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

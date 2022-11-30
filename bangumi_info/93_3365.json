@@ -1,0 +1,810 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/92824bc6a8c7aabbf494c0b276d4aa7b70842976.jpg",
+        "episodes": [
+            {
+                "aid": 3944301,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps411Q7Ar",
+                "cid": 11767241,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9f839b3ab4533c46a43b1bd17eadf33bed85a4f2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84428,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84428",
+                "long_title": "赤红",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第1话 赤红",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84428",
+                "short_link": "https://b23.tv/ep84428",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 241,
+                        "start": 152
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5221.3万次",
+                "title": "1",
+                "vid": "vupload_11767241"
+            },
+            {
+                "aid": 506854993,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Eg411N7eY",
+                "cid": 11767242,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/061fc9dcb1a2da16341707e01a24ce8d28ab91f5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84429,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84429",
+                "long_title": "群青",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第2话 群青",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84429",
+                "short_link": "https://b23.tv/ep84429",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 147,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "2",
+                "vid": "vupload_11767242"
+            },
+            {
+                "aid": 506813242,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kg411N7mR",
+                "cid": 11767243,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/36e378d66b372d38fb8c067b8f29691b3284bea2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84430,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84430",
+                "long_title": "月光紫",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第3话 月光紫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84430",
+                "short_link": "https://b23.tv/ep84430",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "3",
+                "vid": "vupload_11767243"
+            },
+            {
+                "aid": 634320517,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gb4y1b7k1",
+                "cid": 11767244,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0c9f9cef127c1720981d8463babe0e9d56b8e7da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84431,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84431",
+                "long_title": "橙",
+                "pub_time": 1456369080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第4话 橙",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84431",
+                "short_link": "https://b23.tv/ep84431",
+                "skip": {
+                    "ed": {
+                        "end": 1382,
+                        "start": 1304
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "4",
+                "vid": "vupload_11767244"
+            },
+            {
+                "aid": 336774491,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UR4y1t74s",
+                "cid": 11767245,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5224eeb9dfe3431463a13cce9f13c75f4e9da5c7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84432,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84432",
+                "long_title": "萌黄之灯",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第5话 萌黄之灯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84432",
+                "short_link": "https://b23.tv/ep84432",
+                "skip": {
+                    "ed": {
+                        "end": 1395,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 179,
+                        "start": 90
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "5",
+                "vid": "vupload_11767245"
+            },
+            {
+                "aid": 294298893,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SF411h7kb",
+                "cid": 11767246,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ab71201f211faf12b1866e9f7deaaea08812ecd2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84433,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84433",
+                "long_title": "惊爆粉红",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第6话 惊爆粉红",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84433",
+                "short_link": "https://b23.tv/ep84433",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "6",
+                "vid": "vupload_11767246"
+            },
+            {
+                "aid": 336845882,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uR4y1b7bR",
+                "cid": 11767247,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4fb094ea055c3c6dba5234c04ab66a5dafbace5d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84434,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84434",
+                "long_title": "阴色",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第7话 阴色",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84434",
+                "short_link": "https://b23.tv/ep84434",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 114,
+                        "start": 25
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "7",
+                "vid": "vupload_11767247"
+            },
+            {
+                "aid": 976862065,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1s44y1Y7cj",
+                "cid": 11767248,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bb259d71c8fc71fc9e63a0d80d78f77bd799ca65.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84435,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84435",
+                "long_title": "凪黄金",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第8话 凪黄金",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84435",
+                "short_link": "https://b23.tv/ep84435",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "8",
+                "vid": "vupload_11767248"
+            },
+            {
+                "aid": 251781463,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1DY411x7AE",
+                "cid": 11767249,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d0716dbf4d755054caa9012c131c72f53e47af0f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84436,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84436",
+                "long_title": "银竹",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第9话 银竹",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84436",
+                "short_link": "https://b23.tv/ep84436",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 139,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "9",
+                "vid": "vupload_11767249"
+            },
+            {
+                "aid": 719270618,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qQ4y1U7aJ",
+                "cid": 11767250,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/acf5fd1b6c84b6c8c0a5681523d20c0e4697b528.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84437,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84437",
+                "long_title": "白色的世界",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第10话 白色的世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84437",
+                "short_link": "https://b23.tv/ep84437",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "10",
+                "vid": "vupload_11767250"
+            },
+            {
+                "aid": 379283540,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17f4y1M7iV",
+                "cid": 11767251,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/428e8e44898de6af2f5ddd70d87ccc1ad6ae0784.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84438,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84438",
+                "long_title": "黑色的世界",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第11话 黑色的世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84438",
+                "short_link": "https://b23.tv/ep84438",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "11",
+                "vid": "vupload_11767251"
+            },
+            {
+                "aid": 209322340,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18h41147vT",
+                "cid": 11808744,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e18fc47f32d5ef0928f36f3aeb1865c7383ed2cd.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1419000,
+                "from": "bangumi",
+                "id": 84439,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84439",
+                "long_title": "灰色的世界",
+                "pub_time": 1456369099,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《境界的彼方》第12话 灰色的世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84439",
+                "short_link": "https://b23.tv/ep84439",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5221.3万次",
+                "title": "12",
+                "vid": "vupload_11808744"
+            }
+        ],
+        "evaluate": "【本片翻译由澄空学园字幕组提供】“那一族”唯一存活下来的少女与根本说不上是存在的“半妖”少年的二个人之间的故事。由人类与妖梦所生出的少年神原秋人某天在学校的屋顶上遇到从天而降的少女栗山未来。就算在异界士中，她也算是拥有著特异之诅咒一族最后活下来的少女。不变的教室、不变的日常、不变的世界，原本日子理应如此一天一天的走过。不过……唯一生存下来的少女与半妖少年的相会成为了这个世界唯一的改变……。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3365/",
+        "media_id": 3365,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 84439,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 20320,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-10-02 00:00:00",
+            "pub_time_show": "2013年10月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 26307,
+            "score": 9.5
+        },
+        "record": "登记号：10417060172822603",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3365,
+        "season_title": "境界的彼方",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92824bc6a8c7aabbf494c0b276d4aa7b70842976.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3365,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e18fc47f32d5ef0928f36f3aeb1865c7383ed2cd.jpg",
+                    "id": 84439,
+                    "index_show": "全12话"
+                },
+                "season_id": 3365,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4151056,
+                    "series_follow": 4389467,
+                    "views": 52213390
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f55c60640833ea72933746a21cb87ddca9454eb3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3366,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/7b4977c71a2d19c9c44ce6572f49040c3a62ef02.jpg",
+                    "id": 104935,
+                    "index_show": "全1话"
+                },
+                "season_id": 3366,
+                "season_title": "过去篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 765875,
+                    "series_follow": 4389467,
+                    "views": 8287145
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/adea2035933fe8f62a66fc6d6a98e5d380de9b90.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2844,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/7b4977c71a2d19c9c44ce6572f49040c3a62ef02.jpg",
+                    "id": 86059,
+                    "index_show": "全1话"
+                },
+                "season_id": 2844,
+                "season_title": "未来篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 952539,
+                    "series_follow": 4389467,
+                    "views": 8977699
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1154,
+            "series_title": "境界的彼方"
+        },
+        "share_copy": "《境界的彼方》眼镜，很适合你哦",
+        "share_sub_title": "眼镜，很适合你哦",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3365",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/111d2dbb7b2d12386eabe2ee006d1305df4eb847.jpg",
+        "stat": {
+            "coins": 272043,
+            "danmakus": 2740603,
+            "favorite": 33929,
+            "favorites": 4151056,
+            "likes": 236931,
+            "reply": 32941,
+            "share": 75863,
+            "views": 52213390
+        },
+        "status": 13,
+        "subtitle": "已观看5221.3万次",
+        "title": "境界的彼方",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

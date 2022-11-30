@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5ab04233a441e3b5cc68d0c88bd39d1e5a89cc33.png",
+        "episodes": [
+            {
+                "aid": 631633660,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jb4y1k7bT",
+                "cid": 369791594,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f4fa919e2ef94a674b00d50682a966d9d1690058.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409553,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409553",
+                "long_title": "夏日尽头的小岛",
+                "pub_time": 1626366600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第1话 夏日尽头的小岛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409553",
+                "short_link": "https://b23.tv/ep409553",
+                "skip": {
+                    "ed": {
+                        "end": 1470,
+                        "start": 1409
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 376764862,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vo4y1D7VX",
+                "cid": 375069006,
+                "cover": "http://i0.hdslb.com/bfs/archive/5218a339848317e10463f7286891cb906dfcdeeb.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409554,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409554",
+                "long_title": "异邦人",
+                "pub_time": 1626971401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第2话 异邦人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409554",
+                "short_link": "https://b23.tv/ep409554",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 504417173,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cg41177ME",
+                "cid": 378136448,
+                "cover": "http://i0.hdslb.com/bfs/archive/4e873e79c6578418fcfdbbf5d34e19f4504ec55e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409555",
+                "long_title": "穿鞋的猫",
+                "pub_time": 1627576200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第3话 穿鞋的猫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409555",
+                "short_link": "https://b23.tv/ep409555",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 717075306,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QQ4y1f7D6",
+                "cid": 381079809,
+                "cover": "http://i0.hdslb.com/bfs/archive/7a83ee5d609716fb321ec3dcaf88d39c2e8e005c.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409556",
+                "long_title": "伟大的猴子棒球",
+                "pub_time": 1628181000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第4话 伟大的猴子棒球",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409556",
+                "short_link": "https://b23.tv/ep409556",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 674791234,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BU4y177Y2",
+                "cid": 386708609,
+                "cover": "http://i0.hdslb.com/bfs/archive/147dc3d99f35d2292cf3756f9a09b9d2bfb97cf5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409557",
+                "long_title": "跳跃的教室",
+                "pub_time": 1628785800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第5话 跳跃的教室",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409557",
+                "short_link": "https://b23.tv/ep409557",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 377448871,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ko4y1U7Xw",
+                "cid": 391773151,
+                "cover": "http://i0.hdslb.com/bfs/archive/f50e553d709bfed5c231a1378236bba1f605f09e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409558,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409558",
+                "long_title": "漫长的道别",
+                "pub_time": 1629390600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第6话 漫长的道别",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409558",
+                "short_link": "https://b23.tv/ep409558",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 292513015,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jf4y1G7zn",
+                "cid": 395769027,
+                "cover": "http://i0.hdslb.com/bfs/archive/826300d0a53018cf31b5a2bd14d520695b9027ae.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409559,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409559",
+                "long_title": "路线图",
+                "pub_time": 1629995400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第7话 路线图",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409559",
+                "short_link": "https://b23.tv/ep409559",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 805164350,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17y4y1G7XA",
+                "cid": 400131312,
+                "cover": "http://i0.hdslb.com/bfs/archive/aec292588ac61f7c9062cfa3ec9bbd859d91f196.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409560,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409560",
+                "long_title": "面带笑容的狗",
+                "pub_time": 1630600200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第8话 面带笑容的狗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409560",
+                "short_link": "https://b23.tv/ep409560",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 717762993,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vQ4y1C7L1",
+                "cid": 403724715,
+                "cover": "http://i0.hdslb.com/bfs/archive/f0b246d8d38e008fafe45f8cec485f7bf123205d.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409561,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409561",
+                "long_title": "这碗鲑鱼茶泡饭忘放鲑鱼了喵",
+                "pub_time": 1631205000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第9话 这碗鲑鱼茶泡饭忘放鲑鱼了喵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409561",
+                "short_link": "https://b23.tv/ep409561",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 632969793,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xb4y1277n",
+                "cid": 407973132,
+                "cover": "http://i0.hdslb.com/bfs/archive/039303c4bca518783f39370b38b77e61a320b022.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409562,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409562",
+                "long_title": "夏日与修罗",
+                "pub_time": 1631809800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第10话 夏日与修罗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409562",
+                "short_link": "https://b23.tv/ep409562",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 805595561,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1B34y1S7nz",
+                "cid": 412062098,
+                "cover": "http://i0.hdslb.com/bfs/archive/dc2ee89cb0c84b99a6a04c3f1a0c77c7c8cd55e7.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409563,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409563",
+                "long_title": "少年与海",
+                "pub_time": 1632414600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第11话 少年与海",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409563",
+                "short_link": "https://b23.tv/ep409563",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 1380
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 805710505,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1W34y1D7Ls",
+                "cid": 415261958,
+                "cover": "http://i0.hdslb.com/bfs/archive/af944782a188ec2c41b6f0c334ad3632a87e0c85.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 409564,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep409564",
+                "long_title": "两年的假期",
+                "pub_time": 1633019400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《漂流少年》第12话 两年的假期",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep409564",
+                "short_link": "https://b23.tv/ep409564",
+                "skip": {
+                    "ed": {
+                        "end": 1469,
+                        "start": 1338
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1814.6万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "漫长的暑假已然过半的8月16日。聚集在学校里的中学三年级学生·长良一行人突然被卷进从未设想过的事态之中。\n长良本人自不必说，神秘的转校生·希和瑞穗以及朝风等36名同班同学，都随着学校一起在异次元之中漂流。\n而且他们在漂流的同时也获得了各种各样的“能力”。有因为获得了超越常人的能力而心生欢喜，用能力肆意作乱的人，也有作为领导统帅着学生们，拼死寻找回到原本世界方法的人。\n相互质疑、无法克制的嫉妒心，还有支配欲引发了对立。\n接二连三发生的难以解决的事件面前，少年少女们突然被扔进了求生生活之中。长良他们究竟能否攻略这个世界，平安回到原本的世界呢……？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234650/",
+        "media_id": 28234650,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 409564,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 60425,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-07-16 00:30:00",
+            "pub_time_show": "2021年07月16日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 30428,
+            "score": 9.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38958,
+        "season_title": "漂流少年",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5ab04233a441e3b5cc68d0c88bd39d1e5a89cc33.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/a57e72af7d5f7a2657352f7ad4c8a676e2f40d81.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/7a8eb46dd015aee8ade803c62b484f09e0aad30a.png",
+                "media_id": 28234650,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/af944782a188ec2c41b6f0c334ad3632a87e0c85.png",
+                    "id": 409564,
+                    "index_show": "全12话"
+                },
+                "season_id": 38958,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1072661,
+                    "series_follow": 1072661,
+                    "views": 18146313
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 291301390,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1if4y1t7Ut",
+                        "cid": 358943186,
+                        "cover": "http://i0.hdslb.com/bfs/archive/1a5c96bfd606a1e1fb9059629c2d3be6644bda1b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 37000,
+                        "from": "bangumi",
+                        "id": 408336,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep408336",
+                        "long_title": "",
+                        "pub_time": 1624521600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《漂流少年》先导PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep408336",
+                        "short_link": "https://b23.tv/ep408336",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3513,
+                            "danmakus": 117,
+                            "likes": 11378,
+                            "play": 721339,
+                            "reply": 1582
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1814.6万次",
+                        "title": "先导PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 60565,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5566,
+            "series_title": "漂流少年"
+        },
+        "share_copy": "《漂流少年》全班一起去漂流？",
+        "share_sub_title": "全班一起去漂流？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38958",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/b6f4ecfc625a42af05f2bd021916bbe64626a04c.png",
+        "stat": {
+            "coins": 182395,
+            "danmakus": 127601,
+            "favorite": 33280,
+            "favorites": 1072661,
+            "likes": 414998,
+            "reply": 40331,
+            "share": 40641,
+            "views": 18146313
+        },
+        "status": 13,
+        "subtitle": "已观看1814.6万次",
+        "title": "漂流少年",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

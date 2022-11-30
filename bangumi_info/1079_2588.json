@@ -1,0 +1,790 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/1ab702fd6fed6cc11d7152883491a471bf8dd155.jpg",
+        "episodes": [
+            {
+                "aid": 2540004,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411S7Jx",
+                "cid": 10593929,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3f6738d18117bb409fc3eb942955be5b94f393ed.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 63855,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep63855",
+                "long_title": "后期配音",
+                "pub_time": 1436301000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第1话 后期配音",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep63855",
+                "short_link": "https://b23.tv/ep63855",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 43
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "1",
+                "vid": "vupload_10593929"
+            },
+            {
+                "aid": 2573536,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411S7rL",
+                "cid": 10593936,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/550ecdba0bed7c2cda1adb37e4ac24bcf767a1a4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 63955,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep63955",
+                "long_title": "试音会",
+                "pub_time": 1436905800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第2话 试音会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep63955",
+                "short_link": "https://b23.tv/ep63955",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 154,
+                        "start": 54
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "2",
+                "vid": "vupload_10593936"
+            },
+            {
+                "aid": 2606998,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xs411S7z2",
+                "cid": 10593945,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b86210d58b2e96a010f7d749e9260b9dcad95f8f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 64011,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64011",
+                "long_title": "网络电台",
+                "pub_time": 1437510600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第3话 网络电台",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64011",
+                "short_link": "https://b23.tv/ep64011",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 203,
+                        "start": 103
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "3",
+                "vid": "vupload_10593945"
+            },
+            {
+                "aid": 2642702,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os41127KR",
+                "cid": 10593961,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d71f86adefd0b3ac908e80ebadecf0b00154386b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 64188,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64188",
+                "long_title": "组合",
+                "pub_time": 1438115434,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第4话 组合",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64188",
+                "short_link": "https://b23.tv/ep64188",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 199,
+                        "start": 99
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "4",
+                "vid": "vupload_10593961"
+            },
+            {
+                "aid": 2680863,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ts411m7Vz",
+                "cid": 10593967,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f08c35033d5db5511b4be4a6330514b06a64b45.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 64351,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64351",
+                "long_title": "活动",
+                "pub_time": 1438720200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第5话 活动",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64351",
+                "short_link": "https://b23.tv/ep64351",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 231,
+                        "start": 131
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "5",
+                "vid": "vupload_10593967"
+            },
+            {
+                "aid": 2719615,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Es411m7Kj",
+                "cid": 10593971,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4ee317a2769004c0cd906321e646aa232e780f60.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 64624,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64624",
+                "long_title": "PV 拍摄",
+                "pub_time": 1439325000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第6话 PV 拍摄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64624",
+                "short_link": "https://b23.tv/ep64624",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 113,
+                        "start": 13
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "6",
+                "vid": "vupload_10593971"
+            },
+            {
+                "aid": 2759405,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rs411m7Gm",
+                "cid": 10593981,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c0101bcd7158527b8811e14d8ab5517f763f8a0f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 65369,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65369",
+                "long_title": "译制配音（吹替）",
+                "pub_time": 1439929800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第7话 译制配音（吹替）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65369",
+                "short_link": "https://b23.tv/ep65369",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 70
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "7",
+                "vid": "vupload_10593981"
+            },
+            {
+                "aid": 2802758,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11s411m7AL",
+                "cid": 10593987,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b515fab77e35e72c7b4db8de3459bbc97523d085.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 66196,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep66196",
+                "long_title": "旁白",
+                "pub_time": 1440534600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第8话 旁白",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep66196",
+                "short_link": "https://b23.tv/ep66196",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 153,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "8",
+                "vid": "vupload_10593987"
+            },
+            {
+                "aid": 2846104,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os411m76c",
+                "cid": 10593992,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/25a8494b7687267d8b3aaf5b65fbcd357b60e6b7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 66861,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep66861",
+                "long_title": "经纪人",
+                "pub_time": 1441139400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第9话 经纪人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep66861",
+                "short_link": "https://b23.tv/ep66861",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 60
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "9",
+                "vid": "vupload_10593992"
+            },
+            {
+                "aid": 2881596,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411U796",
+                "cid": 10593998,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/04766615adbbea782d2ddbf3c7cbf4dfe718f3fe.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 68383,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep68383",
+                "long_title": "出路",
+                "pub_time": 1441657800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第10话 出路",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep68383",
+                "short_link": "https://b23.tv/ep68383",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 81
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "10",
+                "vid": "vupload_10593998"
+            },
+            {
+                "aid": 2911940,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1is41117H7",
+                "cid": 10594002,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ef77020a4ba5ffa67e9e90f72b2ffaea415a4e8a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 68913,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep68913",
+                "long_title": "自我管理",
+                "pub_time": 1442349000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第11话 自我管理",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep68913",
+                "short_link": "https://b23.tv/ep68913",
+                "skip": {
+                    "ed": {
+                        "end": 1430,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 28
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "11",
+                "vid": "vupload_10594002"
+            },
+            {
+                "aid": 2942614,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12s41117CH",
+                "cid": 10594004,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3abbdd5a2d95bbb50ea482ef5cd5fd244c807e8c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 69296,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep69296",
+                "long_title": "演唱会",
+                "pub_time": 1442953800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第12话 演唱会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep69296",
+                "short_link": "https://b23.tv/ep69296",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 64
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "12",
+                "vid": "vupload_10594004"
+            },
+            {
+                "aid": 2975141,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os41117W1",
+                "cid": 10594006,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/872dd5feabf9a5840ecb016c74573320409f0339.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 70710,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70710",
+                "long_title": "评定",
+                "pub_time": 1443558627,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那就是声优！》第13话 评定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70710",
+                "short_link": "https://b23.tv/ep70710",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看849.9万次",
+                "title": "13",
+                "vid": "vupload_10594006"
+            }
+        ],
+        "evaluate": "一之濑双叶是刚刚出道的新人声优。但现在她并没有什么特别显著的个性，也很遗憾地几乎没什么工作。她一边以打工维生，一边度过着试行错误的每一天。某天，双叶在电视动画《佛战士菩萨音》的试音工作室，与和自己同样是新人声优的萌咲莓以及小花铃相遇了……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2588/",
+        "media_id": 2588,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 70710,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 19291,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-07-07 00:00:00",
+            "pub_time_show": "2015年07月07日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1528,
+            "score": 9.3
+        },
+        "record": "登记号：10417060214182306",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2588,
+        "season_title": "那就是声优！",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1ab702fd6fed6cc11d7152883491a471bf8dd155.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2588,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/872dd5feabf9a5840ecb016c74573320409f0339.jpg",
+                    "id": 70710,
+                    "index_show": "全13话"
+                },
+                "season_id": 2588,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 316184,
+                    "series_follow": 317750,
+                    "views": 8498739
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1766,
+            "series_title": "那就是声优！"
+        },
+        "share_copy": "《那就是声优！》新人声优养成记",
+        "share_sub_title": "新人声优养成记",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2588",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/28e765aa2fc0b310e258a49d187f220ae82aecb2.jpg",
+        "stat": {
+            "coins": 19136,
+            "danmakus": 447024,
+            "favorite": 1706,
+            "favorites": 316184,
+            "likes": 16207,
+            "reply": 19099,
+            "share": 2789,
+            "views": 8498739
+        },
+        "status": 2,
+        "subtitle": "已观看849.9万次",
+        "title": "那就是声优！",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

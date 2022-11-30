@@ -1,0 +1,886 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/2d8e0db5b60d2f2fa8dea5a1b3bcc5023bde69a2.jpg",
+        "episodes": [
+            {
+                "aid": 3527221,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1us411R794",
+                "cid": 5526803,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0bc4c17354f7e3b8db5f6ad2bc34145070bf30eb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1407000,
+                "from": "bangumi",
+                "id": 82663,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82663",
+                "long_title": "Knight",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第1话 Knight",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82663",
+                "short_link": "https://b23.tv/ep82663",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 501,
+                        "start": 415
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3285.8万次",
+                "title": "1",
+                "vid": "vupload_5526803"
+            },
+            {
+                "aid": 421755989,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12341187MQ",
+                "cid": 5526804,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c824197396560a8b99cd20472ccefd6314893763.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1408000,
+                "from": "bangumi",
+                "id": 82664,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82664",
+                "long_title": "Kitten",
+                "pub_time": 1452073320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第2话 Kitten",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82664",
+                "short_link": "https://b23.tv/ep82664",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1292
+                    },
+                    "op": {
+                        "end": 87,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "2",
+                "vid": "vupload_5526804"
+            },
+            {
+                "aid": 464313602,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SL411T7a3",
+                "cid": 5526805,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c055590d91a5a92c0da938e7e0393fa50747ce94.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1407000,
+                "from": "bangumi",
+                "id": 82665,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82665",
+                "long_title": "Kitchen",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第3话 Kitchen",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82665",
+                "short_link": "https://b23.tv/ep82665",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1292
+                    },
+                    "op": {
+                        "end": 287,
+                        "start": 200
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "3",
+                "vid": "vupload_5526805"
+            },
+            {
+                "aid": 294299836,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SF411h778",
+                "cid": 5526806,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ae4d3cbb12c65d55b753e6f21e180cb15092a230.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1407000,
+                "from": "bangumi",
+                "id": 82666,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82666",
+                "long_title": "Knock-on effect",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第4话 Knock-on effect",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82666",
+                "short_link": "https://b23.tv/ep82666",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1292
+                    },
+                    "op": {
+                        "end": 192,
+                        "start": 105
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "4",
+                "vid": "vupload_5526806"
+            },
+            {
+                "aid": 934354970,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PM4y1P7j7",
+                "cid": 5526807,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/850a6076b6812c65f6d5253dae3554423a772d9c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1407000,
+                "from": "bangumi",
+                "id": 82667,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82667",
+                "long_title": "Knife",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第5话 Knife",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82667",
+                "short_link": "https://b23.tv/ep82667",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1292
+                    },
+                    "op": {
+                        "end": 223,
+                        "start": 137
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "5",
+                "vid": "vupload_5526807"
+            },
+            {
+                "aid": 251821057,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cY41147wQ",
+                "cid": 5526808,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/409d9977a27aaf8233012b718eec97ef271597a0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 82668,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82668",
+                "long_title": "Karma",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第6话 Karma",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82668",
+                "short_link": "https://b23.tv/ep82668",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 79
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "6",
+                "vid": "vupload_5526808"
+            },
+            {
+                "aid": 336794170,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NR4y1b7rV",
+                "cid": 5526809,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ccc972e2080ad3571a509e80ed39358f33f1051e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1454000,
+                "from": "bangumi",
+                "id": 82669,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82669",
+                "long_title": "Key",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第7话 Key",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82669",
+                "short_link": "https://b23.tv/ep82669",
+                "skip": {
+                    "ed": {
+                        "end": 1439,
+                        "start": 1349
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "7",
+                "vid": "vupload_5526809"
+            },
+            {
+                "aid": 891776350,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oP4y1576i",
+                "cid": 5526810,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d3924644acab281ec1efd723be35abc9fc08187b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82670,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82670",
+                "long_title": "Kindling",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第8话 Kindling",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82670",
+                "short_link": "https://b23.tv/ep82670",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 234,
+                        "start": 144
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "8",
+                "vid": "vupload_5526810"
+            },
+            {
+                "aid": 891861562,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XP4y1G7aU",
+                "cid": 5526811,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/300a431208a53c197822c470d0b124ee8d3e698c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82671,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82671",
+                "long_title": "Knell",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第9话 Knell",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82671",
+                "short_link": "https://b23.tv/ep82671",
+                "skip": {
+                    "ed": {
+                        "end": 1388,
+                        "start": 1298
+                    },
+                    "op": {
+                        "end": 452,
+                        "start": 362
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "9",
+                "vid": "vupload_5526811"
+            },
+            {
+                "aid": 634284232,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fb4y1t7jW",
+                "cid": 5526812,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d6226a3232a6213cf1d1e48190d15bfb51c9b929.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82672,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82672",
+                "long_title": "Kaleidoscope",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第10话 Kaleidoscope",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82672",
+                "short_link": "https://b23.tv/ep82672",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "10",
+                "vid": "vupload_5526812"
+            },
+            {
+                "aid": 294268607,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zF411h7Wz",
+                "cid": 5526813,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3b26fa4c21805ba79ad26d658485bbb265c300a6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82673,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82673",
+                "long_title": "Killer",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第11话 Killer",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82673",
+                "short_link": "https://b23.tv/ep82673",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 269,
+                        "start": 179
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "11",
+                "vid": "vupload_5526813"
+            },
+            {
+                "aid": 721762202,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12S4y197Wo",
+                "cid": 5526814,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fd4ea43f5688fbeb59d761781cf8d1ec89557f59.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82674,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82674",
+                "long_title": "Adolf.K.Weismann",
+                "pub_time": 1452073335,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第12话 Adolf.K.Weismann",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82674",
+                "short_link": "https://b23.tv/ep82674",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 111
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "12",
+                "vid": "vupload_5526814"
+            },
+            {
+                "aid": 591808552,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yq4y167UH",
+                "cid": 5526815,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3f1399be54686ecedfccab2f65e5a408f875356b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1437000,
+                "from": "bangumi",
+                "id": 82675,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82675",
+                "long_title": "King",
+                "pub_time": 1452073320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K》第13话 King",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82675",
+                "short_link": "https://b23.tv/ep82675",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3285.8万次",
+                "title": "13",
+                "vid": "vupload_5526815"
+            }
+        ],
+        "evaluate": "在与现实有着微妙差异的现代日本，存在着七位拥有巨大异能之力的“王”。他们将自己的力量分给族人们，并与族人们共同组成王族。“赤之王”周防尊率领的吠舞罗与“青之王”宗像礼司率领的Scepter4，因追赶作为某起杀人事件的嫌疑人小白——也就是少年伊佐那社而对立。但小白自己却对这件事毫无记忆，什么都不知道的他尝试从吠舞罗的追杀中逃跑。之后，在小白的面前出现了身着黑服的纤细少年夜刀神狗朗。与他的邂逅，使小白的命运开始加速了……\n故事主要描绘了王权者们固执己见导致互相的争执、异能者之间的战斗，以及被卷入其中的少年的命运。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md685/",
+        "media_id": 685,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 82675,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17610,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-10-04 00:00:00",
+            "pub_time_show": "2012年10月04日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 8305,
+            "score": 9.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 685,
+        "season_title": "K",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2d8e0db5b60d2f2fa8dea5a1b3bcc5023bde69a2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 685,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f1399be54686ecedfccab2f65e5a408f875356b.jpg",
+                    "id": 82675,
+                    "index_show": "全13话"
+                },
+                "season_id": 685,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2402970,
+                    "series_follow": 3480630,
+                    "views": 32857810
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ff85b64a18556bb5c0a28a2168048f7cd3721ce3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2793,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e487d0b27832a17d2336e4b561d2a532654ab0b1.jpg",
+                    "id": 82677,
+                    "index_show": "全2话"
+                },
+                "season_id": 2793,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 558566,
+                    "series_follow": 3480630,
+                    "views": 9789917
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/902812752c6c021b7e8f75f30ea2d63db8d71d7e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2725,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e857ade0a816f3fa8a51fecc282239b309948f48.jpg",
+                    "id": 82118,
+                    "index_show": "全13话"
+                },
+                "season_id": 2725,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1684734,
+                    "series_follow": 3480630,
+                    "views": 74586548
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a1412083624cfcae7fb07ed4191710a0ac5ac31b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 113852,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7a7276ccffc8750dc8c8a83a8bb3acf6252685a7.jpg",
+                    "id": 261659,
+                    "index_show": "全13话"
+                },
+                "season_id": 24978,
+                "season_title": "新作剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 716528,
+                    "series_follow": 3480630,
+                    "views": 12362394
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 418,
+            "series_title": "K"
+        },
+        "share_copy": "《K》拔刀！",
+        "share_sub_title": "拔刀！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss685",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/80373057dfb0a5c6bb24d2d6ad6607c52383323f.jpg",
+        "stat": {
+            "coins": 66314,
+            "danmakus": 1260059,
+            "favorite": 15623,
+            "favorites": 2402970,
+            "likes": 83965,
+            "reply": 21747,
+            "share": 46945,
+            "views": 32857810
+        },
+        "status": 13,
+        "subtitle": "已观看3285.8万次",
+        "title": "K",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

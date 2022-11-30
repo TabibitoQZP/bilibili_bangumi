@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/f57c3c8dc5b2bd0da7867403a8cefa1953ae123e.jpg",
+        "episodes": [
+            {
+                "aid": 15065503,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex41137Ks",
+                "cid": 24535488,
+                "cover": "http://i2.hdslb.com/bfs/archive/46177eeb7cc1af74d03dde5a21bae71220c977ee.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 936000,
+                "from": "bangumi",
+                "id": 115503,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115503",
+                "long_title": "",
+                "pub_time": 1507343100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美 SP》SP ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115503",
+                "short_link": "https://b23.tv/ep115503",
+                "skip": {
+                    "ed": {
+                        "end": 936,
+                        "start": 926
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看396万次",
+                "title": "SP",
+                "vid": ""
+            }
+        ],
+        "evaluate": "TV未放送的短篇合集，主要讲述正篇中配角们的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md10732/",
+        "media_id": 10732,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 115503,
+            "is_new": 0,
+            "title": "SP"
+        },
+        "positive": {
+            "id": 23472,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-09-27 00:00:01",
+            "pub_time_show": "2017年9月27日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3137,
+            "score": 9.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 3,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6497,
+        "season_title": "月色真美 SP",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5ce66f68d54052e3a305524b9b06a76977e974fc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5989,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/d08fdc6c7240506ae02ea4a7c3b1003e485ac502.jpg",
+                    "id": 106993,
+                    "index_show": "全12话"
+                },
+                "season_id": 5989,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3797894,
+                    "series_follow": 3814313,
+                    "views": 74538746
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f57c3c8dc5b2bd0da7867403a8cefa1953ae123e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 10732,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/46177eeb7cc1af74d03dde5a21bae71220c977ee.jpg",
+                    "id": 115503,
+                    "index_show": "全1话"
+                },
+                "season_id": 6497,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 206477,
+                    "series_follow": 3814313,
+                    "views": 3960374
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3589,
+            "series_title": "月色真美"
+        },
+        "share_copy": "《月色真美 SP》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6497",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8a532daf0443a36aa3aa3b52828011cf88f14919.jpg",
+        "stat": {
+            "coins": 21487,
+            "danmakus": 31323,
+            "favorite": 1630,
+            "favorites": 206477,
+            "likes": 22515,
+            "reply": 2346,
+            "share": 2831,
+            "views": 3960374
+        },
+        "status": 2,
+        "subtitle": "已观看396万次",
+        "title": "月色真美 SP",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

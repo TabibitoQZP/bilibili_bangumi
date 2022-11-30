@@ -1,0 +1,904 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/75714bb93e2198e91d07e5f49320768e21724403.png",
+        "episodes": [
+            {
+                "aid": 508336800,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gu41117QT",
+                "cid": 493646421,
+                "cover": "http://i0.hdslb.com/bfs/archive/a5624c378e905d5f4c8c46b5975048035b26f678.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466794,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466794",
+                "long_title": "121045",
+                "pub_time": 1643018400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第1话 121045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466794",
+                "short_link": "https://b23.tv/ep466794",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看59.4万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 680763428,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1JS4y177c7",
+                "cid": 493647090,
+                "cover": "http://i0.hdslb.com/bfs/archive/e4aa9c81f99ddf8210565ae3e1e240b149003998.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466795,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466795",
+                "long_title": "131045",
+                "pub_time": 1643104800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第2话 131045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466795",
+                "short_link": "https://b23.tv/ep466795",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 423341380,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1r3411Y7tD",
+                "cid": 493647641,
+                "cover": "http://i0.hdslb.com/bfs/archive/426547954d938e878f94a9ce03282b0eb01527bf.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466796,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466796",
+                "long_title": "181045",
+                "pub_time": 1643191200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第3话 181045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466796",
+                "short_link": "https://b23.tv/ep466796",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 850798618,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fL4y147qR",
+                "cid": 493648356,
+                "cover": "http://i0.hdslb.com/bfs/archive/ff3b5b287f7979a2fdfd5e2bd5a34f41a2689a5a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466797,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466797",
+                "long_title": "291045",
+                "pub_time": 1643277600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第4话 291045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466797",
+                "short_link": "https://b23.tv/ep466797",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 380756278,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yZ4y1f7aJ",
+                "cid": 493648911,
+                "cover": "http://i0.hdslb.com/bfs/archive/d6016e0c029d708a45fc31b7b20dae793ae88ffa.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 466798,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466798",
+                "long_title": "301045",
+                "pub_time": 1643364000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第5话 301045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466798",
+                "short_link": "https://b23.tv/ep466798",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 423373835,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1g3411h77m",
+                "cid": 493649614,
+                "cover": "http://i0.hdslb.com/bfs/archive/3d234c534306bac3ea65525c91088649caabcd16.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 466799,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466799",
+                "long_title": "311045",
+                "pub_time": 1643623200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第6话 311045",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466799",
+                "short_link": "https://b23.tv/ep466799",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 635855364,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1db4y1J7ak",
+                "cid": 493650184,
+                "cover": "http://i0.hdslb.com/bfs/archive/29fc576fe3a483df4c2e011ba9de329a5428d643.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 466800,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466800",
+                "long_title": "011145",
+                "pub_time": 1643709600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第7话 011145",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466800",
+                "short_link": "https://b23.tv/ep466800",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 935793020,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LT4y127AN",
+                "cid": 493650823,
+                "cover": "http://i0.hdslb.com/bfs/archive/4f6f057fde178357581a90345c8a3df2d99181fe.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 466801,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466801",
+                "long_title": "021145",
+                "pub_time": 1643796000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第8话 021145",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466801",
+                "short_link": "https://b23.tv/ep466801",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 723414919,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rS4y1o7Ap",
+                "cid": 493938959,
+                "cover": "http://i0.hdslb.com/bfs/archive/7b3e35db56a2ea7f8e6d0c04c0108452fb447ca2.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466802,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466802",
+                "long_title": "031145",
+                "pub_time": 1643882400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第9话 031145",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466802",
+                "short_link": "https://b23.tv/ep466802",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 210928394,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ia411m7GV",
+                "cid": 493939574,
+                "cover": "http://i0.hdslb.com/bfs/archive/60f34932565261ac10edb406e1bb28926af46554.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466803,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466803",
+                "long_title": "130146",
+                "pub_time": 1643968800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第10话 130146",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466803",
+                "short_link": "https://b23.tv/ep466803",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 423430222,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1t3411h7BT",
+                "cid": 493940252,
+                "cover": "http://i0.hdslb.com/bfs/archive/a134bbd7f5b7dab89a00d4629e86176747947aa0.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466804,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466804",
+                "long_title": "140146",
+                "pub_time": 1644228000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第11话 140146",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466804",
+                "short_link": "https://b23.tv/ep466804",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 465905708,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AL411F7w6",
+                "cid": 493940983,
+                "cover": "http://i0.hdslb.com/bfs/archive/81d2215eb369f4e7b4bb95284294bf79c20d057a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1371000,
+                "from": "bangumi",
+                "id": 466805,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep466805",
+                "long_title": "150146",
+                "pub_time": 1644314400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《约定的梦幻岛 粤配版》第12话 150146",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep466805",
+                "short_link": "https://b23.tv/ep466805",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看59.4万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "仰慕的母亲并非亲生母亲。一起生活的他们并非兄弟。\nGrace=Field House是没有父母的孩子们居住的地方。虽然没有血缘关系，但妈妈和38个兄弟都度过了幸福的每一天，这是不可替代的家。\n但是，他们的日常在某一天突然宣告结束……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236461/",
+        "media_id": 28236461,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 466805,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 64422,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-24 18:00:00",
+            "pub_time_show": "01月24日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 292,
+            "score": 9.0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40755,
+        "season_title": "约定的梦幻岛 粤配版",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/65f89e0a0d050ff987159829fcf565faae199d08.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5267750,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/70304ce2c6a4d09494b04a35efa7570a35fe03c1.jpg",
+                    "id": 259769,
+                    "index_show": "全12话"
+                },
+                "season_id": 26281,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3569912,
+                    "series_follow": 4196185,
+                    "views": 80066076
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4e259309f0746011c54d5882e3ab8aabdee3d2ad.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231852,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d7115d121fae6c01eda71d083805e46eb9bb0fb4.jpg",
+                    "id": 385092,
+                    "index_show": "全11话"
+                },
+                "season_id": 36210,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3350299,
+                    "series_follow": 4196185,
+                    "views": 43549224
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/75714bb93e2198e91d07e5f49320768e21724403.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8810c8028fc4e370b72ebc06b92906b39a536bcd.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/bcffb3390d4a8b1a6a9a0e4ca08a32398c15e699.png",
+                "media_id": 28236461,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/81d2215eb369f4e7b4bb95284294bf79c20d057a.png",
+                    "id": 466805,
+                    "index_show": "全12话"
+                },
+                "season_id": 40755,
+                "season_title": "第一季粤配",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8907,
+                    "series_follow": 4196185,
+                    "views": 593870
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 723351901,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HS4y1o7oq",
+                        "cid": 488486945,
+                        "cover": "http://i0.hdslb.com/bfs/archive/8293d75448936422ac0d2d8aec6ac20c0ac23fec.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 24000,
+                        "from": "bangumi",
+                        "id": 467350,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep467350",
+                        "long_title": "",
+                        "pub_time": 1642737600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《约定的梦幻岛 粤配版》预热 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep467350",
+                        "short_link": "https://b23.tv/ep467350",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 15,
+                            "danmakus": 5,
+                            "likes": 329,
+                            "play": 9527,
+                            "reply": 47
+                        },
+                        "status": 2,
+                        "subtitle": "已观看59.4万次",
+                        "title": "预热",
+                        "vid": ""
+                    }
+                ],
+                "id": 64860,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4271,
+            "series_title": "约定的梦幻岛"
+        },
+        "share_copy": "《约定的梦幻岛 粤配版》墙的外面究竟是什么",
+        "share_sub_title": "墙的外面究竟是什么",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40755",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/df0345f328fc390cad3f20e76d7d82aa1721c2a7.png",
+        "stat": {
+            "coins": 1085,
+            "danmakus": 1648,
+            "favorite": 489,
+            "favorites": 8907,
+            "likes": 33207,
+            "reply": 835,
+            "share": 665,
+            "views": 593870
+        },
+        "status": 13,
+        "subtitle": "已观看59.4万次",
+        "title": "约定的梦幻岛 粤配版",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859950,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

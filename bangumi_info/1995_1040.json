@@ -1,0 +1,786 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7afe186a355e78f1ea9794a7830c97358653068c.jpg",
+        "episodes": [
+            {
+                "aid": 289451500,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nf4y147bL",
+                "cid": 305533107,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1376000,
+                "from": "bangumi",
+                "id": 18701,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18701",
+                "long_title": "巴黎留学生活的开始",
+                "pub_time": 1615869600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第1话 巴黎留学生活的开始",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18701",
+                "short_link": "https://b23.tv/ep18701",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1277
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 84
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "1",
+                "vid": "87938446"
+            },
+            {
+                "aid": 929456579,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KK4y1D7UQ",
+                "cid": 305533571,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 18702,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18702",
+                "long_title": "千秋指挥竞赛会",
+                "pub_time": 1615870380,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第2话 千秋指挥竞赛会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18702",
+                "short_link": "https://b23.tv/ep18702",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "2",
+                "vid": "87988763"
+            },
+            {
+                "aid": 331922641,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BA411K7ZK",
+                "cid": 305533733,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1368000,
+                "from": "bangumi",
+                "id": 18703,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18703",
+                "long_title": "休得列杰曼再次相会",
+                "pub_time": 1615870440,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第3话 休得列杰曼再次相会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18703",
+                "short_link": "https://b23.tv/ep18703",
+                "skip": {
+                    "ed": {
+                        "end": 1362,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "3",
+                "vid": "87989223"
+            },
+            {
+                "aid": 204381018,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1th411k7LT",
+                "cid": 305533896,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1360000,
+                "from": "bangumi",
+                "id": 18704,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18704",
+                "long_title": "憔悴的野田妹 拒绝千秋",
+                "pub_time": 1615870920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第4话 憔悴的野田妹 拒绝千秋",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18704",
+                "short_link": "https://b23.tv/ep18704",
+                "skip": {
+                    "ed": {
+                        "end": 1353,
+                        "start": 1261
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "4",
+                "vid": "87989719"
+            },
+            {
+                "aid": 204411519,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bh411k7av",
+                "cid": 305534035,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1367000,
+                "from": "bangumi",
+                "id": 18705,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18705",
+                "long_title": "千秋和野田妹不同交集",
+                "pub_time": 1615870980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第5话 千秋和野田妹不同交集",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18705",
+                "short_link": "https://b23.tv/ep18705",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "5",
+                "vid": "87990096"
+            },
+            {
+                "aid": 801875668,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1my4y1J7eH",
+                "cid": 305534163,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 18706,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18706",
+                "long_title": "千秋常务指挥者就任",
+                "pub_time": 1615871040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第6话 千秋常务指挥者就任",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18706",
+                "short_link": "https://b23.tv/ep18706",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "6",
+                "vid": "87990454"
+            },
+            {
+                "aid": 671953250,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KU4y1p7tA",
+                "cid": 305534266,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1356000,
+                "from": "bangumi",
+                "id": 18707,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18707",
+                "long_title": "千秋和野田妹第一次合演！？",
+                "pub_time": 1615871100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第7话 千秋和野田妹第一次合演！？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18707",
+                "short_link": "https://b23.tv/ep18707",
+                "skip": {
+                    "ed": {
+                        "end": 1349,
+                        "start": 1257
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "7",
+                "vid": "87991045"
+            },
+            {
+                "aid": 629375221,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pb4y1d7uP",
+                "cid": 305534405,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 18708,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18708",
+                "long_title": "千秋和野田妹再次出发",
+                "pub_time": 1615871580,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第8话 千秋和野田妹再次出发",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18708",
+                "short_link": "https://b23.tv/ep18708",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1281
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "8",
+                "vid": "87991477"
+            },
+            {
+                "aid": 374459994,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oZ4y1A7gk",
+                "cid": 305534515,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1264000,
+                "from": "bangumi",
+                "id": 18709,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18709",
+                "long_title": "野田妹首次独奏会！",
+                "pub_time": 1615871640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第9话 野田妹首次独奏会！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18709",
+                "short_link": "https://b23.tv/ep18709",
+                "skip": {
+                    "ed": {
+                        "end": 1257,
+                        "start": 1165
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "9",
+                "vid": "87992470"
+            },
+            {
+                "aid": 331875134,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xA411K72L",
+                "cid": 305533266,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 18710,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18710",
+                "long_title": "独奏会亮闪闪地星星",
+                "pub_time": 1615869780,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第10话 独奏会亮闪闪地星星",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18710",
+                "short_link": "https://b23.tv/ep18710",
+                "skip": {
+                    "ed": {
+                        "end": 1374,
+                        "start": 1282
+                    },
+                    "op": {
+                        "end": 179,
+                        "start": 89
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "10",
+                "vid": "87992867"
+            },
+            {
+                "aid": 416949103,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xV411v7SS",
+                "cid": 305533450,
+                "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1358000,
+                "from": "bangumi",
+                "id": 18711,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep18711",
+                "long_title": "最后一章 千秋的魔法",
+                "pub_time": 1615869948,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响情人梦 巴黎篇》第11话 最后一章 千秋的魔法",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep18711",
+                "short_link": "https://b23.tv/ep18711",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看45.6万次",
+                "title": "11",
+                "vid": "87992923"
+            }
+        ],
+        "evaluate": "身为名钢琴家之子的优秀音乐大学生千秋真一。想要赴欧学习指挥，却因为飞机恐惧症而一直无法出国。某天，不可思议的少女野田惠，突然出现在他面前，住在垃圾房里的她，是个无可救药的怪人？这少女的出现会对真一有什么影响呢？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1040/",
+        "media_id": 1040,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 18711,
+            "is_new": 0,
+            "title": "11"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18032,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2008-10-09 00:00:00",
+            "pub_time_show": "2008年10月09日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 556,
+            "score": 9.7
+        },
+        "record": "登记号：10417060220902403",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1040,
+        "season_title": "交响情人梦 巴黎篇",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a692813f1953afb13fbd126e75d01a86e9fff2e1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1039,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/17ff5c60aef68ee4dd5ae781ef15f1eb3a219e35.jpg",
+                    "id": 18700,
+                    "index_show": "全23话"
+                },
+                "season_id": 1039,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 202826,
+                    "series_follow": 235508,
+                    "views": 4016614
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/395207f3bc8e5924e6c5117196ded38163cad637.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3835,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2c1a34a70a7ff2e8587c430bdd3d4330eee8bd59.jpg",
+                    "id": 86733,
+                    "index_show": "全2话"
+                },
+                "season_id": 3835,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 17391,
+                    "series_follow": 235508,
+                    "views": 489107
+                }
+            },
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7afe186a355e78f1ea9794a7830c97358653068c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1040,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/aa16fb6d9c99522c5e78d4fe51b90d00ec97757b.png",
+                    "id": 18711,
+                    "index_show": "全11话"
+                },
+                "season_id": 1040,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 58730,
+                    "series_follow": 235508,
+                    "views": 455521
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b64bc3b605bbec13891b7190e441ad63fa17ae44.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1041,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3e33a7cb3aab9794e0f60c20c96cf26fad040632.jpg",
+                    "id": 18723,
+                    "index_show": "全11话"
+                },
+                "season_id": 1041,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 65693,
+                    "series_follow": 235508,
+                    "views": 1688259
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 677,
+            "series_title": "交响情人梦"
+        },
+        "share_copy": "《交响情人梦 巴黎篇》巴黎众人打闹日常",
+        "share_sub_title": "巴黎众人打闹日常",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1040",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a39ce4a109342b83c3498af5fdbcd044d4acf6b3.jpg",
+        "stat": {
+            "coins": 1593,
+            "danmakus": 3512,
+            "favorite": 327,
+            "favorites": 58730,
+            "likes": 6747,
+            "reply": 403,
+            "share": 376,
+            "views": 455521
+        },
+        "status": 13,
+        "subtitle": "已观看45.6万次",
+        "title": "交响情人梦 巴黎篇",
+        "total": 11,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a9c8b03d217849c198da937b8104ec16e981b513.jpg",
+        "episodes": [
+            {
+                "aid": 3135684,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11s41127bL",
+                "cid": 4931940,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5f4dec58e6dc287ded793ecbb6055c7da34d9527.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1432000,
+                "from": "bangumi",
+                "id": 85182,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85182",
+                "long_title": "再做一次吧 ",
+                "pub_time": 1458119204,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《黑子的篮球 第2期 OVA》第1话 再做一次吧 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85182",
+                "short_link": "https://b23.tv/ep85182",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看223.6万次",
+                "title": "1",
+                "vid": "vupload_4931940"
+            }
+        ],
+        "evaluate": "日本人气动画《黑子的篮球》的续作，讲述的是帝光中学中学篮球部，部员一百余人全国联赛三年冕的超级豪门，在其光辉历史中有五个十年难遇的天才，他们被称为“奇迹的世代”，但有一个奇妙的传说，谁都未知晓也没有上场记录，即使如此，仍让五个天才也不敢小看的一个人，他就是幻之第六人，本作的男主角黑子哲也。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3443/",
+        "media_id": 3443,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 85182,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 20400,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-06-20 00:00:01",
+            "pub_time_show": "2014年6月20日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 447,
+            "score": 9.4
+        },
+        "record": "登记号：10417060214132410",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3443,
+        "season_title": "黑子的篮球 第2期 OVA",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a9f02086131b2d351027100f8caadc1d27221f4e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1624,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a60882267259a53fe892dd48940267aa5cd6afd2.jpg",
+                    "id": 29721,
+                    "index_show": "全25话"
+                },
+                "season_id": 1624,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 977666,
+                    "series_follow": 1364103,
+                    "views": 29286104
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a9c8b03d217849c198da937b8104ec16e981b513.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1625,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/41ee6179251ba21651c8c7372112eef817378937.jpg",
+                    "id": 29746,
+                    "index_show": "全25话"
+                },
+                "season_id": 1625,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 487596,
+                    "series_follow": 1364103,
+                    "views": 22899833
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/aa6f044e56fb909367d9977cf4dee1f2249f70f8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1626,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e1d9494ba4acaef236c3667429b779a832ad0519.jpg",
+                    "id": 63744,
+                    "index_show": "全25话"
+                },
+                "season_id": 1626,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 583442,
+                    "series_follow": 1364103,
+                    "views": 57676976
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a9c8b03d217849c198da937b8104ec16e981b513.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3443,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/5f4dec58e6dc287ded793ecbb6055c7da34d9527.jpg",
+                    "id": 85182,
+                    "index_show": "全1话"
+                },
+                "season_id": 3443,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 98512,
+                    "series_follow": 1364103,
+                    "views": 2235518
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/aa6f044e56fb909367d9977cf4dee1f2249f70f8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3444,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/27055276a874ce4ff318550a6a7baae84ae538ed.jpg",
+                    "id": 85186,
+                    "index_show": "全1话"
+                },
+                "season_id": 3444,
+                "season_title": "OVA3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 159781,
+                    "series_follow": 1364103,
+                    "views": 1215465
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ea29f0ee4e427da4756d36125f5e9d0260a02acc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5938,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fd7c86b5f6a19793e56410394d18ee4e8a28de0a.jpg",
+                    "id": 102288,
+                    "index_show": "全3话"
+                },
+                "season_id": 5938,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 123437,
+                    "series_follow": 1364103,
+                    "views": 4378141
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1107,
+            "series_title": "黑子的篮球"
+        },
+        "share_copy": "《黑子的篮球 第2期 OVA》青峰与黑子的初遇",
+        "share_sub_title": "青峰与黑子的初遇",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3443",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ee813b60156c1f1344e28ab2a842201d57c938df.jpg",
+        "stat": {
+            "coins": 2842,
+            "danmakus": 29120,
+            "favorite": 406,
+            "favorites": 98512,
+            "likes": 3203,
+            "reply": 1314,
+            "share": 717,
+            "views": 2235518
+        },
+        "status": 13,
+        "subtitle": "已观看223.6万次",
+        "title": "黑子的篮球 第2期 OVA",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

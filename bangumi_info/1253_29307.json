@@ -1,0 +1,853 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/a48c23fb99ece30c282a500841f68c84ea345064.png",
+        "episodes": [
+            {
+                "aid": 83262165,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1RJ411n7Nr",
+                "cid": 175082466,
+                "cover": "http://i0.hdslb.com/bfs/archive/fceb7925e39459fa972a65f141d0da992d1a4883.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307044,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307044",
+                "long_title": "走向盛开的未来",
+                "pub_time": 1578933000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第1话 走向盛开的未来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307044",
+                "short_link": "https://b23.tv/ep307044",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1381
+                    },
+                    "op": {
+                        "end": 64,
+                        "start": 54
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看329.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 84294109,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1X7411v7bv",
+                "cid": 178576239,
+                "cover": "http://i0.hdslb.com/bfs/archive/a0e2ecb6855d59d1624945b2adf3e79c98888e28.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307045,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307045",
+                "long_title": "罗密欧和朱利亚斯",
+                "pub_time": 1579537800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第2话 罗密欧和朱利亚斯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307045",
+                "short_link": "https://b23.tv/ep307045",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 147,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 85260923,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16741167Vg",
+                "cid": 183933371,
+                "cover": "http://i0.hdslb.com/bfs/archive/2d649e4d395283792a8d6c039b7bd12328bd1174.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307046,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307046",
+                "long_title": "晚安剧场",
+                "pub_time": 1580142600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第3话 晚安剧场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307046",
+                "short_link": "https://b23.tv/ep307046",
+                "skip": {
+                    "ed": {
+                        "end": 1402,
+                        "start": 1312
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 412949646,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GV411d7Q7",
+                "cid": 184062939,
+                "cover": "http://i0.hdslb.com/bfs/archive/36366d96911693e8da98338393d7e83de58e0746.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307047,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307047",
+                "long_title": "新的挑战",
+                "pub_time": 1588005000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第4话 新的挑战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307047",
+                "short_link": "https://b23.tv/ep307047",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 97
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 200557261,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cz411q7y9",
+                "cid": 186952617,
+                "cover": "http://i0.hdslb.com/bfs/archive/ae7fa8d6c2a2e39854aafc6b0531998441c13a42.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307048,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307048",
+                "long_title": "关于恋爱·春",
+                "pub_time": 1588609800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第5话 关于恋爱·春",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307048",
+                "short_link": "https://b23.tv/ep307048",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 84
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 413196236,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XV411k7T8",
+                "cid": 189815344,
+                "cover": "http://i0.hdslb.com/bfs/archive/0beb5f8ce1b070980ff26f68fa8c0e9aa9149049.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307049,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307049",
+                "long_title": "The Show Must Go On !",
+                "pub_time": 1589214600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第6话 The Show Must Go On !",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307049",
+                "short_link": "https://b23.tv/ep307049",
+                "skip": {
+                    "ed": {
+                        "end": 1368,
+                        "start": 1275
+                    },
+                    "op": {
+                        "end": 239,
+                        "start": 148
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 883199330,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MK4y1t7nx",
+                "cid": 192524300,
+                "cover": "http://i0.hdslb.com/bfs/archive/f062a9d76a0568f9ecce670a3b6778de693658ae.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307050,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307050",
+                "long_title": "新的季节",
+                "pub_time": 1589819400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第7话 新的季节",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307050",
+                "short_link": "https://b23.tv/ep307050",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 225,
+                        "start": 135
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 838284546,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19g4y1B7AJ",
+                "cid": 195133420,
+                "cover": "http://i0.hdslb.com/bfs/archive/66aa0c2fa0acfd9d820b72388aea191a84f33bb1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307051,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307051",
+                "long_title": "一千零一夜",
+                "pub_time": 1590424200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第8话 一千零一夜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307051",
+                "short_link": "https://b23.tv/ep307051",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 207,
+                        "start": 117
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 540947051,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gi4y1x7Av",
+                "cid": 197636100,
+                "cover": "http://i0.hdslb.com/bfs/archive/28102f8e1b1c23efac16173673cbcf59da8325ac.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307052,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307052",
+                "long_title": "夏季合宿开幕",
+                "pub_time": 1591029000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第9话 夏季合宿开幕",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307052",
+                "short_link": "https://b23.tv/ep307052",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 74
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 795973783,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sC4y1a74S",
+                "cid": 200024435,
+                "cover": "http://i0.hdslb.com/bfs/archive/5bf46a95efcfd452c2a4d0e1f6e1f2dfec68cbdf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307053,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307053",
+                "long_title": "真正的朋友",
+                "pub_time": 1591633800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第10话 真正的朋友",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307053",
+                "short_link": "https://b23.tv/ep307053",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1328
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 968584621,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sp4y1D7tS",
+                "cid": 202343416,
+                "cover": "http://i0.hdslb.com/bfs/archive/1576f5647b15f3365fc6f1aa251727182e679086.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307054,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307054",
+                "long_title": "我的弱点",
+                "pub_time": 1592238600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第11话 我的弱点",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307054",
+                "short_link": "https://b23.tv/ep307054",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 66
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 413514172,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1FV411k7uB",
+                "cid": 204641054,
+                "cover": "http://i0.hdslb.com/bfs/archive/71bc957289015262a2ce236922d4dcd3c2fff9af.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 307055,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307055",
+                "long_title": "克服的SUMMER!",
+                "pub_time": 1592843400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《A3!满开剧团》第12话 克服的SUMMER!",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307055",
+                "short_link": "https://b23.tv/ep307055",
+                "skip": {
+                    "ed": {
+                        "end": 1384,
+                        "start": 1293
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "东京郊外的街道——天鹅绒町，这里有着被剧团成员们称之为天鹅绒之路的圣地。\n身为原舞台演员、因一纸来信而站在此地的你，将会遇到的是……\n负债累累！没有客人！团员只有一位！\n失去过去辉煌即将倒闭的落魄剧团！\n因机缘巧合，你成为了剧团的团长兼【总监督】，身负把剧团重整起来的重任？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224077/",
+        "media_id": 28224077,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 307055,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 39324,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-14 00:30:00",
+            "pub_time_show": "2020年01月14日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1590,
+            "score": 9.4
+        },
+        "record": "登记号：10417060203812401",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29307,
+        "season_title": "A3!满开剧团",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a48c23fb99ece30c282a500841f68c84ea345064.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224077,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/71bc957289015262a2ce236922d4dcd3c2fff9af.jpg",
+                    "id": 307055,
+                    "index_show": "全12话"
+                },
+                "season_id": 29307,
+                "season_title": "春组&夏组",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 224290,
+                    "series_follow": 316535,
+                    "views": 3291327
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d07515be078bd168733d551fd0a14c7af5917ded.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229867,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b99ad20c88e5aa1eda76266de5b9332b5ff67be2.jpg",
+                    "id": 341073,
+                    "index_show": "全12话"
+                },
+                "season_id": 34400,
+                "season_title": "秋组&冬组",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 270851,
+                    "series_follow": 316535,
+                    "views": 1239281
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 80612166,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qJ411W7jB",
+                        "cid": 137956833,
+                        "cover": "http://i0.hdslb.com/bfs/archive/17a20df9e749a339dfc9150c45f8ab3d0b4f6cfe.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 67000,
+                        "from": "bangumi",
+                        "id": 304713,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep304713",
+                        "long_title": "",
+                        "pub_time": 1577264400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《A3!满开剧团》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep304713",
+                        "short_link": "https://b23.tv/ep304713",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 660,
+                            "danmakus": 392,
+                            "likes": 210,
+                            "play": 181531,
+                            "reply": 1009
+                        },
+                        "status": 2,
+                        "subtitle": "已观看329.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 41243,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4759,
+            "series_title": " A3!"
+        },
+        "share_copy": "《A3!满开剧团》美男们的剧团之梦",
+        "share_sub_title": "美男们的剧团之梦",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29307",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/daa41a969ac37e9b2186a494aef2a145b8dab93f.jpg",
+        "stat": {
+            "coins": 15111,
+            "danmakus": 41676,
+            "favorite": 1802,
+            "favorites": 224290,
+            "likes": 41420,
+            "reply": 9971,
+            "share": 3091,
+            "views": 3291327
+        },
+        "status": 13,
+        "subtitle": "已观看329.1万次",
+        "title": "A3!满开剧团",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

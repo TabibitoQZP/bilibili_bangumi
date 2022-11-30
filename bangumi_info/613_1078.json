@@ -1,0 +1,834 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/85d914e26b1cb9857cb8676038640d27946ad2bb.jpg",
+        "episodes": [
+            {
+                "aid": 50742790,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV164411b7KN",
+                "cid": 92961613,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4889334a776d664fe8d1157ac9593fe587ddbd76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19341,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19341",
+                "long_title": "没错 那时就已经打开了开关吧",
+                "pub_time": 1557739020,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第1话 没错 那时就已经打开了开关吧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19341",
+                "short_link": "https://b23.tv/ep19341",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 315,
+                        "start": 213
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看391.9万次",
+                "title": "1",
+                "vid": "68488725"
+            },
+            {
+                "aid": 849345056,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bL4y1i7dT",
+                "cid": 92961674,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dcaa090f5cbd2ddd09c9aadef560c70ecd7e607e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19342,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19342",
+                "long_title": "早就被安排好的相遇 你相信吗?",
+                "pub_time": 1557739080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第2话 早就被安排好的相遇 你相信吗?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19342",
+                "short_link": "https://b23.tv/ep19342",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 182,
+                        "start": 79
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "2",
+                "vid": "68490033"
+            },
+            {
+                "aid": 294251188,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sF411h7KA",
+                "cid": 92961695,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1ddf9c06421ea3cd2c2a13ec7a11eb046df62980.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19343,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19343",
+                "long_title": "手牵手 肩并肩 背靠背 还有 哪怕隔着衣服也好",
+                "pub_time": 1557739080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第3话 手牵手 肩并肩 背靠背 还有 哪怕隔着衣服也好",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19343",
+                "short_link": "https://b23.tv/ep19343",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 43
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "3",
+                "vid": "68485108"
+            },
+            {
+                "aid": 721790482,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RS4y1979V",
+                "cid": 92961725,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/064583d2d7b8d28f04cc8e41569a149ad9d73a2a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19344,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19344",
+                "long_title": "有感到过超越想像的理解吗? 反过来的时候倒是很多",
+                "pub_time": 1557739140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第4话 有感到过超越想像的理解吗? 反过来的时候倒是很多",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19344",
+                "short_link": "https://b23.tv/ep19344",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 70
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "4",
+                "vid": "68486062"
+            },
+            {
+                "aid": 294338563,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XF411h7pF",
+                "cid": 92961763,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fceb1a893bd751e6d0828232d68165265be614a2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19345,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19345",
+                "long_title": "挡在前的不一定是身边的人，可越是陌生的人越难以应付",
+                "pub_time": 1557739140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第5话 挡在前的不一定是身边的人，可越是陌生的人越难以应付",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19345",
+                "short_link": "https://b23.tv/ep19345",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "5",
+                "vid": "68493641"
+            },
+            {
+                "aid": 421861400,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1U3411t7cN",
+                "cid": 92961850,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7c13fbe02b8f91d666d75b93e8072a78fb48ca2c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19346,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19346",
+                "long_title": "忘却烦恼的办法 对别人的烦恼插上一手如何？",
+                "pub_time": 1557739200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第6话 忘却烦恼的办法 对别人的烦恼插上一手如何？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19346",
+                "short_link": "https://b23.tv/ep19346",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "6",
+                "vid": "68519426"
+            },
+            {
+                "aid": 806808925,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1D34y1d7tP",
+                "cid": 92961890,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4ea4e6551a6ff1eaae86a1c95c52159e0ee4798d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19347,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19347",
+                "long_title": "印象必须不断加深 因为它会从开端慢慢崩溃",
+                "pub_time": 1557739200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第7话 印象必须不断加深 因为它会从开端慢慢崩溃",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19347",
+                "short_link": "https://b23.tv/ep19347",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 82
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "7",
+                "vid": "68520802"
+            },
+            {
+                "aid": 336850935,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gR4y1b7Xz",
+                "cid": 92961926,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9fc437410398bc12579a19bd1fd14a63ab1ac4c0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19348,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19348",
+                "long_title": "时间不充裕时 往往可以做得更多 放手去做吧 当然恋爱也一样",
+                "pub_time": 1557739200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第8话 时间不充裕时 往往可以做得更多 放手去做吧 当然恋爱也一样",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19348",
+                "short_link": "https://b23.tv/ep19348",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "8",
+                "vid": "68521914"
+            },
+            {
+                "aid": 464358869,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VL411M7ib",
+                "cid": 92961966,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5061f84306b39b900a2fd291b88f5be808e15bdd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19349,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19349",
+                "long_title": "令人眷恋的回忆 不需要编排剧本 从说出口的那一瞬间 就注定是戏言",
+                "pub_time": 1557739260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第9话 令人眷恋的回忆 不需要编排剧本 从说出口的那一瞬间 就注定是戏言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19349",
+                "short_link": "https://b23.tv/ep19349",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 135,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "9",
+                "vid": "68523642"
+            },
+            {
+                "aid": 976782728,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1c44y1Y7FU",
+                "cid": 92962020,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5451cd451480709348f44bb8e566e94d24083889.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19350,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19350",
+                "long_title": "独角戏之所以空虚 并非因为只有一个演员 而是观众的目光 刺得好痛",
+                "pub_time": 1557739260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第10话 独角戏之所以空虚 并非因为只有一个演员 而是观众的目光 刺得好痛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19350",
+                "short_link": "https://b23.tv/ep19350",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "10",
+                "vid": "68524942"
+            },
+            {
+                "aid": 549290009,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dq4y1u7us",
+                "cid": 92962111,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/90d49885875f137b0d79106dd35f315b40704078.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19351,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19351",
+                "long_title": "心中怀抱的东西 并不能随时间流去而淡解 只是贴上忘却的标签来掩饰",
+                "pub_time": 1557739260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第11话 心中怀抱的东西 并不能随时间流去而淡解 只是贴上忘却的标签来掩饰",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19351",
+                "short_link": "https://b23.tv/ep19351",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 166,
+                        "start": 64
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "11",
+                "vid": "68525686"
+            },
+            {
+                "aid": 549312264,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qq4y1u7xx",
+                "cid": 92962152,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c5807505b9f58a7a5e4802e4d41038ec0a6fbba9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19352,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19352",
+                "long_title": "束缚 欺骗 抢夺 给予 比这些都痛苦的 是等待",
+                "pub_time": 1557739320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第12话 束缚 欺骗 抢夺 给予 比这些都痛苦的 是等待",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19352",
+                "short_link": "https://b23.tv/ep19352",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 195,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "12",
+                "vid": "68530156"
+            },
+            {
+                "aid": 464302300,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZL411T7iD",
+                "cid": 92962209,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bbede7a41ad9a19d78479d9e543e57d6750eeb4b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 19353,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep19353",
+                "long_title": "容器明明已经倾斜 却没有发觉吗 水已经一滴不剩了",
+                "pub_time": 1557739320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《白色相簿 上半篇章》第13话 容器明明已经倾斜 却没有发觉吗 水已经一滴不剩了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep19353",
+                "short_link": "https://b23.tv/ep19353",
+                "skip": {
+                    "ed": {
+                        "end": 1476,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看391.9万次",
+                "title": "13",
+                "vid": "68531292"
+            }
+        ],
+        "evaluate": "时为1986年——日本泡沫经济的前夜。突然来临的狂乱和之后会来临的崩坏，现在街道上的人们都还不知晓。那是一个在电车内只有大叔们带着耳机，听着赛马或棒球还是英文会话的时代，一个在沥青马路上满地都是废旧易拉罐的时代。手机自不必说，就连车内电话都很稀有。留言电话需要和座机电话分开购买，甚至在火车站前面的电话亭，手上拿着电话卡的上班族会排着长队等候着……在这样的时代，年轻的恋人们都会戴着手表，因为从握紧的电话听筒中听到了对方呼唤的声音而让胸口变得期待不已的激动起来，从而与烦恼、哭泣、互相误会等擦肩而过——。\n在冬天的天空下，和女朋友渐渐动摇的关系.......虽然悲伤，但也是个非常温柔的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1078/",
+        "media_id": 1078,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 19353,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18015,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2009-01-03 00:00:00",
+            "pub_time_show": "2009年01月03日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2854,
+            "score": 9.4
+        },
+        "record": "登记号：10417060207963002",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1078,
+        "season_title": "白色相簿 上半篇章",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/85d914e26b1cb9857cb8676038640d27946ad2bb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1078,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/bbede7a41ad9a19d78479d9e543e57d6750eeb4b.jpg",
+                    "id": 19353,
+                    "index_show": "全13话"
+                },
+                "season_id": 1078,
+                "season_title": "上半篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 769009,
+                    "series_follow": 787817,
+                    "views": 3919089
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/85d914e26b1cb9857cb8676038640d27946ad2bb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28220987,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f639dd1e7fe2d95675ec1283d613bad75f3633f.jpg",
+                    "id": 272079,
+                    "index_show": "全13话"
+                },
+                "season_id": 2987,
+                "season_title": "下半篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 176779,
+                    "series_follow": 787817,
+                    "views": 2086827
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 696,
+            "series_title": "白色相簿"
+        },
+        "share_copy": "《白色相簿 上半篇章》超越爱恋的人性挣扎",
+        "share_sub_title": "超越爱恋的人性挣扎",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1078",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/70e78b630a412c8dfdd1ccef07e45c52d79e657f.jpg",
+        "stat": {
+            "coins": 10536,
+            "danmakus": 62869,
+            "favorite": 2598,
+            "favorites": 769009,
+            "likes": 20603,
+            "reply": 4482,
+            "share": 7807,
+            "views": 3919089
+        },
+        "status": 13,
+        "subtitle": "已观看391.9万次",
+        "title": "白色相簿 上半篇章",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,766 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/44f77333ce7eecd3d16473e15e1e8c41d3d60ed5.jpg",
+        "episodes": [
+            {
+                "aid": 3546691,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ws411R7e4",
+                "cid": 10706056,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6f87dba7578d9891d0505d3782fef7a42568040b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 82808,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82808",
+                "long_title": "魔女之子",
+                "pub_time": 1452349859,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第1话 魔女之子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82808",
+                "short_link": "https://b23.tv/ep82808",
+                "skip": {
+                    "ed": {
+                        "end": 1401,
+                        "start": 1332
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "1",
+                "vid": "vupload_10706056"
+            },
+            {
+                "aid": 3594386,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bs411R7eW",
+                "cid": 10706062,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/73506bdc0163823a45de12ce2bcf8d0b816158c8.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420693,
+                "from": "bangumi",
+                "id": 82985,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82985",
+                "long_title": "炎之巨人",
+                "pub_time": 1452954600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第2话 炎之巨人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82985",
+                "short_link": "https://b23.tv/ep82985",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "2",
+                "vid": "vupload_10706062"
+            },
+            {
+                "aid": 3646200,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ds411R7XR",
+                "cid": 10706097,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4bf6a1a9e0ea1f38ac4a118ce367624671da1a1a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 83244,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep83244",
+                "long_title": "心脏与手足",
+                "pub_time": 1453559459,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第3话 心脏与手足",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep83244",
+                "short_link": "https://b23.tv/ep83244",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "3",
+                "vid": "vupload_10706097"
+            },
+            {
+                "aid": 3704908,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1as411X7Hc",
+                "cid": 10706104,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f405d686e831d37fbc802f1e3bfd80a51bbde13c.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420529,
+                "from": "bangumi",
+                "id": 83534,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep83534",
+                "long_title": "右手与手枪",
+                "pub_time": 1454164260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第4话 右手与手枪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep83534",
+                "short_link": "https://b23.tv/ep83534",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "4",
+                "vid": "vupload_10706104"
+            },
+            {
+                "aid": 3773116,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV19s411X7mX",
+                "cid": 10706122,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9214281225823e635356b82d8635e96911f1d209.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420435,
+                "from": "bangumi",
+                "id": 83850,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep83850",
+                "long_title": "剑与戒指",
+                "pub_time": 1454769120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第5话 剑与戒指",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep83850",
+                "short_link": "https://b23.tv/ep83850",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "5",
+                "vid": "vupload_10706122"
+            },
+            {
+                "aid": 3827283,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fs41197v9",
+                "cid": 10706131,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b435a7725980229d130453e1fe44535ac5e20554.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 83880,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep83880",
+                "long_title": "灰色的宝石",
+                "pub_time": 1455373860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第6话 灰色的宝石",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep83880",
+                "short_link": "https://b23.tv/ep83880",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "6",
+                "vid": "vupload_10706131"
+            },
+            {
+                "aid": 3901281,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys41197nE",
+                "cid": 10706145,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0fb6c29743622ba9e4c5328c3f4c38717dd22d28.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420685,
+                "from": "bangumi",
+                "id": 84270,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84270",
+                "long_title": "无头巨人",
+                "pub_time": 1455978660,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第7话 无头巨人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84270",
+                "short_link": "https://b23.tv/ep84270",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "7",
+                "vid": "vupload_10706145"
+            },
+            {
+                "aid": 3965533,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411Q73M",
+                "cid": 10706151,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/03b3df63d3bbf5111c4b7637ef4e6c2dd46365ea.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1430440,
+                "from": "bangumi",
+                "id": 84537,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84537",
+                "long_title": "停止的心脏",
+                "pub_time": 1456583400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第8话 停止的心脏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84537",
+                "short_link": "https://b23.tv/ep84537",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "8",
+                "vid": "vupload_10706151"
+            },
+            {
+                "aid": 4019163,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Es411Q7En",
+                "cid": 10706162,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1fde7a4fbf191731549423f6c941fb061e745e17.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421068,
+                "from": "bangumi",
+                "id": 84732,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84732",
+                "long_title": "拳与拳",
+                "pub_time": 1457188200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第9话 拳与拳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84732",
+                "short_link": "https://b23.tv/ep84732",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "9",
+                "vid": "vupload_10706162"
+            },
+            {
+                "aid": 4076405,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12s411Q7uF",
+                "cid": 10706167,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f14fe87f7a6dd13139c29aa1624da86f2778bb0.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420711,
+                "from": "bangumi",
+                "id": 85027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85027",
+                "long_title": "破碎的心脏",
+                "pub_time": 1457793000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第10话 破碎的心脏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85027",
+                "short_link": "https://b23.tv/ep85027",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "10",
+                "vid": "vupload_10706167"
+            },
+            {
+                "aid": 4132151,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cs411X7dn",
+                "cid": 10706182,
+                "cover": "http://i0.hdslb.com/bfs/archive/8b2028eb3a5740f39d56e8b19608e92fe3b1a453.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420432,
+                "from": "bangumi",
+                "id": 85222,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85222",
+                "long_title": "不死的少女",
+                "pub_time": 1458397800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第11话 不死的少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85222",
+                "short_link": "https://b23.tv/ep85222",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "11",
+                "vid": "vupload_10706182"
+            },
+            {
+                "aid": 4190639,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s411X7Jv",
+                "cid": 10706192,
+                "cover": "http://i0.hdslb.com/bfs/archive/60897cd010a7771cfb8c405ef79565b08413e7f1.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420381,
+                "from": "bangumi",
+                "id": 85499,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85499",
+                "long_title": "宝岛的少年",
+                "pub_time": 1459002600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《舞武器舞乱伎》第12话 宝岛的少年",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85499",
+                "short_link": "https://b23.tv/ep85499",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看629.5万次",
+                "title": "12",
+                "vid": "vupload_10706192"
+            }
+        ],
+        "evaluate": "时隔10年回到日本的少年·一希东，突然遭到武装男子们的袭击，并被囚禁起来。而救出了东的人，是青梅竹马的少女·朝吹黄金，以及有着右手形态、拥有意志的武器“舞武器”。知道了“舞武器”的存在，以及自身也是“舞武器使者”的东，与相识的同伴们一起，为了让沉眠于地下、被称为“王舞”的舞乱伎（巨人）复活而开始行动。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3128/",
+        "media_id": 3128,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 85499,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 20117,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-01-09 22:30:00",
+            "pub_time_show": "2016年01月09日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 403,
+            "score": 7.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3128,
+        "season_title": "舞武器舞乱伎",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/44f77333ce7eecd3d16473e15e1e8c41d3d60ed5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3128,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/60897cd010a7771cfb8c405ef79565b08413e7f1.jpg",
+                    "id": 85499,
+                    "index_show": "全12话"
+                },
+                "season_id": 3128,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 258571,
+                    "series_follow": 324455,
+                    "views": 6294841
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c9707433c6b6c4d83fbc80c0d16480a8747f4e6e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5388,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/15a532cee3956a9625397909313867ffd41f79f0.jpg",
+                    "id": 95960,
+                    "index_show": "全12话"
+                },
+                "season_id": 5388,
+                "season_title": "TV（粤语）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 11715,
+                    "series_follow": 324455,
+                    "views": 314429
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2004,
+            "series_title": "舞武器舞乱伎"
+        },
+        "share_copy": "《舞武器舞乱伎》制作精良武器战斗番",
+        "share_sub_title": "制作精良武器战斗番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3128",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8fdb9aeb05f384ef7d41ddb73ed4a290bfb073a2.jpg",
+        "stat": {
+            "coins": 12082,
+            "danmakus": 169087,
+            "favorite": 736,
+            "favorites": 258571,
+            "likes": 2995,
+            "reply": 18115,
+            "share": 4469,
+            "views": 6294841
+        },
+        "status": 2,
+        "subtitle": "已观看629.5万次",
+        "title": "舞武器舞乱伎",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

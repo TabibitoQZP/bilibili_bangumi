@@ -1,0 +1,286 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/af607c5dfc0b9da959efd33355a9cde46834fb7c.jpg",
+        "episodes": [
+            {
+                "aid": 29999531,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16W411Q7Xz",
+                "cid": 52279618,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4a6cf78ed7fe67dad1c37ef1be9d4193c91dfd51.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 64789,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64789",
+                "long_title": "另一个世界 智代篇",
+                "pub_time": 1298542500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《CLANNAD 另一个世界 智代篇》第1话 另一个世界 智代篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64789",
+                "short_link": "https://b23.tv/ep64789",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 43
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看365.5万次",
+                "title": "1",
+                "vid": "47104468"
+            }
+        ],
+        "evaluate": "改编自游戏中的智代线的OVA集，以智代为主角的故事，相当于另一个世界的故事，和TV正片故事无联系。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2655/",
+        "media_id": 2655,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 64789,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 19691,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2008-07-16 00:00:00",
+            "pub_time_show": "2008年07月16日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 7944,
+            "score": 9.8
+        },
+        "record": "登记号：10417060209652912",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2655,
+        "season_title": "CLANNAD 另一个世界 智代篇",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c2eba075e21ef065706137c68462465622a084c5.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1177,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/23b5b122191c1fdbd351872df596fd7fbb093c45.jpg",
+                    "id": 34511,
+                    "index_show": "全23话"
+                },
+                "season_id": 1177,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3732755,
+                    "series_follow": 4031861,
+                    "views": 55154851
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3a74ca41bae1a94e45b3d23afbb62b7ab613b5df.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1178,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/5edc495dcb8fde5f5828b8128d445c55133b3151.jpg",
+                    "id": 21456,
+                    "index_show": "全23话"
+                },
+                "season_id": 1178,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1626444,
+                    "series_follow": 4031861,
+                    "views": 36407578
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/af607c5dfc0b9da959efd33355a9cde46834fb7c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2655,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/4a6cf78ed7fe67dad1c37ef1be9d4193c91dfd51.jpg",
+                    "id": 64789,
+                    "index_show": "全1话"
+                },
+                "season_id": 2655,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 436534,
+                    "series_follow": 4031861,
+                    "views": 3654505
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c748dc259aeb891bcbb0c357b3122d7de4c54fa4.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1180,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e9e8f42b4bce7e791e397d16fbaef8410cf53c51.jpg",
+                    "id": 34518,
+                    "index_show": "全1话"
+                },
+                "season_id": 1180,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 453202,
+                    "series_follow": 4031861,
+                    "views": 3551839
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 773,
+            "series_title": "CLANNAD"
+        },
+        "share_copy": "《CLANNAD 另一个世界 智代篇》雪中智代，催人泪下",
+        "share_sub_title": "雪中智代，催人泪下",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2655",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/5429948b3495491655dbc3ea0e418ed67a3adbf3.png",
+        "stat": {
+            "coins": 68100,
+            "danmakus": 34383,
+            "favorite": 5805,
+            "favorites": 436534,
+            "likes": 43650,
+            "reply": 3961,
+            "share": 4700,
+            "views": 3654505
+        },
+        "status": 13,
+        "subtitle": "已观看365.5万次",
+        "title": "CLANNAD 另一个世界 智代篇",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

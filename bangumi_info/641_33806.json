@@ -1,0 +1,904 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/01782413655c3bedb874ad64625ca2e500aeca8c.png",
+        "episodes": [
+            {
+                "aid": 753788534,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zk4y1q7uX",
+                "cid": 209810257,
+                "cover": "http://i0.hdslb.com/bfs/archive/eb7501e30a82c2fd3a6e6c960cd592f12ef4225b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330747,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330747",
+                "long_title": "40分以下！特雷森学园补考特别节目",
+                "pub_time": 1594126800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第1话 40分以下！特雷森学园补考特别节目",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330747",
+                "short_link": "https://b23.tv/ep330747",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1189.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 838873571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1P54y1S7hb",
+                "cid": 212635968,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a1bfa8731d8d619faac970a7c88b91d62b8bb86.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330748,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330748",
+                "long_title": "新鲜出炉！特雷森学园介绍VTR",
+                "pub_time": 1594731600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第2话 新鲜出炉！特雷森学园介绍VTR",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330748",
+                "short_link": "https://b23.tv/ep330748",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 286394681,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rf4y1R7uF",
+                "cid": 214888222,
+                "cover": "http://i0.hdslb.com/bfs/archive/2dbe86eb4979da0ace802faa37350cdd0949d5b1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330749,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330749",
+                "long_title": "向往的世界就在这里",
+                "pub_time": 1595336400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第3话 向往的世界就在这里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330749",
+                "short_link": "https://b23.tv/ep330749",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 669032311,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ma4y1E7iz",
+                "cid": 217465214,
+                "cover": "http://i0.hdslb.com/bfs/archive/3fb6e46ac5ef052b63a30324c00f0072101979b9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330750,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330750",
+                "long_title": "歌剧剧场·『呜呼这就是我的宿命』",
+                "pub_time": 1595941200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第4话 歌剧剧场·『呜呼这就是我的宿命』",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330750",
+                "short_link": "https://b23.tv/ep330750",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 839085519,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1o54y1S7ov",
+                "cid": 220687220,
+                "cover": "http://i0.hdslb.com/bfs/archive/7352b90fa9a58cfaa4217f57aa36a83914dadf19.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330751,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330751",
+                "long_title": "大激战！？拉面杯（GII）",
+                "pub_time": 1596546000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第5话 大激战！？拉面杯（GII）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330751",
+                "short_link": "https://b23.tv/ep330751",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 969213874,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xp4y1v7hu",
+                "cid": 223014617,
+                "cover": "http://i0.hdslb.com/bfs/archive/8658c0968eecb7b1a21d563664d8c7661677f71c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330752,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330752",
+                "long_title": "大小姐们优雅的午餐",
+                "pub_time": 1597150800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第6话 大小姐们优雅的午餐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330752",
+                "short_link": "https://b23.tv/ep330752",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 286800146,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pf4y1Q7fT",
+                "cid": 225816440,
+                "cover": "http://i0.hdslb.com/bfs/archive/772f956c1e23c9ac1c306290537dc7ea011a6018.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330753,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330753",
+                "long_title": "抓独角仙！BNW",
+                "pub_time": 1597755600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第7话 抓独角仙！BNW",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330753",
+                "short_link": "https://b23.tv/ep330753",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 754358122,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sk4y127d8",
+                "cid": 228590454,
+                "cover": "http://i0.hdslb.com/bfs/archive/bfbf8088849684306455b10159755a383eba108e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330754,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330754",
+                "long_title": "英雄剧场·马战士V！！",
+                "pub_time": 1598360400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第8话 英雄剧场·马战士V！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330754",
+                "short_link": "https://b23.tv/ep330754",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 796960419,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zy4y1C7Ss",
+                "cid": 231159370,
+                "cover": "http://i0.hdslb.com/bfs/archive/4e964098c3582030167b177a27bf3d1c0f2117f5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330755,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330755",
+                "long_title": "实现梦想吧！逃脱sisters☆",
+                "pub_time": 1598965200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第9话 实现梦想吧！逃脱sisters☆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330755",
+                "short_link": "https://b23.tv/ep330755",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 797074875,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Wy4y1y7KF",
+                "cid": 233382567,
+                "cover": "http://i0.hdslb.com/bfs/archive/ff1d16f8b4f0d6a151cb10a1df04f530f70979b8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330756,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330756",
+                "long_title": "怕了就输了！试胆对决！",
+                "pub_time": 1599570000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第10话 怕了就输了！试胆对决！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330756",
+                "short_link": "https://b23.tv/ep330756",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 542055268,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ji4y1u74o",
+                "cid": 235513414,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b9f8d64af086b77ae61539a90f2090585b504a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330757,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330757",
+                "long_title": "赛马娘四格悬疑剧场",
+                "pub_time": 1600174801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第11话 赛马娘四格悬疑剧场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330757",
+                "short_link": "https://b23.tv/ep330757",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 542171407,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Di4y177Ag",
+                "cid": 237799665,
+                "cover": "http://i0.hdslb.com/bfs/archive/e5c552e5752c72eab773c788ea52d62e126a8767.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 181000,
+                "from": "bangumi",
+                "id": 330758,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep330758",
+                "long_title": "本日的主赛！金船障害（GⅠ）",
+                "pub_time": 1600779600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《赛马娘四格》第12话 本日的主赛！金船障害（GⅠ）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep330758",
+                "short_link": "https://b23.tv/ep330758",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 2,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1189.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作是「赛马娘 Pretty Derby」的衍生作品，全篇将以原创故事展开。赛马娘们魅力四射的宝藏泡面番。不仅有竞速、演唱会，更有各具特色的赛马娘们的可爱校园日常。那么，冲呀！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229237/",
+        "media_id": 28229237,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 330758,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 48383,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-07-07 21:00:00",
+            "pub_time_show": "2020年07月07日21:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 4115,
+            "score": 9.7
+        },
+        "record": "登记号：10417060201902507",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 33806,
+        "season_title": "赛马娘四格",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/206b9a2e30543416de258aaa10c3ecd998a38820.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 77972,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/38e92ccb120ff6366bc0c8573ce1ff15c41adc79.jpg",
+                    "id": 199693,
+                    "index_show": "全13话"
+                },
+                "season_id": 23834,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1559493,
+                    "series_follow": 2171990,
+                    "views": 41396702
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/01782413655c3bedb874ad64625ca2e500aeca8c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229237,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e5c552e5752c72eab773c788ea52d62e126a8767.jpg",
+                    "id": 330758,
+                    "index_show": "全12话"
+                },
+                "season_id": 33806,
+                "season_title": "四格",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 738190,
+                    "series_follow": 2171990,
+                    "views": 11896964
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c87869bc63883138e9f561a7c303284f6ed1dc89.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28232238,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2bd5e34e416318587e213a92faa1885b13c221a5.jpg",
+                    "id": 375012,
+                    "index_show": "全13话"
+                },
+                "season_id": 36579,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1558067,
+                    "series_follow": 2171990,
+                    "views": 33335147
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 711014082,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1QD4y1D77a",
+                        "cid": 205216572,
+                        "cover": "http://i0.hdslb.com/bfs/archive/e5e6b8373b2b5c826fc00283562127037059a241.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 37000,
+                        "from": "bangumi",
+                        "id": 329574,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep329574",
+                        "long_title": "",
+                        "pub_time": 1593140400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《赛马娘四格》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep329574",
+                        "short_link": "https://b23.tv/ep329574",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 783,
+                            "danmakus": 197,
+                            "likes": 3177,
+                            "play": 395313,
+                            "reply": 1200
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1189.7万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 48661,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3959,
+            "series_title": "赛马娘"
+        },
+        "share_copy": "《赛马娘四格》赛马娘Q版泡面番",
+        "share_sub_title": "赛马娘Q版泡面番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss33806",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/33e53ab7deed7cbf7113c314e3d398f67730a747.png",
+        "stat": {
+            "coins": 37284,
+            "danmakus": 17772,
+            "favorite": 6121,
+            "favorites": 738190,
+            "likes": 156300,
+            "reply": 6451,
+            "share": 5547,
+            "views": 11896964
+        },
+        "status": 13,
+        "subtitle": "已观看1189.7万次",
+        "title": "赛马娘四格",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

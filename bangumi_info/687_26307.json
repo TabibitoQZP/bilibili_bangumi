@@ -1,0 +1,740 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7e57209519040f02a0d17877d5047648b43780a7.png",
+        "episodes": [
+            {
+                "aid": 39566664,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1St41167pL",
+                "cid": 69514842,
+                "cover": "http://i0.hdslb.com/bfs/archive/cfa39e798f7ad019fcc836b53e0513d4d4776753.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259866,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259866",
+                "long_title": "突然到来的草莓色之月",
+                "pub_time": 1546268400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第1话 突然到来的草莓色之月",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259866",
+                "short_link": "https://b23.tv/ep259866",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1351
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 40895106,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1at411h7o6",
+                "cid": 71832014,
+                "cover": "http://i0.hdslb.com/bfs/archive/17dc8f0b929ff1814ba23426ba4b1fbe60a13702.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259867,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259867",
+                "long_title": "牛肉火锅是被蒸汽朦胧了的罗曼",
+                "pub_time": 1547650800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第2话 牛肉火锅是被蒸汽朦胧了的罗曼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259867",
+                "short_link": "https://b23.tv/ep259867",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 41498924,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15t411b7ic",
+                "cid": 72881445,
+                "cover": "http://i0.hdslb.com/bfs/archive/8dc87e13c2e8e8650b97a38fd14654af3e7cd5eb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259868,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259868",
+                "long_title": "在闹鬼酒店中抓住她",
+                "pub_time": 1548255600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第3话 在闹鬼酒店中抓住她",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259868",
+                "short_link": "https://b23.tv/ep259868",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 42158968,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jb411y73c",
+                "cid": 74006938,
+                "cover": "http://i0.hdslb.com/bfs/archive/5fb81a5f7ce5a8abd1bbd8f0e47c825803056596.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259869,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259869",
+                "long_title": "花满浅草的约会",
+                "pub_time": 1548860400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第4话 花满浅草的约会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259869",
+                "short_link": "https://b23.tv/ep259869",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 42753089,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV17b411z7Bq",
+                "cid": 74984421,
+                "cover": "http://i0.hdslb.com/bfs/archive/049dba8432019a381a2088fb6252eb40761e5b3f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259870",
+                "long_title": "未婚妻之路何其漫漫",
+                "pub_time": 1549465200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第5话 未婚妻之路何其漫漫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259870",
+                "short_link": "https://b23.tv/ep259870",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 43373019,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xb411m7Hv",
+                "cid": 76023344,
+                "cover": "http://i0.hdslb.com/bfs/archive/1d65ad018c84db75b08cdf22dd4d32eb34531a9a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259871,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259871",
+                "long_title": "梦与热情的电能",
+                "pub_time": 1550070000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第6话 梦与热情的电能",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259871",
+                "short_link": "https://b23.tv/ep259871",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 44176053,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1nb411Y79p",
+                "cid": 77404115,
+                "cover": "http://i0.hdslb.com/bfs/archive/9de29b6c87e268126552b7a235ecea8d32cb9437.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259872,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259872",
+                "long_title": "好想好想遇见雨天",
+                "pub_time": 1550674800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第7话 好想好想遇见雨天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259872",
+                "short_link": "https://b23.tv/ep259872",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 44856613,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ib411t7ph",
+                "cid": 93392209,
+                "cover": "http://i0.hdslb.com/bfs/archive/18e5a93cda527e884ac742fad2cab3ed2b1a69de.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259873,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259873",
+                "long_title": "真砂町猫咖啡事变",
+                "pub_time": 1551279600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第8话 真砂町猫咖啡事变",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259873",
+                "short_link": "https://b23.tv/ep259873",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 45518516,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hb411q7jo",
+                "cid": 82059325,
+                "cover": "http://i0.hdslb.com/bfs/archive/55f33405133b75990563e68cb87749112fe12e54.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259874,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259874",
+                "long_title": "爱与惆怅的迷宫",
+                "pub_time": 1551884400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第9话 爱与惆怅的迷宫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259874",
+                "short_link": "https://b23.tv/ep259874",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 46183180,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mb411H7Uu",
+                "cid": 80915133,
+                "cover": "http://i0.hdslb.com/bfs/archive/5ba8105afa43d94f6daf40a4ed00699b132d0e7a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259875,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259875",
+                "long_title": "逃出下午三点",
+                "pub_time": 1552489200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第10话 逃出下午三点",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259875",
+                "short_link": "https://b23.tv/ep259875",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 46843138,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zb411E7d2",
+                "cid": 82049464,
+                "cover": "http://i0.hdslb.com/bfs/archive/3e9c656a52ff356f81a9af25149e26b00d032d31.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259876,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259876",
+                "long_title": "黑猫不愿回头",
+                "pub_time": 1553094000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第11话 黑猫不愿回头",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259876",
+                "short_link": "https://b23.tv/ep259876",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 47505330,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1wb411x7Jy",
+                "cid": 83205568,
+                "cover": "http://i0.hdslb.com/bfs/archive/a78b8d96a3641a269c4c7f9a336ed00c1e8824cd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259877,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259877",
+                "long_title": "被草莓之月拥抱着",
+                "pub_time": 1553698800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《明治东京恋伽》第12话 被草莓之月拥抱着",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259877",
+                "short_link": "https://b23.tv/ep259877",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1363
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1711.3万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "非常普通的女高中生主人公在一个红色满月之夜，遇见了一位自称是“魔术师”查理的人相遇。借助查理的手穿越到了明治时代。在这里，存在着很多奇怪的东西，这就是明治时代的“东京”。在查理的引导下，到达了鹿鸣馆。等待潜入晚会主人公的是森欧外、菱田春草、川上音二郎、泉镜花、藤田五郎、小泉八云等历史上的人物们。\n在不熟悉的时代，在生活中与帅哥们的接触让她萌生了恋慕心。主人公是回到原来的时代呢，还是……？\n超越时空的爱……究竟结果是？\n───请闭上眼睛。\n现在开始就要揭露本世纪最大的魔术\n我数三个数，你的身体就会从这个世界消失\n准备好了嘛？那么…… 3、2、1、来吧，张开眼睛───",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5268246/",
+        "media_id": 5268246,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 259877,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 35716,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-09 23:00:00",
+            "pub_time_show": "2019年01月09日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3361,
+            "score": 9.1
+        },
+        "record": "登记号：10417060208272701",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 341,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26307,
+        "season_title": "明治东京恋伽",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7e57209519040f02a0d17877d5047648b43780a7.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5268246,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a78b8d96a3641a269c4c7f9a336ed00c1e8824cd.jpg",
+                    "id": 259877,
+                    "index_show": "全12话"
+                },
+                "season_id": 26307,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 677887,
+                    "series_follow": 677887,
+                    "views": 17112901
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2364,
+            "series_title": "明治东京恋伽～弦月的小夜曲～"
+        },
+        "share_copy": "《明治东京恋伽》穿越时空的爱",
+        "share_sub_title": "穿越时空的爱",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26307",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d4c67e22df0e5ebbd136393dd182380ab1f04813.png",
+        "stat": {
+            "coins": 38598,
+            "danmakus": 206061,
+            "favorite": 14001,
+            "favorites": 677887,
+            "likes": 78019,
+            "reply": 20415,
+            "share": 8506,
+            "views": 17112901
+        },
+        "status": 2,
+        "subtitle": "已观看1711.3万次",
+        "title": "明治东京恋伽",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

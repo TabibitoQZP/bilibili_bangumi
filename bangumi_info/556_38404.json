@@ -1,0 +1,2443 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/2b169a6add94b22cbd0f8cc0d06c4548792d25a9.png",
+        "episodes": [
+            {
+                "aid": 757339963,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1C64y1U7xz",
+                "cid": 315431015,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397641,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397641",
+                "long_title": "夜袭",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第1话 夜袭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397641",
+                "short_link": "https://b23.tv/ep397641",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 27
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2333.5万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 757370717,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Q64y1U7JM",
+                "cid": 315431103,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397642,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397642",
+                "long_title": "异生兽",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第2话 异生兽",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397642",
+                "short_link": "https://b23.tv/ep397642",
+                "skip": {
+                    "ed": {
+                        "end": 1424,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 25
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 374820594,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KZ4y1A74H",
+                "cid": 315431197,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397643,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397643",
+                "long_title": "巨人",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第3话 巨人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397643",
+                "short_link": "https://b23.tv/ep397643",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 154,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 544823170,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yi4y1P7TJ",
+                "cid": 315431316,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397644,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397644",
+                "long_title": "亚空间",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第4话 亚空间",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397644",
+                "short_link": "https://b23.tv/ep397644",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 158,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 332294091,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CA411N7FS",
+                "cid": 315431442,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397645,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397645",
+                "long_title": "适能者",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第5话 适能者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397645",
+                "short_link": "https://b23.tv/ep397645",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 247250395,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gv41187MY",
+                "cid": 315431548,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397646,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397646",
+                "long_title": "遗迹",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第6话 遗迹",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397646",
+                "short_link": "https://b23.tv/ep397646",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 17
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 714815664,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14X4y1G7YJ",
+                "cid": 315431640,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397647,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397647",
+                "long_title": "魔人",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第7话 魔人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397647",
+                "short_link": "https://b23.tv/ep397647",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 153,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 672255710,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hU4y1a7jN",
+                "cid": 315431728,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397648,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397648",
+                "long_title": "记忆警察",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第8话 记忆警察",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397648",
+                "short_link": "https://b23.tv/ep397648",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 29
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 587332775,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17B4y1P7TQ",
+                "cid": 315431828,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397649,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397649",
+                "long_title": "警告",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第9话 警告",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397649",
+                "short_link": "https://b23.tv/ep397649",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 492,
+                        "start": 390
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 672288993,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CU4y1a7FC",
+                "cid": 315431944,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397650,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397650",
+                "long_title": "突入",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第10话 突入",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397650",
+                "short_link": "https://b23.tv/ep397650",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 285,
+                        "start": 183
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 587287296,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PB4y1P77e",
+                "cid": 315432052,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397651,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397651",
+                "long_title": "人偶",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第11话 人偶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397651",
+                "short_link": "https://b23.tv/ep397651",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 390,
+                        "start": 288
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 544848950,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Si4y1P7pc",
+                "cid": 315432141,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397652,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397652",
+                "long_title": "别离",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第12话 别离",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397652",
+                "short_link": "https://b23.tv/ep397652",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 343,
+                        "start": 243
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 502364981,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wK411w7Mz",
+                "cid": 315432238,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397653,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397653",
+                "long_title": "预知者",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第13话 预知者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397653",
+                "short_link": "https://b23.tv/ep397653",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 366,
+                        "start": 264
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 459828516,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1a5411w7bt",
+                "cid": 315432335,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397654,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397654",
+                "long_title": "恶魔",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第14话 恶魔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397654",
+                "short_link": "https://b23.tv/ep397654",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 270,
+                        "start": 169
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "14",
+                "vid": ""
+            },
+            {
+                "aid": 374793783,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fZ4y1w7UE",
+                "cid": 315432410,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397655,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397655",
+                "long_title": "恶梦",
+                "pub_time": 1617188423,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第15话 恶梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397655",
+                "short_link": "https://b23.tv/ep397655",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 214,
+                        "start": 111
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "15",
+                "vid": ""
+            },
+            {
+                "aid": 417326215,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18V411e7kK",
+                "cid": 315432501,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397656,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397656",
+                "long_title": "迷路",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第16话 迷路",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397656",
+                "short_link": "https://b23.tv/ep397656",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 307,
+                        "start": 205
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "16",
+                "vid": ""
+            },
+            {
+                "aid": 204824419,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dh411S7xp",
+                "cid": 315432587,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397657,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397657",
+                "long_title": "黑暗",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第17话 黑暗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397657",
+                "short_link": "https://b23.tv/ep397657",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 362,
+                        "start": 262
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "17",
+                "vid": ""
+            },
+            {
+                "aid": 887330255,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cK4y1M764",
+                "cid": 315432663,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397658,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397658",
+                "long_title": "启示录",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第18话 启示录",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397658",
+                "short_link": "https://b23.tv/ep397658",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 329,
+                        "start": 227
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "18",
+                "vid": ""
+            },
+            {
+                "aid": 672369998,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jU4y1Y7P8",
+                "cid": 315432728,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397659,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397659",
+                "long_title": "要击战",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第19话 要击战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397659",
+                "short_link": "https://b23.tv/ep397659",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 366,
+                        "start": 266
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "19",
+                "vid": ""
+            },
+            {
+                "aid": 757280497,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1N64y1Q7jd",
+                "cid": 315432827,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397660,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397660",
+                "long_title": "追击",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第20话 追击",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397660",
+                "short_link": "https://b23.tv/ep397660",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 341,
+                        "start": 241
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "20",
+                "vid": ""
+            },
+            {
+                "aid": 929847005,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CK4y127Yp",
+                "cid": 315432931,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397661,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397661",
+                "long_title": "受难",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第21话 受难",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397661",
+                "short_link": "https://b23.tv/ep397661",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 306,
+                        "start": 204
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "21",
+                "vid": ""
+            },
+            {
+                "aid": 374783701,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NZ4y1A7Vj",
+                "cid": 315433026,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397662,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397662",
+                "long_title": "安息",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第22话 安息",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397662",
+                "short_link": "https://b23.tv/ep397662",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 373,
+                        "start": 270
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "22",
+                "vid": ""
+            },
+            {
+                "aid": 714823555,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1JX4y1G72g",
+                "cid": 315433114,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397663,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397663",
+                "long_title": "宿命",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第23话 宿命",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397663",
+                "short_link": "https://b23.tv/ep397663",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 260,
+                        "start": 159
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "23",
+                "vid": ""
+            },
+            {
+                "aid": 757281192,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1T64y1Q7HH",
+                "cid": 315433202,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397664,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397664",
+                "long_title": "英雄",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第24话 英雄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397664",
+                "short_link": "https://b23.tv/ep397664",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 242,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "24",
+                "vid": ""
+            },
+            {
+                "aid": 887305572,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19K4y1T7s6",
+                "cid": 315433309,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397665,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397665",
+                "long_title": "预兆",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第25话 预兆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397665",
+                "short_link": "https://b23.tv/ep397665",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 257,
+                        "start": 157
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "25",
+                "vid": ""
+            },
+            {
+                "aid": 332252644,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18A411N7ri",
+                "cid": 315433414,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397666,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397666",
+                "long_title": "怜",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第26话 怜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397666",
+                "short_link": "https://b23.tv/ep397666",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "26",
+                "vid": ""
+            },
+            {
+                "aid": 417336353,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jV411n7Ab",
+                "cid": 315433490,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397667,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397667",
+                "long_title": "祈祷",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第27话 祈祷",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397667",
+                "short_link": "https://b23.tv/ep397667",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 241,
+                        "start": 139
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "27",
+                "vid": ""
+            },
+            {
+                "aid": 247332137,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sv41187Sg",
+                "cid": 315433577,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397668,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397668",
+                "long_title": "再会",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第28话 再会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397668",
+                "short_link": "https://b23.tv/ep397668",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 66
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "28",
+                "vid": ""
+            },
+            {
+                "aid": 374764022,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1DZ4y1w74R",
+                "cid": 315433661,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397669,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397669",
+                "long_title": "幽声",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第29话 幽声",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397669",
+                "short_link": "https://b23.tv/ep397669",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 369,
+                        "start": 269
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "29",
+                "vid": ""
+            },
+            {
+                "aid": 972274260,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17p4y1a7CL",
+                "cid": 315433743,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397670,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397670",
+                "long_title": "监视者",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第30话 监视者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397670",
+                "short_link": "https://b23.tv/ep397670",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 82
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "30",
+                "vid": ""
+            },
+            {
+                "aid": 374841178,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pZ4y1A7pH",
+                "cid": 315433840,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397671,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397671",
+                "long_title": "鸟",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第31话 鸟",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397671",
+                "short_link": "https://b23.tv/ep397671",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 387,
+                        "start": 286
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "31",
+                "vid": ""
+            },
+            {
+                "aid": 417348029,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nV411n7wQ",
+                "cid": 315433924,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397672,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397672",
+                "long_title": "影",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第32话 影",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397672",
+                "short_link": "https://b23.tv/ep397672",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 354,
+                        "start": 254
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "32",
+                "vid": ""
+            },
+            {
+                "aid": 502277643,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11K411c7aE",
+                "cid": 315433995,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397673,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397673",
+                "long_title": "忘却",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第33话 忘却",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397673",
+                "short_link": "https://b23.tv/ep397673",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 309,
+                        "start": 209
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "33",
+                "vid": ""
+            },
+            {
+                "aid": 672354219,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cU4y1Y7i5",
+                "cid": 316776626,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397674,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397674",
+                "long_title": "封锁",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第34话 封锁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397674",
+                "short_link": "https://b23.tv/ep397674",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 275,
+                        "start": 175
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "34",
+                "vid": ""
+            },
+            {
+                "aid": 374807306,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GZ4y1A7Zx",
+                "cid": 315434183,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397675,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397675",
+                "long_title": "反乱",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第35话 反乱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397675",
+                "short_link": "https://b23.tv/ep397675",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 292,
+                        "start": 192
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "35",
+                "vid": ""
+            },
+            {
+                "aid": 844775645,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1254y1879v",
+                "cid": 315434258,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397676,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397676",
+                "long_title": "决战",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第36话 决战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397676",
+                "short_link": "https://b23.tv/ep397676",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 219,
+                        "start": 120
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "36",
+                "vid": ""
+            },
+            {
+                "aid": 332368403,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LA411K7nP",
+                "cid": 315434368,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 397677,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397677",
+                "long_title": "羁绊",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》第37话 羁绊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397677",
+                "short_link": "https://b23.tv/ep397677",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1348
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 136
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "37",
+                "vid": ""
+            },
+            {
+                "aid": 844810064,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1o54y187ix",
+                "cid": 315434454,
+                "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                "dimension": {
+                    "height": 576,
+                    "rotate": 0,
+                    "width": 720
+                },
+                "duration": 2715000,
+                "from": "bangumi",
+                "id": 397678,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep397678",
+                "long_title": "特别篇 诗织",
+                "pub_time": 1617188424,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《奈克赛斯奥特曼》EX 特别篇 诗织",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep397678",
+                "short_link": "https://b23.tv/ep397678",
+                "skip": {
+                    "ed": {
+                        "end": 2714,
+                        "start": 2619
+                    },
+                    "op": {
+                        "end": 400,
+                        "start": 300
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2333.5万次",
+                "title": "EX",
+                "vid": ""
+            }
+        ],
+        "evaluate": "故事发生在遥远的未来，肆虐的异生兽给人类的安全带来了巨大的困扰，为了抵挡异兽的进攻，日本政府成立了防卫组织TLT，其中，夜袭队拥有着最强大的实力和最强劲的武器，是整个组织内部的中坚力量。\n然而，面对经过了进化的新型异生兽，夜袭队亦束手无策，在这个节骨眼上，光之巨人奈克瑟斯奥特曼和它的适能者姫矢准出现了。在奈克瑟斯奥特曼创造出的美塔领域中，奥特曼和异兽之间展开了激烈的斗争。孤门一辉是TLT里的新进成员，当他目睹了奈克瑟斯奥特曼强大的力量后，开始对奥特曼的起源和姬矢准的神秘过往产生了兴趣。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234088/",
+        "media_id": 28234088,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全38话",
+            "id": 397678,
+            "is_new": 0,
+            "title": "EX"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 58185,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-03-31 19:00:00",
+            "pub_time_show": "2021年03月31日19:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 12545,
+            "score": 9.8
+        },
+        "record": "登记号：10417060168912403",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38404,
+        "season_title": "奈克赛斯奥特曼",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d432ca132f5b8e8d72257704817f270595f92148.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234068,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c0fa966ef05e15a52625a764b8c829b9a204c984.jpg",
+                    "id": 397103,
+                    "index_show": "全52话"
+                },
+                "season_id": 38384,
+                "season_title": "迪迦奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1095767,
+                    "series_follow": 2301937,
+                    "views": 41111472
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d432ca132f5b8e8d72257704817f270595f92148.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234069,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c0fa966ef05e15a52625a764b8c829b9a204c984.jpg",
+                    "id": 396976,
+                    "index_show": "全52话"
+                },
+                "season_id": 38385,
+                "season_title": "迪迦奥特曼(中配)",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1716944,
+                    "series_follow": 2301937,
+                    "views": 132372453
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9b577e2eb6512a60f0b82f78b5b27bf04d80954c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234681,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4f59857359c2e4b33aec9a8a1ffbfacec1cd6b8a.jpg",
+                    "id": 408224,
+                    "index_show": "全51话"
+                },
+                "season_id": 38989,
+                "season_title": "戴拿奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 729334,
+                    "series_follow": 2301937,
+                    "views": 11064528
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9b577e2eb6512a60f0b82f78b5b27bf04d80954c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234085,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/image/24542ae8e1c44ae74a57e206cbbcd0131a2c7d49.jpg",
+                    "id": 397499,
+                    "index_show": "全51话"
+                },
+                "season_id": 38401,
+                "season_title": "戴拿奥特曼(中配)",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 699977,
+                    "series_follow": 2301937,
+                    "views": 15530228
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/598dc24c8510aa8befedb60036fe3f0b492e74e7.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234382,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9d7c5581f94c883afff61e5026774ff0d0f1a28b.jpg",
+                    "id": 403129,
+                    "index_show": "全51话"
+                },
+                "season_id": 38693,
+                "season_title": "盖亚奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 802928,
+                    "series_follow": 2301937,
+                    "views": 18640565
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/598dc24c8510aa8befedb60036fe3f0b492e74e7.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234086,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ba048ee99c77db3c2ff9dcc786ee1d92c9292608.jpg",
+                    "id": 397601,
+                    "index_show": "全51话"
+                },
+                "season_id": 38402,
+                "season_title": "盖亚奥特曼(中配)",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 741034,
+                    "series_follow": 2301937,
+                    "views": 20870497
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f49bfd125dda0d60615381fc5c7a11c85fd44a94.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234087,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e02f96adb7e20f650674b340204609b8d29e097c.jpg",
+                    "id": 397743,
+                    "index_show": "全65话"
+                },
+                "season_id": 38403,
+                "season_title": "高斯奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 725229,
+                    "series_follow": 2301937,
+                    "views": 10652865
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2b169a6add94b22cbd0f8cc0d06c4548792d25a9.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234088,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d68f0134f9a88cbe6b33c537a72e2a4405e3724a.jpg",
+                    "id": 397678,
+                    "index_show": "全38话"
+                },
+                "season_id": 38404,
+                "season_title": "奈克赛斯奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 880680,
+                    "series_follow": 2301937,
+                    "views": 23335382
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/87e210893a02334299045a33cf210146ec6523dd.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234090,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/84326acbf1be5a0541f69889d3f71206bf43a4be.jpg",
+                    "id": 397640,
+                    "index_show": "全39话"
+                },
+                "season_id": 38406,
+                "season_title": "麦克斯奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 725622,
+                    "series_follow": 2301937,
+                    "views": 9988069
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/18cf1f7cd2ac8d228a84871ccafa952cbab8c36d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234091,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1c0e9b96ff9a1089bbd3cd02614248abc440559d.jpg",
+                    "id": 397793,
+                    "index_show": "全50话"
+                },
+                "season_id": 38407,
+                "season_title": "梦比优斯奥特曼",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 800272,
+                    "series_follow": 2301937,
+                    "views": 23122061
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 799787613,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1sy4y1h7WS",
+                        "cid": 316744666,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/bfda0316baa740cb6a4b77294707017eccd68491.jpg",
+                        "dimension": {
+                            "height": 576,
+                            "rotate": 0,
+                            "width": 720
+                        },
+                        "duration": 99000,
+                        "from": "bangumi",
+                        "id": 396994,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep396994",
+                        "long_title": "",
+                        "pub_time": 1617012040,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《奈克赛斯奥特曼》OP ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep396994",
+                        "short_link": "https://b23.tv/ep396994",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 9812,
+                            "danmakus": 2623,
+                            "likes": 18266,
+                            "play": 868713,
+                            "reply": 3195
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2333.5万次",
+                        "title": "OP",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 802333718,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hy4y1t7YV",
+                        "cid": 316744499,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/865e17486e0a47a166ec926ca82198a46dee2120.jpg",
+                        "dimension": {
+                            "height": 576,
+                            "rotate": 0,
+                            "width": 720
+                        },
+                        "duration": 89000,
+                        "from": "bangumi",
+                        "id": 396995,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep396995",
+                        "long_title": "",
+                        "pub_time": 1617012040,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《奈克赛斯奥特曼》ED ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep396995",
+                        "short_link": "https://b23.tv/ep396995",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1934,
+                            "danmakus": 89,
+                            "likes": 4233,
+                            "play": 344426,
+                            "reply": 401
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2333.5万次",
+                        "title": "ED",
+                        "vid": ""
+                    }
+                ],
+                "id": 58288,
+                "title": "经典回顾",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6156,
+            "series_title": "平成奥特曼"
+        },
+        "share_copy": "《奈克赛斯奥特曼》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38404",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/42632bb6007408870b093a6fb4ca3abb9f9d317d.png",
+        "stat": {
+            "coins": 116235,
+            "danmakus": 201138,
+            "favorite": 13444,
+            "favorites": 880680,
+            "likes": 315948,
+            "reply": 22546,
+            "share": 13510,
+            "views": 23335382
+        },
+        "status": 13,
+        "subtitle": "已观看2333.5万次",
+        "title": "奈克赛斯奥特曼",
+        "total": 38,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

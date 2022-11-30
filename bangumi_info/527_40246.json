@@ -1,0 +1,956 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/09fdebda5164860b6e169f7ae144c603f95a472b.jpg",
+        "episodes": [
+            {
+                "aid": 210377261,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pa411z744",
+                "cid": 477967114,
+                "cover": "http://i0.hdslb.com/bfs/archive/9d81ecfa854fd99c7b95fb933ae1be9612a6b5e1.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 453830,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453830",
+                "long_title": "种子",
+                "pub_time": 1641574800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第1话 种子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453830",
+                "short_link": "https://b23.tv/ep453830",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 765398259,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tr4y1U76h",
+                "cid": 477968326,
+                "cover": "http://i0.hdslb.com/bfs/archive/28b40489869b72e8251af045b1b57880dda08422.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 453831,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453831",
+                "long_title": "觉醒",
+                "pub_time": 1642179600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第2话 觉醒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453831",
+                "short_link": "https://b23.tv/ep453831",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 680797175,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1US4y157Ps",
+                "cid": 487929093,
+                "cover": "http://i0.hdslb.com/bfs/archive/08e646c73317843c6e77a6844e70d93cba18b6ff.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1476000,
+                "from": "bangumi",
+                "id": 453832,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453832",
+                "long_title": "回声",
+                "pub_time": 1642784400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第3话 回声",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453832",
+                "short_link": "https://b23.tv/ep453832",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 253488509,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gY41187ZK",
+                "cid": 493755246,
+                "cover": "http://i0.hdslb.com/bfs/archive/b50fa821c695b0db4639fa01004741e0d46c6c66.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 453833,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453833",
+                "long_title": "沉默01",
+                "pub_time": 1643389200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第4话 沉默01",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453833",
+                "short_link": "https://b23.tv/ep453833",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 978659973,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1U44y1p7t9",
+                "cid": 499654664,
+                "cover": "http://i0.hdslb.com/bfs/archive/7ea5e7e47562ddd9fa28975779be20623d9727b7.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 453834,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453834",
+                "long_title": "沉默02",
+                "pub_time": 1643994000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第5话 沉默02",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453834",
+                "short_link": "https://b23.tv/ep453834",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 723960051,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pS4y1C71r",
+                "cid": 505346497,
+                "cover": "http://i0.hdslb.com/bfs/archive/f3825c1b536c8dc4d4e003a63e7641d62cc3c44c.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 453835,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep453835",
+                "long_title": "讯息01",
+                "pub_time": 1644598800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第6话 讯息01",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep453835",
+                "short_link": "https://b23.tv/ep453835",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 766423338,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rr4y1h7he",
+                "cid": 505347364,
+                "cover": "http://i0.hdslb.com/bfs/archive/5192d5bcae7c8ed2496e4e878c3fd1c55b306d16.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 465705,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465705",
+                "long_title": "讯息02",
+                "pub_time": 1645203600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第7话 讯息02",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465705",
+                "short_link": "https://b23.tv/ep465705",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 423939464,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV123411j7hA",
+                "cid": 506232235,
+                "cover": "http://i0.hdslb.com/bfs/archive/0b7ce7f0aaceef615838cf42f29f8a7ad44e9167.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1477000,
+                "from": "bangumi",
+                "id": 465706,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465706",
+                "long_title": "火种01",
+                "pub_time": 1645808400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第8话 火种01",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465706",
+                "short_link": "https://b23.tv/ep465706",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 296459943,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WF411n7FY",
+                "cid": 549127617,
+                "cover": "http://i0.hdslb.com/bfs/archive/1658151b017f865832d2644674a0f8f0e45c7bf2.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 465707,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep465707",
+                "long_title": "火种02",
+                "pub_time": 1646413200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第9话 火种02",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep465707",
+                "short_link": "https://b23.tv/ep465707",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 679514396,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1RS4y1g7kx",
+                "cid": 544019558,
+                "cover": "http://i0.hdslb.com/bfs/archive/51dccfd9246092dae68b90cdd168533071ff0264.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 467555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep467555",
+                "long_title": "火种03",
+                "pub_time": 1647018000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第10话 火种03",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep467555",
+                "short_link": "https://b23.tv/ep467555",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 509527716,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1uu411Q7y8",
+                "cid": 544018715,
+                "cover": "http://i0.hdslb.com/bfs/archive/f1405f2652a674a7b0c7ed51b64e83c5898422a5.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 467556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep467556",
+                "long_title": "彗星01",
+                "pub_time": 1647622800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第11话 彗星01",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep467556",
+                "short_link": "https://b23.tv/ep467556",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 767023136,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gr4y167ee",
+                "cid": 544017767,
+                "cover": "http://i0.hdslb.com/bfs/archive/5f8b249c581fca1b1b202c5c9de8e727be15964b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 467557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep467557",
+                "long_title": "彗星02",
+                "pub_time": 1648227600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少女前线》第12话 彗星02",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep467557",
+                "short_link": "https://b23.tv/ep467557",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看639万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "2045年，坍缩液的污染已蔓延到整个地球。\n为了争夺食与住这两项人类最原始的需求，第三次世界大战席卷了全世界。\n战争结束后，世界已是寸草不生。\n在文明濒临毁灭的同时，战争与伴随战争产生的劳动力紧缺促使机械技术进步，从而导致以人类为原型的“人形”应运而生。\n尽管制造她们的目的是向人类提供各种服务，其外形也和人类少女别无二致，但她们作为机械生命体拥有着远超人类的能力。这就是所谓的“人形”。而随着技术的进一步发展，为人形量身定做的枪支与持有它们的“战术人形”已经列装于所有军事组织。\n此时，军火企业“铁血工造”的人工智能突然向人类发动了叛乱。为了调查并阻止其行动，民营军事承包商“格里芬”的战术人形们与铁血之间的战斗就此展开。\n“AR小队”由隶属于“格里芬”的最高级战术人形组成，她们在同人类指挥官一起恢复各地秩序、保卫人类安全的同时，也一步步地解开了战争背后隐藏着的巨大谜团。\n当战术人形们编织的这场壮烈之战走到尾声，她们将面对的究竟是什么……\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235950/",
+        "media_id": 28235950,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 467557,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 63482,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-08 01:00:00",
+            "pub_time_show": "01月08日01:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2630,
+            "score": 8.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40246,
+        "season_title": "少女前线",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6c48ab5eb293218daf369f6c6763ca4c8770a0c2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28221280,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a22397f2d51cf7b8f7427539e17315addb670f21.jpg",
+                    "id": 292859,
+                    "index_show": "全24话"
+                },
+                "season_id": 27933,
+                "season_title": "少女前线 人形小剧场",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 520841,
+                    "series_follow": 1021592,
+                    "views": 21739976
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/fae516fdf12666852efc715cd6896e0ed107c20e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229895,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/aa2e9d26d8e962324d096488de7f71485458fd45.jpg",
+                    "id": 340263,
+                    "index_show": "全12话"
+                },
+                "season_id": 34426,
+                "season_title": "治愈篇2",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 670808,
+                    "series_follow": 1021592,
+                    "views": 6744824
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ce49356bc2563091278397c88b069977abadf1e6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28221282,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a22397f2d51cf7b8f7427539e17315addb670f21.jpg",
+                    "id": 313805,
+                    "index_show": "全24话"
+                },
+                "season_id": 27935,
+                "season_title": "少女前线 人形小剧场 日语版",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 184850,
+                    "series_follow": 1021592,
+                    "views": 8597622
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/50edf51c6ec17f5539b1d9efa82b7ec32a94a680.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233962,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e041f22a26ad4aa5b88429aa51c66fc198e55b54.jpg",
+                    "id": 402772,
+                    "index_show": "全12话"
+                },
+                "season_id": 38280,
+                "season_title": "治愈篇2 日语版",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 676975,
+                    "series_follow": 1021592,
+                    "views": 1657253
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/09fdebda5164860b6e169f7ae144c603f95a472b.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/aa798c9ec258dfa8bd1e58016e708b3c5a2d5975.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/f17e603103edb31955b456508e7d377420cead17.png",
+                "media_id": 28235950,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5f8b249c581fca1b1b202c5c9de8e727be15964b.png",
+                    "id": 467557,
+                    "index_show": "全12话"
+                },
+                "season_id": 40246,
+                "season_title": "TV动画",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 983139,
+                    "series_follow": 1021592,
+                    "views": 6389558
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 935173777,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1gM4y1F7Vj",
+                        "cid": 469768674,
+                        "cover": "http://i0.hdslb.com/bfs/archive/cbf62e83f7021ef8c0e7cb5f9ca1f0585446de01.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 107000,
+                        "from": "bangumi",
+                        "id": 450558,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep450558",
+                        "long_title": "",
+                        "pub_time": 1640599200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《少女前线》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep450558",
+                        "short_link": "https://b23.tv/ep450558",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 2579,
+                            "danmakus": 277,
+                            "likes": 8932,
+                            "play": 345969,
+                            "reply": 1356
+                        },
+                        "status": 2,
+                        "subtitle": "已观看639万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 64064,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4436,
+            "series_title": "少女前线"
+        },
+        "share_copy": "《少女前线》少女们为了和平而战",
+        "share_sub_title": "少女们为了和平而战",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40246",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/8f8e17e213bdb4195d3fd1798beb5bf07b0bb5ce.png",
+        "stat": {
+            "coins": 48561,
+            "danmakus": 55002,
+            "favorite": 11368,
+            "favorites": 983139,
+            "likes": 175050,
+            "reply": 15706,
+            "share": 11811,
+            "views": 6389557
+        },
+        "status": 13,
+        "subtitle": "已观看639万次",
+        "title": "少女前线",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

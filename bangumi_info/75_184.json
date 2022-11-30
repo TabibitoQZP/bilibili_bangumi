@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/f7175cd20de509e2bfd43255c28cf4e24841480d.jpg",
+        "episodes": [
+            {
+                "aid": 9654289,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yx411Q7dv",
+                "cid": 15954930,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4371,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4371",
+                "long_title": "外行人(Beginner)",
+                "pub_time": 1491667320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第1话 外行人(Beginner)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4371",
+                "short_link": "https://b23.tv/ep4371",
+                "skip": {
+                    "ed": {
+                        "end": 1385,
+                        "start": 1296
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看8993万次",
+                "title": "1",
+                "vid": "vupload_15954930"
+            },
+            {
+                "aid": 464307397,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UL411T7m5",
+                "cid": 48171190,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4370,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4370",
+                "long_title": "挑战者(Challenger)",
+                "pub_time": 1491669540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第2话 挑战者(Challenger)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4370",
+                "short_link": "https://b23.tv/ep4370",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1331
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 98
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "2",
+                "vid": "vupload_15954931"
+            },
+            {
+                "aid": 294260593,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qF411h7Pw",
+                "cid": 15954932,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4369,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4369",
+                "long_title": "老手(Expert)",
+                "pub_time": 1491711600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第3话 老手(Expert)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4369",
+                "short_link": "https://b23.tv/ep4369",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 119,
+                        "start": 30
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "3",
+                "vid": "vupload_15954932"
+            },
+            {
+                "aid": 721800041,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mS4y197nQ",
+                "cid": 15954936,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4368,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4368",
+                "long_title": "国王(Grand Master)",
+                "pub_time": 1491676980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第4话 国王(Grand Master)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4368",
+                "short_link": "https://b23.tv/ep4368",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "4",
+                "vid": "vupload_15954936"
+            },
+            {
+                "aid": 891855310,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QP4y1G7me",
+                "cid": 15954937,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4367,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4367",
+                "long_title": "布局(Weak Square)",
+                "pub_time": 1491753360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第5话 布局(Weak Square)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4367",
+                "short_link": "https://b23.tv/ep4367",
+                "skip": {
+                    "ed": {
+                        "end": 1364,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 84
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "5",
+                "vid": "vupload_15954937"
+            },
+            {
+                "aid": 676862888,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dU4y1K7XV",
+                "cid": 48118293,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4366,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4366",
+                "long_title": "一步(Interesting)",
+                "pub_time": 1491670680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第6话 一步(Interesting)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4366",
+                "short_link": "https://b23.tv/ep4366",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "6",
+                "vid": "vupload_15954938"
+            },
+            {
+                "aid": 464276376,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BL411T7f8",
+                "cid": 15954939,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4365,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4365",
+                "long_title": "弃子(Sacrifice)",
+                "pub_time": 1491667260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第7话 弃子(Sacrifice)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4365",
+                "short_link": "https://b23.tv/ep4365",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 158,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "7",
+                "vid": "vupload_15954939"
+            },
+            {
+                "aid": 421798320,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV183411t7Wf",
+                "cid": 15954940,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4364,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4364",
+                "long_title": "起死回生(Fake End)",
+                "pub_time": 1491667620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第8话 起死回生(Fake End)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4364",
+                "short_link": "https://b23.tv/ep4364",
+                "skip": {
+                    "ed": {
+                        "end": 1361,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "8",
+                "vid": "vupload_15954940"
+            },
+            {
+                "aid": 634251088,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sb4y1t7KW",
+                "cid": 15954933,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4363,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4363",
+                "long_title": "解离法(Sky Walk)",
+                "pub_time": 1491679980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第9话 解离法(Sky Walk)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4363",
+                "short_link": "https://b23.tv/ep4363",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "9",
+                "vid": "vupload_15954933"
+            },
+            {
+                "aid": 976787296,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1w44y1Y7sA",
+                "cid": 15954934,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4362,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4362",
+                "long_title": "指向法(Blue Rose)",
+                "pub_time": 1491667201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第10话 指向法(Blue Rose)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4362",
+                "short_link": "https://b23.tv/ep4362",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "10",
+                "vid": "vupload_15954934"
+            },
+            {
+                "aid": 806862031,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1j34y1o7RC",
+                "cid": 15954935,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4361,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4361",
+                "long_title": "诱导法(Killing Giant)",
+                "pub_time": 1491667320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第11话 诱导法(Killing Giant)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4361",
+                "short_link": "https://b23.tv/ep4361",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1328
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "11",
+                "vid": "vupload_15954935"
+            },
+            {
+                "aid": 721767066,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qS4y1978a",
+                "cid": 15954941,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1426000,
+                "from": "bangumi",
+                "id": 4360,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4360",
+                "long_title": "收束法(Rule Number 10)",
+                "pub_time": 1491667260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《NO GAME NO LIFE 游戏人生》第12话 收束法(Rule Number 10)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4360",
+                "short_link": "https://b23.tv/ep4360",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8993万次",
+                "title": "12",
+                "vid": "vupload_15954941"
+            }
+        ],
+        "evaluate": "尼特族又闭门不出，但是在网络上甚至被当作都市传说口耳相传的天才玩家兄妹·空和白。将世界称为“垃圾游戏”的这两个人某一天被自称“神”的少年召唤到了异世界。那里是被神明禁止了战争，“一切交由游戏来决定”的世界——没错，就连国境线也是一样。\n被其他种族逼入绝境，只剩下最后一座都市的‘人类种<Imanity>’。空和白，两名废人兄妹到底能否在异世界成为‘人类的救世主’？\n——“那么，让我们开始游戏吧！”",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md184/",
+        "media_id": 184,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 4360,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 17218,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-04-09 00:00:00",
+            "pub_time_show": "2014年04月09日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 77186,
+            "score": 9.8
+        },
+        "record": "登记号：10417060168862612",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 184,
+        "season_title": "NO GAME NO LIFE 游戏人生",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f7175cd20de509e2bfd43255c28cf4e24841480d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 184,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/17346d2c3eb26e924690ae1ee1475378c7e707b8.jpg",
+                    "id": 4360,
+                    "index_show": "全12话"
+                },
+                "season_id": 184,
+                "season_title": "TV版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4685556,
+                    "series_follow": 4773608,
+                    "views": 89929925
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 116,
+            "series_title": "NO GAME NO LIFE 游戏人生"
+        },
+        "share_copy": "《NO GAME NO LIFE 游戏人生》当一切交由游戏决定",
+        "share_sub_title": "当一切交由游戏决定",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss184",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/71708e50d8f1e12241c614dbc84eed7d998ceef9.jpg",
+        "stat": {
+            "coins": 568551,
+            "danmakus": 3275560,
+            "favorite": 46790,
+            "favorites": 4685556,
+            "likes": 418885,
+            "reply": 105418,
+            "share": 142806,
+            "views": 89929925
+        },
+        "status": 13,
+        "subtitle": "已观看8993万次",
+        "title": "NO GAME NO LIFE 游戏人生",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

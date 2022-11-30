@@ -1,0 +1,790 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/d9c179e514280e019a79cb242a726f1de722b0e8.jpg",
+        "episodes": [
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2020357,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24949,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24949",
+                "long_title": "「月匣」～红之月、碧之瞳～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第1话 「月匣」～红之月、碧之瞳～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24949",
+                "short_link": "https://b23.tv/ep24949",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 228,
+                        "start": 138
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "1",
+                "vid": "fd1a5b2efc"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2020358,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 24950,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24950",
+                "long_title": "「下降之男」～世界被狙击～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第2话 「下降之男」～世界被狙击～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24950",
+                "short_link": "https://b23.tv/ep24950",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1389
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 50
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "2",
+                "vid": "ccb9ed2532"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2020359,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24951,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24951",
+                "long_title": "「两个火焰」～堕落的墨瓦腊泥加～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第3话 「两个火焰」～堕落的墨瓦腊泥加～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24951",
+                "short_link": "https://b23.tv/ep24951",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1389
+                    },
+                    "op": {
+                        "end": 153,
+                        "start": 64
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "3",
+                "vid": "7cb0d1ce5a"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2020360,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 24952,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24952",
+                "long_title": "「雾人」～月上的相遇～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第4话 「雾人」～月上的相遇～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24952",
+                "short_link": "https://b23.tv/ep24952",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 115,
+                        "start": 25
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "4",
+                "vid": "bd0a9f82fe"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022309,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24953,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24953",
+                "long_title": "「孤岛」～两位魔剑使～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第5话 「孤岛」～两位魔剑使～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24953",
+                "short_link": "https://b23.tv/ep24953",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 42
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "5",
+                "vid": "b358bd6c9a"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022310,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 24954,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24954",
+                "long_title": "「恶梦」～艾莉丝不觉醒～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第6话 「恶梦」～艾莉丝不觉醒～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24954",
+                "short_link": "https://b23.tv/ep24954",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 30
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "6",
+                "vid": "a60529880a"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022311,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24955,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24955",
+                "long_title": "「小小的牵绊」～艾莉丝的礼物～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第7话 「小小的牵绊」～艾莉丝的礼物～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24955",
+                "short_link": "https://b23.tv/ep24955",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1389
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 99
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "7",
+                "vid": "ad571d918f"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022312,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 332000,
+                "from": "bangumi",
+                "id": 24956,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24956",
+                "long_title": "「穿越时代」～少女之塔～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第8话 「穿越时代」～少女之塔～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24956",
+                "short_link": "https://b23.tv/ep24956",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "8",
+                "vid": "b4657b8079"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022313,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24957,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24957",
+                "long_title": "「潘多拉的盒子」～贝尔对安赛萝德～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第9话 「潘多拉的盒子」～贝尔对安赛萝德～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24957",
+                "short_link": "https://b23.tv/ep24957",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 27
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "9",
+                "vid": "9f0d7f70fa"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022314,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 24958,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24958",
+                "long_title": "「破坏神」～卡涅阿德斯船板～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第10话 「破坏神」～卡涅阿德斯船板～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24958",
+                "short_link": "https://b23.tv/ep24958",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 34
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "10",
+                "vid": "c6ad6c569b"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022315,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1518000,
+                "from": "bangumi",
+                "id": 24959,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24959",
+                "long_title": "「记忆的碎片」～在幻想里跳舞～",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第11话 「记忆的碎片」～在幻想里跳舞～",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24959",
+                "short_link": "https://b23.tv/ep24959",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 38
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "11",
+                "vid": "adfaa64278"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2025818,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1510000,
+                "from": "bangumi",
+                "id": 24960,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24960",
+                "long_title": "再见",
+                "pub_time": 1406438036,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第12话 再见",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24960",
+                "short_link": "https://b23.tv/ep24960",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 241,
+                        "start": 151
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "12",
+                "vid": "80e8b86c5a"
+            },
+            {
+                "aid": 1336055,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411N75q",
+                "cid": 2022782,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1487000,
+                "from": "bangumi",
+                "id": 24961,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep24961",
+                "long_title": "生日快乐",
+                "pub_time": 1406437980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《暗夜魔法使》第13话 生日快乐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep24961",
+                "short_link": "https://b23.tv/ep24961",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1390
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 36
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看76.6万次",
+                "title": "13",
+                "vid": "a5cb5ab8ab"
+            }
+        ],
+        "evaluate": "现在的世界被窥视着。包围地球的“结界”被穿越，从异界而来的敌人——“Emulator”的侵略，在这个时代的里侧已经悄悄地开始了……\n\n包含现代兵器在内，所有的“常识”产物对其都无法通用。能与这些身份不明的敌人对抗的，只有“魔法”力量觉醒的、被称为“Wizard”的人们。魔法使与侵魔之间上演的这场激战，时而热血澎湃，时而幽默搞笑，为大家展示了一个精彩的现代魔法幻想物语。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1346/",
+        "media_id": 1346,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 24961,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 18329,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-10-02 00:00:00",
+            "pub_time_show": "2007年10月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 156,
+            "score": 8.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1346,
+        "season_title": "暗夜魔法使",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d9c179e514280e019a79cb242a726f1de722b0e8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1346,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3728386bf321210cf1fb4698c63e6e9adf275e17.jpg",
+                    "id": 24961,
+                    "index_show": "全13话"
+                },
+                "season_id": 1346,
+                "season_title": "暗夜魔法使",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63931,
+                    "series_follow": 63931,
+                    "views": 766477
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 905,
+            "series_title": "暗夜魔法使"
+        },
+        "share_copy": "《暗夜魔法使》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1346",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/f144df214599c0338846a7d7e3937e674c1ed814.png",
+        "stat": {
+            "coins": 636,
+            "danmakus": 7732,
+            "favorite": 254,
+            "favorites": 63931,
+            "likes": 996,
+            "reply": 487,
+            "share": 254,
+            "views": 766477
+        },
+        "status": 2,
+        "subtitle": "已观看76.6万次",
+        "title": "暗夜魔法使",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

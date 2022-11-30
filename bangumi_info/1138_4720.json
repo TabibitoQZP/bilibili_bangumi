@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/8a5ed8bd56f5561f9b0f794a6639343299cb5eb3.jpg",
+        "episodes": [
+            {
+                "aid": 17033797,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1eW411Y7mh",
+                "cid": 27840663,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7d10ce1fc01a83f87bca471d94bd25355b86db60.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 7587000,
+                "from": "bangumi",
+                "id": 89591,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89591",
+                "long_title": "最终幻想VII：降临之子",
+                "pub_time": 1465788240,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《最终幻想VII：降临之子》第1话 最终幻想VII：降临之子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89591",
+                "short_link": "https://b23.tv/ep89591",
+                "skip": {
+                    "ed": {
+                        "end": 7240,
+                        "start": 6911
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看309.6万次",
+                "title": "1",
+                "vid": "ca9de4068d"
+            }
+        ],
+        "evaluate": "故事从97年《最终幻想VII》结局两年之后开始，当人们以为世界已经和平之时，所谓的“星痕症候群”的病却开始四处蔓延，世界再度面临危机。同时曾经为拯救世界而战的英雄克劳德却与世隔绝孤独的生活着…… \n剧情叙述主角们打倒赛菲罗斯（Sephiroth），拯救星球免于巨大陨石的侵袭后两年，神秘的怪病「星痕症候群」在各地陆续传出病例。而主角克劳德（Cloud）在与爱莉斯（Aerith）死别后，便郁郁寡欢。某日突然出现了与赛菲罗斯有未知关联的神秘3人组，除了直接对克劳德造成威胁之外，还进行着一连串秘密的计划，将已回归各自生活的主角群们，再次的卷入风波中……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4720/",
+        "media_id": 4720,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 89591,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21658,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2005-09-14 00:00:01",
+            "pub_time_show": "2005年9月14日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5205,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4720,
+        "season_title": "最终幻想VII：降临之子",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8a5ed8bd56f5561f9b0f794a6639343299cb5eb3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4720,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/7d10ce1fc01a83f87bca471d94bd25355b86db60.jpg",
+                    "id": 89591,
+                    "index_show": "全1话"
+                },
+                "season_id": 4720,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 279358,
+                    "series_follow": 284950,
+                    "views": 3096339
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2742,
+            "series_title": "最终幻想7"
+        },
+        "share_copy": "《最终幻想VII：降临之子》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4720",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8ebd2304811fb4d2eeeac186bc22c07cb51f70af.jpg",
+        "stat": {
+            "coins": 28421,
+            "danmakus": 48280,
+            "favorite": 6162,
+            "favorites": 279358,
+            "likes": 26391,
+            "reply": 5908,
+            "share": 21423,
+            "views": 3096339
+        },
+        "status": 2,
+        "subtitle": "已观看309.6万次",
+        "title": "最终幻想VII：降临之子",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/041d2a45493aa0bcbfc06d23e91050ca256af96b.png",
+        "episodes": [
+            {
+                "aid": 335638611,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1FR4y1p7WQ",
+                "cid": 414918376,
+                "cover": "http://i0.hdslb.com/bfs/archive/79fec1cfd78e8c2759791ae9e4150512762e2685.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1384000,
+                "from": "bangumi",
+                "id": 423958,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep423958",
+                "long_title": "对不起，你是谁",
+                "pub_time": 1633960800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第1话 对不起，你是谁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep423958",
+                "short_link": "https://b23.tv/ep423958",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看326.3万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 891098691,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mP4y1t7E9",
+                "cid": 423503526,
+                "cover": "http://i0.hdslb.com/bfs/archive/4e80668eb17f61328d143d3a1f6a089703226688.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 423959,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep423959",
+                "long_title": "我不是天才",
+                "pub_time": 1634565600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第2话 我不是天才",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep423959",
+                "short_link": "https://b23.tv/ep423959",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 806065615,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1a34y1S7av",
+                "cid": 423502737,
+                "cover": "http://i0.hdslb.com/bfs/archive/e162d4fbcd55506d1f9b8d4cf91d060cca8945c8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 423960,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep423960",
+                "long_title": "但是请你让让我们",
+                "pub_time": 1635170400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第3话 但是请你让让我们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep423960",
+                "short_link": "https://b23.tv/ep423960",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 421019776,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1u3411C7Ga",
+                "cid": 423502129,
+                "cover": "http://i0.hdslb.com/bfs/archive/022ccb2130f8ec0e4205768cd5f7d48e0bccad22.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 423961,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep423961",
+                "long_title": "好像有点糟糕……",
+                "pub_time": 1635775200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第4话 好像有点糟糕……",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep423961",
+                "short_link": "https://b23.tv/ep423961",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 591430826,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bq4y1r7zN",
+                "cid": 435093361,
+                "cover": "http://i0.hdslb.com/bfs/archive/1702983ba84d0a1740ab8ecda8b8933c6bfa1073.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 426553,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep426553",
+                "long_title": "太可怕了啊！！！",
+                "pub_time": 1636380000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第5话 太可怕了啊！！！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep426553",
+                "short_link": "https://b23.tv/ep426553",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 721385943,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12Q4y1q7eh",
+                "cid": 435093828,
+                "cover": "http://i0.hdslb.com/bfs/archive/2884a0c9eda1d94cab8efd2f3828af3f74abf75f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 426554,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep426554",
+                "long_title": "来，看这边",
+                "pub_time": 1636984800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第6话 来，看这边",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep426554",
+                "short_link": "https://b23.tv/ep426554",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 891385872,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zP4y1L7Ka",
+                "cid": 435094354,
+                "cover": "http://i0.hdslb.com/bfs/archive/663e6472d3d1965f47a9f4b4a03dc1436db4c37a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 426555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep426555",
+                "long_title": "黄道吉日",
+                "pub_time": 1637589600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第7话 黄道吉日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep426555",
+                "short_link": "https://b23.tv/ep426555",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 891490894,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pP4y1j75D",
+                "cid": 435094710,
+                "cover": "http://i0.hdslb.com/bfs/archive/36fcd266fd6dd72770013367cfe0099f74900bd6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 426556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep426556",
+                "long_title": "他们是谁啊",
+                "pub_time": 1638194400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第8话 他们是谁啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep426556",
+                "short_link": "https://b23.tv/ep426556",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 507083675,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ug411A7Lz",
+                "cid": 451422525,
+                "cover": "http://i0.hdslb.com/bfs/archive/95096fc24904897fbfc38906e0616d0d49401d5a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1396000,
+                "from": "bangumi",
+                "id": 433230,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep433230",
+                "long_title": "我一直都是我啊",
+                "pub_time": 1638799200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第9话 我一直都是我啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep433230",
+                "short_link": "https://b23.tv/ep433230",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 252023418,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YY411s7QV",
+                "cid": 451424798,
+                "cover": "http://i0.hdslb.com/bfs/archive/3062e33ae1e232ad58c6c7a13817c86ec5f69234.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 433231,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep433231",
+                "long_title": "我只知道这种赢法",
+                "pub_time": 1639411201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第10话 我只知道这种赢法",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep433231",
+                "short_link": "https://b23.tv/ep433231",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 422039499,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1a3411b78E",
+                "cid": 451424146,
+                "cover": "http://i0.hdslb.com/bfs/archive/13e3544b447d2e1937aa85469ba25a307b5106ec.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 433232,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep433232",
+                "long_title": "传球！传给我！",
+                "pub_time": 1640008800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第11话 传球！传给我！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep433232",
+                "short_link": "https://b23.tv/ep433232",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 677005681,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18U4y1T7qK",
+                "cid": 451423116,
+                "cover": "http://i0.hdslb.com/bfs/archive/dee4a2105bb8b006ad2b3d2b495595184f630250.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1381000,
+                "from": "bangumi",
+                "id": 433233,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep433233",
+                "long_title": "好了，开始吧",
+                "pub_time": 1640613601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《RE-MAIN：少年与水球》第12话 好了，开始吧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep433233",
+                "short_link": "https://b23.tv/ep433233",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看326.3万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "中学3年级的冬天，在水球的全国大赛上获得优胜的清水凑在回家途中遭遇了车祸，陷入昏睡之中。\n203天后好不容易恢复意识，却失去了中学三年的记忆。\n离开了水球，凑整理好心情入学了山南高中，却以一个约定为契机，与在那里遇到的伙伴们开始了水球比赛。\n但是，在弱小的水球部里，各种各样的困难在等待着他们……。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235025/",
+        "media_id": 28235025,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 433233,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 61853,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-10-11 22:00:00",
+            "pub_time_show": "2021年10月11日22:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1952,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39333,
+        "season_title": "RE-MAIN：少年与水球",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/041d2a45493aa0bcbfc06d23e91050ca256af96b.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/58f165e317af5551e71bad20c79b15ec44bfb21c.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ba69a6eaa7bf6b3709ea0b63c091f5e159875d28.png",
+                "media_id": 28235025,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/dee4a2105bb8b006ad2b3d2b495595184f630250.jpg",
+                    "id": 433233,
+                    "index_show": "全12话"
+                },
+                "season_id": 39333,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 174623,
+                    "series_follow": 174623,
+                    "views": 3263325
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 675669003,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1nU4y1A72K",
+                        "cid": 414811465,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ef369dfdc56c25ad10793b06307f6bbbf2c8794d.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 67000,
+                        "from": "bangumi",
+                        "id": 424087,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep424087",
+                        "long_title": "",
+                        "pub_time": 1632650400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《RE-MAIN：少年与水球》PV1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep424087",
+                        "short_link": "https://b23.tv/ep424087",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 202,
+                            "danmakus": 38,
+                            "likes": 1311,
+                            "play": 128529,
+                            "reply": 399
+                        },
+                        "status": 2,
+                        "subtitle": "已观看326.3万次",
+                        "title": "PV1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 548160136,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Zq4y1A7bA",
+                        "cid": 414812230,
+                        "cover": "http://i0.hdslb.com/bfs/archive/29df8f261ca8573c17543e39307454acd8ef4dfa.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 98000,
+                        "from": "bangumi",
+                        "id": 424088,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep424088",
+                        "long_title": "",
+                        "pub_time": 1632650400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《RE-MAIN：少年与水球》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep424088",
+                        "short_link": "https://b23.tv/ep424088",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 77,
+                            "danmakus": 12,
+                            "likes": 502,
+                            "play": 32218,
+                            "reply": 49
+                        },
+                        "status": 2,
+                        "subtitle": "已观看326.3万次",
+                        "title": "PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 62225,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5661,
+            "series_title": "少年与水球"
+        },
+        "share_copy": "《RE-MAIN：少年与水球》邂逅未曾了解的自己",
+        "share_sub_title": "邂逅未曾了解的自己",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39333",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/d8660bcdce72f35189c5e8a9a65fde0918d6acd4.png",
+        "stat": {
+            "coins": 11286,
+            "danmakus": 19923,
+            "favorite": 4118,
+            "favorites": 174623,
+            "likes": 71385,
+            "reply": 3618,
+            "share": 1539,
+            "views": 3263325
+        },
+        "status": 13,
+        "subtitle": "已观看326.3万次",
+        "title": "RE-MAIN：少年与水球",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859946,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

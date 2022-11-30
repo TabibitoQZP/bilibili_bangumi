@@ -1,0 +1,473 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f3f8bdf02724b27883a154d93165c51384a93adc.png",
+        "episodes": [
+            {
+                "aid": 852569678,
+                "badge": "付费",
+                "badge_info": {
+                    "bg_color": "#FAAB4B",
+                    "bg_color_night": "#BA833F",
+                    "text": "付费"
+                },
+                "badge_type": 2,
+                "bvid": "BV15L4y1778J",
+                "cid": 557481975,
+                "cover": "http://i0.hdslb.com/bfs/archive/80161f7651fa5879d2ec23fdc8e266cd520a7660.png",
+                "dimension": {
+                    "height": 2160,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 5834000,
+                "from": "bangumi",
+                "id": 477648,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep477648?theme=movie",
+                "long_title": "",
+                "pub_time": 1648720800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《生化危机：复仇》系列CG动画丧尸片",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep477648",
+                "short_link": "https://b23.tv/ep477648",
+                "status": 8,
+                "subtitle": "已观看228.2万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "隶属于BASS的佣兵克里斯奉命前往某处洋馆调查武器走私案件，哪知道在那里遇见了国际通缉犯格伦，两人交手数回合之后，格伦夺路而逃。大学教授瑞贝卡正在研究死者复活伤人时间，由此发现了新型病毒的存在，并且迅速研制出了针对这种病毒的解药，哪知道在这个节骨眼上，研究所遭到恐怖分子的袭击，好在关键时刻克里斯赶到了，救出了瑞贝卡。之后，两人同美国总统直属部队DSO的成员里昂汇合，三人发现，格伦真正的目标正是新型病毒，他想要制造一场破坏性极强的生化危机。",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28237255/",
+        "media_id": 28237255,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2017年5月27日上映",
+            "id": 477648,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 1,
+                "allow_vip_discount": 1,
+                "forbid_bb": 0
+            },
+            "price": "3.0",
+            "promotion": "成为大会员可半价观看本片！",
+            "view_start_time": 0,
+            "vip_discount": 50,
+            "vip_first_promotion": "",
+            "vip_promotion": ""
+        },
+        "positive": {
+            "id": 66389,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-03-31 18:00:00",
+            "pub_time_show": "03月31日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 365,
+            "score": 7.6
+        },
+        "record": "新出像进字（2018）259号\n国权像字19-2018-0054号",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41546,
+        "season_title": "生化危机：复仇",
+        "seasons": [
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b93980b9cf087056f9c6e867c6d2984d75534246.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/d3824c15b4898c1f29fef43ec2c7d50c949466db.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/47cd6416f6b176b05bfb71cfd6f148c472473381.png",
+                "media_id": 28234229,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/85b98823e8e095753989471a16e56ba73fdb71aa.png",
+                    "id": 405183,
+                    "index_show": "2008-10-18上映"
+                },
+                "season_id": 38541,
+                "season_title": "生化危机：恶化",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 96314,
+                    "series_follow": 158936,
+                    "views": 4286389
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9382d6e76f79e6e537c7ee2564ddce8b7ac38a31.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/170b5ab6c6880e335bc42ced3dea3c44966d5f6d.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/df6a596ec5d3dcc7d31c207c304cac41f67de68a.png",
+                "media_id": 28234228,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/910997f2c0e7f92b45889741e01fcd657da5f880.png",
+                    "id": 407625,
+                    "index_show": "2012-09-25上映"
+                },
+                "season_id": 38540,
+                "season_title": "生化危机：诅咒",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 118403,
+                    "series_follow": 158936,
+                    "views": 5937059
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f3f8bdf02724b27883a154d93165c51384a93adc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/34fefc3e6c59ca50221b754b69ced6600fe2658b.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/6e8bcc51e1db294ecb9de497dd765ac7882bc40a.png",
+                "media_id": 28237255,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/80161f7651fa5879d2ec23fdc8e266cd520a7660.png",
+                    "id": 477648,
+                    "index_show": "2017-05-27上映"
+                },
+                "season_id": 41546,
+                "season_title": "生化危机：复仇",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 143312,
+                    "series_follow": 158936,
+                    "views": 2282005
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 556318057,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qe4y1Q72S",
+                        "cid": 785236508,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_b2405262404c44cf8054eead3b7df1b_firsti.jpg",
+                        "dimension": {
+                            "height": 2160,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 658833,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep658833?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1658866370,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：复仇》生化危机：复仇 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep658833",
+                        "short_link": "https://b23.tv/ep658833",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 5,
+                            "play": 2775,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看228.2万次",
+                        "title": "生化危机：复仇",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 728768891,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19S4y1477K",
+                        "cid": 785237757,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_6f48ea81320244debc576851386c6ab_firsti.jpg",
+                        "dimension": {
+                            "height": 2160,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 658860,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep658860?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1658866882,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：复仇》生化危机：复仇 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep658860",
+                        "short_link": "https://b23.tv/ep658860",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 6,
+                            "play": 2395,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看228.2万次",
+                        "title": "生化危机：复仇",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 428813438,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1YG411H7PR",
+                        "cid": 785238997,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_bab4c4bdf81b4b2b8a5c7ee51db489b_firsti.jpg",
+                        "dimension": {
+                            "height": 2160,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 658890,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep658890?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1658867700,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：复仇》生化危机：复仇 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep658890",
+                        "short_link": "https://b23.tv/ep658890",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 11,
+                            "play": 4295,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看228.2万次",
+                        "title": "生化危机：复仇",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 898816316,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1VN4y177Co",
+                        "cid": 785243786,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_0d18f9c3992048f4a42e577df4e99eb_firsti.jpg",
+                        "dimension": {
+                            "height": 2160,
+                            "rotate": 0,
+                            "width": 3840
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 659004,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep659004?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1658869966,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：复仇》生化危机：复仇 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep659004",
+                        "short_link": "https://b23.tv/ep659004",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 6,
+                            "play": 3633,
+                            "reply": 7
+                        },
+                        "status": 2,
+                        "subtitle": "已观看228.2万次",
+                        "title": "生化危机：复仇",
+                        "vid": ""
+                    }
+                ],
+                "id": 84653,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5541,
+            "series_title": "生化危机(动画)"
+        },
+        "share_copy": "《生化危机：复仇》系列CG动画丧尸片",
+        "share_sub_title": "系列CG动画丧尸片",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41546",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/34bceffd2626fd53486558d1cb480b471297ce33.png",
+        "stat": {
+            "coins": 2529,
+            "danmakus": 11472,
+            "favorite": 4252,
+            "favorites": 143312,
+            "likes": 19158,
+            "reply": 1719,
+            "share": 1021,
+            "views": 2282005
+        },
+        "status": 8,
+        "subtitle": "已观看228.2万次",
+        "title": "生化危机：复仇",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815762,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

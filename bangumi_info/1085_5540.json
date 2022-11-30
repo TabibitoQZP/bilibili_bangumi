@@ -1,0 +1,766 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a7d604cb9024faeb775a79a95c33542e3cdd420c.jpg",
+        "episodes": [
+            {
+                "aid": 6517788,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1gs411b7b6",
+                "cid": 11091797,
+                "cover": "http://i2.hdslb.com/bfs/archive/117a3386966270986d5249d52e7297f95b366657.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 96238,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96238",
+                "long_title": "出发点",
+                "pub_time": 1475505009,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第1话 出发点",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96238",
+                "short_link": "https://b23.tv/ep96238",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 118
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "1",
+                "vid": "vupload_11091797"
+            },
+            {
+                "aid": 6626905,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s41147Yz",
+                "cid": 11091888,
+                "cover": "http://i2.hdslb.com/bfs/archive/f059e72b5caf249d3b9cae9b33d0c493920d424b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 96239,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96239",
+                "long_title": "开心的创作",
+                "pub_time": 1476109810,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第2话 开心的创作",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96239",
+                "short_link": "https://b23.tv/ep96239",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 275,
+                        "start": 175
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "2",
+                "vid": "vupload_11091888"
+            },
+            {
+                "aid": 6718614,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rs41147F8",
+                "cid": 11091865,
+                "cover": "http://i2.hdslb.com/bfs/archive/f97441e17c305bf5a4c26ea536c527818239f7a3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1434000,
+                "from": "bangumi",
+                "id": 96240,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96240",
+                "long_title": "传导道具",
+                "pub_time": 1476714600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第3话 传导道具",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96240",
+                "short_link": "https://b23.tv/ep96240",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 101
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "3",
+                "vid": "vupload_11091865"
+            },
+            {
+                "aid": 6812019,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fs411t764",
+                "cid": 11094828,
+                "cover": "http://i0.hdslb.com/bfs/archive/34ec5c90b6e69ab011c91bc9219f2e7cdf6aae01.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 96241,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96241",
+                "long_title": "提升技能",
+                "pub_time": 1477319410,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第4话 提升技能",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96241",
+                "short_link": "https://b23.tv/ep96241",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 69
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "4",
+                "vid": "vupload_11094828"
+            },
+            {
+                "aid": 6906529,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms411s7X9",
+                "cid": 11251995,
+                "cover": "http://i2.hdslb.com/bfs/archive/325c44fa85941d8c06f049d9acbda17090180ecb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 96242,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96242",
+                "long_title": "倒计时",
+                "pub_time": 1477924210,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第5话 倒计时",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96242",
+                "short_link": "https://b23.tv/ep96242",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 112,
+                        "start": 12
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "5",
+                "vid": "vupload_11251995"
+            },
+            {
+                "aid": 7004051,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411x7w1",
+                "cid": 11417996,
+                "cover": "http://i2.hdslb.com/bfs/archive/a4988cbe599879f54e43fb2266fd02441bbca718.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1434000,
+                "from": "bangumi",
+                "id": 96243,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96243",
+                "long_title": "同人展会",
+                "pub_time": 1478529010,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第6话 同人展会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96243",
+                "short_link": "https://b23.tv/ep96243",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 178,
+                        "start": 78
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "6",
+                "vid": "vupload_11417996"
+            },
+            {
+                "aid": 7098858,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411W7uo",
+                "cid": 11576168,
+                "cover": "http://i0.hdslb.com/bfs/archive/04647bf08e48b4bc6a1770b8c9499f5cd5f23900.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1437000,
+                "from": "bangumi",
+                "id": 96244,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96244",
+                "long_title": "初次回忆",
+                "pub_time": 1479133810,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第7话 初次回忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96244",
+                "short_link": "https://b23.tv/ep96244",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 28
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "7",
+                "vid": "vupload_11576168"
+            },
+            {
+                "aid": 7198434,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1is411W7uy",
+                "cid": 11768577,
+                "cover": "http://i1.hdslb.com/bfs/archive/584fcd37ce93b04b5d5b318dc21dabcaa219e46a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 96245,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96245",
+                "long_title": "不要小看测试员",
+                "pub_time": 1479738609,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第8话 不要小看测试员",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96245",
+                "short_link": "https://b23.tv/ep96245",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 22
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "8",
+                "vid": "vupload_11768577"
+            },
+            {
+                "aid": 7296173,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411s75Q",
+                "cid": 11926748,
+                "cover": "http://i1.hdslb.com/bfs/archive/935ee24bdb1a0b1e74ee3c51a6db3f7212744c9b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 96246,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96246",
+                "long_title": "提升技能之二",
+                "pub_time": 1480343409,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第9话 提升技能之二",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96246",
+                "short_link": "https://b23.tv/ep96246",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "9",
+                "vid": "vupload_11926748"
+            },
+            {
+                "aid": 7397296,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zs411Y7BD",
+                "cid": 12093611,
+                "cover": "http://i0.hdslb.com/bfs/archive/917addbb0cc98455d88fc36484ee0d25c9ad6f55.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1437000,
+                "from": "bangumi",
+                "id": 96247,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96247",
+                "long_title": "精密机械",
+                "pub_time": 1480948209,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第10话 精密机械",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96247",
+                "short_link": "https://b23.tv/ep96247",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 34
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "10",
+                "vid": "vupload_12093611"
+            },
+            {
+                "aid": 7502152,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411e7t8",
+                "cid": 12270934,
+                "cover": "http://i1.hdslb.com/bfs/archive/13300a8070ad72f90a37e903fb25a98d42e843f4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1437000,
+                "from": "bangumi",
+                "id": 96248,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96248",
+                "long_title": "小姐 需要帮助吗",
+                "pub_time": 1481553009,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第11话 小姐 需要帮助吗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96248",
+                "short_link": "https://b23.tv/ep96248",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 195,
+                        "start": 107
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "11",
+                "vid": "vupload_12270934"
+            },
+            {
+                "aid": 7602374,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vs411a77W",
+                "cid": 12450456,
+                "cover": "http://i2.hdslb.com/bfs/archive/7eb04d5a2116fd6087fecd8bf7f46512b1d5e0c0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1418000,
+                "from": "bangumi",
+                "id": 96249,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96249",
+                "long_title": "重回初心",
+                "pub_time": 1482157800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《斯特拉的魔法》第12话 重回初心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96249",
+                "short_link": "https://b23.tv/ep96249",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1245
+                    },
+                    "op": {
+                        "end": 71,
+                        "start": 54
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看377.6万次",
+                "title": "12",
+                "vid": "vupload_12450456"
+            }
+        ],
+        "evaluate": "高中开学典礼当天与制作同人游戏的社团“SNS部”相遇的本田珠辉。\n她觉得自己找到了想要做的事情而入部，但不论是绘图、编程、剧本还是音乐，全部都要从零开始由自己这些人来完成，实在是不得了！\n与学姐和幼时的好友一起，以完成为目标加油吧！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5540/",
+        "media_id": 5540,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 96249,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 22297,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-10-03 22:30:00",
+            "pub_time_show": "2016年10月03日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1447,
+            "score": 9.4
+        },
+        "record": "登记号：10417060205632210",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5540,
+        "season_title": "斯特拉的魔法",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a7d604cb9024faeb775a79a95c33542e3cdd420c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5540,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/7eb04d5a2116fd6087fecd8bf7f46512b1d5e0c0.jpg",
+                    "id": 96249,
+                    "index_show": "全12话"
+                },
+                "season_id": 5540,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 313503,
+                    "series_follow": 315862,
+                    "views": 3775838
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0c2e46d6b405eb318d6f719015276381562e92a0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6049,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1a68ed2de6d9dd4bfde22e69160769fa6b8364f9.jpg",
+                    "id": 103429,
+                    "index_show": "全2话"
+                },
+                "season_id": 6049,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 22334,
+                    "series_follow": 315862,
+                    "views": 219909
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3328,
+            "series_title": "斯特拉的魔法"
+        },
+        "share_copy": "《斯特拉的魔法》从零开始制作游戏！",
+        "share_sub_title": "从零开始制作游戏！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5540",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/eb81b4c5a2c8b15f8fa8a16fefaffa8b54232c1e.jpg",
+        "stat": {
+            "coins": 21975,
+            "danmakus": 95194,
+            "favorite": 2381,
+            "favorites": 313503,
+            "likes": 22365,
+            "reply": 10544,
+            "share": 3164,
+            "views": 3775838
+        },
+        "status": 2,
+        "subtitle": "已观看377.6万次",
+        "title": "斯特拉的魔法",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5b0806ae884ea8300340adcaeced32e15481330e.png",
+        "episodes": [
+            {
+                "aid": 630915703,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vb4y1Z74Y",
+                "cid": 363585829,
+                "cover": "http://i0.hdslb.com/bfs/archive/bc0f7a2b4a852ebcf363f4729ae2f02c7bfc843d.png",
+                "dimension": {
+                    "height": 804,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5688000,
+                "from": "bangumi",
+                "id": 411186,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep411186?theme=movie",
+                "long_title": "",
+                "pub_time": 1625997600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《交响诗篇 超进化2》新剧场版续集",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep411186",
+                "short_link": "https://b23.tv/ep411186",
+                "status": 13,
+                "subtitle": "已观看36.5万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "故事讲述在儿时的那一天，父亲留下安妮莫奈前往战场，之后成为了不归人。悔恨之情深深存留在安妮莫奈小小的胸膛中。过了7年，安妮莫奈身处父亲逝去的战场——东京。作为实验部队阿西德所执行的作战关键，安妮莫奈不得不与人类的敌人“第7个Eureka=Eureka Seven”战斗。被Eureka Seven逼入绝境的人类，已经只能把希望寄托在安妮莫奈身上了。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234788/",
+        "media_id": 28234788,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2018年11月10日上映",
+            "id": 411186,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 61166,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-07-11 11:00:00",
+            "pub_time_show": "2021年07月11日11:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 218,
+            "score": 9.4
+        },
+        "record": "新出像进字（2020）第621号",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39096,
+        "season_title": "交响诗篇 超进化2",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d5a9cebfb56948b79090e4325f6370eba293099d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 790,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3a9ba13f6fc904cad97ae1b80f60fec2d6ae491a.jpg",
+                    "id": 14175,
+                    "index_show": "全50话"
+                },
+                "season_id": 790,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 279182,
+                    "series_follow": 302924,
+                    "views": 6011714
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eb793b6d35e5b911480a5d7428bf85f2ef0d997d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 791,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ef627885ce1af5139ccc024e75be8c3d811dc929.jpg",
+                    "id": 14177,
+                    "index_show": "全24话"
+                },
+                "season_id": 791,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 49973,
+                    "series_follow": 302924,
+                    "views": 2048905
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/501b1ba2311123d75b23c6198a8a94c4c5262238.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/570b021867065c48fcd839c8804f7a9ff976e148.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/28a1aedb5ab1b5a6d507f40f3cf34ba7349c299b.png",
+                "media_id": 28234787,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/825d608fe12a05f487e54fc90d0185a2e5b71a33.png",
+                    "id": 411184,
+                    "index_show": "2017-09-16上映"
+                },
+                "season_id": 39095,
+                "season_title": "剧场版1",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 21075,
+                    "series_follow": 302924,
+                    "views": 374257
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5b0806ae884ea8300340adcaeced32e15481330e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/fcb4d9785ee3e12edec51ae939775c2afd10f177.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/49eb7e93cf4d167609ac21d580a1952600983196.png",
+                "media_id": 28234788,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bc0f7a2b4a852ebcf363f4729ae2f02c7bfc843d.png",
+                    "id": 411186,
+                    "index_show": "2018-11-10上映"
+                },
+                "season_id": 39096,
+                "season_title": "剧场版2",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 21409,
+                    "series_follow": 302924,
+                    "views": 365487
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 600410807,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1TB4y1W71S",
+                        "cid": 760495728,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_f58f9cc72b3e4e819d717e8098ce90b_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536006,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536006?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656625918,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536006",
+                        "short_link": "https://b23.tv/ep536006",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 88,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 812875642,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1M34y1s7j7",
+                        "cid": 760495466,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_b376874a05c34dfc88cb071971ee26b_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536007,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536007?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656625921,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536007",
+                        "short_link": "https://b23.tv/ep536007",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 59,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 385376270,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1AZ4y1e7Ye",
+                        "cid": 760496240,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_c21fdb1fb8a84ad3b53c886703bdcbb_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536053,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536053?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656626055,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536053",
+                        "short_link": "https://b23.tv/ep536053",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 119,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 597952016,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1CB4y1v7Gy",
+                        "cid": 760496415,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_449af3787b41473f9195f85c9a908ab_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536083,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536083?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1656626138,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536083",
+                        "short_link": "https://b23.tv/ep536083",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 0,
+                            "play": 59,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 982961803,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV16t4y187ad",
+                        "cid": 760496350,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_852b56052b104c7f9ef4b54c509076b_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536091,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536091?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1656626167,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536091",
+                        "short_link": "https://b23.tv/ep536091",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 63,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 897894712,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1UN4y1u7R2",
+                        "cid": 760496743,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_6d3d3fef8d574c96beae56de6148feb_firsti.jpg",
+                        "dimension": {
+                            "height": 804,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 536143,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep536143?theme=movie",
+                        "long_title": "精彩看点 6",
+                        "pub_time": 1656626363,
+                        "pv": 0,
+                        "release_date": "2022-07-01",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《交响诗篇 超进化2》交响诗篇 超进化2 精彩看点 6",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep536143",
+                        "short_link": "https://b23.tv/ep536143",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 59,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看36.5万次",
+                        "title": "交响诗篇 超进化2",
+                        "vid": ""
+                    }
+                ],
+                "id": 80468,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 497,
+            "series_title": "交响诗篇"
+        },
+        "share_copy": "《交响诗篇 超进化2》新剧场版续集",
+        "share_sub_title": "新剧场版续集",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39096",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/be8c13fff4b14000c0e5ccfa7fd7e09fd868b38c.png",
+        "stat": {
+            "coins": 1202,
+            "danmakus": 1568,
+            "favorite": 642,
+            "favorites": 21409,
+            "likes": 6336,
+            "reply": 647,
+            "share": 203,
+            "views": 365487
+        },
+        "status": 13,
+        "subtitle": "已观看36.5万次",
+        "title": "交响诗篇 超进化2",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815763,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

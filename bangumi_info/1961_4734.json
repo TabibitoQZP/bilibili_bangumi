@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/b36e1fd98f3dd386b3c447e99e94608851c16aea.jpg",
+        "episodes": [
+            {
+                "aid": 54544956,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1S4411T7dX",
+                "cid": 101700113,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 132000,
+                "from": "bangumi",
+                "id": 89620,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89620",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89620",
+                "short_link": "https://b23.tv/ep89620",
+                "skip": {
+                    "ed": {
+                        "end": 131,
+                        "start": 111
+                    },
+                    "op": {
+                        "end": 12,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看71万次",
+                "title": "1",
+                "vid": "vupload_25313"
+            },
+            {
+                "aid": 976771809,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1244y1a7pE",
+                "cid": 102365402,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 121000,
+                "from": "bangumi",
+                "id": 89621,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89621",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第2话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89621",
+                "short_link": "https://b23.tv/ep89621",
+                "skip": {
+                    "ed": {
+                        "end": 120,
+                        "start": 100
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "2",
+                "vid": "vupload_25314"
+            },
+            {
+                "aid": 549277320,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zq4y1u7yR",
+                "cid": 101700126,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 111251,
+                "from": "bangumi",
+                "id": 89622,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89622",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第3话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89622",
+                "short_link": "https://b23.tv/ep89622",
+                "skip": {
+                    "ed": {
+                        "end": 111,
+                        "start": 91
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "3",
+                "vid": "vupload_25315"
+            },
+            {
+                "aid": 294322417,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZF411h73b",
+                "cid": 101700131,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 101246,
+                "from": "bangumi",
+                "id": 89623,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89623",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第4话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89623",
+                "short_link": "https://b23.tv/ep89623",
+                "skip": {
+                    "ed": {
+                        "end": 101,
+                        "start": 81
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "4",
+                "vid": "vupload_25316"
+            },
+            {
+                "aid": 676786809,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NU4y1u7q5",
+                "cid": 101700137,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 101246,
+                "from": "bangumi",
+                "id": 89624,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89624",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第5话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89624",
+                "short_link": "https://b23.tv/ep89624",
+                "skip": {
+                    "ed": {
+                        "end": 101,
+                        "start": 81
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "5",
+                "vid": "vupload_25317"
+            },
+            {
+                "aid": 849252494,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GL4y1i77A",
+                "cid": 101700142,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 117246,
+                "from": "bangumi",
+                "id": 89625,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89625",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第6话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89625",
+                "short_link": "https://b23.tv/ep89625",
+                "skip": {
+                    "ed": {
+                        "end": 117,
+                        "start": 97
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "6",
+                "vid": "vupload_25318"
+            },
+            {
+                "aid": 676839693,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HU4y1u7pm",
+                "cid": 101700226,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 132264,
+                "from": "bangumi",
+                "id": 89626,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89626",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第7话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89626",
+                "short_link": "https://b23.tv/ep89626",
+                "skip": {
+                    "ed": {
+                        "end": 132,
+                        "start": 112
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "7",
+                "vid": "vupload_25319"
+            },
+            {
+                "aid": 891856689,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QP4y1G7ks",
+                "cid": 101700232,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 105235,
+                "from": "bangumi",
+                "id": 89627,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89627",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第8话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89627",
+                "short_link": "https://b23.tv/ep89627",
+                "skip": {
+                    "ed": {
+                        "end": 105,
+                        "start": 85
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "8",
+                "vid": "vupload_25320"
+            },
+            {
+                "aid": 719314302,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zQ4y1U7wc",
+                "cid": 101700238,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 169299,
+                "from": "bangumi",
+                "id": 89628,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89628",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第9话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89628",
+                "short_link": "https://b23.tv/ep89628",
+                "skip": {
+                    "ed": {
+                        "end": 169,
+                        "start": 149
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "9",
+                "vid": "vupload_25321"
+            },
+            {
+                "aid": 251804618,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KY41147p2",
+                "cid": 101700244,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 105235,
+                "from": "bangumi",
+                "id": 89629,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89629",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89629",
+                "short_link": "https://b23.tv/ep89629",
+                "skip": {
+                    "ed": {
+                        "end": 105,
+                        "start": 85
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "10",
+                "vid": "vupload_25322"
+            },
+            {
+                "aid": 464360643,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LL411M7Hg",
+                "cid": 101700248,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 162302,
+                "from": "bangumi",
+                "id": 89630,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89630",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89630",
+                "short_link": "https://b23.tv/ep89630",
+                "skip": {
+                    "ed": {
+                        "end": 162,
+                        "start": 142
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "11",
+                "vid": "vupload_25323"
+            },
+            {
+                "aid": 634366886,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eb4y1b7qD",
+                "cid": 101700254,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 130258,
+                "from": "bangumi",
+                "id": 89631,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89631",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89631",
+                "short_link": "https://b23.tv/ep89631",
+                "skip": {
+                    "ed": {
+                        "end": 130,
+                        "start": 110
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "12",
+                "vid": "vupload_25324"
+            },
+            {
+                "aid": 806869915,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1g34y1o7uz",
+                "cid": 101700264,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 194000,
+                "from": "bangumi",
+                "id": 89632,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89632",
+                "long_title": "",
+                "pub_time": 1465790160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鹤屋和熏干酪》第13话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89632",
+                "short_link": "https://b23.tv/ep89632",
+                "skip": {
+                    "ed": {
+                        "end": 193,
+                        "start": 115
+                    },
+                    "op": {
+                        "end": 7,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看71万次",
+                "title": "13",
+                "vid": "vupload_25325"
+            }
+        ],
+        "evaluate": "　　根据超人气动画『凉宫春日的忧郁』的原作小说派生出的四格恶搞漫画《小凉宫春日的忧郁》，于08年8月宣布了将改编为网络动画的消息。\n　　本作漫画由《凉宫》的原作家谷川流担任脚本，于2007年开始连载，08年5月刚刚发售了漫画单行本的第1卷。\n　　单行本发售之时，由于动画版『凉宫』在宣布第2季的制作后过了一年也迟迟不见动静，而小说原作的第10卷《凉宫春日的惊愕》也延期了1年多，所以FANS无处发泄的热情全集中到了漫画《小凉宫》之上，单行本一经发售迅速被抢购一空，就连多次紧急增印后也供不应求。\n　　此次的动画版『小凉宫春日的忧郁』，将在动画共享网站YouTube中的角川动画频道内播出。同时，以『凉宫』中的“鹤屋”为主角进行二次创作的漫画作品《Nyoron☆小鹤屋学姐》（Nyoron为鹤屋学姐的口癖），也将被改编为网络动画并在同一频道播出。\n\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4734/",
+        "media_id": 4734,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 89632,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 21738,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2009-02-14 00:00:01",
+            "pub_time_show": "2009年2月14日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 691,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4734,
+        "season_title": "鹤屋和熏干酪",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b36e1fd98f3dd386b3c447e99e94608851c16aea.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4734,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3a57285a41ef7c80508cd86093f750944b37cd0f.jpg",
+                    "id": 89632,
+                    "index_show": "全13话"
+                },
+                "season_id": 4734,
+                "season_title": "WEB2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 61994,
+                    "series_follow": 61994,
+                    "views": 710128
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2751,
+            "series_title": "小凉宫春日的忧郁"
+        },
+        "share_copy": "《鹤屋和熏干酪》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4734",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/045a4b6f9e00f27a8991a0c6a32cdbb5b72bd744.jpg",
+        "stat": {
+            "coins": 2596,
+            "danmakus": 2863,
+            "favorite": 609,
+            "favorites": 61994,
+            "likes": 9124,
+            "reply": 687,
+            "share": 644,
+            "views": 710128
+        },
+        "status": 13,
+        "subtitle": "已观看71万次",
+        "title": "鹤屋和熏干酪",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

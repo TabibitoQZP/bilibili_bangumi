@@ -1,0 +1,784 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c53c6d891115ae783e57bc4cb0c8a456f8788fef.jpg",
+        "episodes": [
+            {
+                "aid": 2998766,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps41127fX",
+                "cid": 50648463,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/051bdb26e16e455160be881b3380d32e44265f0b.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 70866,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70866",
+                "long_title": "华焰之魔女",
+                "pub_time": 1443877200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第1话 华焰之魔女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70866",
+                "short_link": "https://b23.tv/ep70866",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看8881.8万次",
+                "title": "1",
+                "vid": "vupload_10520017"
+            },
+            {
+                "aid": 3039579,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17s411273p",
+                "cid": 98440637,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a55f51063c7401552d5a66864de3f225e3ed3570.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 72067,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72067",
+                "long_title": "黑炉之魔剑",
+                "pub_time": 1444482000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第2话 黑炉之魔剑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72067",
+                "short_link": "https://b23.tv/ep72067",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "2",
+                "vid": "vupload_10520044"
+            },
+            {
+                "aid": 3074115,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s41127Lw",
+                "cid": 98441249,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5ab4b37a8f2c48a0f4d5e43079c32110272e16c3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 72689,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72689",
+                "long_title": "两人的假日",
+                "pub_time": 1445086800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第3话 两人的假日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72689",
+                "short_link": "https://b23.tv/ep72689",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 38
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "3",
+                "vid": "vupload_10520050"
+            },
+            {
+                "aid": 3110609,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs41127qz",
+                "cid": 10520057,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/afba0e204356e4a8e1a3981277d87c744b05fde8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 75105,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75105",
+                "long_title": "解放者",
+                "pub_time": 1445691606,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第4话 解放者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75105",
+                "short_link": "https://b23.tv/ep75105",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 149,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "4",
+                "vid": "vupload_10520057"
+            },
+            {
+                "aid": 3147965,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1As411d74z",
+                "cid": 98441461,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9d4209df583fc6313e08904f7e5a6cc92eb542b1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 76105,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76105",
+                "long_title": "疾风刃雷",
+                "pub_time": 1446296400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第5话 疾风刃雷",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76105",
+                "short_link": "https://b23.tv/ep76105",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 318,
+                        "start": 229
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "5",
+                "vid": "vupload_10520064"
+            },
+            {
+                "aid": 3184010,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411d72o",
+                "cid": 98441945,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9c1c348abdca73eaa20b7700b6da568f5e61324a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 77327,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77327",
+                "long_title": "真实的少女",
+                "pub_time": 1446901200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第6话 真实的少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77327",
+                "short_link": "https://b23.tv/ep77327",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "6",
+                "vid": "vupload_10520068"
+            },
+            {
+                "aid": 3220166,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411d7Kk",
+                "cid": 98442137,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f8fab3850c0f58f1b9563fa6282e06e036b2fe35.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 77661,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77661",
+                "long_title": "决意与决斗",
+                "pub_time": 1447506000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第7话 决意与决斗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77661",
+                "short_link": "https://b23.tv/ep77661",
+                "skip": {
+                    "ed": {
+                        "end": 1367,
+                        "start": 1278
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 22
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "7",
+                "vid": "vupload_10520077"
+            },
+            {
+                "aid": 3257717,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411d7CC",
+                "cid": 98442526,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d0331ca21c5a83e24f6f4795c76b6f80bb6ac180.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 79189,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79189",
+                "long_title": "两人的假日②",
+                "pub_time": 1448110800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第8话 两人的假日②",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79189",
+                "short_link": "https://b23.tv/ep79189",
+                "skip": {
+                    "ed": {
+                        "end": 1309,
+                        "start": 1220
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "8",
+                "vid": "vupload_10520082"
+            },
+            {
+                "aid": 3296072,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411d7mA",
+                "cid": 98443088,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/466dbaf6783d4c36e4ad77ac0da1aa628ddc64c3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 79870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79870",
+                "long_title": "凤凰星武祭",
+                "pub_time": 1448715600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第9话 凤凰星武祭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79870",
+                "short_link": "https://b23.tv/ep79870",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 225,
+                        "start": 136
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "9",
+                "vid": "vupload_10520085"
+            },
+            {
+                "aid": 3334538,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411d7Wi",
+                "cid": 98443461,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ca868b6fccdec5e1f744c8fa3577ea4079b1f078.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 80578,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80578",
+                "long_title": "吸血暴姬",
+                "pub_time": 1449320400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第10话 吸血暴姬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80578",
+                "short_link": "https://b23.tv/ep80578",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 292,
+                        "start": 203
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "10",
+                "vid": "vupload_10520089"
+            },
+            {
+                "aid": 3374064,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411o79A",
+                "cid": 98443784,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/feac8600e0c353d145cb664f373b61a570653d32.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 81334,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81334",
+                "long_title": "力量与代价",
+                "pub_time": 1449925200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第11话 力量与代价",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81334",
+                "short_link": "https://b23.tv/ep81334",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 206,
+                        "start": 117
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "11",
+                "vid": "vupload_10520095"
+            },
+            {
+                "aid": 3413822,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ys41197EB",
+                "cid": 98444150,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8a41bd62964a2f57360812e1d9ef918581456098.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 81748,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81748",
+                "long_title": "霸溃血镰",
+                "pub_time": 1450530055,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《学战都市Asterisk》第12话 霸溃血镰",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81748",
+                "short_link": "https://b23.tv/ep81748",
+                "skip": {
+                    "ed": {
+                        "end": 1407,
+                        "start": 1317
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看8881.8万次",
+                "title": "12",
+                "vid": "vupload_10520100"
+            }
+        ],
+        "evaluate": "在二十世纪袭击地球的大灾害“落星雨”之下，世界多数的都市遭到毁灭。但从陨石中发现的未知元素——万应素，让人类的科学技术加速发展，终于诞生出被称作“星脉世代”的、拥有特异之力的新人类。故事发生在世界最大的综合战斗娱乐项目“星武祭”的舞台，由六所学院包围、通称为六芒星的水上学园都市“六花”。转学到星导馆学园高等部的特待生·天雾绫斗，为了实现自己的愿望，而发誓在这个都市中战斗。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2722/",
+        "media_id": 2722,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 81748,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19637,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-03 21:00:00",
+            "pub_time_show": "2015年10月03日21:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5316,
+            "score": 8.4
+        },
+        "record": "登记号：10417060205752303",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2722,
+        "season_title": "学战都市Asterisk",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c53c6d891115ae783e57bc4cb0c8a456f8788fef.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2722,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8a41bd62964a2f57360812e1d9ef918581456098.jpg",
+                    "id": 81748,
+                    "index_show": "全12话"
+                },
+                "season_id": 2722,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2041858,
+                    "series_follow": 2452407,
+                    "views": 88818423
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3f390754aecd279d3915a60676fa6ea735a72010.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3464,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/1175ce34f81cc00308d4b1a6159b9200a4a1b4e9.jpg",
+                    "id": 89172,
+                    "index_show": "全12话"
+                },
+                "season_id": 3464,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1313679,
+                    "series_follow": 2452407,
+                    "views": 60907011
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1846,
+            "series_title": "学战都市Asterisk"
+        },
+        "share_copy": "《学战都市Asterisk》新人类星脉世代诞生",
+        "share_sub_title": "新人类星脉世代诞生",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2722",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/558aef38e63d3950e2d3e8ceeaab16dda231e75a.jpg",
+        "stat": {
+            "coins": 132002,
+            "danmakus": 1402565,
+            "favorite": 10054,
+            "favorites": 2041858,
+            "likes": 95391,
+            "reply": 46379,
+            "share": 29463,
+            "views": 88818423
+        },
+        "status": 13,
+        "subtitle": "已观看8881.8万次",
+        "title": "学战都市Asterisk",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

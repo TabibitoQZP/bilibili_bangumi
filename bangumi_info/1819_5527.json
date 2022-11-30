@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/b1ca6d66fd00f16f13055f6de06b05f5bd9f22c2.jpg",
+        "episodes": [
+            {
+                "aid": 6598940,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41147K6",
+                "cid": 11205783,
+                "cover": "http://i0.hdslb.com/bfs/archive/2f379e8f7a94e9bb9704f55a1c5f29dc15829b97.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96441,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96441",
+                "long_title": "想给你看的",
+                "pub_time": 1475944920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第1话 想给你看的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96441",
+                "short_link": "https://b23.tv/ep96441",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "1",
+                "vid": "vupload_11205783"
+            },
+            {
+                "aid": 6686267,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs4114749",
+                "cid": 11205789,
+                "cover": "http://i2.hdslb.com/bfs/archive/42449072bf958985ed53c168f451e6f63f7c7f3e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96442,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96442",
+                "long_title": "谁是第一",
+                "pub_time": 1476549720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第2话 谁是第一",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96442",
+                "short_link": "https://b23.tv/ep96442",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "2",
+                "vid": "vupload_11205789"
+            },
+            {
+                "aid": 6777959,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms41147CS",
+                "cid": 11044491,
+                "cover": "http://i1.hdslb.com/bfs/archive/af41bc39dfa68f9b5ad3be65a774fd4f2ce5a71a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180949,
+                "from": "bangumi",
+                "id": 96443,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96443",
+                "long_title": "政宗的忧郁",
+                "pub_time": 1477154520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第3话 政宗的忧郁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96443",
+                "short_link": "https://b23.tv/ep96443",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "3",
+                "vid": "vupload_11044491"
+            },
+            {
+                "aid": 6876438,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411s7gf",
+                "cid": 11204396,
+                "cover": "http://i1.hdslb.com/bfs/archive/86619b862661ac3b14929728961b3dc0fa58b6ee.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96444,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96444",
+                "long_title": "奇怪的二人",
+                "pub_time": 1477760220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第4话 奇怪的二人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96444",
+                "short_link": "https://b23.tv/ep96444",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "4",
+                "vid": "vupload_11204396"
+            },
+            {
+                "aid": 6972378,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411x7su",
+                "cid": 11363807,
+                "cover": "http://i0.hdslb.com/bfs/archive/505b9efe9a5f119fb491e516bc8379f50da6513d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96445,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96445",
+                "long_title": "六文钱",
+                "pub_time": 1478364120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第5话 六文钱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96445",
+                "short_link": "https://b23.tv/ep96445",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "5",
+                "vid": "vupload_11363807"
+            },
+            {
+                "aid": 7073315,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411x7kd",
+                "cid": 11533073,
+                "cover": "http://i0.hdslb.com/bfs/archive/70214a383f358d5dd5f6ef7e5387ac420cbc634c.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96446,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96446",
+                "long_title": "我的兜裆布",
+                "pub_time": 1478968920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第6话 我的兜裆布",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96446",
+                "short_link": "https://b23.tv/ep96446",
+                "skip": {
+                    "ed": {
+                        "end": 180117,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "6",
+                "vid": "vupload_11533073"
+            },
+            {
+                "aid": 7164060,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xs411W7eD",
+                "cid": 11788594,
+                "cover": "http://i1.hdslb.com/bfs/archive/15a6d35bc606d51019f8adf04b369026c02418cc.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96447,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96447",
+                "long_title": "草鞋的秘密",
+                "pub_time": 1479573720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第7话 草鞋的秘密",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96447",
+                "short_link": "https://b23.tv/ep96447",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "7",
+                "vid": "vupload_11788594"
+            },
+            {
+                "aid": 7267264,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zs411W7VD",
+                "cid": 11879642,
+                "cover": "http://i2.hdslb.com/bfs/archive/e95a41e6755e01a761388b580361becdd932f32f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96448,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96448",
+                "long_title": "敲头带帽",
+                "pub_time": 1480178520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第8话 敲头带帽",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96448",
+                "short_link": "https://b23.tv/ep96448",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "8",
+                "vid": "vupload_11879642"
+            },
+            {
+                "aid": 7367060,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs411Y7LD",
+                "cid": 12043258,
+                "cover": "http://i1.hdslb.com/bfs/archive/d9db6da5509caf75ca822aadb1ebdedeb5f8becb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180182,
+                "from": "bangumi",
+                "id": 96449,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96449",
+                "long_title": "风林火山",
+                "pub_time": 1480783320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第9话 风林火山",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96449",
+                "short_link": "https://b23.tv/ep96449",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "9",
+                "vid": "vupload_12043258"
+            },
+            {
+                "aid": 7471148,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411e75y",
+                "cid": 12218777,
+                "cover": "http://i2.hdslb.com/bfs/archive/e9c204a0a53952fab547b56c42c2cec061962595.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96450,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96450",
+                "long_title": "宝贝",
+                "pub_time": 1481388120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第10话 宝贝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96450",
+                "short_link": "https://b23.tv/ep96450",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "10",
+                "vid": "vupload_12218777"
+            },
+            {
+                "aid": 7574758,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11s411e7JW",
+                "cid": 12403688,
+                "cover": "http://i1.hdslb.com/bfs/archive/114e5c062893f463b0d9198763a3c77a035a8212.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 96451,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96451",
+                "long_title": "洞",
+                "pub_time": 1481992920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第11话 洞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96451",
+                "short_link": "https://b23.tv/ep96451",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "11",
+                "vid": "vupload_12403688"
+            },
+            {
+                "aid": 7681684,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411a77V",
+                "cid": 12586432,
+                "cover": "http://i2.hdslb.com/bfs/archive/675b06f7e3fd2d4940230413fc63f61e58261a30.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180182,
+                "from": "bangumi",
+                "id": 96452,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96452",
+                "long_title": "水攻",
+                "pub_time": 1482599700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第12话 水攻",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96452",
+                "short_link": "https://b23.tv/ep96452",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "12",
+                "vid": "vupload_12586432"
+            },
+            {
+                "aid": 7896458,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ds41187JW",
+                "cid": 12961994,
+                "cover": "http://i0.hdslb.com/bfs/archive/06bac9f34c266a703e755d9cef747981f04c35a3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 180117,
+                "from": "bangumi",
+                "id": 100503,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100503",
+                "long_title": "过年",
+                "pub_time": 1483807620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《战国鸟兽戏画 ~甲~》第13话 过年",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100503",
+                "short_link": "https://b23.tv/ep100503",
+                "skip": {
+                    "ed": {
+                        "end": 180,
+                        "start": 150
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看168.4万次",
+                "title": "13",
+                "vid": "vupload_12961994"
+            }
+        ],
+        "evaluate": "家喻户晓的历史局面、平凡无奇的日常等等，将各种场面的战国武将比作动物描绘出来，在日本的历史中游乐的电视节目，即是《战国鸟兽戏画》。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5527/",
+        "media_id": 5527,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 100503,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 22435,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-10-09 00:42:00",
+            "pub_time_show": "2016年10月09日00:42",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 143,
+            "score": 9.3
+        },
+        "record": "登记号：10417060208252710",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 340,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5527,
+        "season_title": "战国鸟兽戏画 ~甲~",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b1ca6d66fd00f16f13055f6de06b05f5bd9f22c2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5527,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/06bac9f34c266a703e755d9cef747981f04c35a3.jpg",
+                    "id": 100503,
+                    "index_show": "全13话"
+                },
+                "season_id": 5527,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 78012,
+                    "series_follow": 103973,
+                    "views": 1684117
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eb2ed674f36be047d40dda0403f54e5a8f46aa52.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5808,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/101d044deaaa29ec57596953e448c8c5e69e2d77.jpg",
+                    "id": 103025,
+                    "index_show": "全13话"
+                },
+                "season_id": 5808,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 46804,
+                    "series_follow": 103973,
+                    "views": 946159
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3317,
+            "series_title": "战国鸟兽戏画"
+        },
+        "share_copy": "《战国鸟兽戏画 ~甲~》战国武将动物化？！",
+        "share_sub_title": "战国武将动物化？！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5527",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/791691c0cba846e586d0e9505f439f02397eef91.jpg",
+        "stat": {
+            "coins": 2785,
+            "danmakus": 5870,
+            "favorite": 306,
+            "favorites": 78012,
+            "likes": 1136,
+            "reply": 3274,
+            "share": 2423,
+            "views": 1684117
+        },
+        "status": 2,
+        "subtitle": "已观看168.4万次",
+        "title": "战国鸟兽戏画 ~甲~",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

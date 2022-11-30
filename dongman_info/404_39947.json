@@ -1,0 +1,322 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/df4e4909e910fddd2366327414adefbb4ef78581.jpg",
+        "episodes": [],
+        "evaluate": "《有兽焉》讲述了中国的远古神兽在现代的日常，他们摆摊开店，恋爱追星，每天都在认真生活！",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/28235647",
+        "media_id": 28235647,
+        "mode": 2,
+        "new_ep": {
+            "desc": "敬请期待",
+            "id": 0,
+            "is_new": 0,
+            "title": ""
+        },
+        "positive": {
+            "id": 63036,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 0,
+            "pub_time": "2024-12-31 23:59:00",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 1,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39947,
+        "season_title": "有兽焉",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/df4e4909e910fddd2366327414adefbb4ef78581.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/3d5f58653b4a6c5c949e49020453eb77daf0b292.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/8e65b75535d9eb082273365801a5151309eab304.jpg",
+                "media_id": 28235647,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "即将开播"
+                },
+                "season_id": 39947,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 129734,
+                    "series_follow": 129734,
+                    "views": 689908
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 901640377,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uN4y1w7f9",
+                        "cid": 864926938,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ae3885ec30696182a045f4027de83dd34ec2dcf1.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 80000,
+                        "from": "bangumi",
+                        "id": 688602,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep688602",
+                        "long_title": "上古神兽来到现代也要努力讨生活",
+                        "pub_time": 1666321200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《有兽焉》PV2 上古神兽来到现代也要努力讨生活",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep688602",
+                        "short_link": "https://b23.tv/ep688602",
+                        "stat": {
+                            "coin": 885,
+                            "danmakus": 173,
+                            "likes": 4947,
+                            "play": 90835,
+                            "reply": 586
+                        },
+                        "status": 2,
+                        "subtitle": "已观看69万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 764125373,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Jr4y1y7Fv",
+                        "cid": 443873454,
+                        "cover": "http://i0.hdslb.com/bfs/archive/91e8261dd89f8e39dec242d982dd753f999ae67f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 67000,
+                        "from": "bangumi",
+                        "id": 431039,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep431039",
+                        "long_title": "神兽也要努力讨生活",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《有兽焉》PV1 神兽也要努力讨生活",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep431039",
+                        "short_link": "https://b23.tv/ep431039",
+                        "stat": {
+                            "coin": 5550,
+                            "danmakus": 899,
+                            "likes": 22543,
+                            "play": 555384,
+                            "reply": 2077
+                        },
+                        "status": 2,
+                        "subtitle": "已观看69万次",
+                        "title": "PV1",
+                        "vid": ""
+                    }
+                ],
+                "id": 63037,
+                "title": "花絮预告",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 986737151,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ct4y1M7vZ",
+                        "cid": 866641111,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ae3885ec30696182a045f4027de83dd34ec2dcf1.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 71000,
+                        "from": "bangumi",
+                        "id": 691681,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep691681",
+                        "long_title": "欢迎来到毛球们的世界！ ",
+                        "pub_time": 1666339538,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《有兽焉》PV 欢迎来到毛球们的世界！ ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep691681",
+                        "short_link": "https://b23.tv/ep691681",
+                        "stat": {
+                            "coin": 96,
+                            "danmakus": 28,
+                            "likes": 6884,
+                            "play": 43689,
+                            "reply": 75
+                        },
+                        "status": 2,
+                        "subtitle": "已观看69万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 87460,
+                "title": "竖屏也精彩",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5795,
+            "series_title": "有兽焉"
+        },
+        "share_copy": "《有兽焉》远古神兽在现代",
+        "share_sub_title": "远古神兽在现代",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39947",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/bfabba81d51d516da105187495212504a266aa3d.png",
+        "stat": {
+            "coins": 6531,
+            "danmakus": 1100,
+            "favorite": 4337,
+            "favorites": 129734,
+            "likes": 34374,
+            "reply": 2738,
+            "share": 2792,
+            "views": 689908
+        },
+        "status": 2,
+        "subtitle": "已观看69万次",
+        "title": "有兽焉",
+        "total": -1,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

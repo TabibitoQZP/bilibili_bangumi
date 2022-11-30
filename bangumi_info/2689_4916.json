@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/5a4ec582d5c9e8c45dd43df09ed69ada0ab942d9.jpg",
+        "episodes": [
+            {
+                "aid": 172953,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jx411w7TY",
+                "cid": 284507,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1459d57b535db18dc312f94eb100f3e8da70adb1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1607000,
+                "from": "bangumi",
+                "id": 90243,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90243",
+                "long_title": "中断的胶片",
+                "pub_time": 1466154926,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《秋之回忆5 中断的胶片》第1话 中断的胶片",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90243",
+                "short_link": "https://b23.tv/ep90243",
+                "skip": {
+                    "ed": {
+                        "end": 1607,
+                        "start": 1435
+                    },
+                    "op": {
+                        "end": 210,
+                        "start": 118
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看19万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "秋之回忆5 中断的胶片",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4916/",
+        "media_id": 4916,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 90243,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21607,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2006-05-25 00:00:01",
+            "pub_time_show": "2006年5月25日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 107,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4916,
+        "season_title": "秋之回忆5 中断的胶片",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5a4ec582d5c9e8c45dd43df09ed69ada0ab942d9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4916,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1459d57b535db18dc312f94eb100f3e8da70adb1.jpg",
+                    "id": 90243,
+                    "index_show": "全1话"
+                },
+                "season_id": 4916,
+                "season_title": "OVA5",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 16911,
+                    "series_follow": 26118,
+                    "views": 190150
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ac5fe32dcdb50b2741896a4501bb24fe577489d9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5278,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/72263b3cbc1bf662da811aa6618f7a88fe0c557c.jpg",
+                    "id": 92994,
+                    "index_show": "全3话"
+                },
+                "season_id": 5278,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 16491,
+                    "series_follow": 26118,
+                    "views": 192109
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2893,
+            "series_title": "秋之回忆"
+        },
+        "share_copy": "《秋之回忆5 中断的胶片》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4916",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/68a38a8eb784015ddf7505873346e56ebc283ba7.jpg",
+        "stat": {
+            "coins": 324,
+            "danmakus": 706,
+            "favorite": 80,
+            "favorites": 16911,
+            "likes": 347,
+            "reply": 581,
+            "share": 92,
+            "views": 190150
+        },
+        "status": 2,
+        "subtitle": "已观看19万次",
+        "title": "秋之回忆5 中断的胶片",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

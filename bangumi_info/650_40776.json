@@ -1,0 +1,947 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/d8c139ae487d6c5538fab5080c53752700afcd4f.png",
+        "episodes": [
+            {
+                "aid": 253030901,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YY41187aY",
+                "cid": 482536337,
+                "cover": "http://i0.hdslb.com/bfs/archive/0e994ac97bb3ee85a1e39403c2fdcbcf0b7e8cee.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2969000,
+                "from": "bangumi",
+                "id": 467285,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep467285?theme=movie",
+                "long_title": "",
+                "pub_time": 1642665600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》王者对决谁能赢！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep467285",
+                "short_link": "https://b23.tv/ep467285",
+                "status": 13,
+                "subtitle": "已观看351万次",
+                "title": "前篇",
+                "vid": ""
+            },
+            {
+                "aid": 723068738,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mS4y1Z7Fc",
+                "cid": 482537419,
+                "cover": "http://i0.hdslb.com/bfs/archive/45150201d9b61a6a028678a972b2a9000a2b5037.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2872000,
+                "from": "bangumi",
+                "id": 467286,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep467286?theme=movie",
+                "long_title": "",
+                "pub_time": 1642665600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》王者对决谁能赢！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep467286",
+                "short_link": "https://b23.tv/ep467286",
+                "status": 13,
+                "subtitle": "已观看351万次",
+                "title": "后篇",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在冰帝学园，三年级生退下主线默默守护学弟们，以接任社长的日吉为中心，辅以同为二年级的凤与桦地的帮助一起管理冰帝网球社。就在这时，迹部财阀在香楠地区新建了一座网球场。为了举办网球场开幕的热身赛，迹部指名邀请了最适合作为对手的学校来参加――立海大附中。为了将这份全新的决心传承给肩负立海下一个世代大梁的切原等人，幸村决定接受迹部发出的挑战。在前一次大赛未能如愿对战的冰帝与立海，迎来国中时代最后一场比赛的三年级生，以及将要肩负未来的二年级生，一场众人各自的信念与心情交织的梦幻对决即将开始…",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236482/",
+        "media_id": 28236482,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2021年2月13日上映",
+            "id": 467286,
+            "is_new": 0,
+            "title": "后篇"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 64452,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-20 16:00:00",
+            "pub_time_show": "01月20日16:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 988,
+            "score": 9.3
+        },
+        "record": "10417010275302504\n10417010275322504",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40776,
+        "season_title": "新网球王子 冰帝 vs 立海 未来之战",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5f2c8dacce35a1e9b2046864b94cdb6057539b1c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5281,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/d6669e485ff4155f12db2cb98c1c3799cc83d245.jpg",
+                    "id": 105775,
+                    "index_show": "全178话"
+                },
+                "season_id": 5281,
+                "season_title": "TV(中文)",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 509781,
+                    "series_follow": 825191,
+                    "views": 47183465
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1baab77cfc1012b4fe63b111b07bb465bee6ec47.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3071924,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/287d63198a5ce3fa8293a3ff5488d21351e61cc1.jpg",
+                    "id": 254434,
+                    "index_show": "全1话"
+                },
+                "season_id": 5121,
+                "season_title": "剧场版1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 31438,
+                    "series_follow": 825191,
+                    "views": 899664
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7df28f3a15b814b7637a4b36799df267819df99e.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/53533b6408ec8b3b70a317cb06c0f8113e1808c8.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/fde8945a2cbb61b451e110c6a004406862312d50.png",
+                "media_id": 3083562,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6339ce2a3b4bc7a3a0e30a5612073d3b178ef5bc.jpg",
+                    "id": 254471,
+                    "index_show": "全1话"
+                },
+                "season_id": 5122,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 29718,
+                    "series_follow": 825191,
+                    "views": 684092
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5f2c8dacce35a1e9b2046864b94cdb6057539b1c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 33232,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/eff2a61c2c84a187aaa45b02e97ae3ed8d03497c.jpg",
+                    "id": 164615,
+                    "index_show": "全26话"
+                },
+                "season_id": 4934,
+                "season_title": "全国大赛篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 124689,
+                    "series_follow": 825191,
+                    "views": 10931740
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8ccdf3cb903dca3ae75d998c4066ff983e21355f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 73412,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/5d4ee55fd8e4e84440530ae6d37b641d06ec1ec5.jpg",
+                    "id": 197805,
+                    "index_show": "全4话"
+                },
+                "season_id": 23775,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 44397,
+                    "series_follow": 825191,
+                    "views": 1988163
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9a605b352d80b20f0d6179187c85fd61a9495295.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 10164120,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b6d3ace7930432a04332bfd46961f818284f6a50.jpg",
+                    "id": 260708,
+                    "index_show": "全4话"
+                },
+                "season_id": 26433,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 35094,
+                    "series_follow": 825191,
+                    "views": 1422518
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bc4636caa1f4c9ee29a4b9e2129762968e5b396b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4308962,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4749f4774299b3842f59e2ef50e25fce6da7f182.jpg",
+                    "id": 255272,
+                    "index_show": "全13话"
+                },
+                "season_id": 4625,
+                "season_title": "新网王",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 103244,
+                    "series_follow": 825191,
+                    "views": 5257530
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/516d996313737f848e3617d34a2f1358be6fe0fe.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4312882,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d447984855f3916de78ed8248753887bb791863f.jpg",
+                    "id": 257316,
+                    "index_show": "全7话"
+                },
+                "season_id": 4546,
+                "season_title": "新网王OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 52608,
+                    "series_follow": 825191,
+                    "views": 2868102
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e51af6488f464bdfc95d7a9e2e26748141d99d68.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2598,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f499c855ea4236afec87cd20c8ab174f1985e3a9.jpg",
+                    "id": 66711,
+                    "index_show": "全10话"
+                },
+                "season_id": 2598,
+                "season_title": "新网王OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 264703,
+                    "series_follow": 825191,
+                    "views": 13648593
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/accb0e8f590174b9537d6e5c306ddb42716a94a0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4314642,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2ccc9a59835cbce95d2db1c75b77f0f0fdab7042.jpg",
+                    "id": 258040,
+                    "index_show": "全1话"
+                },
+                "season_id": 26229,
+                "season_title": "剧场版3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 40650,
+                    "series_follow": 825191,
+                    "views": 1241795
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0707c332dd5f0547e8a340e509d6f0bc6c34dfa3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222933,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/84b5725ebcd72fd7ec283bd1387bda59c81bf3d7.jpg",
+                    "id": 312184,
+                    "index_show": "全3话"
+                },
+                "season_id": 28709,
+                "season_title": "重制版OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 90701,
+                    "series_follow": 825191,
+                    "views": 2440772
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d8c139ae487d6c5538fab5080c53752700afcd4f.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/78581c7dc656f3e6a704ddd90e4d8898f47da665.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/b9ee9dc9b8a25a80d3592e9e4ca6608e04b86074.png",
+                "media_id": 28236482,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/45150201d9b61a6a028678a972b2a9000a2b5037.png",
+                    "id": 467286,
+                    "index_show": "2021-02-13上映"
+                },
+                "season_id": 40776,
+                "season_title": "20周年纪念电影",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 725930,
+                    "series_follow": 825191,
+                    "views": 3510017
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 422945540,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1p3411e7hi",
+                        "cid": 477872848,
+                        "cover": "http://i0.hdslb.com/bfs/archive/5ce3308b8b488d47056a60431f904583b18b2779.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 62000,
+                        "from": "bangumi",
+                        "id": 457764,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep457764?theme=movie",
+                        "long_title": "动画开播20周年",
+                        "pub_time": 1641367200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》纪念PV 动画开播20周年",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep457764",
+                        "short_link": "https://b23.tv/ep457764",
+                        "stat": {
+                            "coin": 279,
+                            "danmakus": 225,
+                            "likes": 1262,
+                            "play": 178190,
+                            "reply": 233
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "纪念PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 64454,
+                "title": "预告花絮",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 216358734,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Aa411T7at",
+                        "cid": 784255590,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9827363a66cf48b68c54fccd00586cb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 654978,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep654978?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658803261,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 1 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep654978",
+                        "short_link": "https://b23.tv/ep654978",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 6,
+                            "likes": 1,
+                            "play": 910,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 301259726,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hF411P7Di",
+                        "cid": 784255179,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_8f77b6144505435d8c30470a83c6e9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 655248,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep655248?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658806159,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 2 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep655248",
+                        "short_link": "https://b23.tv/ep655248",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 485,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 604059654,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1j84y1z7gf",
+                        "cid": 859693916,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_27185b973f404b4a9aa6d968b5a49fb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 686936,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep686936?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1665568475,
+                        "pv": 0,
+                        "release_date": "2022-10-12",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 3 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep686936",
+                        "short_link": "https://b23.tv/ep686936",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 98,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 301283580,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1UF411P76H",
+                        "cid": 784257854,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_40b8672bbffe401c85e377c1832df3b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 654868,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep654868?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658796301,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 1 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep654868",
+                        "short_link": "https://b23.tv/ep654868",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 2,
+                            "likes": 0,
+                            "play": 449,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 813793053,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1JG4y1i7bC",
+                        "cid": 784257266,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_14f750739f844a398a836cc2ded7e1b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 655089,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep655089?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658804435,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 2 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep655089",
+                        "short_link": "https://b23.tv/ep655089",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 341,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 513782200,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Mg411f7x7",
+                        "cid": 784255580,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_e431a29d4f7640ff9c5b6f5285cef9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 655280,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep655280?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658806603,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 3 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep655280",
+                        "short_link": "https://b23.tv/ep655280",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 384,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 3",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 258870246,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV11a411U7yT",
+                        "cid": 784256362,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_72f5868c1d694015b393426d142932b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 655308,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep655308?theme=movie",
+                        "long_title": "新网球王子 冰帝 vs 立海 未来之战",
+                        "pub_time": 1658806920,
+                        "pv": 0,
+                        "release_date": "2022-07-26",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》精彩看点 4 新网球王子 冰帝 vs 立海 未来之战",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep655308",
+                        "short_link": "https://b23.tv/ep655308",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 406,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看351万次",
+                        "title": "精彩看点 4",
+                        "vid": ""
+                    }
+                ],
+                "id": 84359,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2905,
+            "series_title": "网球王子"
+        },
+        "share_copy": "《新网球王子 冰帝 vs 立海 未来之战》王者对决谁能赢！",
+        "share_sub_title": "王者对决谁能赢！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40776",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/22c6d5d7cdae35b1ead8fe774722aca87e716d84.png",
+        "stat": {
+            "coins": 10828,
+            "danmakus": 30602,
+            "favorite": 10202,
+            "favorites": 725930,
+            "likes": 35501,
+            "reply": 7229,
+            "share": 6251,
+            "views": 3510017
+        },
+        "status": 13,
+        "subtitle": "已观看351万次",
+        "title": "新网球王子 冰帝 vs 立海 未来之战",
+        "total": 2,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815759,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

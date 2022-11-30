@@ -1,0 +1,958 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png",
+        "episodes": [
+            {
+                "aid": 26273789,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os411H7wm",
+                "cid": 49075258,
+                "cover": "http://i0.hdslb.com/bfs/archive/7e6acb1b8e3aca266cd6975f8642b0f0cb102c14.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1419960,
+                "from": "bangumi",
+                "id": 232407,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232407",
+                "long_title": "Kill me... please.",
+                "pub_time": 1530882000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第1话 Kill me... please.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232407",
+                "short_link": "https://b23.tv/ep232407",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.2亿次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 26768045,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411J7Rq",
+                "cid": 46071911,
+                "cover": "http://i0.hdslb.com/bfs/archive/bc8ec6afe7459e02923a2f910fbf5376181bf8fc.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232408,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232408",
+                "long_title": "Your grave is not here",
+                "pub_time": 1531486800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第2话 Your grave is not here",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232408",
+                "short_link": "https://b23.tv/ep232408",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 112,
+                        "start": 23
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 27304543,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rs411N7A4",
+                "cid": 47079010,
+                "cover": "http://i0.hdslb.com/bfs/archive/40e5cec34480ea0efbecfc16672e5c944a75149b.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232409,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232409",
+                "long_title": "I swear to God",
+                "pub_time": 1532091600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第3话 I swear to God",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232409",
+                "short_link": "https://b23.tv/ep232409",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 210,
+                        "start": 120
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 27878479,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17s411A7qj",
+                "cid": 48144431,
+                "cover": "http://i0.hdslb.com/bfs/archive/50ef35c248483ba7c41e2b39d2b0787ca96ed224.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232410,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232410",
+                "long_title": "A sinner has no right of choice",
+                "pub_time": 1532696400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第4话 A sinner has no right of choice",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232410",
+                "short_link": "https://b23.tv/ep232410",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 193,
+                        "start": 102
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 28416873,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs411378Y",
+                "cid": 49163429,
+                "cover": "http://i0.hdslb.com/bfs/archive/00f8e842a0e1539d97b8f3f7bcb54ce4c7c149f7.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232411,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232411",
+                "long_title": "Don't let me kill you just yet",
+                "pub_time": 1533301200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第5话 Don't let me kill you just yet",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232411",
+                "short_link": "https://b23.tv/ep232411",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 163,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 29018933,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411u7AZ",
+                "cid": 50349775,
+                "cover": "http://i0.hdslb.com/bfs/archive/763d63d27d19d3997cd1704073c4c074e81b3b68.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232412,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232412",
+                "long_title": "Zack is the only one who can kill me",
+                "pub_time": 1533906006,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第6话 Zack is the only one who can kill me",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232412",
+                "short_link": "https://b23.tv/ep232412",
+                "skip": {
+                    "ed": {
+                        "end": 1293,
+                        "start": 1205
+                    },
+                    "op": {
+                        "end": 314,
+                        "start": 227
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 29595751,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MW411d7Tz",
+                "cid": 51479017,
+                "cover": "http://i0.hdslb.com/bfs/archive/133e9a4d45cd65977e8d8bcd7daaae23784d62c9.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232413,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232413",
+                "long_title": "Who are you?",
+                "pub_time": 1534510819,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第7话 Who are you?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232413",
+                "short_link": "https://b23.tv/ep232413",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 30189943,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TW411D734",
+                "cid": 52643694,
+                "cover": "http://i0.hdslb.com/bfs/archive/3e47c6f2e99831f86c168c06f39191aedac1ea2e.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232414,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232414",
+                "long_title": "Yeah...,I'm a monster.",
+                "pub_time": 1535115631,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第8话 Yeah...,I'm a monster.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232414",
+                "short_link": "https://b23.tv/ep232414",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 202,
+                        "start": 114
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 30789571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pW411f7Cq",
+                "cid": 53757722,
+                "cover": "http://i0.hdslb.com/bfs/archive/56953b27bf44aa00262e94e770793285f6304ef3.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232415,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232415",
+                "long_title": "There is no God in this world",
+                "pub_time": 1535720399,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第9话 There is no God in this world",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232415",
+                "short_link": "https://b23.tv/ep232415",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 338,
+                        "start": 249
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 31257884,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xW411d7Yi",
+                "cid": 54618041,
+                "cover": "http://i0.hdslb.com/bfs/archive/d34ec7b9edd6b1e45ea4bc3ccc9fdd24887dbdcb.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232416,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232416",
+                "long_title": "The witch trial shall start",
+                "pub_time": 1536325206,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第10话 The witch trial shall start",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232416",
+                "short_link": "https://b23.tv/ep232416",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 163,
+                        "start": 73
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 31692795,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WW411y7GP",
+                "cid": 55516949,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc8168878a24139d4ba88ec140b9bc11356ed08c.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232417,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232417",
+                "long_title": "'cause you are my God,Zack.",
+                "pub_time": 1536930000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第11话 'cause you are my God,Zack.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232417",
+                "short_link": "https://b23.tv/ep232417",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1282
+                    },
+                    "op": {
+                        "end": 231,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 32153510,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HW411r7jf",
+                "cid": 56265798,
+                "cover": "http://i0.hdslb.com/bfs/archive/bdb6232855e17117c9396c03652e6566fc470e77.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232418,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232418",
+                "long_title": "Try to know everything about Her.",
+                "pub_time": 1537534800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第12话 Try to know everything about Her.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232418",
+                "short_link": "https://b23.tv/ep232418",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 245,
+                        "start": 154
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 33157790,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HW4112797",
+                "cid": 58037159,
+                "cover": "http://i0.hdslb.com/bfs/archive/6aeca0e3c09161d2821c070756c2e0e48a30a5ab.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 232419,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep232419",
+                "long_title": "I'm not your God",
+                "pub_time": 1538751600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第13话 I'm not your God",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep232419",
+                "short_link": "https://b23.tv/ep232419",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 149,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 33663972,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ot411f7vo",
+                "cid": 58939776,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a52999b965cc264a2cf5839d6efb13997d46808.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 250991,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep250991",
+                "long_title": "Swear you will be killed by me.",
+                "pub_time": 1539356400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第14话 Swear you will be killed by me.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep250991",
+                "short_link": "https://b23.tv/ep250991",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 230,
+                        "start": 140
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "14",
+                "vid": ""
+            },
+            {
+                "aid": 34178543,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vt411o749",
+                "cid": 59873511,
+                "cover": "http://i0.hdslb.com/bfs/archive/feca5a8b1bfa9404959419a0f6ed50c29c016b86.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 250992,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep250992",
+                "long_title": "A vow cannot be stolen.",
+                "pub_time": 1539961200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第15话 A vow cannot be stolen.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep250992",
+                "short_link": "https://b23.tv/ep250992",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "15",
+                "vid": ""
+            },
+            {
+                "aid": 34651493,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fb411N7q5",
+                "cid": 60715415,
+                "cover": "http://i0.hdslb.com/bfs/archive/1a649445bec85df209dccc1350786878ed876492.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 250993,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep250993",
+                "long_title": "Stop crying and smile.",
+                "pub_time": 1540566000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Angels of Death》第16话 Stop crying and smile.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep250993",
+                "short_link": "https://b23.tv/ep250993",
+                "skip": {
+                    "ed": {
+                        "end": 1402,
+                        "start": 1217
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 40
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "16",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在一栋大楼最底层甦醒的13岁少女，瑞吉儿·加德纳(レイチェル・ガードナー)，她没有任何记忆，不知道自己为何在这里，而为了回到地面，她开始试着逃出去，但是突然在她面前出现了脸上缠满绷带的奇怪男子。\n两人之间的奇妙羁绊，随着那“荒诞的约定”而逐渐加深。这里究竟是什么地方？两人为何被禁锢于此？等待着两人的命运又是如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终是否能够坚守约定，并且安全地逃出这栋大楼呢？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md102792/",
+        "media_id": 102792,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全16话",
+            "id": 250993,
+            "is_new": 0,
+            "title": "16"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 34051,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-07-06 21:00:00",
+            "pub_time_show": "2018年07月06日21:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 64134,
+            "score": 9.5
+        },
+        "record": "登记号：10417060200563006",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 24625,
+        "season_title": "Angels of Death",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 102792,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1a649445bec85df209dccc1350786878ed876492.jpg",
+                    "id": 250993,
+                    "index_show": "全16话"
+                },
+                "season_id": 24625,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5204861,
+                    "series_follow": 5204861,
+                    "views": 124582383
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4054,
+            "series_title": "杀戮天使"
+        },
+        "share_copy": "《Angels of Death》始于B7的大楼生活",
+        "share_sub_title": "始于B7的大楼生活",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss24625",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ee9aadae812c4f509d0c7df49a5742653a5d4305.jpg",
+        "stat": {
+            "coins": 732578,
+            "danmakus": 3384628,
+            "favorite": 31449,
+            "favorites": 5204861,
+            "likes": 612712,
+            "reply": 267846,
+            "share": 116827,
+            "views": 124582383
+        },
+        "status": 13,
+        "subtitle": "已观看1.2亿次",
+        "title": "Angels of Death",
+        "total": 16,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

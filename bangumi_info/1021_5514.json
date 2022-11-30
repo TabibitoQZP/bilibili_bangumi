@@ -1,0 +1,836 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/0549ae837ee1ceed546f518d1452d4b797735a52.jpg",
+        "episodes": [
+            {
+                "aid": 6485824,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fs411b7Z3",
+                "cid": 11208727,
+                "cover": "http://i0.hdslb.com/bfs/archive/a9c383dd24152c36237c1e79c2f98f0f1023ccdb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96153,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96153",
+                "long_title": "风香·雷文顿",
+                "pub_time": 1475344800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第1话 风香·雷文顿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96153",
+                "short_link": "https://b23.tv/ep96153",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看742.5万次",
+                "title": "1",
+                "vid": "vupload_11208727"
+            },
+            {
+                "aid": 6598945,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41147TY",
+                "cid": 11226583,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e6453bf399b395f7ee09be91bf5f641170f4c416.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96154,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96154",
+                "long_title": "中岛队",
+                "pub_time": 1475949600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第2话 中岛队",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96154",
+                "short_link": "https://b23.tv/ep96154",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 42
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "2",
+                "vid": "vupload_11226583"
+            },
+            {
+                "aid": 6686261,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs41147tM",
+                "cid": 11226593,
+                "cover": "http://i0.hdslb.com/bfs/archive/4763bd59147087bec6c454d26b90b6891733a539.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96155,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96155",
+                "long_title": "挑战",
+                "pub_time": 1476554410,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第3话 挑战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96155",
+                "short_link": "https://b23.tv/ep96155",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 232,
+                        "start": 141
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "3",
+                "vid": "vupload_11226593"
+            },
+            {
+                "aid": 6777961,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms41147Cz",
+                "cid": 11226589,
+                "cover": "http://i0.hdslb.com/bfs/archive/7492b70f7049a10a6f3550cc9a1ae8c3861dae46.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96156,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96156",
+                "long_title": "凛音·贝利内塔",
+                "pub_time": 1477159211,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第4话 凛音·贝利内塔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96156",
+                "short_link": "https://b23.tv/ep96156",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1318
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 73
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "4",
+                "vid": "vupload_11226589"
+            },
+            {
+                "aid": 6876437,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411s73F",
+                "cid": 11203234,
+                "cover": "http://i0.hdslb.com/bfs/archive/cf677fe0d31a00dc3edffd07581bd85568980854.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96157,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96157",
+                "long_title": "飓风",
+                "pub_time": 1477764000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第5话 飓风",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96157",
+                "short_link": "https://b23.tv/ep96157",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 102,
+                        "start": 12
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "5",
+                "vid": "vupload_11203234"
+            },
+            {
+                "aid": 6971439,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411x7LK",
+                "cid": 11362253,
+                "cover": "http://i2.hdslb.com/bfs/archive/e7828c581e46e4b5f5ea919165b4e4ecd0f00e03.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96158,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96158",
+                "long_title": "冬季赛",
+                "pub_time": 1478368800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第6话 冬季赛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96158",
+                "short_link": "https://b23.tv/ep96158",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "6",
+                "vid": "vupload_11362253"
+            },
+            {
+                "aid": 7073348,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411x7rW",
+                "cid": 11533111,
+                "cover": "http://i1.hdslb.com/bfs/archive/d685af12753a01424f07abba09abe3d86a1ceb1c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96159,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96159",
+                "long_title": "高町薇薇欧",
+                "pub_time": 1478973600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第7话 高町薇薇欧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96159",
+                "short_link": "https://b23.tv/ep96159",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "7",
+                "vid": "vupload_11533111"
+            },
+            {
+                "aid": 7164047,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xs411W7vP",
+                "cid": 11687144,
+                "cover": "http://i1.hdslb.com/bfs/archive/a22aac95eaa58c06706f5a9a7169e03a2b298bbd.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96160,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96160",
+                "long_title": "胜者与败者",
+                "pub_time": 1479578400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第8话 胜者与败者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96160",
+                "short_link": "https://b23.tv/ep96160",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 109,
+                        "start": 18
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "8",
+                "vid": "vupload_11687144"
+            },
+            {
+                "aid": 7267831,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1os411W72z",
+                "cid": 11880776,
+                "cover": "http://i0.hdslb.com/bfs/archive/31f7a4bc7be3a0ae328b271a8ab86eee3af30430.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96161,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96161",
+                "long_title": "重逢",
+                "pub_time": 1480183200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第9话 重逢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96161",
+                "short_link": "https://b23.tv/ep96161",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "9",
+                "vid": "vupload_11880776"
+            },
+            {
+                "aid": 7371291,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1as411Y7vS",
+                "cid": 12050073,
+                "cover": "http://i0.hdslb.com/bfs/archive/367bda329962fd0591960f7d35ead770181736c3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96162,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96162",
+                "long_title": "雨",
+                "pub_time": 1480788000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第10话 雨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96162",
+                "short_link": "https://b23.tv/ep96162",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "10",
+                "vid": "vupload_12050073"
+            },
+            {
+                "aid": 7473672,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vs411e72B",
+                "cid": 12223082,
+                "cover": "http://i0.hdslb.com/bfs/archive/4bf98a655d44a37860b673345263b29197c32609.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96163,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96163",
+                "long_title": "全力一击",
+                "pub_time": 1481392800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第11话 全力一击",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96163",
+                "short_link": "https://b23.tv/ep96163",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1319
+                    },
+                    "op": {
+                        "end": 115,
+                        "start": 24
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "11",
+                "vid": "vupload_12223082"
+            },
+            {
+                "aid": 7574663,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11s411e7Jd",
+                "cid": 12403480,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ba2a95e1285d339030bb7b9a9733b84fd354cfe9.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 96164,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96164",
+                "long_title": "在紧牵着的手中",
+                "pub_time": 1481997600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《ViVid Strike!》第12话 在紧牵着的手中",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96164",
+                "short_link": "https://b23.tv/ep96164",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1318
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看742.5万次",
+                "title": "12",
+                "vid": "vupload_12403480"
+            }
+        ],
+        "evaluate": "在孤儿院生活的少女风香和凛音。从小一起长大宛如姐妹般的二个人虽然过着清贫的生活但是仍然梦想着光明的未来。但是，风香和凛音迎来的「再次的离别」改变了两人的命运——。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5514/",
+        "media_id": 5514,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 96164,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 22426,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-10-02 02:00:00",
+            "pub_time_show": "2016年10月02日02:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 882,
+            "score": 8.5
+        },
+        "record": "登记号：10417060203252109",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5514,
+        "season_title": "ViVid Strike!",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0fadcfc9316bd2526023e46c9ab8946ece1caec3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1535,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/78a1945a1764454f0daf136498416c7dfac0f4b1.jpg",
+                    "id": 28689,
+                    "index_show": "全13话"
+                },
+                "season_id": 1535,
+                "season_title": "无印",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 269279,
+                    "series_follow": 610155,
+                    "views": 2403906
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/32ddf0a6a1d5f1f932138639cb933be675ce26da.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1538,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/912a3e6a69bf8a7ae97c46789f9f401412bf03d8.jpg",
+                    "id": 63579,
+                    "index_show": "全12话"
+                },
+                "season_id": 1538,
+                "season_title": "ViVid",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 156339,
+                    "series_follow": 610155,
+                    "views": 6328707
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0549ae837ee1ceed546f518d1452d4b797735a52.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5514,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ba2a95e1285d339030bb7b9a9733b84fd354cfe9.png",
+                    "id": 96164,
+                    "index_show": "全12话"
+                },
+                "season_id": 5514,
+                "season_title": "ViVid Strike",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 357925,
+                    "series_follow": 610155,
+                    "views": 7425449
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/96f8bde386ca3e997caa669b019e2291fe48fd09.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3795,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/85ed2c14b8140577b60ba4116adc9ef1382a9b29.jpg",
+                    "id": 86542,
+                    "index_show": "全1话"
+                },
+                "season_id": 3795,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 59595,
+                    "series_follow": 610155,
+                    "views": 1270672
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1058,
+            "series_title": "魔法少女奈叶"
+        },
+        "share_copy": "《ViVid Strike!》燃爆的少女打拳番",
+        "share_sub_title": "燃爆的少女打拳番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5514",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b5a8419e2a7de067ff4ce615eba273c614a53b0b.jpg",
+        "stat": {
+            "coins": 17803,
+            "danmakus": 114567,
+            "favorite": 3359,
+            "favorites": 357925,
+            "likes": 18478,
+            "reply": 19414,
+            "share": 4865,
+            "views": 7425449
+        },
+        "status": 13,
+        "subtitle": "已观看742.5万次",
+        "title": "ViVid Strike!",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

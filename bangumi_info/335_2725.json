@@ -1,0 +1,886 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/902812752c6c021b7e8f75f30ea2d63db8d71d7e.jpg",
+        "episodes": [
+            {
+                "aid": 2993071,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s41127QG",
+                "cid": 10570014,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7ba37f33ca42385b5d9fde2883a0d928b762369d.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1467340,
+                "from": "bangumi",
+                "id": 70863,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70863",
+                "long_title": "Knave",
+                "pub_time": 1443811200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第1话 Knave",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70863",
+                "short_link": "https://b23.tv/ep70863",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看7458.7万次",
+                "title": "1",
+                "vid": "vupload_10570014"
+            },
+            {
+                "aid": 3034943,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s41127cC",
+                "cid": 10570016,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7f9fe94b672e9e3eca123c04002d7958c9294cbb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 71919,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep71919",
+                "long_title": "Kindness",
+                "pub_time": 1444419900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第2话 Kindness",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep71919",
+                "short_link": "https://b23.tv/ep71919",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 54
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "2",
+                "vid": "vupload_10570016"
+            },
+            {
+                "aid": 3067773,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ws41127yq",
+                "cid": 10570024,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86911d06783c1b5e3330bfe8cace64ff60a38ae5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1468000,
+                "from": "bangumi",
+                "id": 72686,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72686",
+                "long_title": "Kismet",
+                "pub_time": 1445021700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第3话 Kismet",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72686",
+                "short_link": "https://b23.tv/ep72686",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 295,
+                        "start": 205
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "3",
+                "vid": "vupload_10570024"
+            },
+            {
+                "aid": 3103996,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs41127x2",
+                "cid": 10570032,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7c003cafa4d769e2729ad649820aadefbe81aa71.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1468000,
+                "from": "bangumi",
+                "id": 75101,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75101",
+                "long_title": "Knot",
+                "pub_time": 1445625900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第4话 Knot",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75101",
+                "short_link": "https://b23.tv/ep75101",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "4",
+                "vid": "vupload_10570032"
+            },
+            {
+                "aid": 3140840,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12s41127We",
+                "cid": 10570035,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c69484f68c4aac77a9b41cc47467a2b2573ea07e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1468000,
+                "from": "bangumi",
+                "id": 76027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76027",
+                "long_title": "Ken",
+                "pub_time": 1446231300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第5话 Ken",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76027",
+                "short_link": "https://b23.tv/ep76027",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 209,
+                        "start": 119
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "5",
+                "vid": "vupload_10570035"
+            },
+            {
+                "aid": 3178082,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411d7KB",
+                "cid": 10570040,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4d05193413071a4ef62cb806c31faa4c09c49656.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 76682,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76682",
+                "long_title": "Keeper",
+                "pub_time": 1446835200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第6话 Keeper",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76682",
+                "short_link": "https://b23.tv/ep76682",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 293,
+                        "start": 202
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "6",
+                "vid": "vupload_10570040"
+            },
+            {
+                "aid": 3214518,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ps411d7BA",
+                "cid": 10570046,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cd11d357dc4570584bc3f8e73135c42c204f56fb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1453000,
+                "from": "bangumi",
+                "id": 77659,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77659",
+                "long_title": "Kick down",
+                "pub_time": 1447440300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第7话 Kick down",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77659",
+                "short_link": "https://b23.tv/ep77659",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 98
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "7",
+                "vid": "vupload_10570046"
+            },
+            {
+                "aid": 3250537,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1es411d7f9",
+                "cid": 10570051,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ee9e05a34170048938b6325d6d9ed0983f71da47.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1453000,
+                "from": "bangumi",
+                "id": 79185,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79185",
+                "long_title": "Kaput",
+                "pub_time": 1448044800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第8话 Kaput",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79185",
+                "short_link": "https://b23.tv/ep79185",
+                "skip": {
+                    "ed": {
+                        "end": 1395,
+                        "start": 1304
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "8",
+                "vid": "vupload_10570051"
+            },
+            {
+                "aid": 3289154,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms411d7re",
+                "cid": 10570054,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c0a452a7f39f4dabec2927832e80c43cfe37e10b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1453000,
+                "from": "bangumi",
+                "id": 79461,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79461",
+                "long_title": "kids room",
+                "pub_time": 1448649600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第9话 kids room",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79461",
+                "short_link": "https://b23.tv/ep79461",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 199,
+                        "start": 108
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "9",
+                "vid": "vupload_10570054"
+            },
+            {
+                "aid": 3327698,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Us411d7kX",
+                "cid": 10570056,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6fc9bd8763858fdb433c5b87a52994bc0e544eb9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 80534,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80534",
+                "long_title": "Keystone",
+                "pub_time": 1449254400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第10话 Keystone",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80534",
+                "short_link": "https://b23.tv/ep80534",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 267,
+                        "start": 176
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "10",
+                "vid": "vupload_10570056"
+            },
+            {
+                "aid": 3367059,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411o7PF",
+                "cid": 10570060,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/35f3bd01d0abca7490930b67bedecc28373c3dd3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 81314,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81314",
+                "long_title": "Kaliyuga",
+                "pub_time": 1449859200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第11话 Kaliyuga",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81314",
+                "short_link": "https://b23.tv/ep81314",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 236,
+                        "start": 146
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "11",
+                "vid": "vupload_10570060"
+            },
+            {
+                "aid": 3406582,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411o7YB",
+                "cid": 10570067,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3381c647f906195a8c435d534424c004f6f7608b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 81706,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81706",
+                "long_title": "Knuckle bump",
+                "pub_time": 1450464961,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第12话 Knuckle bump",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81706",
+                "short_link": "https://b23.tv/ep81706",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 267,
+                        "start": 176
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "12",
+                "vid": "vupload_10570067"
+            },
+            {
+                "aid": 3448981,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ds41197Ew",
+                "cid": 10570072,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e857ade0a816f3fa8a51fecc282239b309948f48.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 82118,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82118",
+                "long_title": "Kings",
+                "pub_time": 1451068260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《K RETURN OF KINGS》第13话 Kings",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82118",
+                "short_link": "https://b23.tv/ep82118",
+                "skip": {
+                    "ed": {
+                        "end": 1340,
+                        "start": 1253
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7458.7万次",
+                "title": "13",
+                "vid": "vupload_10570072"
+            }
+        ],
+        "evaluate": "在与现实有着微妙差异的现代日本，存在着七位拥有巨大异能之力的“王”。他们将自己的力量分给族人们，并与族人们共同组成王族。青色结晶的秩序、暴走的赤色之炎、白银的不变光辉、以及绿色分支的变革。持有各种属性的“王”们如今——\n率领青之王族“Scepter 4”的“青之王”宗像礼司担负着众多的重责。原本为“黄金之王”国常路大觉管理的御柱塔，以及诞生“王”的神秘圣遗物——德累斯顿石盘，如今也处在宗像礼司的管辖之下。此外，再加上杀死先代“赤之王”周防尊而产生的“弑王”的负担。\n另一方面，赤之王族“吠舞罗”的族人栉名安娜，经历绿之王族“jungle”发动的御柱塔袭击之后，作为新的“赤之王”而觉醒，与“吠舞罗”的同伴们再度结下强固的羁绊。\n此外，白银的族人NEKO和夜刀神狗朗坚信“白银之王”伊佐那社仍然存活，寻找着他的下落。\n但寻找“白银之王”的并不只有他们而已。“绿之王”比水流也在寻找——\n以活性化的“jungle”的行动为契机，“王”们的命运再度重合。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2725/",
+        "media_id": 2725,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 82118,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19738,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-02 02:40:00",
+            "pub_time_show": "2015年10月02日02:40",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6579,
+            "score": 9.3
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2725,
+        "season_title": "K RETURN OF KINGS",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2d8e0db5b60d2f2fa8dea5a1b3bcc5023bde69a2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 685,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f1399be54686ecedfccab2f65e5a408f875356b.jpg",
+                    "id": 82675,
+                    "index_show": "全13话"
+                },
+                "season_id": 685,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2402970,
+                    "series_follow": 3480630,
+                    "views": 32857810
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ff85b64a18556bb5c0a28a2168048f7cd3721ce3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2793,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e487d0b27832a17d2336e4b561d2a532654ab0b1.jpg",
+                    "id": 82677,
+                    "index_show": "全2话"
+                },
+                "season_id": 2793,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 558566,
+                    "series_follow": 3480630,
+                    "views": 9789917
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/902812752c6c021b7e8f75f30ea2d63db8d71d7e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2725,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e857ade0a816f3fa8a51fecc282239b309948f48.jpg",
+                    "id": 82118,
+                    "index_show": "全13话"
+                },
+                "season_id": 2725,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1684734,
+                    "series_follow": 3480630,
+                    "views": 74586561
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a1412083624cfcae7fb07ed4191710a0ac5ac31b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 113852,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7a7276ccffc8750dc8c8a83a8bb3acf6252685a7.jpg",
+                    "id": 261659,
+                    "index_show": "全13话"
+                },
+                "season_id": 24978,
+                "season_title": "新作剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 716528,
+                    "series_follow": 3480630,
+                    "views": 12362398
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 418,
+            "series_title": "K"
+        },
+        "share_copy": "《K RETURN OF KINGS》以剑制剑！",
+        "share_sub_title": "以剑制剑！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2725",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a8e948a13230041af98073c33dd7b769a2c344c9.jpg",
+        "stat": {
+            "coins": 150169,
+            "danmakus": 1198876,
+            "favorite": 5422,
+            "favorites": 1684734,
+            "likes": 64231,
+            "reply": 98299,
+            "share": 31325,
+            "views": 74586561
+        },
+        "status": 13,
+        "subtitle": "已观看7458.7万次",
+        "title": "K RETURN OF KINGS",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

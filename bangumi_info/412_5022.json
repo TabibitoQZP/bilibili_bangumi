@@ -1,0 +1,842 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/6e6a7524c42efb8061985f9fe1a0448e6913c3e2.jpg",
+        "episodes": [
+            {
+                "aid": 5188901,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os411v7LG",
+                "cid": 39999030,
+                "cover": "http://i0.hdslb.com/bfs/archive/fd2d585f6582b130324b481abb85d0cd3182ca9e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90829,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90829",
+                "long_title": "Prologue 灾厄的时代",
+                "pub_time": 1467556201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第1话 Prologue 灾厄的时代",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90829",
+                "short_link": "https://b23.tv/ep90829",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1240
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "1",
+                "vid": "vupload_11131569"
+            },
+            {
+                "aid": 5280292,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18s411y7UV",
+                "cid": 11131571,
+                "cover": "http://i0.hdslb.com/bfs/archive/9592fe00048597adce85fa8426e2900252ff8181.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90980,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90980",
+                "long_title": "天之都",
+                "pub_time": 1468161001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第2话 天之都",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90980",
+                "short_link": "https://b23.tv/ep90980",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 52
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "2",
+                "vid": "vupload_11131571"
+            },
+            {
+                "aid": 5375184,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fs411y7jU",
+                "cid": 11131612,
+                "cover": "http://i0.hdslb.com/bfs/archive/84b1abd1df92a3b89039c0a2f7a9740c6ccb896f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90981,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90981",
+                "long_title": "何方",
+                "pub_time": 1468765802,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第3话 何方",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90981",
+                "short_link": "https://b23.tv/ep90981",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "3",
+                "vid": "vupload_11131612"
+            },
+            {
+                "aid": 5475686,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bs41117cX",
+                "cid": 11131615,
+                "cover": "http://i2.hdslb.com/bfs/archive/c6919375f6ab9c66956beb143d198e1b117d13b2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90982,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90982",
+                "long_title": "圣剑祭",
+                "pub_time": 1469370602,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第4话 圣剑祭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90982",
+                "short_link": "https://b23.tv/ep90982",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1269
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 31
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "4",
+                "vid": "vupload_11131615"
+            },
+            {
+                "aid": 5584636,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hs411C7rJ",
+                "cid": 11131659,
+                "cover": "http://i1.hdslb.com/bfs/archive/85a2542317c390899366afac118b44017d27ebc1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90983,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90983",
+                "long_title": "导师的命运",
+                "pub_time": 1469975402,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第5话 导师的命运",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90983",
+                "short_link": "https://b23.tv/ep90983",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 192,
+                        "start": 102
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "5",
+                "vid": "vupload_11131659"
+            },
+            {
+                "aid": 5699516,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms411C7ML",
+                "cid": 11131663,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/831ef0439f4183ea36dc2ab8043c33625e880f5b.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 90984,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90984",
+                "long_title": "灾厄的开端",
+                "pub_time": 1470580200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第6话 灾厄的开端",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90984",
+                "short_link": "https://b23.tv/ep90984",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1279
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "6",
+                "vid": "vupload_11131663"
+            },
+            {
+                "aid": 5818508,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ks411r7AB",
+                "cid": 11131671,
+                "cover": "http://i2.hdslb.com/bfs/archive/5620d53811f6690f9153e832e83df39b856c67a9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 90985,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90985",
+                "long_title": "贝尔贝特·库劳",
+                "pub_time": 1471185010,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第7话 贝尔贝特·库劳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90985",
+                "short_link": "https://b23.tv/ep90985",
+                "skip": {
+                    "ed": {
+                        "end": 1370,
+                        "start": 1157
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "7",
+                "vid": "vupload_11131671"
+            },
+            {
+                "aid": 5939300,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18s411k7ZJ",
+                "cid": 11131674,
+                "cover": "http://i1.hdslb.com/bfs/archive/01ae829f8b6aa4c17eb0a2e6bff9d5807eefc6dc.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90986,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90986",
+                "long_title": "各自的思念",
+                "pub_time": 1471789810,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第8话 各自的思念",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90986",
+                "short_link": "https://b23.tv/ep90986",
+                "skip": {
+                    "ed": {
+                        "end": 1340,
+                        "start": 1250
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 42
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "8",
+                "vid": "vupload_11131674"
+            },
+            {
+                "aid": 6056710,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15s41167Ny",
+                "cid": 11131677,
+                "cover": "http://i1.hdslb.com/bfs/archive/360cb82e951e1742a142dd2e8e53bc133503ca25.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90987,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90987",
+                "long_title": "灵峰雷弗克",
+                "pub_time": 1472394610,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第9话 灵峰雷弗克",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90987",
+                "short_link": "https://b23.tv/ep90987",
+                "skip": {
+                    "ed": {
+                        "end": 1325,
+                        "start": 1235
+                    },
+                    "op": {
+                        "end": 203,
+                        "start": 114
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "9",
+                "vid": "vupload_11131677"
+            },
+            {
+                "aid": 6159680,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11s41167AB",
+                "cid": 11131680,
+                "cover": "http://i0.hdslb.com/bfs/archive/bf724d1e70d08db91480a356b9704365d46736a3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90988,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90988",
+                "long_title": "瘟疫之城",
+                "pub_time": 1472999409,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第10话 瘟疫之城",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90988",
+                "short_link": "https://b23.tv/ep90988",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1271
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 63
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "10",
+                "vid": "vupload_11131680"
+            },
+            {
+                "aid": 6243774,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411r7VA",
+                "cid": 11131681,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f618489eb69a46bbb7fb21e1336be05f0110a92.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90989,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90989",
+                "long_title": "艾丽莎·蒂芙达",
+                "pub_time": 1473604209,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第11话 艾丽莎·蒂芙达",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90989",
+                "short_link": "https://b23.tv/ep90989",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "11",
+                "vid": "vupload_11131681"
+            },
+            {
+                "aid": 6335248,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ws411t7HH",
+                "cid": 11131687,
+                "cover": "http://i1.hdslb.com/bfs/archive/706ed5edcd961666e88186b033eae61f080b0518.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 90990,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90990",
+                "long_title": "战争",
+                "pub_time": 1474209010,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第12话 战争",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90990",
+                "short_link": "https://b23.tv/ep90990",
+                "skip": {
+                    "ed": {
+                        "end": 1359,
+                        "start": 1270
+                    },
+                    "op": {
+                        "end": 153,
+                        "start": 64
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "12",
+                "vid": "vupload_11131687"
+            },
+            {
+                "aid": 6417040,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411t7Q3",
+                "cid": 11131688,
+                "cover": "http://i2.hdslb.com/bfs/archive/2f97e256b77d505c5c3a215821ef8cd395581aff.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 90991,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep90991",
+                "long_title": "灾祸的显主",
+                "pub_time": 1474813810,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说X》第13话 灾祸的显主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep90991",
+                "short_link": "https://b23.tv/ep90991",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1311
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3376.8万次",
+                "title": "13",
+                "vid": "vupload_11131688"
+            }
+        ],
+        "evaluate": "在人眼无法看见的灵性存在“天族”的围绕下，所扶养长大的人类青年──史雷。\n“过去，每位人类都能看见天族”坚信著这则传说的他，怀抱梦想，希望解开古代谜团，实现能让人与天族共存的世界。\n某天，有生以来初次来到人类城市的史雷，被牵连进奇妙的事件中，并因缘际会地拔出插在石头里的圣剑，而成为袚除世界各地灾厄的“导师”。\n他将这份重大使命铭记於心，并让人类与天族共存的梦想变得更加炙热——\n现在，导师将带著夥伴，往大冒险的旅途踏出一步。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5022/",
+        "media_id": 5022,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 90991,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 21945,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-07-03 22:30:00",
+            "pub_time_show": "2016年07月03日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2447,
+            "score": 8.4
+        },
+        "record": "登记号：10417060200162112",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5022,
+        "season_title": "热诚传说X",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6e6a7524c42efb8061985f9fe1a0448e6913c3e2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5022,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/2f97e256b77d505c5c3a215821ef8cd395581aff.jpg",
+                    "id": 90991,
+                    "index_show": "全13话"
+                },
+                "season_id": 5022,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1327518,
+                    "series_follow": 1564219,
+                    "views": 33768292
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ba5e1473bfae1c69956a51e1156e455ef5132a36.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5789,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/8ee3b122a345514189c1bbb314980fe863915f78.jpg",
+                    "id": 102950,
+                    "index_show": "全13话"
+                },
+                "season_id": 5789,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 628427,
+                    "series_follow": 1564219,
+                    "views": 14188303
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/be114160ae93cf2f608c009dab5dbd37ce459f8e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5939,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/6de2b1e2856eef1c5c843e17e95b9fde019fbd3e.jpg",
+                    "id": 102321,
+                    "index_show": "全1话"
+                },
+                "season_id": 5939,
+                "season_title": "TV Special",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 80173,
+                    "series_follow": 1564219,
+                    "views": 1278881
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2965,
+            "series_title": "热诚传说X"
+        },
+        "share_copy": "《热诚传说X》共存的梦想变得炽热",
+        "share_sub_title": "共存的梦想变得炽热",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5022",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/4273750b8d77dc89bf7700cf8998a75cc4385a81.jpg",
+        "stat": {
+            "coins": 69168,
+            "danmakus": 787470,
+            "favorite": 3132,
+            "favorites": 1327518,
+            "likes": 26619,
+            "reply": 72526,
+            "share": 21102,
+            "views": 33768292
+        },
+        "status": 2,
+        "subtitle": "已观看3376.8万次",
+        "title": "热诚传说X",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

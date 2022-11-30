@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/aa63146a22d33b8822455e2dc7a35710edb85aad.png",
+        "episodes": [
+            {
+                "aid": 40004959,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12t411x7m1",
+                "cid": 70264355,
+                "cover": "http://i0.hdslb.com/bfs/archive/123a10dc19ddef2f7aa22e917993f125eb1c2dfe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259928,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259928",
+                "long_title": "肢帘",
+                "pub_time": 1546696800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第1话 肢帘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259928",
+                "short_link": "https://b23.tv/ep259928",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 40578410,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ht411W7E8",
+                "cid": 71267819,
+                "cover": "http://i0.hdslb.com/bfs/archive/2191b5164939a38d332260329f6d3f46b82dd6da.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420137,
+                "from": "bangumi",
+                "id": 259929,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259929",
+                "long_title": "尾鸣",
+                "pub_time": 1547301600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第2话 尾鸣",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259929",
+                "short_link": "https://b23.tv/ep259929",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 20
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 41153525,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rt411a7fb",
+                "cid": 72282991,
+                "cover": "http://i0.hdslb.com/bfs/archive/1c4ae9639b1a47ec8034c0da35fb8e7e924f0572.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259930,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259930",
+                "long_title": "行拶",
+                "pub_time": 1547906400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第3话 行拶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259930",
+                "short_link": "https://b23.tv/ep259930",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 115,
+                        "start": 25
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 41782856,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ft411t78x",
+                "cid": 73361030,
+                "cover": "http://i0.hdslb.com/bfs/archive/129b1a5ca0d989666fc3398d5afb128b60290edf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259931,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259931",
+                "long_title": "臼舂",
+                "pub_time": 1548511200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第4话 臼舂",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259931",
+                "short_link": "https://b23.tv/ep259931",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 50
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 42462966,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13b411C7cW",
+                "cid": 74511937,
+                "cover": "http://i0.hdslb.com/bfs/archive/88f005f2ef277691743530724ddac5fb70debdfe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259932,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259932",
+                "long_title": "虎入",
+                "pub_time": 1549116000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第5话 虎入",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259932",
+                "short_link": "https://b23.tv/ep259932",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 225,
+                        "start": 135
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 43058772,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tb411S7cx",
+                "cid": 75499561,
+                "cover": "http://i0.hdslb.com/bfs/archive/373caec42563a47cf7d9000efb20ff11ccf2c6f9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259933,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259933",
+                "long_title": "光芽",
+                "pub_time": 1549720800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第6话 光芽",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259933",
+                "short_link": "https://b23.tv/ep259933",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 90
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 43786950,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1mb411y7tL",
+                "cid": 76714620,
+                "cover": "http://i0.hdslb.com/bfs/archive/e3d52c5c57bbd400d5d520bb01f05242c7f548e0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259934,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259934",
+                "long_title": "横好",
+                "pub_time": 1550325600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第7话 横好",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259934",
+                "short_link": "https://b23.tv/ep259934",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 44501898,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Eb411a7re",
+                "cid": 77911289,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc1e5ac0f813a43998f3a76c1e5a940a09e64b89.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259935,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259935",
+                "long_title": "脱罗",
+                "pub_time": 1550930400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第8话 脱罗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259935",
+                "short_link": "https://b23.tv/ep259935",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 179,
+                        "start": 89
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 45154634,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hb411B7SR",
+                "cid": 79072705,
+                "cover": "http://i0.hdslb.com/bfs/archive/ca49071e41c0dd772c830dbe398dd04a9813c910.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259936,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259936",
+                "long_title": "荣影",
+                "pub_time": 1551535200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第9话 荣影",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259936",
+                "short_link": "https://b23.tv/ep259936",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 223,
+                        "start": 133
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 45808391,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ub411i7YY",
+                "cid": 80271780,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9f833175c1a080ed54a6709d4f65e2f8b9fbce.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259937,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259937",
+                "long_title": "黑遣",
+                "pub_time": 1552140000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第10话 黑遣",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259937",
+                "short_link": "https://b23.tv/ep259937",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 54
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 46470889,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rb411J715",
+                "cid": 81417571,
+                "cover": "http://i0.hdslb.com/bfs/archive/cb87541ca3ab7fcdfe5565519a2da4fad02dcc25.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259938,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259938",
+                "long_title": "归居",
+                "pub_time": 1552744800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第11话 归居",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259938",
+                "short_link": "https://b23.tv/ep259938",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 81
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 47131535,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rb41177Qq",
+                "cid": 82545013,
+                "cover": "http://i0.hdslb.com/bfs/archive/2168f27b03dc37b26bba437b39885eadcbf866a0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259939,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259939",
+                "long_title": "上蜘",
+                "pub_time": 1553349600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第12话 上蜘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259939",
+                "short_link": "https://b23.tv/ep259939",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 40
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 47795360,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sb411W7kx",
+                "cid": 83721686,
+                "cover": "http://i0.hdslb.com/bfs/archive/6f0c3e92b9ba3a2924ad7d4098ffc8a0ce6e1b2e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 259940,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep259940",
+                "long_title": "翻宁",
+                "pub_time": 1553954400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《不愉快的怪物庵 续》第13话 翻宁",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep259940",
+                "short_link": "https://b23.tv/ep259940",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 198,
+                        "start": 108
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1683.6万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "所谓的“除妖”，即是把由于某些缘由而从原本应在的“隐世”来到“现世”停留的妖怪们送回“隐世”这一工作。某天，被妖怪附体的高中生·芦屋花绘，依靠偶然发现的联络方式，来到了除妖的店“物怪庵”。在那里的是一脸不高兴的店主·安倍晴斋。由于某些缘故，芦屋就这样以物怪庵奉公人的身份开始工作……。安倍与芦屋的除妖组合和妖怪们的物语就此开幕。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5267026/",
+        "media_id": 5267026,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 259940,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 35709,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-01-05 22:00:00",
+            "pub_time_show": "2019年01月05日22:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 4762,
+            "score": 9.6
+        },
+        "record": "登记号：10417060200612612",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26300,
+        "season_title": "不愉快的怪物庵 续",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/341f089d6e7ab83d86d13e324b87db4d4adea295.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8061448,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6e7c52ac34e69228c1328d1aa3b071d7a3eb7b5b.jpg",
+                    "id": 260693,
+                    "index_show": "全13话"
+                },
+                "season_id": 5678,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 805443,
+                    "series_follow": 1104176,
+                    "views": 14039520
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/aa63146a22d33b8822455e2dc7a35710edb85aad.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5267026,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6f0c3e92b9ba3a2924ad7d4098ffc8a0ce6e1b2e.jpg",
+                    "id": 259940,
+                    "index_show": "全13话"
+                },
+                "season_id": 26300,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 647891,
+                    "series_follow": 1104176,
+                    "views": 16836357
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2959,
+            "series_title": "不愉快的妖怪庵"
+        },
+        "share_copy": "《不愉快的怪物庵 续》双人的除妖工作",
+        "share_sub_title": "双人的除妖工作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26300",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/0bfd1f2dba1c2dbdc27896d118a67e1ae4258aca.png",
+        "stat": {
+            "coins": 54237,
+            "danmakus": 143115,
+            "favorite": 5976,
+            "favorites": 647891,
+            "likes": 86254,
+            "reply": 17286,
+            "share": 4243,
+            "views": 16836357
+        },
+        "status": 2,
+        "subtitle": "已观看1683.6万次",
+        "title": "不愉快的怪物庵 续",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

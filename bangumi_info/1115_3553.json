@@ -1,0 +1,242 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/f2a495150e957064cf38621172757d04163ea57a.jpg",
+        "episodes": [
+            {
+                "aid": 446069,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sx411F7dv",
+                "cid": 702099,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3c9ccbcdd7603356f9912b6199e4eac248c526d6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1595000,
+                "from": "bangumi",
+                "id": 85879,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85879",
+                "long_title": "幻想嘉年华 Special Season（EX02）",
+                "pub_time": 1460277720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《幻想嘉年华 Special Season》第1话 幻想嘉年华 Special Season（EX02）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85879",
+                "short_link": "https://b23.tv/ep85879",
+                "skip": {
+                    "ed": {
+                        "end": 1595,
+                        "start": 1588
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看572.1万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "两位咖啡厅店员桂木千键与日比乃响的小故事，以及志贵与士郎选择约会路线的后日谈。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3553/",
+        "media_id": 3553,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 85879,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20451,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-01-16 00:00:01",
+            "pub_time_show": "2013年1月16日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1890,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3553,
+        "season_title": "幻想嘉年华 Special Season",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/db9e9aad429724c83b2e3668ea0ba84838b4b77b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1732,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/67f7d5d75e9acd891d2a4641fa17a6869458c5b8.jpg",
+                    "id": 32347,
+                    "index_show": "全12话"
+                },
+                "season_id": 1732,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1360177,
+                    "series_follow": 1414438,
+                    "views": 32533858
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b13f7e615fb4f1f492236c28802cc6b7ff264a99.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3552,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/d72b339bb8d430a1daab11216a7ea9e2d5205c70.jpg",
+                    "id": 85878,
+                    "index_show": "全1话"
+                },
+                "season_id": 3552,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 268661,
+                    "series_follow": 1414438,
+                    "views": 5291074
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f2a495150e957064cf38621172757d04163ea57a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3553,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3c9ccbcdd7603356f9912b6199e4eac248c526d6.jpg",
+                    "id": 85879,
+                    "index_show": "全1话"
+                },
+                "season_id": 3553,
+                "season_title": "OVA3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 292711,
+                    "series_follow": 1414438,
+                    "views": 5721213
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1156,
+            "series_title": "幻想嘉年华"
+        },
+        "share_copy": "《幻想嘉年华 Special Season》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3553",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/f8c7e9a25e525850866c91bfaf559bb63bc95451.jpg",
+        "stat": {
+            "coins": 12202,
+            "danmakus": 63663,
+            "favorite": 1339,
+            "favorites": 292711,
+            "likes": 19328,
+            "reply": 3141,
+            "share": 1678,
+            "views": 5721213
+        },
+        "status": 2,
+        "subtitle": "已观看572.1万次",
+        "title": "幻想嘉年华 Special Season",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

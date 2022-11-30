@@ -1,0 +1,866 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7f5889f75d29435ab09c78de97fa52c776bf4fe0.jpg",
+        "episodes": [
+            {
+                "aid": 6538613,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411b7B1",
+                "cid": 10637421,
+                "cover": "http://i0.hdslb.com/bfs/archive/ad319df4dafd47755107cc02d1aaa37076358fc0.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1072434,
+                "from": "bangumi",
+                "id": 96692,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96692",
+                "long_title": "放送前特番",
+                "pub_time": 1475595000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》SP 放送前特番",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96692",
+                "short_link": "https://b23.tv/ep96692",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "SP",
+                "vid": "vupload_10637421"
+            },
+            {
+                "aid": 6538010,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV17s411b7Ke",
+                "cid": 10994579,
+                "cover": "http://i1.hdslb.com/bfs/archive/b8094c4b9654cf0f4c0577793ce99b8d1571073e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96297,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96297",
+                "long_title": "我被神灵附体了",
+                "pub_time": 1475595010,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第1话 我被神灵附体了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96297",
+                "short_link": "https://b23.tv/ep96297",
+                "skip": {
+                    "ed": {
+                        "end": 1391,
+                        "start": 1301
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "1",
+                "vid": "vupload_10994579"
+            },
+            {
+                "aid": 6638994,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41147pu",
+                "cid": 10993512,
+                "cover": "http://i0.hdslb.com/bfs/archive/53c94fa340b6f64118eeb6dc45bafeaf26f023a9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96298,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96298",
+                "long_title": "穿上神装",
+                "pub_time": 1476199810,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第2话 穿上神装",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96298",
+                "short_link": "https://b23.tv/ep96298",
+                "skip": {
+                    "ed": {
+                        "end": 1345,
+                        "start": 1255
+                    },
+                    "op": {
+                        "end": 221,
+                        "start": 130
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "2",
+                "vid": "vupload_10993512"
+            },
+            {
+                "aid": 6731566,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ys41147d8",
+                "cid": 10960633,
+                "cover": "http://i2.hdslb.com/bfs/archive/deff63c8a9f394a7de8c9f551bcf6e3eb6812779.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 96299,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96299",
+                "long_title": "神明只当不知道",
+                "pub_time": 1476804610,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第3话 神明只当不知道",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96299",
+                "short_link": "https://b23.tv/ep96299",
+                "skip": {
+                    "ed": {
+                        "end": 1403,
+                        "start": 1312
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 93
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "3",
+                "vid": "vupload_10960633"
+            },
+            {
+                "aid": 6826527,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1as411s7rs",
+                "cid": 11120091,
+                "cover": "http://i0.hdslb.com/bfs/archive/c392ed7c4c539bd0c8ab48571cfaafd707233bc6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96300,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96300",
+                "long_title": "她的觉悟与我的理由",
+                "pub_time": 1477409409,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第4话 她的觉悟与我的理由",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96300",
+                "short_link": "https://b23.tv/ep96300",
+                "skip": {
+                    "ed": {
+                        "end": 1435,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 159,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "4",
+                "vid": "vupload_11120091"
+            },
+            {
+                "aid": 6921032,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cs411x71L",
+                "cid": 11277697,
+                "cover": "http://i1.hdslb.com/bfs/archive/0f0abb1de6a70667633af201dbc960391972afea.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96301,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96301",
+                "long_title": "特别的日常",
+                "pub_time": 1478014209,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第5话 特别的日常",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96301",
+                "short_link": "https://b23.tv/ep96301",
+                "skip": {
+                    "ed": {
+                        "end": 1434,
+                        "start": 1343
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 60
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "5",
+                "vid": "vupload_11277697"
+            },
+            {
+                "aid": 7018561,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hs411x71w",
+                "cid": 11442267,
+                "cover": "http://i0.hdslb.com/bfs/archive/af709fdc8724e7d33d4b909f13b92cc9db2b0637.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96302,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96302",
+                "long_title": "对不起",
+                "pub_time": 1478619009,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第6话 对不起",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96302",
+                "short_link": "https://b23.tv/ep96302",
+                "skip": {
+                    "ed": {
+                        "end": 1435,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 72
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "6",
+                "vid": "vupload_11442267"
+            },
+            {
+                "aid": 7114938,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ns411W7kU",
+                "cid": 11603696,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/33e6a79ed956a9809be0dffa448e1c6ea6ef00c7.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96303,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96303",
+                "long_title": "大海与温泉 再来点恶灵",
+                "pub_time": 1479223800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第7话 大海与温泉 再来点恶灵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96303",
+                "short_link": "https://b23.tv/ep96303",
+                "skip": {
+                    "ed": {
+                        "end": 1435,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 156,
+                        "start": 66
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "7",
+                "vid": "vupload_11603696"
+            },
+            {
+                "aid": 7213541,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411W7Fh",
+                "cid": 11794142,
+                "cover": "http://i0.hdslb.com/bfs/archive/63e4841fd36d61bd6bbc67d60d39a58fb6dc8bdb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96304,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96304",
+                "long_title": "小小的愿望",
+                "pub_time": 1479828609,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第8话 小小的愿望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96304",
+                "short_link": "https://b23.tv/ep96304",
+                "skip": {
+                    "ed": {
+                        "end": 1392,
+                        "start": 1302
+                    },
+                    "op": {
+                        "end": 130,
+                        "start": 40
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "8",
+                "vid": "vupload_11794142"
+            },
+            {
+                "aid": 7311850,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hs411s7V3",
+                "cid": 11952371,
+                "cover": "http://i1.hdslb.com/bfs/archive/d1e7f30daf63b6af18d9fe2f750671e0f5234104.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 96305,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96305",
+                "long_title": "谢谢",
+                "pub_time": 1480433409,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第9话 谢谢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96305",
+                "short_link": "https://b23.tv/ep96305",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 172,
+                        "start": 82
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "9",
+                "vid": "vupload_11952371"
+            },
+            {
+                "aid": 7414675,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1os411Y7pj",
+                "cid": 12122505,
+                "cover": "http://i2.hdslb.com/bfs/archive/6cb4d3863dc109009a2692586b30bd546c391282.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 96306,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96306",
+                "long_title": "打开的门",
+                "pub_time": 1481038209,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第10话 打开的门",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96306",
+                "short_link": "https://b23.tv/ep96306",
+                "skip": {
+                    "ed": {
+                        "end": 1435,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 35
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "10",
+                "vid": "vupload_12122505"
+            },
+            {
+                "aid": 7516036,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xs411e7ri",
+                "cid": 12294425,
+                "cover": "http://i1.hdslb.com/bfs/archive/5f43d2242678e7f5fecba77ee53a3d044bf4188c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 96307,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96307",
+                "long_title": "我走了",
+                "pub_time": 1481643009,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第11话 我走了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96307",
+                "short_link": "https://b23.tv/ep96307",
+                "skip": {
+                    "ed": {
+                        "end": 1394,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "11",
+                "vid": "vupload_12294425"
+            },
+            {
+                "aid": 7619575,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ms411a7zs",
+                "cid": 12480419,
+                "cover": "http://i2.hdslb.com/bfs/archive/b77fe6c4ad53bf2aa3f0446f2245c21e49639473.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1450287,
+                "from": "bangumi",
+                "id": 96308,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep96308",
+                "long_title": "平凡最棒",
+                "pub_time": 1482247800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》第12话 平凡最棒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep96308",
+                "short_link": "https://b23.tv/ep96308",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "12",
+                "vid": "vupload_12480419"
+            },
+            {
+                "aid": 7726815,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV16s411a7Rm",
+                "cid": 12665539,
+                "cover": "http://i0.hdslb.com/bfs/archive/4757f033b30d4d40706925defda38d7e8014e413.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 98540,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep98540",
+                "long_title": "总集篇",
+                "pub_time": 1482852609,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《神装少女小缠》SP2 总集篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep98540",
+                "short_link": "https://b23.tv/ep98540",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 85
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看768.9万次",
+                "title": "SP2",
+                "vid": "vupload_12665539"
+            }
+        ],
+        "evaluate": "公元2016年——。\n在釜谷市的天万神社做着巫女工作的初中2年生，皇缠。\n自幼与母亲分别的她，长年被寄养在祖父母的家中，从三个月前开始终于和父亲伸吾一起生活。也许是因为有过这种境遇的缘故，缠向往着平凡而安稳的日常。\n缠的好友、同时也是工作伙伴的草薙由麻，是出生于天万神社神主一族的次期巫女候补。她知道一族先祖代代都在进行驱除恶灵的“退魔行”，并邀请缠前去挑战“退魔行”的仪式“神悬之仪”。\n放学后，一如往常前往神社的两人，却在被毁坏的神社境内遇到了受伤倒地的由麻父母。不止如此，身为刑警的伸吾正在搜查中的诡异事件的重要参考人，似乎神智不正常的男人也在那里。为了压制狂暴的男人，由麻立即执行了“神悬之仪”，但发生异变的却并不是由麻——。\n追求平凡普通生活的少女所得到的，是被神明附身的驱除恶灵的能力！？\n皇缠，为了取回无人妨碍的平稳日常，努力地展开退魔活动！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5552/",
+        "media_id": 5552,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 98540,
+            "is_new": 0,
+            "title": "SP2"
+        },
+        "positive": {
+            "id": 22379,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-10-04 23:30:00",
+            "pub_time_show": "2016年10月04日23:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 970,
+            "score": 8.7
+        },
+        "record": "登记号：10417060216022209",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5552,
+        "season_title": "神装少女小缠",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7f5889f75d29435ab09c78de97fa52c776bf4fe0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5552,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4757f033b30d4d40706925defda38d7e8014e413.jpg",
+                    "id": 98540,
+                    "index_show": "全12话"
+                },
+                "season_id": 5552,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 359315,
+                    "series_follow": 362797,
+                    "views": 7689138
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7dbbd51391f1c4b3b1348c273445f01d1c2640b8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6083,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/b84fd171c4fec52fd548720ad515eb5b48523601.jpg",
+                    "id": 104926,
+                    "index_show": "全1话"
+                },
+                "season_id": 6083,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 23635,
+                    "series_follow": 362797,
+                    "views": 271165
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3335,
+            "series_title": "神装少女小缠"
+        },
+        "share_copy": "《神装少女小缠》神明版魔法少女佳作",
+        "share_sub_title": "神明版魔法少女佳作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5552",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/30783455d0da859e60454783953f2b8f5d3a6944.jpg",
+        "stat": {
+            "coins": 17342,
+            "danmakus": 120920,
+            "favorite": 3922,
+            "favorites": 359315,
+            "likes": 23904,
+            "reply": 14191,
+            "share": 3148,
+            "views": 7689138
+        },
+        "status": 2,
+        "subtitle": "已观看768.9万次",
+        "title": "神装少女小缠",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/b874a41f24f7d89bc9e7b80aeaec73b0d7f640c5.jpg",
+        "episodes": [
+            {
+                "aid": 5582810,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Js411C7du",
+                "cid": 9067302,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ca9cadafd5b429edd94f7825700d4023e0345a25.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 4939000,
+                "from": "bangumi",
+                "id": 94255,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep94255?theme=movie",
+                "long_title": "Infinite Burst",
+                "pub_time": 1469980801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《加速世界 Infinite Burst》全片 Infinite Burst",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep94255",
+                "short_link": "https://b23.tv/ep94255",
+                "skip": {
+                    "ed": {
+                        "end": 4936,
+                        "start": 4836
+                    },
+                    "op": {
+                        "end": 33,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看471.7万次",
+                "title": "全片",
+                "vid": "vupload_9067302"
+            }
+        ],
+        "evaluate": "故事发生在人人都使用名为“Neural Linker（神经连结装置）”的终端设备连线，生活的大半时间都建构在网络世界的不远未来。因为身材肥胖而受到欺凌的学生有田春雪，过着一边诅咒现实，一边躲在校内网络一角提升自己壁球游戏的分数最高纪录的日子。某天，美丽的副学生会长黑雪公主突然出现在他的面前，留下了谜一般的话语：“少年…想不想“加速”到更快的境界？”",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5076/",
+        "media_id": 5076,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 94255,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 22150,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-07-23 00:00:01",
+            "pub_time_show": "2016年7月23日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1219,
+            "score": 8.7
+        },
+        "record": "登记号：10417060203592206",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5076,
+        "season_title": "加速世界 Infinite Burst",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/1ec94c38346b1d36475e2f34e5fe17a0e12ce912.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 686,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/cf9464fd48e8aaf24975b5b1ba1a95cecfae1f25.jpg",
+                    "id": 62728,
+                    "index_show": "全24话"
+                },
+                "season_id": 686,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1199270,
+                    "series_follow": 1350171,
+                    "views": 25010950
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/8f8936e0a6ac5f18116fceee310d668559d9b7e3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3487,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/49300c6686536979b1f6ad698f73dcb85d398eb7.jpg",
+                    "id": 85419,
+                    "index_show": "全1话"
+                },
+                "season_id": 3487,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 102808,
+                    "series_follow": 1350171,
+                    "views": 1722965
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/441a9c0584d137921959e95394f79e957d570310.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3488,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f484945b4857da29edcbb4ca44cd6289c3ebf34.jpg",
+                    "id": 85420,
+                    "index_show": "全1话"
+                },
+                "season_id": 3488,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 84800,
+                    "series_follow": 1350171,
+                    "views": 1692702
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b874a41f24f7d89bc9e7b80aeaec73b0d7f640c5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5076,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ca9cadafd5b429edd94f7825700d4023e0345a25.png",
+                    "id": 94255,
+                    "index_show": "全1话"
+                },
+                "season_id": 5076,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 288151,
+                    "series_follow": 1350171,
+                    "views": 4716596
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3e4914ed0078fc75bee8826acba5408ba2d44ec8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4447,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/9c2c75f85ecb82448f17e308cce0d053b9f9f283.jpg",
+                    "id": 102377,
+                    "index_show": "全8话"
+                },
+                "season_id": 4447,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 43125,
+                    "series_follow": 1350171,
+                    "views": 1366754
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 419,
+            "series_title": "加速世界"
+        },
+        "share_copy": "《加速世界 Infinite Burst》加速到更快的境界吧",
+        "share_sub_title": "加速到更快的境界吧",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5076",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/8e618c203cff18b3a6e8ef853ec3c47e514e79b8.jpg",
+        "stat": {
+            "coins": 14412,
+            "danmakus": 133096,
+            "favorite": 526,
+            "favorites": 288151,
+            "likes": 6785,
+            "reply": 13895,
+            "share": 7437,
+            "views": 4716596
+        },
+        "status": 13,
+        "subtitle": "已观看471.7万次",
+        "title": "加速世界 Infinite Burst",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

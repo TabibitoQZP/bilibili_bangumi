@@ -1,0 +1,260 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/03f4fbcb9f712f52ff61f68fe6a345abf47c555a.png",
+        "episodes": [
+            {
+                "aid": 44802544,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13b411h7pX",
+                "cid": 78434035,
+                "cover": "http://i0.hdslb.com/bfs/archive/2592fed2e4aeddf035ee432703771cb523e95267.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 4270000,
+                "from": "bangumi",
+                "id": 262782,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep262782?theme=movie",
+                "long_title": "",
+                "pub_time": 1551229200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剧场版 悠哉日常大王 Vacation》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep262782",
+                "short_link": "https://b23.tv/ep262782",
+                "skip": {
+                    "ed": {
+                        "end": 4269,
+                        "start": 3923
+                    },
+                    "op": {
+                        "end": 24,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看329万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "「旭丘分校」的学生有五人。\n虽然不论是学年还是性格都不同，但总是一年四季彼此一同享受着乡村生活。\n某天，在百货公司的抽奖抽中了特等奖——去冲绳的旅行券。\n这也让众人决定，利用暑假期间一同前往冲绳去旅行。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md16899731/",
+        "media_id": 16899731,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 262782,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 36115,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-02-27 09:00:00",
+            "pub_time_show": "2019年02月27日09:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 12625,
+            "score": 9.9
+        },
+        "record": "登记号：10417060205112312",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26632,
+        "season_title": "剧场版 悠哉日常大王 Vacation",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ed51c399e68e23338f04916e41beceab7b658f70.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5567,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/f4a0e22114ff4b46da8447edf044ea698987abdd.png",
+                    "id": 96005,
+                    "index_show": "全1话"
+                },
+                "season_id": 5567,
+                "season_title": "OAD2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 489707,
+                    "series_follow": 1835557,
+                    "views": 4774049
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/03f4fbcb9f712f52ff61f68fe6a345abf47c555a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 16899731,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2592fed2e4aeddf035ee432703771cb523e95267.jpg",
+                    "id": 262782,
+                    "index_show": "全1话"
+                },
+                "season_id": 26632,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 405153,
+                    "series_follow": 1835557,
+                    "views": 3290232
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3ec497853b0045ee7099d1e4d4a00552ea3aa12a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231846,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/932153196715b8a60f65991d0e6b00d62df4c1f8.jpg",
+                    "id": 374728,
+                    "index_show": "全12话"
+                },
+                "season_id": 36204,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1770143,
+                    "series_follow": 1835557,
+                    "views": 22234492
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1780,
+            "series_title": "悠哉日常大王"
+        },
+        "share_copy": "《剧场版 悠哉日常大王 Vacation》喵帕斯~",
+        "share_sub_title": "喵帕斯~",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26632",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/6d43612ce881cad7623b40f2ce93d4e74db8fc2b.jpg",
+        "stat": {
+            "coins": 61722,
+            "danmakus": 65643,
+            "favorite": 2177,
+            "favorites": 405153,
+            "likes": 33153,
+            "reply": 9702,
+            "share": 6935,
+            "views": 3290232
+        },
+        "status": 13,
+        "subtitle": "已观看329万次",
+        "title": "剧场版 悠哉日常大王 Vacation",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

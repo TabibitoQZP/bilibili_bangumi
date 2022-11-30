@@ -1,0 +1,862 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/e5e7edcb4f17cfd1ba4cd233a12f514862bf1c94.jpg",
+        "episodes": [
+            {
+                "aid": 6283636,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss411r7C3",
+                "cid": 229729162,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4e9dcc7a5f1b086bfb78fedd29851cb557a0b2ff.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 95840,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95840",
+                "long_title": "一眼就看穿了这不寻常的软绵绵",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第1话 一眼就看穿了这不寻常的软绵绵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95840",
+                "short_link": "https://b23.tv/ep95840",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 232,
+                        "start": 132
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2481.5万次",
+                "title": "1",
+                "vid": "vupload_10209846"
+            },
+            {
+                "aid": 976865537,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1L44y1Y7nd",
+                "cid": 229729337,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f84fd9f4f4b0887487afbec95694dcf88ab038fb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 95841,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95841",
+                "long_title": "深爱着小麦的少女和被红豆眷顾的少女",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第2话 深爱着小麦的少女和被红豆眷顾的少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95841",
+                "short_link": "https://b23.tv/ep95841",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 149,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "2",
+                "vid": "vupload_10209847"
+            },
+            {
+                "aid": 721843746,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wS4y1R7Fu",
+                "cid": 229729688,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/19cd160c79af0e23b0577b0c17615395d6c7bb68.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 95842,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95842",
+                "long_title": "你还记得第一次喝醉时的事情吗？",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第3话 你还记得第一次喝醉时的事情吗？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95842",
+                "short_link": "https://b23.tv/ep95842",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "3",
+                "vid": "vupload_10209848"
+            },
+            {
+                "aid": 976872363,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1E44y1Y7hb",
+                "cid": 229729870,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/65cc7cc2a8b0990151e14655cfe4cc4ef245e948.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 95843,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95843",
+                "long_title": "幸运道具是蔬菜与罪与罚",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第4话 幸运道具是蔬菜与罪与罚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95843",
+                "short_link": "https://b23.tv/ep95843",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 82
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "4",
+                "vid": "vupload_10209849"
+            },
+            {
+                "aid": 464330253,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NL411M7VF",
+                "cid": 229730058,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1325b6c210ef56abdf8be47408491c215fa4b74e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 95844,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95844",
+                "long_title": "心爱与毫无恶意的杀意",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第5话 心爱与毫无恶意的杀意",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95844",
+                "short_link": "https://b23.tv/ep95844",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 101
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "5",
+                "vid": "vupload_10209850"
+            },
+            {
+                "aid": 849292401,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pL4y1i7HM",
+                "cid": 229730241,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2719c179889a28d80a68b9766ab449e5f7e9a9f2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 95845,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95845",
+                "long_title": "讲故事的故事",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第6话 讲故事的故事",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95845",
+                "short_link": "https://b23.tv/ep95845",
+                "skip": {
+                    "ed": {
+                        "end": 1326,
+                        "start": 1238
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "6",
+                "vid": "vupload_10209851"
+            },
+            {
+                "aid": 764273134,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vr4y1k7EN",
+                "cid": 229730471,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e2f36efa2da95784ae0d868d06b34f5069ab16ec.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 95846,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95846",
+                "long_title": "Call Me Sister.",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第7话 Call Me Sister.",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95846",
+                "short_link": "https://b23.tv/ep95846",
+                "skip": {
+                    "ed": {
+                        "end": 1416,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "7",
+                "vid": "vupload_10209852"
+            },
+            {
+                "aid": 719341705,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HQ4y1v7bd",
+                "cid": 229730650,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a9da87fb4af94218c47c1e7a7de3b3b46eb622bd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 95847,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95847",
+                "long_title": "被泳池打湿 被雨淋湿 热泪盈眶",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第8话 被泳池打湿 被雨淋湿 热泪盈眶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95847",
+                "short_link": "https://b23.tv/ep95847",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 192,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "8",
+                "vid": "vupload_10209853"
+            },
+            {
+                "aid": 676780786,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wU4y1u7ai",
+                "cid": 229730839,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ab16602e152588d7980a201f96afb2b4dac2a1c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 95848,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95848",
+                "long_title": "青山Slump Mountain",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第9话 青山Slump Mountain",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95848",
+                "short_link": "https://b23.tv/ep95848",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 247,
+                        "start": 147
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "9",
+                "vid": "vupload_10209854"
+            },
+            {
+                "aid": 719348744,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sQ4y1v7jA",
+                "cid": 229731024,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/63822ad0ffb32b4034e1c83f1e209ee63448c672.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 95849,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95849",
+                "long_title": "对姐姐用决战部队通称小豆队",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第10话 对姐姐用决战部队通称小豆队",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95849",
+                "short_link": "https://b23.tv/ep95849",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 45
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "10",
+                "vid": "vupload_10209855"
+            },
+            {
+                "aid": 849339430,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tL4y1i7QH",
+                "cid": 229731224,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1f22098e8d03cc736556d9bd74f924af9b1ee0e3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 95850,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95850",
+                "long_title": "少女穿上红色外套乘上兔子飞向圣夜的天空",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第11话 少女穿上红色外套乘上兔子飞向圣夜的天空",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95850",
+                "short_link": "https://b23.tv/ep95850",
+                "skip": {
+                    "ed": {
+                        "end": 1417,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 272,
+                        "start": 172
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "11",
+                "vid": "vupload_10209856"
+            },
+            {
+                "aid": 676847689,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WU4y1u7C4",
+                "cid": 229731445,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1351406419f2aea919d14e60c88e2e4b0e01dadc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 95851,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep95851",
+                "long_title": "如果是为了你的话我愿意睡懒觉",
+                "pub_time": 1473919083,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《请问您今天要来点兔子吗？》第12话 如果是为了你的话我愿意睡懒觉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep95851",
+                "short_link": "https://b23.tv/ep95851",
+                "skip": {
+                    "ed": {
+                        "end": 1349,
+                        "start": 1260
+                    },
+                    "op": {
+                        "end": 354,
+                        "start": 256
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2481.5万次",
+                "title": "12",
+                "vid": "vupload_10209857"
+            }
+        ],
+        "evaluate": "【本片翻译由澄空学园x华盟字幕社联合提供】为了上学方便，刚入学的高中新生心爱准备搬来这条由石板路、木制房组成的街道。她在寻找寄宿的地点时迷路了，无意中来到了一家名为“rabbit house”的咖啡店门前。看到这间名字充满可爱风格的咖啡店，心爱忍不住踏进了店门。在店里，她遇见了娇小的少女智乃，以及一只软乎乎的可爱小兔子提比。\n心爱一边喝着咖啡一边询问路线时，才惊讶地得知这家咖啡店就是自己将要寄宿的地方。因为将要入学的高中有着“学生要在寄宿的家里帮忙做事”的规定，心爱便“自称”是智乃的姐姐，开始过起了咖啡店员的生活。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md191/",
+        "media_id": 191,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 95851,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17198,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-04-10 00:00:00",
+            "pub_time_show": "2014年04月10日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 14520,
+            "score": 9.7
+        },
+        "record": "登记号：10417060215592310",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 191,
+        "season_title": "请问您今天要来点兔子吗？",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e5e7edcb4f17cfd1ba4cd233a12f514862bf1c94.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 191,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1351406419f2aea919d14e60c88e2e4b0e01dadc.jpg",
+                    "id": 95851,
+                    "index_show": "全12话"
+                },
+                "season_id": 191,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2032752,
+                    "series_follow": 2927163,
+                    "views": 24814591
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b8cf93d74af443f8dfcd2adc808a1a2545264254.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2762,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ced96f50ce6a91eb08a6862689eb083e406cf696.jpg",
+                    "id": 82138,
+                    "index_show": "全12话"
+                },
+                "season_id": 2762,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1246121,
+                    "series_follow": 2927163,
+                    "views": 25304578
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/45812fddaeb60e33cfd327280661e02238697aaa.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229884,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4649ac96276de6889893c9a3c520d669b7baf74d.jpg",
+                    "id": 341468,
+                    "index_show": "全12话"
+                },
+                "season_id": 34415,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2511973,
+                    "series_follow": 2927163,
+                    "views": 15358475
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f299a7942d1e08657d632f2c1bd43b716f99181.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 122632,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/564a8d3df9ed9b4cf5f8a19722dd1e8942b22ddb.jpg",
+                    "id": 240759,
+                    "index_show": "全1话"
+                },
+                "season_id": 24702,
+                "season_title": "剧场版·OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 306958,
+                    "series_follow": 2927163,
+                    "views": 1954786
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/348d999193f1a537061fad7aa0cbee3e7bb4cc3b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28225115,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3dfa0bc892f2c9f69b46d93a38e32e0ebe2f3cb6.jpg",
+                    "id": 304193,
+                    "index_show": "全1话"
+                },
+                "season_id": 30288,
+                "season_title": "剧场版·OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1654938,
+                    "series_follow": 2927163,
+                    "views": 1923153
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 120,
+            "series_title": "请问您今天要来点兔子吗？"
+        },
+        "share_copy": "《请问您今天要来点兔子吗？》萌就是正义！",
+        "share_sub_title": "萌就是正义！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss191",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/e6460d359cc9d794ae615d1801b098150afc9bb4.jpg",
+        "stat": {
+            "coins": 122621,
+            "danmakus": 1564199,
+            "favorite": 10013,
+            "favorites": 2032752,
+            "likes": 110521,
+            "reply": 23976,
+            "share": 44628,
+            "views": 24814591
+        },
+        "status": 13,
+        "subtitle": "已观看2481.5万次",
+        "title": "请问您今天要来点兔子吗？",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

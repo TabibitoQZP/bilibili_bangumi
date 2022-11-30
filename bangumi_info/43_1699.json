@@ -1,0 +1,1353 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/f5128c939b24909c7cb75bab51be0ee0c4d1b33a.jpg",
+        "episodes": [
+            {
+                "aid": 1608327,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1jx411P79q",
+                "cid": 230835878,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8a0ed4df618846a506e69368abe2469fbafdfede.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1376000,
+                "from": "bangumi",
+                "id": 80016,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80016",
+                "long_title": "单调·多彩",
+                "pub_time": 1412877000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第1话 单调·多彩",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80016",
+                "short_link": "https://b23.tv/ep80016",
+                "skip": {
+                    "ed": {
+                        "end": 1351,
+                        "start": 1277
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 44
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.8亿次",
+                "title": "1",
+                "vid": "vupload_3386418"
+            },
+            {
+                "aid": 1627026,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vx411P7du",
+                "cid": 230907652,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/55b8ee8857a7f98c6d1b11e0ae8e0fab878aa909.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80017,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80017",
+                "long_title": "友人A",
+                "pub_time": 1413481532,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第2话 友人A",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80017",
+                "short_link": "https://b23.tv/ep80017",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 33
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "2",
+                "vid": "vupload_3386419"
+            },
+            {
+                "aid": 1647695,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18x411P75q",
+                "cid": 231154378,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7c7eba68ed32ebdb531569214dc47c436ed1c372.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80018,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80018",
+                "long_title": "春光里",
+                "pub_time": 1414086355,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第3话 春光里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80018",
+                "short_link": "https://b23.tv/ep80018",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "3",
+                "vid": "vupload_3386420"
+            },
+            {
+                "aid": 1668891,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411P7S1",
+                "cid": 231158294,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a7e3f795d011f51f1a371d2469635dc8382f7cc6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80020,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80020",
+                "long_title": "启程",
+                "pub_time": 1414691104,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第4话 启程",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80020",
+                "short_link": "https://b23.tv/ep80020",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 154,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "4",
+                "vid": "vupload_3386421"
+            },
+            {
+                "aid": 1688990,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ax411P7CR",
+                "cid": 231274106,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b65b3795d73d288b1af8aa2278fc9634deaac33b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80021,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80021",
+                "long_title": "阴云密布",
+                "pub_time": 1415295905,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第5话 阴云密布",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80021",
+                "short_link": "https://b23.tv/ep80021",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 155,
+                        "start": 65
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "5",
+                "vid": "vupload_3386422"
+            },
+            {
+                "aid": 1709468,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ux411P7ec",
+                "cid": 231550810,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f35ccbc0516c6aa2e01077880f5f77ceaef19651.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80022,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80022",
+                "long_title": "归途",
+                "pub_time": 1415900700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第6话 归途",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80022",
+                "short_link": "https://b23.tv/ep80022",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 48
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "6",
+                "vid": "vupload_3386423"
+            },
+            {
+                "aid": 1730534,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11x411P7AU",
+                "cid": 231570578,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/84252e2ace5b0cc6d9931c1e081d509848fd1be1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80023,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80023",
+                "long_title": "暗影低语",
+                "pub_time": 1416505500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第7话 暗影低语",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80023",
+                "short_link": "https://b23.tv/ep80023",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "7",
+                "vid": "vupload_3386424"
+            },
+            {
+                "aid": 1752648,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cx411N7VB",
+                "cid": 231735300,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/71399a558add1d4cd076fd3d44e1115f481f1966.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80025,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80025",
+                "long_title": "回响",
+                "pub_time": 1417110300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第8话 回响",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80025",
+                "short_link": "https://b23.tv/ep80025",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 82
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "8",
+                "vid": "vupload_3386425"
+            },
+            {
+                "aid": 1773197,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tx411N77r",
+                "cid": 231835063,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1d4a6585d55cba75c2930a8b7ce844e4c2cec44d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80026,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80026",
+                "long_title": "共鸣",
+                "pub_time": 1417715100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第9话 共鸣",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80026",
+                "short_link": "https://b23.tv/ep80026",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 356,
+                        "start": 266
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "9",
+                "vid": "vupload_3386426"
+            },
+            {
+                "aid": 1792476,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ax411N7Dk",
+                "cid": 231835799,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/76409404d890f1712d9e0c0eb7546fb6ea9a1d4b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80027,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80027",
+                "long_title": "与你共赏的景色",
+                "pub_time": 1418319900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第10话 与你共赏的景色",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80027",
+                "short_link": "https://b23.tv/ep80027",
+                "skip": {
+                    "ed": {
+                        "end": 1307,
+                        "start": 1217
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 128
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "10",
+                "vid": "vupload_3386427"
+            },
+            {
+                "aid": 1810626,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nx411N7Gf",
+                "cid": 231856146,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c9caf64dbe84c9fe3b0bc5d3f1874d6152e0dd2c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80028,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80028",
+                "long_title": "生命之光",
+                "pub_time": 1418924940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第11话 生命之光",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80028",
+                "short_link": "https://b23.tv/ep80028",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 54
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "11",
+                "vid": "vupload_3386428"
+            },
+            {
+                "aid": 1871370,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dx411w7kL",
+                "cid": 231864043,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eeb9dc587354852376b5fb715f2807ca2aad6b50.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80029,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80029",
+                "long_title": "闪耀的小星星",
+                "pub_time": 1420739100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第12话 闪耀的小星星",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80029",
+                "short_link": "https://b23.tv/ep80029",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 108
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "12",
+                "vid": "vupload_3386429"
+            },
+            {
+                "aid": 1892060,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qx411w7fR",
+                "cid": 233152943,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/aee82883b8d5d7dccde096ce65630ca7c3361f01.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80030,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80030",
+                "long_title": "爱的忧伤",
+                "pub_time": 1421343900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第13话 爱的忧伤",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80030",
+                "short_link": "https://b23.tv/ep80030",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "13",
+                "vid": "vupload_3386430"
+            },
+            {
+                "aid": 1914651,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gx411A72h",
+                "cid": 233153406,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1e521e741b7d5c61b045c77c7ae95e39000ab8f3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80032,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80032",
+                "long_title": "足迹",
+                "pub_time": 1421948700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第14话 足迹",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80032",
+                "short_link": "https://b23.tv/ep80032",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 179,
+                        "start": 89
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "14",
+                "vid": "vupload_3386431"
+            },
+            {
+                "aid": 1938315,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411A7nZ",
+                "cid": 233153645,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/93bd042b82c610a76ed80c464188c49c87dea3d4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1387000,
+                "from": "bangumi",
+                "id": 80033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80033",
+                "long_title": "骗子",
+                "pub_time": 1422553500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第15话 骗子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80033",
+                "short_link": "https://b23.tv/ep80033",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 36
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "15",
+                "vid": "vupload_3386432"
+            },
+            {
+                "aid": 1963230,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lx411A7Ha",
+                "cid": 233625042,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/97c2429e9b1b756dd2ca506096f463cc99fc0da0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80034",
+                "long_title": "相似的人",
+                "pub_time": 1423158300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第16话 相似的人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80034",
+                "short_link": "https://b23.tv/ep80034",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 149,
+                        "start": 59
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "16",
+                "vid": "vupload_3386433"
+            },
+            {
+                "aid": 1991384,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sx411A7nJ",
+                "cid": 233625754,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cb57a8e7348a90f156da26ae129e08637d3c3850.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80035",
+                "long_title": "暮光",
+                "pub_time": 1423763117,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第17话 暮光",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80035",
+                "short_link": "https://b23.tv/ep80035",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 113,
+                        "start": 23
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "17",
+                "vid": "vupload_3386434"
+            },
+            {
+                "aid": 2021556,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yx411A7MW",
+                "cid": 233719081,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2165821fbcbfd2e6d41525485f3251fe449dc106.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80036,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80036",
+                "long_title": "心心相印",
+                "pub_time": 1424367918,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第18话 心心相印",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80036",
+                "short_link": "https://b23.tv/ep80036",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 112,
+                        "start": 22
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "18",
+                "vid": "vupload_3386435"
+            },
+            {
+                "aid": 2051542,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411A7WU",
+                "cid": 233732852,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/940a606b643b643bef0d2c54915161fc249dde79.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80037,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80037",
+                "long_title": "再见了 英雄",
+                "pub_time": 1424972719,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第19话 再见了 英雄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80037",
+                "short_link": "https://b23.tv/ep80037",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 118,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "19",
+                "vid": "vupload_3386436"
+            },
+            {
+                "aid": 2079407,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cx411P7PZ",
+                "cid": 234009454,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f6a2adaa60b58b060f08dad662418297c2cbde24.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80038,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80038",
+                "long_title": "手与手",
+                "pub_time": 1425577520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第20话 手与手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80038",
+                "short_link": "https://b23.tv/ep80038",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "20",
+                "vid": "vupload_3386437"
+            },
+            {
+                "aid": 2101554,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ks411S7rH",
+                "cid": 234009651,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f7ce4f438edfcf3682fb54939a039e9f4a4422f8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80040,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80040",
+                "long_title": "雪",
+                "pub_time": 1426182321,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第21话 雪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80040",
+                "short_link": "https://b23.tv/ep80040",
+                "skip": {
+                    "ed": {
+                        "end": 1358,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 148,
+                        "start": 58
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "21",
+                "vid": "vupload_3386438"
+            },
+            {
+                "aid": 2125251,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411S7Ad",
+                "cid": 234009842,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/52b3a673ad513e4d3035f6e4cc9f013df9228252.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 80041,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80041",
+                "long_title": "春风",
+                "pub_time": 1426787100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《四月是你的谎言》第22话 春风",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80041",
+                "short_link": "https://b23.tv/ep80041",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 95,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.8亿次",
+                "title": "22",
+                "vid": "vupload_3386439"
+            }
+        ],
+        "evaluate": "从小接受母亲严格的钢琴训练，并在各种音乐比赛上获胜的“神童”——有马公生，11岁那年因为母亲去世，他从此变得听不见钢琴的声音，因而放弃了弹奏钢琴。\n国中三年级时，在青梅竹马椿的引见下，公生认识了与他同年级的小提琴手——宫园薰，并于一场比赛中被薰自由奔放的演奏风格所吸引。自此，公生的日常生活开始有了改变。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1699/",
+        "media_id": 1699,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全22话",
+            "id": 80041,
+            "is_new": 0,
+            "title": "22"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18512,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-10-09 00:00:00",
+            "pub_time_show": "2014年10月09日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 76028,
+            "score": 9.8
+        },
+        "record": "登记号：10417060168842110",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1699,
+        "season_title": "四月是你的谎言",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f5128c939b24909c7cb75bab51be0ee0c4d1b33a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1699,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/52b3a673ad513e4d3035f6e4cc9f013df9228252.jpg",
+                    "id": 80041,
+                    "index_show": "全22话"
+                },
+                "season_id": 1699,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5742818,
+                    "series_follow": 5889184,
+                    "views": 177208619
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6b6b2423ceff5fbdfbbee3a09a85173b8bd59a03.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3423,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/109f4be5cf68f855085a22e153a425e5a4d7bf9a.jpg",
+                    "id": 85046,
+                    "index_show": "全1话"
+                },
+                "season_id": 3423,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 444040,
+                    "series_follow": 5889184,
+                    "views": 7621829
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 585599867,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1pz4y1C7qj",
+                        "cid": 265060496,
+                        "cover": "http://i0.hdslb.com/bfs/archive/186523772fe9d62741e9b893332ab0ce53130e38.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 255000,
+                        "from": "bangumi",
+                        "id": 383633,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep383633",
+                        "long_title": "Goose house「光るなら」",
+                        "pub_time": 1612321287,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《四月是你的谎言》OP1 Goose house「光るなら」",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep383633",
+                        "short_link": "https://b23.tv/ep383633",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 7307,
+                            "danmakus": 268,
+                            "likes": 9326,
+                            "play": 356060,
+                            "reply": 348
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1.8亿次",
+                        "title": "OP1",
+                        "vid": ""
+                    }
+                ],
+                "id": 57093,
+                "title": "主题曲",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1140,
+            "series_title": "四月是你的谎言"
+        },
+        "share_copy": "《四月是你的谎言》没有你的四月又来了",
+        "share_sub_title": "没有你的四月又来了",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1699",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b200729d883e0254062f5be6749e045fc5e1058a.jpg",
+        "stat": {
+            "coins": 1359742,
+            "danmakus": 4859273,
+            "favorite": 103406,
+            "favorites": 5742818,
+            "likes": 984349,
+            "reply": 149759,
+            "share": 226152,
+            "views": 177208619
+        },
+        "status": 13,
+        "subtitle": "已观看1.8亿次",
+        "title": "四月是你的谎言",
+        "total": 22,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/1d33b1d6f9da2221fe1085f42c6b3028a6f069f2.jpg",
+        "episodes": [
+            {
+                "aid": 8942902,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cx411k7uA",
+                "cid": 14762736,
+                "cover": "http://i1.hdslb.com/bfs/archive/bbf9fe3cb629cbfbca6e3862fc9ad5abcddeaa26.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 7032000,
+                "from": "bangumi",
+                "id": 102180,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep102180?theme=movie",
+                "long_title": "星之人",
+                "pub_time": 1488547809,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《星之梦～星之人～》第1话 星之人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep102180",
+                "short_link": "https://b23.tv/ep102180",
+                "skip": {
+                    "ed": {
+                        "end": 7031,
+                        "start": 6655
+                    },
+                    "op": {
+                        "end": 16,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看240万次",
+                "title": "1",
+                "vid": "vupload_14762736"
+            }
+        ],
+        "evaluate": "剧场版动画《星之梦～星之人～》是由david production根据Key社游戏《星之梦》改编。2016年4月15日公布详情。\n2016年9月3日在日本上映。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5051/",
+        "media_id": 5051,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 102180,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 21969,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-09-03 00:00:01",
+            "pub_time_show": "2016年9月3日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6017,
+            "score": 9.8
+        },
+        "record": "登记号：10417060207622607",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 340,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5051,
+        "season_title": "星之梦～星之人～",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bf5603c57dee60c2ccfdc1c8b907e1b20e24ce1b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5045,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/aa5bbd6cf338451f07c3d0d14723fd61569b97bb.jpg",
+                    "id": 91381,
+                    "index_show": "全5话"
+                },
+                "season_id": 5045,
+                "season_title": "WEB",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1212742,
+                    "series_follow": 1318319,
+                    "views": 11370904
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1d33b1d6f9da2221fe1085f42c6b3028a6f069f2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5051,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/bbf9fe3cb629cbfbca6e3862fc9ad5abcddeaa26.jpg",
+                    "id": 102180,
+                    "index_show": "全1话"
+                },
+                "season_id": 5051,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 259168,
+                    "series_follow": 1318319,
+                    "views": 2399769
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b847c8fab1d30b1df21ff869997fec84628a504c.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/2f5096fdef19fb59bbee20495cd82b71dcbc73aa.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/762db25b02880a4d19626fe67a65629ffafef183.png",
+                "media_id": 28234980,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b740fbe578dd524ff2c1c9e81669ae61a14966bb.jpg",
+                    "id": 415972,
+                    "index_show": "全1话"
+                },
+                "season_id": 39288,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1210242,
+                    "series_follow": 1318319,
+                    "views": 1535489
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2985,
+            "series_title": "星之梦"
+        },
+        "share_copy": "《星之梦～星之人～》星之人和机器少女",
+        "share_sub_title": "星之人和机器少女",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5051",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/dac22c74edc293b5fd88b66950558a199239e72b.jpg",
+        "stat": {
+            "coins": 42994,
+            "danmakus": 76882,
+            "favorite": 3209,
+            "favorites": 259168,
+            "likes": 22973,
+            "reply": 11917,
+            "share": 11653,
+            "views": 2399769
+        },
+        "status": 2,
+        "subtitle": "已观看240万次",
+        "title": "星之梦～星之人～",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/22a01c03926869ab31e7b158ffe15e783930da71.jpg",
+        "episodes": [
+            {
+                "aid": 2998803,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41127KS",
+                "cid": 10545757,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6dafd8ab55a6bf5a18aa474a4c351f1dbfb2bcba.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 70867,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70867",
+                "long_title": "落第骑士Ⅰ",
+                "pub_time": 1443884400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第1话 落第骑士Ⅰ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70867",
+                "short_link": "https://b23.tv/ep70867",
+                "skip": {
+                    "ed": {
+                        "end": 1426,
+                        "start": 1338
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 127
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1亿次",
+                "title": "1",
+                "vid": "vupload_10545757"
+            },
+            {
+                "aid": 3039583,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17s4112734",
+                "cid": 10546121,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dd412ec06e0d085211e36b71aca27f073a004402.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1408000,
+                "from": "bangumi",
+                "id": 72068,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72068",
+                "long_title": "落第骑士Ⅱ",
+                "pub_time": 1444489200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第2话 落第骑士Ⅱ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72068",
+                "short_link": "https://b23.tv/ep72068",
+                "skip": {
+                    "ed": {
+                        "end": 1400,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 210,
+                        "start": 119
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "2",
+                "vid": "vupload_10546121"
+            },
+            {
+                "aid": 3074119,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s41127LK",
+                "cid": 10546126,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fb9c080c2b3d22145c604bdfe291bd199dd0dd3b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 72690,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72690",
+                "long_title": "落第骑士Ⅲ",
+                "pub_time": 1445094000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第3话 落第骑士Ⅲ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72690",
+                "short_link": "https://b23.tv/ep72690",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 232,
+                        "start": 140
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "3",
+                "vid": "vupload_10546126"
+            },
+            {
+                "aid": 3110613,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs41127qC",
+                "cid": 10546131,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/99b4075c4aefff68738fc3e90a56a5bf739e1183.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 75106,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75106",
+                "long_title": "落第骑士Ⅳ",
+                "pub_time": 1445698800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第4话 落第骑士Ⅳ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75106",
+                "short_link": "https://b23.tv/ep75106",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1335
+                    },
+                    "op": {
+                        "end": 62,
+                        "start": 50
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "4",
+                "vid": "vupload_10546131"
+            },
+            {
+                "aid": 3147973,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1As411d7xs",
+                "cid": 10546149,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/776f2ba5b5d506b82b23bef5856e7a085262bd22.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 76106,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76106",
+                "long_title": "皇女的体验",
+                "pub_time": 1446303600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第5话 皇女的体验",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76106",
+                "short_link": "https://b23.tv/ep76106",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 40
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "5",
+                "vid": "vupload_10546149"
+            },
+            {
+                "aid": 3184018,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411d72U",
+                "cid": 10546154,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/70302623ef858719c7ffd61369f5283051196c6e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1439000,
+                "from": "bangumi",
+                "id": 77328,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77328",
+                "long_title": "剑士杀手Ⅰ",
+                "pub_time": 1446908400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第6话 剑士杀手Ⅰ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77328",
+                "short_link": "https://b23.tv/ep77328",
+                "skip": {
+                    "ed": {
+                        "end": 1424,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "6",
+                "vid": "vupload_10546154"
+            },
+            {
+                "aid": 3220174,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411d7Ke",
+                "cid": 10546173,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9a6686883d1dd89f9b3831b7845d93102e895a12.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 77662,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77662",
+                "long_title": "剑士杀手Ⅱ",
+                "pub_time": 1447513200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第7话 剑士杀手Ⅱ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77662",
+                "short_link": "https://b23.tv/ep77662",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "7",
+                "vid": "vupload_10546173"
+            },
+            {
+                "aid": 3257721,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411d7Ch",
+                "cid": 10546211,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/04f8d7aa82752873a7913e7ee1d7dd6920145fd7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 79191,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79191",
+                "long_title": "剑士杀手Ⅲ",
+                "pub_time": 1448118000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第8话 剑士杀手Ⅲ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79191",
+                "short_link": "https://b23.tv/ep79191",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 109
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "8",
+                "vid": "vupload_10546211"
+            },
+            {
+                "aid": 3296083,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411d72Q",
+                "cid": 10546215,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6756842725a871b161d3872108ab16434ead813a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 79873,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79873",
+                "long_title": "皇女的假日",
+                "pub_time": 1448722822,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第9话 皇女的假日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79873",
+                "short_link": "https://b23.tv/ep79873",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 69
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "9",
+                "vid": "vupload_10546215"
+            },
+            {
+                "aid": 3334546,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411d7Wt",
+                "cid": 10546221,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c40ce41537f747f8e51fa9608264fad85fc9645b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 80579,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80579",
+                "long_title": "深海魔女 VS 雷切",
+                "pub_time": 1449327600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第10话 深海魔女 VS 雷切",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80579",
+                "short_link": "https://b23.tv/ep80579",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 161,
+                        "start": 70
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "10",
+                "vid": "vupload_10546221"
+            },
+            {
+                "aid": 3374073,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411o7X9",
+                "cid": 10546227,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/99f0df437bf827616028a315c8f8b563affe7c81.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 81335,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81335",
+                "long_title": "无冕剑王Ⅰ",
+                "pub_time": 1449932400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第11话 无冕剑王Ⅰ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81335",
+                "short_link": "https://b23.tv/ep81335",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 65
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "11",
+                "vid": "vupload_10546227"
+            },
+            {
+                "aid": 3413825,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ys411977n",
+                "cid": 10546232,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8b7fa3a145b837b06ebb902af99aaf14e0bf7494.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441528,
+                "from": "bangumi",
+                "id": 81749,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81749",
+                "long_title": "无冕剑王Ⅱ",
+                "pub_time": 1450537260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《落第骑士英雄谭》第12话 无冕剑王Ⅱ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81749",
+                "short_link": "https://b23.tv/ep81749",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1亿次",
+                "title": "12",
+                "vid": "vupload_10546232"
+            }
+        ],
+        "evaluate": "黑铁一辉虽有着成为能将灵魂转化为魔剑的“魔导骑士”的目标，却由于自身没有魔法方面的才能，而被他人戏称为“落第骑士”。不过，在与来自异国的公主——有名且最强的“A级骑士”史黛菈・法米利昂相遇后，一辉的“最弱”的学院生活发生了改变。而另一方面，曾经的“落第骑士”重新以“无冕剑王”的身份，在这场争夺骑士顶点的战争中崭露头角！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2743/",
+        "media_id": 2743,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 81749,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19754,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-03 23:00:00",
+            "pub_time_show": "2015年10月03日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 23949,
+            "score": 9.4
+        },
+        "record": "登记号：10417060205412110",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2743,
+        "season_title": "落第骑士英雄谭",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/22a01c03926869ab31e7b158ffe15e783930da71.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2743,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8b7fa3a145b837b06ebb902af99aaf14e0bf7494.jpg",
+                    "id": 81749,
+                    "index_show": "全12话"
+                },
+                "season_id": 2743,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2522460,
+                    "series_follow": 2522460,
+                    "views": 103884718
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1863,
+            "series_title": "落第骑士英雄谭"
+        },
+        "share_copy": "《落第骑士英雄谭》落地骑士与无冕剑王",
+        "share_sub_title": "落地骑士与无冕剑王",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2743",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a0bf51b9a3a60b095c40cfc68d01e1c334e12f74.jpg",
+        "stat": {
+            "coins": 496216,
+            "danmakus": 2523394,
+            "favorite": 13825,
+            "favorites": 2522460,
+            "likes": 225115,
+            "reply": 88266,
+            "share": 57272,
+            "views": 103884718
+        },
+        "status": 13,
+        "subtitle": "已观看1亿次",
+        "title": "落第骑士英雄谭",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

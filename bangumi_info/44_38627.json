@@ -1,0 +1,510 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "http://i0.hdslb.com/bfs/bangumi/6540e392917a24a593ba8c7a447bd86335677b6a.png",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6cf43708b779cde84ad285ff4e3a080de98df0af.png",
+        "episodes": [
+            {
+                "aid": 973368482,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1844y1z7mu",
+                "cid": 395801252,
+                "cover": "http://i0.hdslb.com/bfs/archive/9e19792229c0491434dbf67773cb71aadb89618b.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 3092000,
+                "from": "bangumi",
+                "id": 401347,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep401347",
+                "long_title": "",
+                "pub_time": 1622023201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《夏目友人帐 唤石者与怪异的访客》正片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep401347",
+                "short_link": "https://b23.tv/ep401347",
+                "skip": {
+                    "ed": {
+                        "end": 3091,
+                        "start": 2778
+                    },
+                    "op": {
+                        "end": 9,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1463.1万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作由【唤石者】与【怪异的访客】两个人气短篇集锦而成。讲述生来便能看见各种妖怪的夏目，与自称保镖的猫咪老师一同邂逅的一系列温暖故事。\n【唤石者】一天夏目在森林中遇到一只小妖怪——密实。密实称自己肩负「唤石者」之责，负责将妖怪「岩铁」从沉睡中唤醒。\n然而垂涎任务完成后的美酒奖励，猫咪老师与一众妖怪却计划着取而代之。夏目担心密实，于是伸出了援手……\n【怪异的访客】田沼的身边出现了一位「怪异的访客」。他每天都会来拜访田沼，只说会儿话便离开。\n夏目得知这位怪异的访客其实是妖怪，因此很担心自己的同学田沼。然而田沼却逐渐喜欢上了与之交流。\n虽然这妖怪似乎无意作恶，但田沼的身体却每况愈下……",
+        "freya": {
+            "bubble_desc": "进来聊个5块钱的~",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234316/",
+        "media_id": 28234316,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 401347,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "开通大会员观看",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 59741,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-05-26 18:00:00",
+            "pub_time_show": "2021年05月26日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 17679,
+            "score": 9.9
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38627,
+        "season_title": "夏目友人帐 唤石者与怪异的访客",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/99c549494d9425f6455bd45a151f4d26397d6151.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1660,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/71ec1921167dfce25cca0c28b222452d4e988781.jpg",
+                    "id": 30146,
+                    "index_show": "全13话"
+                },
+                "season_id": 1660,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3364276,
+                    "series_follow": 6416924,
+                    "views": 54331069
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2f382098ca70a645f90ecd1c37ed0890532b6a6e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1661,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/502758efc0ac972d1468d11f5eacdc9ba8b57fa7.jpg",
+                    "id": 30159,
+                    "index_show": "全13话"
+                },
+                "season_id": 1661,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1347025,
+                    "series_follow": 6416924,
+                    "views": 30281469
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/88f879ff41c48361f1d2b3caf3c6dc93f0376894.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1662,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/25d423f4fae43ca3b03423520c622c79fb45e55b.jpg",
+                    "id": 30172,
+                    "index_show": "全13话"
+                },
+                "season_id": 1662,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1229329,
+                    "series_follow": 6416924,
+                    "views": 26943137
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/88f879ff41c48361f1d2b3caf3c6dc93f0376894.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1663,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6ff5158e3fd1e040d3c77572e3e0cec2f115c33c.jpg",
+                    "id": 30185,
+                    "index_show": "全13话"
+                },
+                "season_id": 1663,
+                "season_title": "第四季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1207939,
+                    "series_follow": 6416924,
+                    "views": 25796082
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/ecfa873a788ac7e8ddeee9b08755d3a8e6f46845.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5550,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/e2c6b99c2706e2976882509c08e2b463c420843e.jpg",
+                    "id": 96045,
+                    "index_show": "全11话"
+                },
+                "season_id": 5550,
+                "season_title": "第五季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2674399,
+                    "series_follow": 6416924,
+                    "views": 56965151
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/db07fbd76802adb295c89b0c64207f913980720a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8512,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/dc280ff99d32135f0aea6d611e7331710a24b0c9.jpg",
+                    "id": 121753,
+                    "index_show": "全2话"
+                },
+                "season_id": 20897,
+                "season_title": "第五季 特别篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 574314,
+                    "series_follow": 6416924,
+                    "views": 6158332
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/39716626d611a765c44ca27054f3526210c4d5cb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5977,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/75ada4306c46bd506a19ca2f60eed3223db5dbd8.jpg",
+                    "id": 222165,
+                    "index_show": "全13话"
+                },
+                "season_id": 5977,
+                "season_title": "第六季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2238657,
+                    "series_follow": 6416924,
+                    "views": 52533913
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a8172a69f9dc70f183c96b29510901fb4c66c031.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3446,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/684e65141a473dd00b98b5edf4e492f16a743ea2.jpg",
+                    "id": 107237,
+                    "index_show": "全2话"
+                },
+                "season_id": 3446,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 633027,
+                    "series_follow": 6416924,
+                    "views": 5838684
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6cf43708b779cde84ad285ff4e3a080de98df0af.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234316,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9e19792229c0491434dbf67773cb71aadb89618b.png",
+                    "id": 401347,
+                    "index_show": "全1话"
+                },
+                "season_id": 38627,
+                "season_title": "剧场版Ⅱ ",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5677929,
+                    "series_follow": 6416924,
+                    "views": 14631064
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 845504169,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1654y157Cw",
+                        "cid": 337462120,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/e1b2b16e88a0dda1058194c2d4710cff0a7a947b.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 403131,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep403131",
+                        "long_title": "5月26日18:00 哔哩哔哩独播",
+                        "pub_time": 1620813600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《夏目友人帐 唤石者与怪异的访客》PV 5月26日18:00 哔哩哔哩独播",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep403131",
+                        "short_link": "https://b23.tv/ep403131",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 34117,
+                            "danmakus": 10061,
+                            "likes": 81280,
+                            "play": 2181625,
+                            "reply": 11704
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1463.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 59986,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1119,
+            "series_title": "夏目友人帐"
+        },
+        "share_copy": "《夏目友人帐 唤石者与怪异的访客》再次温暖你的心",
+        "share_sub_title": "再次温暖你的心",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38627",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/bc0ddca066b906a224c32801d293e383e9243312.png",
+        "stat": {
+            "coins": 182906,
+            "danmakus": 186327,
+            "favorite": 54606,
+            "favorites": 5677929,
+            "likes": 285638,
+            "reply": 25623,
+            "share": 57066,
+            "views": 14631064
+        },
+        "status": 13,
+        "subtitle": "已观看1463.1万次",
+        "title": "夏目友人帐 唤石者与怪异的访客",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

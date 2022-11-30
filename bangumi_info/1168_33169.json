@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 362,
+            "title": "旧番专题"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c92e39e50162c27fc353166fcf424541129b4ded.png",
+        "episodes": [
+            {
+                "aid": 370013668,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KZ4y1j76D",
+                "cid": 173831884,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320310,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320310",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320310",
+                "short_link": "https://b23.tv/ep320310",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 73
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看198万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 336775842,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UR4y1t7VA",
+                "cid": 173832868,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320311,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320311",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第2话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320311",
+                "short_link": "https://b23.tv/ep320311",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 103,
+                        "start": 13
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 719282777,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hQ4y1U7b4",
+                "cid": 173833813,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320312,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320312",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第3话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320312",
+                "short_link": "https://b23.tv/ep320312",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 506812222,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tg411N7KB",
+                "cid": 173834647,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320313,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320313",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第4话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320313",
+                "short_link": "https://b23.tv/ep320313",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 110
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 251853839,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gY411472C",
+                "cid": 173835181,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320314,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320314",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第5话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320314",
+                "short_link": "https://b23.tv/ep320314",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 30
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 464311906,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1DL411T7GH",
+                "cid": 173836060,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320315,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320315",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第6话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320315",
+                "short_link": "https://b23.tv/ep320315",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 634275412,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ob4y1t7J2",
+                "cid": 173836825,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320316,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320316",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第7话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320316",
+                "short_link": "https://b23.tv/ep320316",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 107,
+                        "start": 17
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 549264757,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11q4y1u7mg",
+                "cid": 173837308,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320317,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320317",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第8话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320317",
+                "short_link": "https://b23.tv/ep320317",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 634331073,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pb4y1b7J9",
+                "cid": 173837662,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320318,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320318",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第9话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320318",
+                "short_link": "https://b23.tv/ep320318",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 192,
+                        "start": 102
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 294361468,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1MF411a7zJ",
+                "cid": 173838133,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320319,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320319",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320319",
+                "short_link": "https://b23.tv/ep320319",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 36
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 891868282,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11P4y1G7HU",
+                "cid": 173838793,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320320,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320320",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320320",
+                "short_link": "https://b23.tv/ep320320",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 242,
+                        "start": 152
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 294273027,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aF411h79P",
+                "cid": 173839419,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 320321,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320321",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320321",
+                "short_link": "https://b23.tv/ep320321",
+                "skip": {
+                    "ed": {
+                        "end": 1422,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 634322448,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gb4y1b7MJ",
+                "cid": 173841561,
+                "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2278000,
+                "from": "bangumi",
+                "id": 320322,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep320322",
+                "long_title": "",
+                "pub_time": 1587210540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《橘色奇迹》第13话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep320322",
+                "short_link": "https://b23.tv/ep320322",
+                "skip": {
+                    "ed": {
+                        "end": 2277,
+                        "start": 2169
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看198万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "高中2年级的春天，菜穗所收到的“信”。发信人是，10年后的自己。\n最开始以为是恶作剧，但信上所写的内容一一在现实中发生，而“信”中也提及了今后会发生的事。\n自己喜欢上了转学生翔的事。以及，在17岁的冬天，翔会死去的事。\n失去了翔的“26岁的菜穗”的后悔与愿望，得知这些的“16岁的菜穗”能够做到什么？\n大家将 ora",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28228559/",
+        "media_id": 28228559,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 320322,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 45538,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-07-03 00:00:01",
+            "pub_time_show": "2016年7月3日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1717,
+            "score": 8.9
+        },
+        "record": "登记号：10417060205872612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 33169,
+        "season_title": "橘色奇迹",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c92e39e50162c27fc353166fcf424541129b4ded.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228559,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7accc6d3c60c980d47352673ceb439897e004c7c.jpg",
+                    "id": 320322,
+                    "index_show": "全13话"
+                },
+                "season_id": 33169,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 267474,
+                    "series_follow": 267474,
+                    "views": 1979980
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2966,
+            "series_title": "orange"
+        },
+        "share_copy": "《橘色奇迹》平行时空，拯救你",
+        "share_sub_title": "平行时空，拯救你",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss33169",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/ee85a752c76cfe890137fdaab816b2660dbb6206.png",
+        "stat": {
+            "coins": 8566,
+            "danmakus": 41568,
+            "favorite": 2638,
+            "favorites": 267474,
+            "likes": 16312,
+            "reply": 3268,
+            "share": 1877,
+            "views": 1979980
+        },
+        "status": 13,
+        "subtitle": "已观看198万次",
+        "title": "橘色奇迹",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,740 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/055fcccf87dd9b2ff6d86adc43711fce5df78e44.jpg",
+        "episodes": [
+            {
+                "aid": 7873772,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rs411878k",
+                "cid": 13214596,
+                "cover": "http://i0.hdslb.com/bfs/archive/f0f88ce4113c216797e13cbfa450ec95bcc14b02.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100138,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100138",
+                "long_title": "少女与占卜、偶尔的露肚皮",
+                "pub_time": 1483675200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第1话 少女与占卜、偶尔的露肚皮",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100138",
+                "short_link": "https://b23.tv/ep100138",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 60
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "1",
+                "vid": "vupload_13214596"
+            },
+            {
+                "aid": 7983502,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Js411h7wN",
+                "cid": 13214943,
+                "cover": "http://i0.hdslb.com/bfs/archive/37745c2f6229a929ed2ab8c5364f7faf8e1ca5d0.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100139,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100139",
+                "long_title": "寻物与梦想 偶尔的甜食",
+                "pub_time": 1484280600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第2话 寻物与梦想 偶尔的甜食",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100139",
+                "short_link": "https://b23.tv/ep100139",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1354
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 53
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "2",
+                "vid": "vupload_13214943"
+            },
+            {
+                "aid": 8110047,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411a7hM",
+                "cid": 13402215,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7a1bed3da0e4c9da3c44172be70920242e092da2.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100140,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100140",
+                "long_title": "同伴与朋友 偶尔的对手",
+                "pub_time": 1484884800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第3话 同伴与朋友 偶尔的对手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100140",
+                "short_link": "https://b23.tv/ep100140",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "3",
+                "vid": "vupload_13402215"
+            },
+            {
+                "aid": 8246880,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zs411b79X",
+                "cid": 13567360,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9f9d7d8dfc3c8a68839afd7c54bb6ac9f288b3ce.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1474000,
+                "from": "bangumi",
+                "id": 100141,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100141",
+                "long_title": "好事跟坏事 偶尔的痒痒",
+                "pub_time": 1485489600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第4话 好事跟坏事 偶尔的痒痒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100141",
+                "short_link": "https://b23.tv/ep100141",
+                "skip": {
+                    "ed": {
+                        "end": 1446,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 66
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "4",
+                "vid": "vupload_13567360"
+            },
+            {
+                "aid": 8367632,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ys41187nU",
+                "cid": 13772486,
+                "cover": "http://i2.hdslb.com/bfs/archive/091edd5fc003e14476bbb558d7f237123772de78.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 100142,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100142",
+                "long_title": "新娘与神明 偶尔的鼓掌",
+                "pub_time": 1486094400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第5话 新娘与神明 偶尔的鼓掌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100142",
+                "short_link": "https://b23.tv/ep100142",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1354
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 32
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "5",
+                "vid": "vupload_13772486"
+            },
+            {
+                "aid": 8521251,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kx41127Lv",
+                "cid": 14282092,
+                "cover": "http://i2.hdslb.com/bfs/archive/08336f9435762241baabf221b67236e9bf39d639.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100143,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100143",
+                "long_title": "恋爱与追踪 偶尔的乖乖",
+                "pub_time": 1486700280,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第6话 恋爱与追踪 偶尔的乖乖",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100143",
+                "short_link": "https://b23.tv/ep100143",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 32
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "6",
+                "vid": "vupload_14282092"
+            },
+            {
+                "aid": 8662782,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tx411y7M7",
+                "cid": 14270590,
+                "cover": "http://i2.hdslb.com/bfs/archive/9f5966737f0d93c9ca731c5c832543b0f2e3ee0a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100144,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100144",
+                "long_title": "祝词与魔女 偶尔的觉悟",
+                "pub_time": 1487305080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第7话 祝词与魔女 偶尔的觉悟",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100144",
+                "short_link": "https://b23.tv/ep100144",
+                "skip": {
+                    "ed": {
+                        "end": 1446,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 182,
+                        "start": 83
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "7",
+                "vid": "vupload_14270590"
+            },
+            {
+                "aid": 8797758,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ux411y7pN",
+                "cid": 14511798,
+                "cover": "http://i1.hdslb.com/bfs/archive/8d0ed91c5b065dd9e806742d0e9b56ec34b08d43.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 100145,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100145",
+                "long_title": "不能做的事和不知道的事 偶尔脱光光",
+                "pub_time": 1487908800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第8话 不能做的事和不知道的事 偶尔脱光光",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100145",
+                "short_link": "https://b23.tv/ep100145",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 70
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "8",
+                "vid": "vupload_14511798"
+            },
+            {
+                "aid": 8934338,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411k7KB",
+                "cid": 14747502,
+                "cover": "http://i2.hdslb.com/bfs/archive/b53a4972e0c604d0f409cd2a2f81cf8fecee2c8b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1473000,
+                "from": "bangumi",
+                "id": 100146,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100146",
+                "long_title": "母亲与心得 偶尔为了你",
+                "pub_time": 1488513600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第9话 母亲与心得 偶尔为了你",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100146",
+                "short_link": "https://b23.tv/ep100146",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 84
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "9",
+                "vid": "vupload_14747502"
+            },
+            {
+                "aid": 9069193,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1px411C7Vr",
+                "cid": 14982842,
+                "cover": "http://i0.hdslb.com/bfs/archive/3bb8ad04f1e1191c0c07d82271f45e15244f42a6.jpg",
+                "dimension": {
+                    "height": 608,
+                    "rotate": 0,
+                    "width": 1080
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 100147,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100147",
+                "long_title": "四人与晋升考试 偶尔的试炼",
+                "pub_time": 1489118400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第10话 四人与晋升考试 偶尔的试炼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100147",
+                "short_link": "https://b23.tv/ep100147",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1354
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 89
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "10",
+                "vid": "vupload_15347537"
+            },
+            {
+                "aid": 9210604,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yx411r79a",
+                "cid": 15219576,
+                "cover": "http://i2.hdslb.com/bfs/archive/64cd368ab4f9ecd90f9ca251643b13f6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 100148,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100148",
+                "long_title": "千矢与库洛 偶尔的眼泪",
+                "pub_time": 1489723200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第11话 千矢与库洛 偶尔的眼泪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100148",
+                "short_link": "https://b23.tv/ep100148",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 216,
+                        "start": 116
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "11",
+                "vid": "vupload_15219576"
+            },
+            {
+                "aid": 9354354,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV17x411k7Ny",
+                "cid": 15463489,
+                "cover": "http://i0.hdslb.com/bfs/archive/f917e17e3a2ec427aaee24a3524587f960d80083.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 100149,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100149",
+                "long_title": "洗澡和庆祝、偶尔的笑容",
+                "pub_time": 1490328360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《URARA迷路帖》第12话 洗澡和庆祝、偶尔的笑容",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100149",
+                "short_link": "https://b23.tv/ep100149",
+                "skip": {
+                    "ed": {
+                        "end": 1440,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 70
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2674.3万次",
+                "title": "12",
+                "vid": "vupload_15463489"
+            }
+        ],
+        "evaluate": "这是一个以占卜行业为主轴的小镇，国内憧憬著占卜师的少女们都在身处其中以成为「Urara」为目标而努力著。其中一位来自深山、名为「千矢」的少女也在因缘际会下来到这个小镇，并意外遇见三位同样以「枣屋」为目的地的可爱女孩「绀」、「小梅」和怕生的「信乃」，个性截然不同的4人，将一同在迷路町追踪各自梦想！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5776/",
+        "media_id": 5776,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 100149,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 22776,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-01-06 12:00:00",
+            "pub_time_show": "2017年01月06日12:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 8724,
+            "score": 9.6
+        },
+        "record": "登记号：10417060209132501",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 341,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5776,
+        "season_title": "URARA迷路帖",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/055fcccf87dd9b2ff6d86adc43711fce5df78e44.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5776,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/f917e17e3a2ec427aaee24a3524587f960d80083.jpg",
+                    "id": 100149,
+                    "index_show": "全12话"
+                },
+                "season_id": 5776,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1859876,
+                    "series_follow": 1859876,
+                    "views": 26743259
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3467,
+            "series_title": "URARA迷路帖"
+        },
+        "share_copy": "《URARA迷路帖》千矢找妈妈",
+        "share_sub_title": "千矢找妈妈",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5776",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/6923ad21cf73447fa1e8dca78a1c126734fbf285.jpg",
+        "stat": {
+            "coins": 145521,
+            "danmakus": 756769,
+            "favorite": 21708,
+            "favorites": 1859876,
+            "likes": 141200,
+            "reply": 45705,
+            "share": 39831,
+            "views": 26743261
+        },
+        "status": 2,
+        "subtitle": "已观看2674.3万次",
+        "title": "URARA迷路帖",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

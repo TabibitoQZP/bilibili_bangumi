@@ -1,0 +1,834 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 362,
+            "title": "旧番专题"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5d07b0a76dcbf7766df4bb498edfae15d52cbbc2.png",
+        "episodes": [
+            {
+                "aid": 243496199,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1nv41167MP",
+                "cid": 201234025,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 328172,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328172",
+                "long_title": "海崎新太(27)无业",
+                "pub_time": 1591942380,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第01话 海崎新太(27)无业",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328172",
+                "short_link": "https://b23.tv/ep328172",
+                "skip": {
+                    "ed": {
+                        "end": 1353,
+                        "start": 1293
+                    },
+                    "op": {
+                        "end": 406,
+                        "start": 316
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3523.2万次",
+                "title": "01",
+                "vid": ""
+            },
+            {
+                "aid": 668418342,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ja4y1v73X",
+                "cid": 201159072,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328173,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328173",
+                "long_title": "交流能力0分",
+                "pub_time": 1591942500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第02话 交流能力0分",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328173",
+                "short_link": "https://b23.tv/ep328173",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1328
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 31
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "02",
+                "vid": ""
+            },
+            {
+                "aid": 498401246,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1FK411p7RX",
+                "cid": 200864334,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328174,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328174",
+                "long_title": "因为是大叔啊",
+                "pub_time": 1591942560,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第03话 因为是大叔啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328174",
+                "short_link": "https://b23.tv/ep328174",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "03",
+                "vid": ""
+            },
+            {
+                "aid": 243447399,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lv41167J4",
+                "cid": 200864550,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 328175,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328175",
+                "long_title": "坠落",
+                "pub_time": 1591942620,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第04话 坠落",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328175",
+                "short_link": "https://b23.tv/ep328175",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 206,
+                        "start": 116
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "04",
+                "vid": ""
+            },
+            {
+                "aid": 243447204,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lv41167Vf",
+                "cid": 200864720,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328176,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328176",
+                "long_title": "交叠",
+                "pub_time": 1591942680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第05话 交叠",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328176",
+                "short_link": "https://b23.tv/ep328176",
+                "skip": {
+                    "ed": {
+                        "end": 1373,
+                        "start": 1283
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "05",
+                "vid": ""
+            },
+            {
+                "aid": 370938497,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cZ4y1H7fq",
+                "cid": 201159207,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328177,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328177",
+                "long_title": "不是初次见面哦",
+                "pub_time": 1591942740,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第06话 不是初次见面哦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328177",
+                "short_link": "https://b23.tv/ep328177",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "06",
+                "vid": ""
+            },
+            {
+                "aid": 200991892,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yz411i7hy",
+                "cid": 200865438,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328178,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328178",
+                "long_title": "受试者001→002",
+                "pub_time": 1591942800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第07话 受试者001→002",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328178",
+                "short_link": "https://b23.tv/ep328178",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "07",
+                "vid": ""
+            },
+            {
+                "aid": 285914789,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qf4y127JS",
+                "cid": 200865603,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328179,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328179",
+                "long_title": "裂痕",
+                "pub_time": 1591942800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第08话 裂痕",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328179",
+                "short_link": "https://b23.tv/ep328179",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "08",
+                "vid": ""
+            },
+            {
+                "aid": 413386344,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1QV411C7dL",
+                "cid": 200865742,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328180,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328180",
+                "long_title": "雪耻",
+                "pub_time": 1591942860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第09话 雪耻",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328180",
+                "short_link": "https://b23.tv/ep328180",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1322
+                    },
+                    "op": {
+                        "end": 119,
+                        "start": 29
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "09",
+                "vid": ""
+            },
+            {
+                "aid": 370961165,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oZ4y1n7DF",
+                "cid": 200865869,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328181,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328181",
+                "long_title": "大家的任性",
+                "pub_time": 1591942920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第10话 大家的任性",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328181",
+                "short_link": "https://b23.tv/ep328181",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 163,
+                        "start": 73
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 838471102,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mg4y1q7n8",
+                "cid": 200866019,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328182,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328182",
+                "long_title": "往事重温",
+                "pub_time": 1591942920,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第11话 往事重温",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328182",
+                "short_link": "https://b23.tv/ep328182",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1311
+                    },
+                    "op": {
+                        "end": 135,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 243490000,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jv41167o8",
+                "cid": 201159348,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 328184,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328184",
+                "long_title": "双重惊慌",
+                "pub_time": 1591942980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第12话 双重惊慌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328184",
+                "short_link": "https://b23.tv/ep328184",
+                "skip": {
+                    "ed": {
+                        "end": 1342,
+                        "start": 1254
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 370889107,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17Z4y1W7Wd",
+                "cid": 200866759,
+                "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 328185,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep328185",
+                "long_title": "表白",
+                "pub_time": 1591942980,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《ReLIFE》第13话 表白",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep328185",
+                "short_link": "https://b23.tv/ep328185",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1427
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3523.2万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "海崎新太（27岁）在作为新毕业生进入的公司工作了3个月就辞职了。\r\n之后他的就职活动也不顺利。\r\n双亲寄来的生活费也中断了，不得已只好回到乡下。\r\n能够倾听他烦恼的朋友和女友全都没有……\r\n穷途末路的海崎面前出现了一位神秘人物·夜明了。\r\n夜明向海崎提出，要他参加以尼特为对象的社会复归程序“ReLIFE”。\r\n其内容是，利用神秘的秘药，仅仅让外表回复年轻，并在一年内以高中生的身份去读高中——。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229193/",
+        "media_id": 28229193,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 328185,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 21723,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2016-07-01 00:00:01",
+            "pub_time_show": "2016年7月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 45452,
+            "score": 9.9
+        },
+        "record": "登记号：10417060209692705",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5012,
+        "season_title": "ReLIFE",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5d07b0a76dcbf7766df4bb498edfae15d52cbbc2.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229193,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3b9778acf556740d28b42e79b14e38cee72826a8.jpg",
+                    "id": 328185,
+                    "index_show": "全13话"
+                },
+                "season_id": 5012,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2364824,
+                    "series_follow": 2461768,
+                    "views": 35231677
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9eb80f010c1c45a298fae09d970d422eeab79f70.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 79372,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e65e1029eca09d382ed1fc5e23066502f00b0d93.jpg",
+                    "id": 200757,
+                    "index_show": "全4话"
+                },
+                "season_id": 23884,
+                "season_title": "完结篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1246178,
+                    "series_follow": 2461768,
+                    "views": 17580094
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2957,
+            "series_title": "ReLIFE"
+        },
+        "share_copy": "《ReLIFE》社畜重返17岁",
+        "share_sub_title": "社畜重返17岁",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5012",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/c07bbb3de7a95e522755d08f15dbdeeab07826dc.jpg",
+        "stat": {
+            "coins": 353988,
+            "danmakus": 328619,
+            "favorite": 47711,
+            "favorites": 2364824,
+            "likes": 436004,
+            "reply": 25143,
+            "share": 59835,
+            "views": 35231677
+        },
+        "status": 13,
+        "subtitle": "已观看3523.2万次",
+        "title": "ReLIFE",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,736 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/6df6302a191aefb2307b56880befaba5f4d76b68.jpg",
+        "episodes": [
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812684,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 480
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 92975,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92975",
+                "long_title": "苏醒者",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第1话 苏醒者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92975",
+                "short_link": "https://b23.tv/ep92975",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "1",
+                "vid": "vupload_8812684"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812685,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 480
+                },
+                "duration": 1436000,
+                "from": "bangumi",
+                "id": 92976,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92976",
+                "long_title": "安地斯的邂逅",
+                "pub_time": 1469069966,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第2话 安地斯的邂逅",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92976",
+                "short_link": "https://b23.tv/ep92976",
+                "skip": {
+                    "ed": {
+                        "end": 1418,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "2",
+                "vid": "vupload_8812685"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812686,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1434228,
+                "from": "bangumi",
+                "id": 92977,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92977",
+                "long_title": "魂人的蠢动",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第3话 魂人的蠢动",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92977",
+                "short_link": "https://b23.tv/ep92977",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "3",
+                "vid": "vupload_8812686"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812687,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1434970,
+                "from": "bangumi",
+                "id": 92978,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92978",
+                "long_title": "泪之诀别",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第4话 泪之诀别",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92978",
+                "short_link": "https://b23.tv/ep92978",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "4",
+                "vid": "vupload_8812687"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812688,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1435110,
+                "from": "bangumi",
+                "id": 92979,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92979",
+                "long_title": "伊列塔瑟",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第5话 伊列塔瑟",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92979",
+                "short_link": "https://b23.tv/ep92979",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "5",
+                "vid": "vupload_8812688"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812689,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1435156,
+                "from": "bangumi",
+                "id": 92980,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92980",
+                "long_title": "决战!虚无城镇",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第6话 决战!虚无城镇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92980",
+                "short_link": "https://b23.tv/ep92980",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "6",
+                "vid": "vupload_8812689"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812690,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1433110,
+                "from": "bangumi",
+                "id": 92981,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92981",
+                "long_title": "两人的记忆",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第7话 两人的记忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92981",
+                "short_link": "https://b23.tv/ep92981",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "7",
+                "vid": "vupload_8812690"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812691,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1435678,
+                "from": "bangumi",
+                "id": 92982,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92982",
+                "long_title": "前往约定之地－飞鸟",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第8话 前往约定之地－飞鸟",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92982",
+                "short_link": "https://b23.tv/ep92982",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "8",
+                "vid": "vupload_8812691"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812692,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1434831,
+                "from": "bangumi",
+                "id": 92983,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92983",
+                "long_title": "追踪黑暗的光线",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第9话 追踪黑暗的光线",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92983",
+                "short_link": "https://b23.tv/ep92983",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "9",
+                "vid": "vupload_8812692"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812693,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1437754,
+                "from": "bangumi",
+                "id": 92984,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92984",
+                "long_title": "前往光明的明天",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第10话 前往光明的明天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92984",
+                "short_link": "https://b23.tv/ep92984",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "10",
+                "vid": "vupload_8812693"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812694,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1436641,
+                "from": "bangumi",
+                "id": 92985,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92985",
+                "long_title": "朝命运顶端前进",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第11话 朝命运顶端前进",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92985",
+                "short_link": "https://b23.tv/ep92985",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "11",
+                "vid": "vupload_8812694"
+            },
+            {
+                "aid": 5421602,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs41117vR",
+                "cid": 8812695,
+                "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1423082,
+                "from": "bangumi",
+                "id": 92986,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92986",
+                "long_title": "为了未来!",
+                "pub_time": 1469069940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《时空转抄纳斯卡》第12话 为了未来!",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92986",
+                "short_link": "https://b23.tv/ep92986",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1321
+                    },
+                    "op": {
+                        "end": 85,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5.5万次",
+                "title": "12",
+                "vid": "vupload_8812695"
+            }
+        ],
+        "evaluate": "原创动画作品，而后才有改编的漫画。古代印加帝国的恩怨持续转承至现代，那些在馆与三浦周围，其前世同样为印加帝国的战士与神官的人们也逐渐苏醒了。馆意图重新发动伊列塔瑟的力量毁灭世界，三浦欲再度阻止，那些觉醒的人们分别支持他们两人的作法而形成两边敌对的阵营互相斗争，三浦恭资在自己与比鲁卡、杀与不杀自己恩师的矛盾之中，要如何解除这个危机呢？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5270/",
+        "media_id": 5270,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 92986,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 22104,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "1998-04-06 00:00:01",
+            "pub_time_show": "1998年4月6日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 0,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5270,
+        "season_title": "时空转抄纳斯卡",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6df6302a191aefb2307b56880befaba5f4d76b68.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5270,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/8abdd31aeb1fc72cc49a73bd60d239144e208e3a.jpg",
+                    "id": 92986,
+                    "index_show": "全12话"
+                },
+                "season_id": 5270,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5114,
+                    "series_follow": 5114,
+                    "views": 55479
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3149,
+            "series_title": "时空转抄纳斯卡"
+        },
+        "share_copy": "《时空转抄纳斯卡》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5270",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/6f8418a06934b690b7312de7b84a21c6cbc52b5c.jpg",
+        "stat": {
+            "coins": 42,
+            "danmakus": 242,
+            "favorite": 40,
+            "favorites": 5114,
+            "likes": 75,
+            "reply": 75,
+            "share": 26,
+            "views": 55479
+        },
+        "status": 2,
+        "subtitle": "已观看5.5万次",
+        "title": "时空转抄纳斯卡",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

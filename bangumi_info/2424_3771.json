@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/4bf31fce9e9fc66423c74d9759f1cd1248a9b5c9.jpg",
+        "episodes": [
+            {
+                "aid": 177682,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1nx411w7Fx",
+                "cid": 291291,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/00c739e703f47c2fb628ec3fc93922590f4d49f1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 432000,
+                "from": "bangumi",
+                "id": 86449,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86449",
+                "long_title": "Candy☆Boy OVA",
+                "pub_time": 1460951443,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Candy☆Boy OVA》第1话 Candy☆Boy OVA",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86449",
+                "short_link": "https://b23.tv/ep86449",
+                "skip": {
+                    "ed": {
+                        "end": 432,
+                        "start": 465
+                    },
+                    "op": {
+                        "end": 6,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看236.6万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "《Candy☆Boy》是由ANIME INTERNATIONAL COMPANY于2007年11月22日出版的原创网络动画。该网络短片在NICONICO动画网络影像服务和Cho!animelo影音网站发行。在2007年12月5日，Candy☆Boy随韩国艺人Meilin的Candy☆Boy DVD光碟限量发行。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3771/",
+        "media_id": 3771,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 86449,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20689,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-11-22 00:00:01",
+            "pub_time_show": "2007年11月22日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 538,
+            "score": 9.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3771,
+        "season_title": "Candy☆Boy OVA",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4bf31fce9e9fc66423c74d9759f1cd1248a9b5c9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3771,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/00c739e703f47c2fb628ec3fc93922590f4d49f1.jpg",
+                    "id": 86449,
+                    "index_show": "全1话"
+                },
+                "season_id": 3771,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 28213,
+                    "series_follow": 178009,
+                    "views": 2365789
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e6f8e9b24804298c6db1656b36f617bb9af282b2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1789,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/00c739e703f47c2fb628ec3fc93922590f4d49f1.jpg",
+                    "id": 35728,
+                    "index_show": "全9话"
+                },
+                "season_id": 1789,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 172717,
+                    "series_follow": 178009,
+                    "views": 2365789
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1194,
+            "series_title": "CANDY BOY"
+        },
+        "share_copy": "《Candy☆Boy OVA》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3771",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ea41b091a6b14264491b8d9963fa61732f628327.png",
+        "stat": {
+            "coins": 13481,
+            "danmakus": 44230,
+            "favorite": 208,
+            "favorites": 28213,
+            "likes": 10362,
+            "reply": 4472,
+            "share": 164,
+            "views": 2365789
+        },
+        "status": 2,
+        "subtitle": "已观看236.6万次",
+        "title": "Candy☆Boy OVA",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

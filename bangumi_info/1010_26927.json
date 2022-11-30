@@ -1,0 +1,208 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/fd43de231c5f18571e933d2d5d714ce568509563.png",
+        "episodes": [
+            {
+                "aid": 47622493,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ub411x7Yw",
+                "cid": 83415004,
+                "cover": "http://i0.hdslb.com/bfs/archive/8643d5f5b475fee2040ef08203a0d442f7a53f32.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 3615000,
+                "from": "bangumi",
+                "id": 266304,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep266304?theme=movie",
+                "long_title": "天空图书馆与真红魔王",
+                "pub_time": 1553828400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《TRINITY SEVEN 七人魔法使 剧场版 2》第1话 天空图书馆与真红魔王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep266304",
+                "short_link": "https://b23.tv/ep266304",
+                "skip": {
+                    "ed": {
+                        "end": 3614,
+                        "start": 3367
+                    },
+                    "op": {
+                        "end": 24,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看271.7万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "「天空图书馆与真红魔王」。夺回掌握着世界之命运的「最后的钥匙」，最为危险且禁断的魔道战争，现在开幕！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md24662313/",
+        "media_id": 24662313,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 266304,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 36460,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-03-29 11:00:00",
+            "pub_time_show": "2019年03月29日11:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1432,
+            "score": 9.1
+        },
+        "record": "登记号：10417060205102312",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26927,
+        "season_title": "TRINITY SEVEN 七人魔法使 剧场版 2",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fd43de231c5f18571e933d2d5d714ce568509563.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 24662313,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/8643d5f5b475fee2040ef08203a0d442f7a53f32.jpg",
+                    "id": 266304,
+                    "index_show": "全1话"
+                },
+                "season_id": 26927,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 360704,
+                    "series_follow": 1217573,
+                    "views": 2717104
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 201,
+            "series_title": "TRINITY SEVEN 七人魔法使"
+        },
+        "share_copy": "《TRINITY SEVEN 七人魔法使 剧场版 2》魔王，由我打败！",
+        "share_sub_title": "魔王，由我打败！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26927",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/4e7d50ca418ac578d1f15531dfebdc732efc3a9d.jpg",
+        "stat": {
+            "coins": 9408,
+            "danmakus": 6631,
+            "favorite": 3937,
+            "favorites": 360704,
+            "likes": 15762,
+            "reply": 2915,
+            "share": 1697,
+            "views": 2717104
+        },
+        "status": 13,
+        "subtitle": "已观看271.7万次",
+        "title": "TRINITY SEVEN 七人魔法使 剧场版 2",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

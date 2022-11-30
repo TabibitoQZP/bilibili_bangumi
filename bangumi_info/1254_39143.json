@@ -1,0 +1,493 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/dd76124f8b262313277fcf4bdf32293d64eeee04.png",
+        "episodes": [
+            {
+                "aid": 759464986,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1T64y1B7Ex",
+                "cid": 376366421,
+                "cover": "http://i0.hdslb.com/bfs/archive/bf7a5836a50b3b96c7c1f54238dc8b504c1f51af.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6296000,
+                "from": "bangumi",
+                "id": 413738,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep413738",
+                "long_title": "",
+                "pub_time": 1627293601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《鬼灭之刃 兄妹之绊》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep413738",
+                "short_link": "https://b23.tv/ep413738",
+                "skip": {
+                    "ed": {
+                        "end": 6294,
+                        "start": 6028
+                    },
+                    "op": {
+                        "end": 15,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1504.4万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作为由TV动画《鬼灭之刃》1-5话整合而成的特别上映版。\n心地善良的卖炭少年的家人被鬼杀戮，唯一生还的只有变异成了鬼的妹妹·祢豆子。\n为了将祢豆子变回人类、为了给死去的家人复仇，炭治郎与祢豆子2人踏上了旅程。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234835/",
+        "media_id": 28234835,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 413738,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 61332,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-07-26 18:00:00",
+            "pub_time_show": "2021年07月26日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1156,
+            "score": 9.0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39143,
+        "season_title": "鬼灭之刃 兄妹之绊",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4179b4398bad6f92e876e352cae21be7b8ceb8bf.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8a98a9c685766f5f2dd1cfc8912d26af6c6ba470.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/4a98bbf6892e15bf83bedc5263f3a36e675d66be.png",
+                "media_id": 22718131,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d84fb0c9b4e5fa163f10ce6819becfaefa4f02c9.jpg",
+                    "id": 267876,
+                    "index_show": "全26话"
+                },
+                "season_id": 26801,
+                "season_title": "立志篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 12097002,
+                    "series_follow": 14999428,
+                    "views": 898390251
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/962b27ff452b5daf98038a10a6dad3c134916e7d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229443,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/653599b3c13dfef78238885e019291d578bb13bf.jpg",
+                    "id": 368205,
+                    "index_show": "全26话"
+                },
+                "season_id": 34004,
+                "season_title": "立志篇 中配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 7642476,
+                    "series_follow": 14999428,
+                    "views": 146167174
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/05ee8871df7c9afad0a961dab2abc90dc22c1d77.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/779b9ac8511dd2abf64471ecd5d4342ade70d8cd.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/b8febdddb025a86e1d0b7ee4bce9184f18ca77b9.png",
+                "media_id": 28236905,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7b03c7ab368d0aabf6eb1455433e551fcf268694.png",
+                    "id": 470523,
+                    "index_show": "全26话"
+                },
+                "season_id": 41197,
+                "season_title": "立志篇 粤配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 39919,
+                    "series_follow": 14999428,
+                    "views": 6447193
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7c100a22fe2e48c6eb9a739b4ed2999dd401dc8b.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8f0812778f5a68a6e123437bebebd06f51b5410a.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/1d7bbfa86413d208e55376d3c58be67e2fc8ccf6.png",
+                "media_id": 28235136,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/afaa27349b9cc1cff1cd56d982cfeca171d9122e.png",
+                    "id": 452566,
+                    "index_show": "全7话"
+                },
+                "season_id": 39444,
+                "season_title": "无限列车篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13079460,
+                    "series_follow": 14999428,
+                    "views": 166718343
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/394c32c7dbebbc24b626f7e12e0fa9e6aef5da92.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/30908825b7c8076b9d7b58d8cd949a87f48866e6.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/86dccb2e19ca21e2cf4ac099bd68da5886a62045.png",
+                "media_id": 28236711,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b0982e5d9035f86a7eca654a3e7a6884dd05fd77.png",
+                    "id": 466767,
+                    "index_show": "全7话"
+                },
+                "season_id": 41005,
+                "season_title": "无限列车篇 中配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 125047,
+                    "series_follow": 14999428,
+                    "views": 13399379
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f641f81aa1933d73c91d5ef76b525acbcdbcf3e7.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/c7ccf71fcf65b4e5655403b01a7af3529d2891e8.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/3301bf55a9709f8a4e78396413436830b914359b.png",
+                "media_id": 28235125,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a9b9fe2f540e6b946eb727fd685b6b8d6afbe88d.png",
+                    "id": 510755,
+                    "index_show": "全11话"
+                },
+                "season_id": 39433,
+                "season_title": "游郭篇",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13977875,
+                    "series_follow": 14999428,
+                    "views": 204008191
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/dd76124f8b262313277fcf4bdf32293d64eeee04.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234835,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bf7a5836a50b3b96c7c1f54238dc8b504c1f51af.jpg",
+                    "id": 413738,
+                    "index_show": "全1话"
+                },
+                "season_id": 39143,
+                "season_title": "总集篇1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 224136,
+                    "series_follow": 14999428,
+                    "views": 15043522
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/bf1c35629b376907250a756b5e67453d011806d4.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234836,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a260217b48d71815c01721badc675a37b7298ee3.jpg",
+                    "id": 413740,
+                    "index_show": "全1话"
+                },
+                "season_id": 39144,
+                "season_title": "总集篇2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 188612,
+                    "series_follow": 14999428,
+                    "views": 8781299
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d381db763c2f2b297a93b6781f3e075ab9db9f43.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234837,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/7c0054a06f82dec4af89f13e47e9a32c4b33b5fc.jpg",
+                    "id": 413748,
+                    "index_show": "全1话"
+                },
+                "season_id": 39145,
+                "season_title": "总集篇3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 281075,
+                    "series_follow": 14999428,
+                    "views": 14030539
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/32a5c1d7a586c3ac16a4f7d90ab7dff963df7dd4.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234839,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/e304191f166e932017243a5447ed4d2265150e52.png",
+                    "id": 413765,
+                    "index_show": "全7话"
+                },
+                "season_id": 39147,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 394185,
+                    "series_follow": 14999428,
+                    "views": 21510681
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3d3dcdb9a2266a5fa9b21f44125f6436d2325a4b.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/b7236d6af8ab4e492f7254af326a688eecb31492.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/3e2407a690aca9bdaeb2abaa35757fd304a95262.png",
+                "media_id": 28237310,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b7236d6af8ab4e492f7254af326a688eecb31492.png",
+                    "id": 490218,
+                    "index_show": "全2话"
+                },
+                "season_id": 41601,
+                "season_title": "交响音乐会",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 34076,
+                    "series_follow": 14999428,
+                    "views": 2955918
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4358,
+            "series_title": "鬼灭之刃"
+        },
+        "share_copy": "《鬼灭之刃 兄妹之绊》谁都斩不断的羁绊",
+        "share_sub_title": "谁都斩不断的羁绊",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39143",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/1ff9ac3ce2d11c0b427dc0a0f7fa5c53bee3b11d.png",
+        "stat": {
+            "coins": 16565,
+            "danmakus": 19691,
+            "favorite": 7459,
+            "favorites": 224136,
+            "likes": 63535,
+            "reply": 1976,
+            "share": 3583,
+            "views": 15043538
+        },
+        "status": 13,
+        "subtitle": "已观看1504.4万次",
+        "title": "鬼灭之刃 兄妹之绊",
+        "total": 1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859946,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

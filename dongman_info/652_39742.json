@@ -1,0 +1,178 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/4cbfc155c0bc901814c04be1a83b0ee9e8e1d7e1.png",
+        "episodes": [
+            {
+                "aid": 933658084,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iT4y1o7vo",
+                "cid": 429070673,
+                "cover": "http://i0.hdslb.com/bfs/archive/8bfadeda94ac78b9843e6bdc5bcaa574e55c5d76.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 633000,
+                "from": "bangumi",
+                "id": 426815,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep426815?theme=movie",
+                "long_title": "",
+                "pub_time": 1634901840,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《三十六个字》36个象形文字",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep426815",
+                "short_link": "https://b23.tv/ep426815",
+                "status": 2,
+                "subtitle": "已观看20.6万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "父亲教儿子识字，通过讲解象形文字说明中国文字的起源。影片借用三十六个活动的象形文字，讲述了一个有趣的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235436/",
+        "media_id": 28235436,
+        "mode": 1,
+        "new_ep": {
+            "desc": "1984上映",
+            "id": 426815,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 62653,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-10-22 19:23:00",
+            "pub_time_show": "2021年10月22日19:23",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 159,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39742,
+        "season_title": "三十六个字",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《三十六个字》36个象形文字",
+        "share_sub_title": "36个象形文字",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39742",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/7573925c703deec6fa4435a7c7e400547381ad9b.png",
+        "stat": {
+            "coins": 1944,
+            "danmakus": 535,
+            "favorite": 11889,
+            "favorites": 33004,
+            "likes": 6160,
+            "reply": 229,
+            "share": 3855,
+            "views": 205738
+        },
+        "status": 2,
+        "subtitle": "已观看20.6万次",
+        "title": "三十六个字",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/dfdcf7cb211825bbb7adcbf3facfa23123bdb77d.jpg",
+            "avatar_subscript_url": "",
+            "follower": 168617,
+            "is_follow": 0,
+            "mid": 75930105,
+            "nickname_color": "",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "上海美术电影制片厂",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "text": "",
+                "text_color": ""
+            },
+            "vip_status": 0,
+            "vip_type": 1
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

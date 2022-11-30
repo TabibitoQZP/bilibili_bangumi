@@ -1,0 +1,240 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/909c6b7bde4e761b05d266dfbb4d33d98b78c5ce.jpg",
+        "episodes": [
+            {
+                "aid": 8695415,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1jx411y7Rv",
+                "cid": 14324776,
+                "cover": "http://i2.hdslb.com/bfs/archive/3b39aa2ca5fe2deb9fffc86b2e74c20305d93ee9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2761000,
+                "from": "bangumi",
+                "id": 102039,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep102039",
+                "long_title": "前篇",
+                "pub_time": 1487430009,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《龙的牙医》第1话 前篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep102039",
+                "short_link": "https://b23.tv/ep102039",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 445,
+                        "start": 330
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看452.6万次",
+                "title": "1",
+                "vid": "vupload_14324776"
+            },
+            {
+                "aid": 8832480,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dx411y7P6",
+                "cid": 93467344,
+                "cover": "http://i2.hdslb.com/bfs/archive/3b39aa2ca5fe2deb9fffc86b2e74c20305d93ee9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 2761000,
+                "from": "bangumi",
+                "id": 102102,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep102102",
+                "long_title": "后篇",
+                "pub_time": 1488034809,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《龙的牙医》第2话 后篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep102102",
+                "short_link": "https://b23.tv/ep102102",
+                "skip": {
+                    "ed": {
+                        "end": 2760,
+                        "start": 2534
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看452.6万次",
+                "title": "2",
+                "vid": "vupload_14570131"
+            }
+        ],
+        "evaluate": "一个架空世界，在龙之国传说中龙与人类签订了契约互帮互助。野野子是专门帮国家守护神龙清理蛀牙菌的新人牙医，龙之国目前正在处于和敌国的战争中，而且战争日趋激烈，某天野野子在龙的巨大牙齿上发现了晕倒的敌国少年兵，少年的名字叫贝尔，而野野子将这名少年捡了回来……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5933/",
+        "media_id": 5933,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全2话",
+            "id": 102102,
+            "is_new": 0,
+            "title": "2"
+        },
+        "positive": {
+            "id": 22841,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-02-18 23:00:00",
+            "pub_time_show": "2017年02月18日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3626,
+            "score": 9.6
+        },
+        "record": "登记号：10417060208613002",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5933,
+        "season_title": "龙的牙医",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/909c6b7bde4e761b05d266dfbb4d33d98b78c5ce.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5933,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/3b39aa2ca5fe2deb9fffc86b2e74c20305d93ee9.jpg",
+                    "id": 102102,
+                    "index_show": "全2话"
+                },
+                "season_id": 5933,
+                "season_title": "TV版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 460874,
+                    "series_follow": 460874,
+                    "views": 4525585
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3560,
+            "series_title": "龙的牙医"
+        },
+        "share_copy": "《龙的牙医》重生到龙的牙齿",
+        "share_sub_title": "重生到龙的牙齿",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5933",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/1cf612470a9a1061a11872458cefe862a2eec9ba.jpg",
+        "stat": {
+            "coins": 26325,
+            "danmakus": 55759,
+            "favorite": 2758,
+            "favorites": 460874,
+            "likes": 26336,
+            "reply": 9282,
+            "share": 14983,
+            "views": 4525585
+        },
+        "status": 2,
+        "subtitle": "已观看452.6万次",
+        "title": "龙的牙医",
+        "total": 2,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

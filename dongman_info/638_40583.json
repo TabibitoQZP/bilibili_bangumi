@@ -1,0 +1,178 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/2f6312fcabd8de088e7b3799119c69e26069c3bd.png",
+        "episodes": [
+            {
+                "aid": 550032844,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yi4y197Yt",
+                "cid": 466883334,
+                "cover": "http://i0.hdslb.com/bfs/archive/9f3dacbf37e9aa7dcbbb9cb9bed5041f29b6647a.png",
+                "dimension": {
+                    "height": 804,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 491000,
+                "from": "bangumi",
+                "id": 451527,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep451527?theme=movie",
+                "long_title": "",
+                "pub_time": 1640689201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《冲破黑暗》冲破黑暗，寻找光明",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep451527",
+                "short_link": "https://b23.tv/ep451527",
+                "status": 2,
+                "subtitle": "已观看71.7万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "生活在永夜中的人们一次次飞向天空，只为能够冲破黑暗，寻找光明。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236288/",
+        "media_id": 28236288,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2021年4月7日上映",
+            "id": 451527,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 64048,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-12-28 19:00:00",
+            "pub_time_show": "2021年12月28日19:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1455,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 40583,
+        "season_title": "冲破黑暗",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《冲破黑暗》冲破黑暗，寻找光明",
+        "share_sub_title": "冲破黑暗，寻找光明",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss40583",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/7a0b355457e9c048fc69e15b04a4b65cb46c859c.png",
+        "stat": {
+            "coins": 18190,
+            "danmakus": 1514,
+            "favorite": 8254,
+            "favorites": 35205,
+            "likes": 29171,
+            "reply": 527,
+            "share": 4155,
+            "views": 716551
+        },
+        "status": 2,
+        "subtitle": "已观看71.7万次",
+        "title": "冲破黑暗",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/25da2b1573e994c453b7cc4e2a751012510978cc.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6795,
+            "is_follow": 0,
+            "mid": 1205596944,
+            "nickname_color": "",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "蓝星球科幻",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "text": "",
+                "text_color": ""
+            },
+            "vip_status": 0,
+            "vip_type": 0
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

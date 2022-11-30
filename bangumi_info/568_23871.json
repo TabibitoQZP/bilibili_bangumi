@@ -1,0 +1,784 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a4564ec2fb54e059d94608808ed06ebfa1167a6a.jpg",
+        "episodes": [
+            {
+                "aid": 21562641,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iW411T7N9",
+                "cid": 93485880,
+                "cover": "http://i0.hdslb.com/bfs/archive/8c8de95691a183ff0045c08d6d2edca861b44d6b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 199804,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep199804",
+                "long_title": "魔法少女☆变身",
+                "pub_time": 1522677600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第1话 魔法少女☆变身",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep199804",
+                "short_link": "https://b23.tv/ep199804",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 365,
+                        "start": 271
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1353万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 21871372,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bW411K7sW",
+                "cid": 36106737,
+                "cover": "http://i0.hdslb.com/bfs/archive/76d860ef797abab18778947e596e1ffc2a556483.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 200730,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200730",
+                "long_title": "魔法少女☆老子",
+                "pub_time": 1523282400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第2话 魔法少女☆老子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200730",
+                "short_link": "https://b23.tv/ep200730",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 22
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 22174595,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dW411L77h",
+                "cid": 36682263,
+                "cover": "http://i0.hdslb.com/bfs/archive/ba65ade65be64acc7ffce14be0c145187eac0c3b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 201952,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep201952",
+                "long_title": "魔法少女☆增加了",
+                "pub_time": 1523887200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第3话 魔法少女☆增加了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep201952",
+                "short_link": "https://b23.tv/ep201952",
+                "skip": {
+                    "ed": {
+                        "end": 1365,
+                        "start": 1276
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 22483063,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cW411L7TC",
+                "cid": 37264322,
+                "cover": "http://i0.hdslb.com/bfs/archive/60a0760a479c477aa69af15ef019de559945d096.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 203702,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep203702",
+                "long_title": "魔法少女☆对改造人",
+                "pub_time": 1524492000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第4话 魔法少女☆对改造人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep203702",
+                "short_link": "https://b23.tv/ep203702",
+                "skip": {
+                    "ed": {
+                        "end": 1297,
+                        "start": 1207
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 22778311,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SW411V7Z9",
+                "cid": 37824370,
+                "cover": "http://i0.hdslb.com/bfs/archive/2d1e9e32bed9ab8e96f3c3047e04997cd55739da.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 203703,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep203703",
+                "long_title": "魔法少女☆旅行中",
+                "pub_time": 1525096800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第5话 魔法少女☆旅行中",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep203703",
+                "short_link": "https://b23.tv/ep203703",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 250,
+                        "start": 160
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 23114003,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xp411f71P",
+                "cid": 38456229,
+                "cover": "http://i0.hdslb.com/bfs/archive/94e045d11a46bd3f0a52a58280f90aea9a948e55.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205496,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205496",
+                "long_title": "魔法少女☆温泉经营",
+                "pub_time": 1525701600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第6话 魔法少女☆温泉经营",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205496",
+                "short_link": "https://b23.tv/ep205496",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 23424015,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mp411Z78w",
+                "cid": 39053461,
+                "cover": "http://i0.hdslb.com/bfs/archive/86c74b5c65e15baf02c161a4a7dfb7fc3a7e3d7b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205555,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205555",
+                "long_title": "魔法少女☆LESSON",
+                "pub_time": 1526306400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第7话 魔法少女☆LESSON",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205555",
+                "short_link": "https://b23.tv/ep205555",
+                "skip": {
+                    "ed": {
+                        "end": 1380,
+                        "start": 1291
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 111
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 23730981,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gp411o75C",
+                "cid": 39659127,
+                "cover": "http://i0.hdslb.com/bfs/archive/656ea6f39baabc071668bfec3fc4b1ebf05b806f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205556,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205556",
+                "long_title": "魔法少女☆握手会",
+                "pub_time": 1526911200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第8话 魔法少女☆握手会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205556",
+                "short_link": "https://b23.tv/ep205556",
+                "skip": {
+                    "ed": {
+                        "end": 1367,
+                        "start": 1278
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 71
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 24053727,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gp411d7Uz",
+                "cid": 40285614,
+                "cover": "http://i0.hdslb.com/bfs/archive/21c4247d5200027f8bda19077fd3f27cad3dee4d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205557",
+                "long_title": "魔法少女☆又增加了",
+                "pub_time": 1527516000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第9话 魔法少女☆又增加了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205557",
+                "short_link": "https://b23.tv/ep205557",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 24362609,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UW411N7Ar",
+                "cid": 40888583,
+                "cover": "http://i0.hdslb.com/bfs/archive/26920804f0204533a04c706cabcc3c5276582bb3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205558,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205558",
+                "long_title": "魔法少女☆跟踪",
+                "pub_time": 1528120800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第10话 魔法少女☆跟踪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205558",
+                "short_link": "https://b23.tv/ep205558",
+                "skip": {
+                    "ed": {
+                        "end": 1300,
+                        "start": 1211
+                    },
+                    "op": {
+                        "end": 323,
+                        "start": 234
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 24688591,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TW411w7Wv",
+                "cid": 41519522,
+                "cover": "http://i0.hdslb.com/bfs/archive/03739a9ec79f1cba4ec6fa3fc350482c8b1a51c6.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 205559,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205559",
+                "long_title": "魔法少女☆最终决战",
+                "pub_time": 1528725600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第11话 魔法少女☆最终决战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205559",
+                "short_link": "https://b23.tv/ep205559",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 133,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 25129853,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aW411c7zp",
+                "cid": 42559016,
+                "cover": "http://i0.hdslb.com/bfs/archive/4e3f66d0bd790bb7521b8259c01510b8728ec464.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 205560,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep205560",
+                "long_title": "魔法少女☆我",
+                "pub_time": 1529330400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女 俺》第12话 魔法少女☆我",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep205560",
+                "short_link": "https://b23.tv/ep205560",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1353万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "卯野咲是个很普通的女孩子，有一天回家的时候，发现有个怪异模样的男子正在踢门。\n而令人意想不到的是，这个男子跟她的母亲居然是旧识，并且母亲还坦言了自己曾经做过魔法少女的事实。\n经过解释，这名凶恶的男子居然是前来找咲代替母亲签订魔法少女契约。\n获悉此事，咲一开始很不情愿，结果面对敌人来袭的时候她被迫变身，但出现在大家面前的居然是个肌肉饱满的纯爷们？！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md78832/",
+        "media_id": 78832,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 205560,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 33267,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2018-04-02 22:00:00",
+            "pub_time_show": "2018年04月02日22:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 7030,
+            "score": 9.3
+        },
+        "record": "登记号：10417060216142303",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 23871,
+        "season_title": "魔法少女 俺",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a4564ec2fb54e059d94608808ed06ebfa1167a6a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 78832,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/4e3f66d0bd790bb7521b8259c01510b8728ec464.jpg",
+                    "id": 205560,
+                    "index_show": "全12话"
+                },
+                "season_id": 23871,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 864497,
+                    "series_follow": 915286,
+                    "views": 13530269
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a4564ec2fb54e059d94608808ed06ebfa1167a6a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 82692,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c4862e955c6042be573ffd0028e6f6ff73c4f749.jpg",
+                    "id": 215995,
+                    "index_show": "全12话"
+                },
+                "season_id": 23942,
+                "season_title": "中配版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 93568,
+                    "series_follow": 915286,
+                    "views": 3232533
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3977,
+            "series_title": "老子是魔法少女"
+        },
+        "share_copy": "《魔法少女 俺》这是魔法少女…？",
+        "share_sub_title": "这是魔法少女…？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss23871",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/c75d5d1a7394dbc62aa4148c9f36fd0bdabc75dc.jpg",
+        "stat": {
+            "coins": 30819,
+            "danmakus": 281546,
+            "favorite": 2587,
+            "favorites": 864497,
+            "likes": 78953,
+            "reply": 33554,
+            "share": 38698,
+            "views": 13530269
+        },
+        "status": 13,
+        "subtitle": "已观看1353万次",
+        "title": "魔法少女 俺",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

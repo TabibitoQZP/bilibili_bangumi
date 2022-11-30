@@ -1,0 +1,242 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/be114160ae93cf2f608c009dab5dbd37ce459f8e.jpg",
+        "episodes": [
+            {
+                "aid": 9036433,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gx411C7bv",
+                "cid": 14925289,
+                "cover": "http://i2.hdslb.com/bfs/archive/6de2b1e2856eef1c5c843e17e95b9fde019fbd3e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2659000,
+                "from": "bangumi",
+                "id": 102321,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep102321",
+                "long_title": "",
+                "pub_time": 1489569660,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《热诚传说～导师的黎明～》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep102321",
+                "short_link": "https://b23.tv/ep102321",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看127.9万次",
+                "title": "1",
+                "vid": "vupload_14925289"
+            }
+        ],
+        "evaluate": "《情热传说～导师的黎明～》是由ufotable制作的电视动画作品，于2014年12月30日播放，全1话。动画改编自万代南梦宫游戏开发的角色扮演游戏《热情传说》。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5939/",
+        "media_id": 5939,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 102321,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22735,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-12-30 00:00:01",
+            "pub_time_show": "2014年12月30日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 275,
+            "score": 8.8
+        },
+        "record": "登记号：10417060200122112",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5939,
+        "season_title": "热诚传说～导师的黎明～",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6e6a7524c42efb8061985f9fe1a0448e6913c3e2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5022,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/2f97e256b77d505c5c3a215821ef8cd395581aff.jpg",
+                    "id": 90991,
+                    "index_show": "全13话"
+                },
+                "season_id": 5022,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1327518,
+                    "series_follow": 1564219,
+                    "views": 33768304
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ba5e1473bfae1c69956a51e1156e455ef5132a36.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5789,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/8ee3b122a345514189c1bbb314980fe863915f78.jpg",
+                    "id": 102950,
+                    "index_show": "全13话"
+                },
+                "season_id": 5789,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 628427,
+                    "series_follow": 1564219,
+                    "views": 14188308
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/be114160ae93cf2f608c009dab5dbd37ce459f8e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5939,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/6de2b1e2856eef1c5c843e17e95b9fde019fbd3e.jpg",
+                    "id": 102321,
+                    "index_show": "全1话"
+                },
+                "season_id": 5939,
+                "season_title": "TV Special",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 80173,
+                    "series_follow": 1564219,
+                    "views": 1278881
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2965,
+            "series_title": "热诚传说X"
+        },
+        "share_copy": "《热诚传说～导师的黎明～》共存的梦想变得炽热",
+        "share_sub_title": "共存的梦想变得炽热",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5939",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/50d5a63113f035d0add65057f5153b311bb654bd.jpg",
+        "stat": {
+            "coins": 1437,
+            "danmakus": 3161,
+            "favorite": 332,
+            "favorites": 80173,
+            "likes": 1958,
+            "reply": 550,
+            "share": 341,
+            "views": 1278881
+        },
+        "status": 2,
+        "subtitle": "已观看127.9万次",
+        "title": "热诚传说～导师的黎明～",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

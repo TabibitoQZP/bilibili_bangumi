@@ -1,0 +1,614 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6707b9811e404442aa6ceb0aacdc5bae37b7306c.png",
+        "episodes": [
+            {
+                "aid": 74944890,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tE411q7rN",
+                "cid": 129018549,
+                "cover": "http://i0.hdslb.com/bfs/archive/67fa6a0a080e30c868b1e4ae3de413fc95447bee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 6495000,
+                "from": "bangumi",
+                "id": 291371,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep291371?theme=movie",
+                "long_title": "",
+                "pub_time": 1573228803,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《剧场版 阿松》全片 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep291371",
+                "short_link": "https://b23.tv/ep291371",
+                "skip": {
+                    "ed": {
+                        "end": 6397,
+                        "start": 6205
+                    },
+                    "op": {
+                        "end": 39,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看125.6万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "某天，六胞胎参加了高中同窗会。与成长为成熟大人、在社会上活跃的同学们重逢。\n对比之下发现自己完全不成器，他们因此大受打击，喝完闷酒之后睡着了。\n第二天早晨，清醒的小松等人注意到房间中的异变，来到街上。印入眼中的是与平日里不同却又有些熟悉的景色。\n众人正要怀疑这里是不是「过去世界」时，大裤衩告知他们「6人中的某人，在这个时代留下了巨大的遗憾」。\n为确认真相，他们要去见的人，是18岁时的自己…",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28223473/",
+        "media_id": 28223473,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 291371,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 38872,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-11-09 00:00:00",
+            "pub_time_show": "2019年11月09日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 3574,
+            "score": 9.8
+        },
+        "record": "登记号：10417060205192612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28960,
+        "season_title": "剧场版 阿松",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/48b4bd607f04a580a44322a61fe09eca3bf2fb87.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5763,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/b29c41f0eefe90cc7c386eacd544e0371f1b6f1b.jpg",
+                    "id": 97899,
+                    "index_show": "全1话"
+                },
+                "season_id": 5763,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 72257,
+                    "series_follow": 748109,
+                    "views": 915686
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6707b9811e404442aa6ceb0aacdc5bae37b7306c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223473,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/67fa6a0a080e30c868b1e4ae3de413fc95447bee.jpg",
+                    "id": 291371,
+                    "index_show": "全1话"
+                },
+                "season_id": 28960,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 469815,
+                    "series_follow": 748109,
+                    "views": 1256447
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/0212baa8898d0c819c7fb84015e95b8fca621435.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229892,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/69e1984efa93762863457030830cf66dd908cdb2.jpg",
+                    "id": 341098,
+                    "index_show": "全25话"
+                },
+                "season_id": 34423,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 678414,
+                    "series_follow": 748109,
+                    "views": 9880626
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 81395364,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1MJ411h7eN",
+                        "cid": 139303163,
+                        "cover": "http://i0.hdslb.com/bfs/archive/3dafd2c83aecb2ba11f3a997e468067171d87e70.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 125000,
+                        "from": "bangumi",
+                        "id": 307531,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307531?theme=movie",
+                        "long_title": "One The Movie",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第一松 One The Movie",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307531",
+                        "short_link": "https://b23.tv/ep307531",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 448,
+                            "danmakus": 208,
+                            "likes": 2298,
+                            "play": 82645,
+                            "reply": 696
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第一松",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 81398919,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1JJ411h7H5",
+                        "cid": 139308847,
+                        "cover": "http://i0.hdslb.com/bfs/archive/cf9427f054f795b81fab4b87963b70a1be054274.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 133000,
+                        "from": "bangumi",
+                        "id": 307533,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307533?theme=movie",
+                        "long_title": "交给我",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第二松 交给我",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307533",
+                        "short_link": "https://b23.tv/ep307533",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 218,
+                            "danmakus": 356,
+                            "likes": 319,
+                            "play": 48418,
+                            "reply": 68
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第二松",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 81400601,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HJ411h7yS",
+                        "cid": 139311628,
+                        "cover": "http://i0.hdslb.com/bfs/archive/766a9596c46fa10f627f11e31c887e9d660a52e8.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 118000,
+                        "from": "bangumi",
+                        "id": 307534,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307534?theme=movie",
+                        "long_title": "限定商品",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第三松 限定商品",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307534",
+                        "short_link": "https://b23.tv/ep307534",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 155,
+                            "danmakus": 348,
+                            "likes": 237,
+                            "play": 40764,
+                            "reply": 40
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第三松",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 81402653,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HJ411h7Mv",
+                        "cid": 139315138,
+                        "cover": "http://i0.hdslb.com/bfs/archive/cb5921f6874c92545871fd48aa4ed18cef8cc419.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 108000,
+                        "from": "bangumi",
+                        "id": 307542,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307542?theme=movie",
+                        "long_title": "剧情",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第四松 剧情",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307542",
+                        "short_link": "https://b23.tv/ep307542",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 130,
+                            "danmakus": 147,
+                            "likes": 225,
+                            "play": 37992,
+                            "reply": 27
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第四松",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 81423423,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1jJ411h7Zn",
+                        "cid": 139349236,
+                        "cover": "http://i0.hdslb.com/bfs/archive/20b1d8bbd9fef2c4311fef58547999a7c332861c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 128000,
+                        "from": "bangumi",
+                        "id": 307608,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307608?theme=movie",
+                        "long_title": "补救措施",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第五松 补救措施",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307608",
+                        "short_link": "https://b23.tv/ep307608",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 133,
+                            "danmakus": 143,
+                            "likes": 225,
+                            "play": 35709,
+                            "reply": 35
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第五松",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 81423670,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17J411h7wR",
+                        "cid": 139349583,
+                        "cover": "http://i0.hdslb.com/bfs/archive/a7b2b6202dd3e0c57c9bd3bbdedda305c4b1a0cd.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 157000,
+                        "from": "bangumi",
+                        "id": 307616,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep307616?theme=movie",
+                        "long_title": "感谢",
+                        "pub_time": 1577808001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《剧场版 阿松》第六松 感谢",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep307616",
+                        "short_link": "https://b23.tv/ep307616",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 483,
+                            "danmakus": 397,
+                            "likes": 488,
+                            "play": 48578,
+                            "reply": 146
+                        },
+                        "status": 13,
+                        "subtitle": "已观看125.6万次",
+                        "title": "第六松",
+                        "vid": ""
+                    }
+                ],
+                "id": 41947,
+                "title": "映前剧场",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1872,
+            "series_title": "阿松"
+        },
+        "share_copy": "《剧场版 阿松》六傻大闹动画片！",
+        "share_sub_title": "六傻大闹动画片！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28960",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/8cd4d4ed576bc94651497944dd4a0745b33d5ed9.jpg",
+        "stat": {
+            "coins": 11133,
+            "danmakus": 31047,
+            "favorite": 615,
+            "favorites": 469815,
+            "likes": 14189,
+            "reply": 5323,
+            "share": 2782,
+            "views": 1256447
+        },
+        "status": 13,
+        "subtitle": "已观看125.6万次",
+        "title": "剧场版 阿松",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

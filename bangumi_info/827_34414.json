@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/957a47083417875723da2dcb82651fc5cec58a32.png",
+        "episodes": [
+            {
+                "aid": 884762785,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qK4y187VS",
+                "cid": 245189762,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a9b71f1eb0d78ff6387b6086ae2c9c0633e79e1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 341111,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341111",
+                "long_title": "北口排烟囱",
+                "pub_time": 1601989200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第1话 北口排烟囱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341111",
+                "short_link": "https://b23.tv/ep341111",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看627.6万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 754990177,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dr4y1c7HG",
+                "cid": 245293139,
+                "cover": "http://i0.hdslb.com/bfs/archive/beef47cc9373f830b9709cfa05edbbee28017d40.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341112,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341112",
+                "long_title": "西一番街黑工",
+                "pub_time": 1602594000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第2话 西一番街黑工",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341112",
+                "short_link": "https://b23.tv/ep341112",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 585012156,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hz4y1o7Ga",
+                "cid": 247680259,
+                "cover": "http://i0.hdslb.com/bfs/archive/c32ac1f9b9a333b69fc236b1195ea5b5fc5fcd3a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341113,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341113",
+                "long_title": "ZettaMovier&艺术剧场",
+                "pub_time": 1603198800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第3话 ZettaMovier&艺术剧场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341113",
+                "short_link": "https://b23.tv/ep341113",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 542609653,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ei4y177NS",
+                "cid": 250053405,
+                "cover": "http://i0.hdslb.com/bfs/archive/eda480e4910741116c5e996a9d4a8752960071f9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341114,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341114",
+                "long_title": "孩子的华尔兹",
+                "pub_time": 1603803600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第4话 孩子的华尔兹",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341114",
+                "short_link": "https://b23.tv/ep341114",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 927671349,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dT4y1F7JZ",
+                "cid": 254202769,
+                "cover": "http://i0.hdslb.com/bfs/archive/7e245ad566e93a003aff22ae509a5bbeb2185a1a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1320000,
+                "from": "bangumi",
+                "id": 341115,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341115",
+                "long_title": "龙之泪",
+                "pub_time": 1604408400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第5话 龙之泪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341115",
+                "short_link": "https://b23.tv/ep341115",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 797745390,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oy4y1z7gR",
+                "cid": 254556218,
+                "cover": "http://i0.hdslb.com/bfs/archive/846961df29c0db44cd281804c7aa436934f6ad89.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341116,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341116",
+                "long_title": "G-Boys 冬季战争 前篇",
+                "pub_time": 1605013200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第6话 G-Boys 冬季战争 前篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341116",
+                "short_link": "https://b23.tv/ep341116",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 970279937,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kp4y167aZ",
+                "cid": 257587787,
+                "cover": "http://i0.hdslb.com/bfs/archive/0d844475b457795652df5ff86f7e2dec97151d6d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341117,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341117",
+                "long_title": "G-Boys 冬季战争 后篇",
+                "pub_time": 1605790800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第7话 G-Boys 冬季战争 后篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341117",
+                "short_link": "https://b23.tv/ep341117",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 287969393,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19f4y1v7Rs",
+                "cid": 259268624,
+                "cover": "http://i0.hdslb.com/bfs/archive/9d64db4932a7cb3b74627351ba037af2067c59a5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341118,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341118",
+                "long_title": "千川失足妈妈",
+                "pub_time": 1606222800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第8话 千川失足妈妈",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341118",
+                "short_link": "https://b23.tv/ep341118",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 885415390,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SK4y1j74e",
+                "cid": 261831120,
+                "cover": "http://i0.hdslb.com/bfs/archive/24c8c7baa950182c26502fcf122db45b5771eb63.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1049000,
+                "from": "bangumi",
+                "id": 341119,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341119",
+                "long_title": "憎恶的游行",
+                "pub_time": 1606827600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第9话 憎恶的游行",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341119",
+                "short_link": "https://b23.tv/ep341119",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 885558141,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AK4y1L7tP",
+                "cid": 264322318,
+                "cover": "http://i0.hdslb.com/bfs/archive/ad52510e271f620d4d20f490714d73b9d15b0e8a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341120,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341120",
+                "long_title": "和野兽reunion",
+                "pub_time": 1607432400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第10话 和野兽reunion",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341120",
+                "short_link": "https://b23.tv/ep341120",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 500724084,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11K411u7zt",
+                "cid": 267031473,
+                "cover": "http://i0.hdslb.com/bfs/archive/4c74befd18a7e697d1c449ee4d4e89806d96956a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341121,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341121",
+                "long_title": "阳光大街内战 前篇",
+                "pub_time": 1608037200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第11话 阳光大街内战 前篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341121",
+                "short_link": "https://b23.tv/ep341121",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 543234235,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1di4y1c7iv",
+                "cid": 269696488,
+                "cover": "http://i0.hdslb.com/bfs/archive/6ea913f748d281a3ba552f901221afe513bbbb22.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 341122,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep341122",
+                "long_title": "阳光大街内战 后篇",
+                "pub_time": 1608642001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《池袋西口公园》第12话 阳光大街内战 后篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep341122",
+                "short_link": "https://b23.tv/ep341122",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看627.6万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "东京，池袋西口公园。位于这所通称“池袋West Gate Park”公园附近的水果店家的儿子·真岛诚，接连解决了涉及黑道的犯罪以及黑帮争夺地盘等警察无从下手的困难事件，人称“池袋的麻烦终结者”。\n在鱼龙混杂的池袋当中，不属于任何组织、和任何人都保持平等的诚，经常接到危险而刺激的委托。\n「对任何人都很温柔的街区，爱与和平的池袋。…是的，池袋最棒了」\n今天也在守护池袋秩序的他的面前，又有人带来了威胁城市和平的麻烦事件——。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229883/",
+        "media_id": 28229883,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 341122,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 49916,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-10-06 21:00:00",
+            "pub_time_show": "2020年10月06日21:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5062,
+            "score": 7.2
+        },
+        "record": "登记号：10417060207682709",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34414,
+        "season_title": "池袋西口公园",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/957a47083417875723da2dcb82651fc5cec58a32.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229883,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/6ea913f748d281a3ba552f901221afe513bbbb22.jpg",
+                    "id": 341122,
+                    "index_show": "全12话"
+                },
+                "season_id": 34414,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 518147,
+                    "series_follow": 518146,
+                    "views": 6275810
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 244639349,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hv411C7As",
+                        "cid": 238766907,
+                        "cover": "http://i0.hdslb.com/bfs/archive/085bc710af89d2665b3fa271495fee518ea5dd77.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 51000,
+                        "from": "bangumi",
+                        "id": 340566,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep340566",
+                        "long_title": "",
+                        "pub_time": 1601006400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《池袋西口公园》PV1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep340566",
+                        "short_link": "https://b23.tv/ep340566",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 647,
+                            "danmakus": 184,
+                            "likes": 3266,
+                            "play": 559434,
+                            "reply": 801
+                        },
+                        "status": 2,
+                        "subtitle": "已观看627.6万次",
+                        "title": "PV1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 244639349,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hv411C7As",
+                        "cid": 238766920,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/55b4f55292a132ba4ecd8ade15920a3332b0fb0f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 105000,
+                        "from": "bangumi",
+                        "id": 340567,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep340567",
+                        "long_title": "",
+                        "pub_time": 1601006400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《池袋西口公园》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep340567",
+                        "short_link": "https://b23.tv/ep340567",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 647,
+                            "danmakus": 184,
+                            "likes": 3266,
+                            "play": 559434,
+                            "reply": 801
+                        },
+                        "status": 2,
+                        "subtitle": "已观看627.6万次",
+                        "title": "PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 50237,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5116,
+            "series_title": "池袋西口公园"
+        },
+        "share_copy": "《池袋西口公园》今天池袋也充满故事",
+        "share_sub_title": "今天池袋也充满故事",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34414",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/5e1e7d519b0f7dde3fb7b0ef11f699e96a378db8.png",
+        "stat": {
+            "coins": 19936,
+            "danmakus": 40753,
+            "favorite": 2089,
+            "favorites": 518147,
+            "likes": 103550,
+            "reply": 12751,
+            "share": 4582,
+            "views": 6275810
+        },
+        "status": 13,
+        "subtitle": "已观看627.6万次",
+        "title": "池袋西口公园",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

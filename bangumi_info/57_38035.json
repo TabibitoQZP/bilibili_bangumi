@@ -1,0 +1,805 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9b89d0fa9c44fdc791407847d3556f4cb8f157e4.png",
+        "episodes": [
+            {
+                "aid": 929225317,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vK4y1Q729",
+                "cid": 300044757,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc28f7d8fd167ff26ad9d118d853fb10737e3a58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 386337,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep386337",
+                "long_title": "富豪村",
+                "pub_time": 1613815200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《岸边露伴 一动也不动》第1话 富豪村",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep386337",
+                "short_link": "https://b23.tv/ep386337",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 87,
+                        "start": 48
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2824.8万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 246730930,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yv411a7YB",
+                "cid": 300062149,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc28f7d8fd167ff26ad9d118d853fb10737e3a58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1443000,
+                "from": "bangumi",
+                "id": 386336,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep386336",
+                "long_title": "六壁坂",
+                "pub_time": 1613815201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《岸边露伴 一动也不动》第2话 六壁坂",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep386336",
+                "short_link": "https://b23.tv/ep386336",
+                "skip": {
+                    "ed": {
+                        "end": 1442,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 302,
+                        "start": 263
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2824.8万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 501665325,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yN411R7kM",
+                "cid": 300504510,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc28f7d8fd167ff26ad9d118d853fb10737e3a58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 386339,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep386339",
+                "long_title": "忏悔室",
+                "pub_time": 1613815201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《岸边露伴 一动也不动》第3话 忏悔室",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep386339",
+                "short_link": "https://b23.tv/ep386339",
+                "skip": {
+                    "ed": {
+                        "end": 1449,
+                        "start": 1348
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 87
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2824.8万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 671675090,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13U4y1W7mk",
+                "cid": 299762054,
+                "cover": "http://i0.hdslb.com/bfs/archive/fc28f7d8fd167ff26ad9d118d853fb10737e3a58.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1369000,
+                "from": "bangumi",
+                "id": 386338,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep386338",
+                "long_title": "The Run",
+                "pub_time": 1613815201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《岸边露伴 一动也不动》第4话 The Run",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep386338",
+                "short_link": "https://b23.tv/ep386338",
+                "skip": {
+                    "ed": {
+                        "end": 1368,
+                        "start": 1267
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 106
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2824.8万次",
+                "title": "4",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本作是在「JOJO的奇妙冒险 不灭钻石」中登场的漫画家・岸边露伴，\n为了收集漫画的素材而前往各地后所遭遇的奇妙见闻集！\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233715/",
+        "media_id": 28233715,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全4话",
+            "id": 386338,
+            "is_new": 0,
+            "title": "4"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 57298,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-02-20 18:00:00",
+            "pub_time_show": "2021年02月20日18:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 21710,
+            "score": 9.8
+        },
+        "record": "登记号：10417060233152308",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38035,
+        "season_title": "岸边露伴 一动也不动",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9d8d2922b08f3d08d018e6e59e49607cf16d39e6.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223479,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/02a0029a1716b8c4ec034fe982d25ad0cc1b9fc3.jpg",
+                    "id": 292975,
+                    "index_show": "全26话"
+                },
+                "season_id": 4334,
+                "season_title": "第一部&第二部",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5762345,
+                    "series_follow": 8802679,
+                    "views": 204300248
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/47c0108259355d6d2c517ed97f6b90fb777f844f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223481,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/a5b592fec7f377a4b03a9450bd27f78ccecc0c7b.jpg",
+                    "id": 293081,
+                    "index_show": "全24话"
+                },
+                "season_id": 4185,
+                "season_title": "第三部上",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4581631,
+                    "series_follow": 8802679,
+                    "views": 166953597
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f6709b76e88f50aa132d1e09e2d8de9663a09b3e.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28223483,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/4edb58f7f52c67a80f19bc63c94d49dae552602a.jpg",
+                    "id": 293024,
+                    "index_show": "全24话"
+                },
+                "season_id": 4213,
+                "season_title": "第三部下",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4334252,
+                    "series_follow": 8802679,
+                    "views": 151019643
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6a04c87e990ab74cd8d555ef45a863de0993b161.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 140552,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/5c2332120fffc4fad6958d8554ce88b0f9becfa0.jpg",
+                    "id": 251366,
+                    "index_show": "全39话"
+                },
+                "season_id": 5398,
+                "season_title": "第四部",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3156264,
+                    "series_follow": 8802679,
+                    "views": 235820222
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f34ff3975c39913af936c133ae60a5891babba08.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 135652,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/39c4c078be0700aa4e312aa62402c6b6a7655ac7.jpg",
+                    "id": 275717,
+                    "index_show": "全39话"
+                },
+                "season_id": 25681,
+                "season_title": "第五部",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4978810,
+                    "series_follow": 8802679,
+                    "views": 496395702
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7f6b685e9cf6ee7e0bf93d190ce295877f617e73.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/efc8aab5c05e7b06bd4710971a13949a0d28ccaf.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/dd6f48e5229e93919250dba34a8210d8b593041d.png",
+                "media_id": 28235123,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c850f71d4f150fe64bda2987e48ae2d8a5968b07.png",
+                    "id": 675178,
+                    "index_show": "更新至第24话"
+                },
+                "season_id": 39431,
+                "season_title": "第六部",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 7729682,
+                    "series_follow": 8802679,
+                    "views": 197922527
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9b89d0fa9c44fdc791407847d3556f4cb8f157e4.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233715,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fc28f7d8fd167ff26ad9d118d853fb10737e3a58.jpg",
+                    "id": 386338,
+                    "index_show": "全4话"
+                },
+                "season_id": 38035,
+                "season_title": "外传",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5100626,
+                    "series_follow": 8802679,
+                    "views": 28247620
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e7da607272a5474dddf97562efdabf645dd61479.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233419,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/f86e3fd0a234d4216fecf8dd4ade419f2b38c476.jpg",
+                    "id": 398768,
+                    "index_show": "全21话"
+                },
+                "season_id": 37740,
+                "season_title": "广播",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 174256,
+                    "series_follow": 8802679,
+                    "views": 12276619
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 929247406,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19K4y1Q7LU",
+                        "cid": 298157237,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/407c2e0e40923d657f1a876a5c5419b51f8c00d9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 103000,
+                        "from": "bangumi",
+                        "id": 385376,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep385376",
+                        "long_title": "",
+                        "pub_time": 1613466000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《岸边露伴 一动也不动》富豪村 PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep385376",
+                        "short_link": "https://b23.tv/ep385376",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 7196,
+                            "danmakus": 3086,
+                            "likes": 55445,
+                            "play": 2274542,
+                            "reply": 7335
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2824.8万次",
+                        "title": "富豪村 PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 204247790,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mh411r7mD",
+                        "cid": 298158087,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/b36737f736cd5277828d672c2b7baf606c9b1c53.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 97000,
+                        "from": "bangumi",
+                        "id": 385377,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep385377",
+                        "long_title": "",
+                        "pub_time": 1613466000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《岸边露伴 一动也不动》六壁坂 PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep385377",
+                        "short_link": "https://b23.tv/ep385377",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1427,
+                            "danmakus": 205,
+                            "likes": 6057,
+                            "play": 515821,
+                            "reply": 745
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2824.8万次",
+                        "title": "六壁坂 PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 714210421,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1YX4y157c9",
+                        "cid": 298158773,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/f62cef8bb4d5de16cf535124a2466ff4a8de7357.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 119000,
+                        "from": "bangumi",
+                        "id": 385378,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep385378",
+                        "long_title": "",
+                        "pub_time": 1613466000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《岸边露伴 一动也不动》忏悔室 PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep385378",
+                        "short_link": "https://b23.tv/ep385378",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1127,
+                            "danmakus": 175,
+                            "likes": 5326,
+                            "play": 373661,
+                            "reply": 464
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2824.8万次",
+                        "title": "忏悔室 PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 929158842,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1LK4y1Q7vc",
+                        "cid": 298179476,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/b1fc3d31bf0db8c3c88372d522db274df57026e9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 121000,
+                        "from": "bangumi",
+                        "id": 385379,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep385379",
+                        "long_title": "",
+                        "pub_time": 1613466000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《岸边露伴 一动也不动》THE RUN PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep385379",
+                        "short_link": "https://b23.tv/ep385379",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3874,
+                            "danmakus": 928,
+                            "likes": 25484,
+                            "play": 1472627,
+                            "reply": 2249
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2824.8万次",
+                        "title": "THE RUN PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 57403,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2397,
+            "series_title": "JOJO的奇妙冒险"
+        },
+        "share_copy": "《岸边露伴 一动也不动》JOJO外传动画",
+        "share_sub_title": "JOJO外传动画",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38035",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/6a59e175ccae1b73e127087707684cbbf9a471d0.png",
+        "stat": {
+            "coins": 152071,
+            "danmakus": 123559,
+            "favorite": 13111,
+            "favorites": 5100626,
+            "likes": 476037,
+            "reply": 35133,
+            "share": 78272,
+            "views": 28247620
+        },
+        "status": 13,
+        "subtitle": "已观看2824.8万次",
+        "title": "岸边露伴 一动也不动",
+        "total": 4,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

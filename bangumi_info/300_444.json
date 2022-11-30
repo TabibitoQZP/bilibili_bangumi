@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6920b7c4a888154c47b1d8c9b40a4c3524be2007.png",
+        "episodes": [
+            {
+                "aid": 50774890,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1D4411b7GH",
+                "cid": 90898112,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8244,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8244",
+                "long_title": "「成为我的东西吧勇者」「我拒绝！」",
+                "pub_time": 1357348140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第1话 「成为我的东西吧勇者」「我拒绝！」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8244",
+                "short_link": "https://b23.tv/ep8244",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 78
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2203.5万次",
+                "title": "1",
+                "vid": "94400654"
+            },
+            {
+                "aid": 806818091,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1N34y1o7mr",
+                "cid": 90898222,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8243,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8243",
+                "long_title": "请把我们当做人看",
+                "pub_time": 1357959780,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第2话 请把我们当做人看",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8243",
+                "short_link": "https://b23.tv/ep8243",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 114,
+                        "start": 24
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "2",
+                "vid": "94984754"
+            },
+            {
+                "aid": 976781890,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1c44y1Y7sN",
+                "cid": 90898331,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8242,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8242",
+                "long_title": "至今为止你都去哪里闲逛了！",
+                "pub_time": 1358566140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第3话 至今为止你都去哪里闲逛了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8242",
+                "short_link": "https://b23.tv/ep8242",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 36
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "3",
+                "vid": "95488115"
+            },
+            {
+                "aid": 251774911,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mY411x74Y",
+                "cid": 90898422,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8241,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8241",
+                "long_title": "既然事已至此我就咬住勇者不放了！",
+                "pub_time": 1359174120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第4话 既然事已至此我就咬住勇者不放了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8241",
+                "short_link": "https://b23.tv/ep8241",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 118,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "4",
+                "vid": "96000031"
+            },
+            {
+                "aid": 719296355,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yQ4y1U7zZ",
+                "cid": 90898481,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8240,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8240",
+                "long_title": "魔王你身上真香啊 勇者的臂腕让人很安心呢",
+                "pub_time": 1359780360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第5话 魔王你身上真香啊 勇者的臂腕让人很安心呢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8240",
+                "short_link": "https://b23.tv/ep8240",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 87
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "5",
+                "vid": "96667635"
+            },
+            {
+                "aid": 891775752,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZP4y157ux",
+                "cid": 90898580,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8239,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8239",
+                "long_title": "欢迎回来勇者！嗯老爷子···我回来了！",
+                "pub_time": 1360377180,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第6话 欢迎回来勇者！嗯老爷子···我回来了！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8239",
+                "short_link": "https://b23.tv/ep8239",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 35
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "6",
+                "vid": "96926638"
+            },
+            {
+                "aid": 721852697,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VS4y1R72n",
+                "cid": 90898682,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8238,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8238",
+                "long_title": "马上就回来，马上就能再相见了",
+                "pub_time": 1360982640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第7话 马上就回来，马上就能再相见了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8238",
+                "short_link": "https://b23.tv/ep8238",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 178,
+                        "start": 88
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "7",
+                "vid": "97323212"
+            },
+            {
+                "aid": 976836955,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1K44y1Y7Uw",
+                "cid": 90898811,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8237,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8237",
+                "long_title": "请握起剑吧，我的主人",
+                "pub_time": 1361592360,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第8话 请握起剑吧，我的主人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8237",
+                "short_link": "https://b23.tv/ep8237",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "8",
+                "vid": "97793622"
+            },
+            {
+                "aid": 549340135,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cq4y1g7GS",
+                "cid": 90899017,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8236,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8236",
+                "long_title": "因为我是“人类”",
+                "pub_time": 1362196440,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第9话 因为我是“人类”",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8236",
+                "short_link": "https://b23.tv/ep8236",
+                "skip": {
+                    "ed": {
+                        "end": 1337,
+                        "start": 1247
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "9",
+                "vid": "98288358"
+            },
+            {
+                "aid": 976863293,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1L44y1Y79w",
+                "cid": 90899156,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8235,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8235",
+                "long_title": "她所奠定的基石，终于要开始发挥作用了",
+                "pub_time": 1363411440,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第10话 她所奠定的基石，终于要开始发挥作用了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8235",
+                "short_link": "https://b23.tv/ep8235",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "10",
+                "vid": "99341977"
+            },
+            {
+                "aid": 549353654,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pq4y1g7wf",
+                "cid": 90899220,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8234,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8234",
+                "long_title": "一直在破坏杀戮，而什么事都没做成过",
+                "pub_time": 1364011560,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第11话 一直在破坏杀戮，而什么事都没做成过",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8234",
+                "short_link": "https://b23.tv/ep8234",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 264,
+                        "start": 174
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "11",
+                "vid": "99930690"
+            },
+            {
+                "aid": 379315227,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tf4y1M7zr",
+                "cid": 90899377,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 8233,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep8233",
+                "long_title": "「久等了，我的勇者」「睡得太久了，我的魔王」",
+                "pub_time": 1364623320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔王勇者》第12话 「久等了，我的勇者」「睡得太久了，我的魔王」",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep8233",
+                "short_link": "https://b23.tv/ep8233",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2203.5万次",
+                "title": "12",
+                "vid": "100497210"
+            }
+        ],
+        "evaluate": "在一个架空的类欧洲中世纪世界中，身为勇者的男主角和虽然身为“魔王”但本性善良的女主角在邂逅之后，通过沟通放下了彼此间的嫌隙，开始一同踏上了为这个黑暗的世界寻求光明的道路。这中间，他们遇上了很多值得信赖的同伴，也不得不与不少心怀鬼胎的敌人交锋，通过彼此的信任与坚持不懈的努力，他们终于渐渐看见了一丝引导光明的希望...",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md444/",
+        "media_id": 444,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 8233,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17425,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-01-04 00:00:00",
+            "pub_time_show": "2013年01月04日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 15965,
+            "score": 9.5
+        },
+        "record": "登记号：10417060196562310",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 444,
+        "season_title": "魔王勇者",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6920b7c4a888154c47b1d8c9b40a4c3524be2007.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 444,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/855396ecc3d6b71193a040b8842b17c783cc0718.png",
+                    "id": 8233,
+                    "index_show": "全12话"
+                },
+                "season_id": 444,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1831668,
+                    "series_follow": 1831668,
+                    "views": 22034653
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 266,
+            "series_title": "魔王勇者"
+        },
+        "share_copy": "《魔王勇者》魔王拉拢勇者遭拒？",
+        "share_sub_title": "魔王拉拢勇者遭拒？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss444",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/ad79c0397f64633f2bd1c0d5485c217769039786.png",
+        "stat": {
+            "coins": 98212,
+            "danmakus": 444665,
+            "favorite": 17271,
+            "favorites": 1831668,
+            "likes": 157491,
+            "reply": 11801,
+            "share": 18044,
+            "views": 22034653
+        },
+        "status": 13,
+        "subtitle": "已观看2203.5万次",
+        "title": "魔王勇者",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

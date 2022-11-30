@@ -1,0 +1,836 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/32ddf0a6a1d5f1f932138639cb933be675ce26da.jpg",
+        "episodes": [
+            {
+                "aid": 2172991,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1As411D7kK",
+                "cid": 10565003,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3ba53b619a46c446d3fa4de905be107b62dabe5b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1501000,
+                "from": "bangumi",
+                "id": 28910,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28910",
+                "long_title": "神圣之心",
+                "pub_time": 1428073201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第1话 神圣之心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28910",
+                "short_link": "https://b23.tv/ep28910",
+                "skip": {
+                    "ed": {
+                        "end": 1481,
+                        "start": 1389
+                    },
+                    "op": {
+                        "end": 142,
+                        "start": 44
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看632.9万次",
+                "title": "1",
+                "vid": "vupload_10565003"
+            },
+            {
+                "aid": 2205173,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vs411D72F",
+                "cid": 10565014,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/003ce7a2f9f58825363fc2c454cdbee8a15e8645.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 29104,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29104",
+                "long_title": "爱因哈特・斯崔特斯",
+                "pub_time": 1428678000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第2话 爱因哈特・斯崔特斯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29104",
+                "short_link": "https://b23.tv/ep29104",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "2",
+                "vid": "vupload_10565014"
+            },
+            {
+                "aid": 2228896,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hs411D7bT",
+                "cid": 10565018,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f5e4ed1ab5e71cbcd075f2fa688823d8b1ffc232.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1414000,
+                "from": "bangumi",
+                "id": 29975,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29975",
+                "long_title": "认真的心情",
+                "pub_time": 1429282800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第3话 认真的心情",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29975",
+                "short_link": "https://b23.tv/ep29975",
+                "skip": {
+                    "ed": {
+                        "end": 1403,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 150,
+                        "start": 60
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "3",
+                "vid": "vupload_10565018"
+            },
+            {
+                "aid": 2253072,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Es411D7fD",
+                "cid": 10565043,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e9b2a7d0323f24c0b5bb860ff60ee51d4c6c5dd3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1419000,
+                "from": "bangumi",
+                "id": 35281,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep35281",
+                "long_title": "崭新的心",
+                "pub_time": 1429887654,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第4话 崭新的心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep35281",
+                "short_link": "https://b23.tv/ep35281",
+                "skip": {
+                    "ed": {
+                        "end": 1409,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 84
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "4",
+                "vid": "vupload_10565043"
+            },
+            {
+                "aid": 2277270,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs411D7ci",
+                "cid": 10565047,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e08c4cf31be93d717229d52617af7c0e80be1e36.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1442000,
+                "from": "bangumi",
+                "id": 36290,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep36290",
+                "long_title": "Surprise・Attack",
+                "pub_time": 1430514900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第5话 Surprise・Attack",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep36290",
+                "short_link": "https://b23.tv/ep36290",
+                "skip": {
+                    "ed": {
+                        "end": 1421,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 22
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "5",
+                "vid": "vupload_10565047"
+            },
+            {
+                "aid": 2303017,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cs411D7ZQ",
+                "cid": 10565053,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1840dadba51dadba141400c87a4393ee01196215.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1411000,
+                "from": "bangumi",
+                "id": 45740,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep45740",
+                "long_title": "捉对厮杀",
+                "pub_time": 1431097250,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第6话 捉对厮杀",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep45740",
+                "short_link": "https://b23.tv/ep45740",
+                "skip": {
+                    "ed": {
+                        "end": 1401,
+                        "start": 1311
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "6",
+                "vid": "vupload_10565053"
+            },
+            {
+                "aid": 2327844,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411D7HV",
+                "cid": 10565059,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e49cc3376bba8fb608b45d28e236bf0d4c5f2aa2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1445000,
+                "from": "bangumi",
+                "id": 54235,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep54235",
+                "long_title": "新的舞台！",
+                "pub_time": 1431702000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第7话 新的舞台！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep54235",
+                "short_link": "https://b23.tv/ep54235",
+                "skip": {
+                    "ed": {
+                        "end": 1424,
+                        "start": 1332
+                    },
+                    "op": {
+                        "end": 97,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "7",
+                "vid": "vupload_10565059"
+            },
+            {
+                "aid": 2352356,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Us411D7mL",
+                "cid": 10565066,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/06b0883b79a8d5534a65c9977943a0a715822d68.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1445000,
+                "from": "bangumi",
+                "id": 62406,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep62406",
+                "long_title": "对手！",
+                "pub_time": 1432306800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第8话 对手！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep62406",
+                "short_link": "https://b23.tv/ep62406",
+                "skip": {
+                    "ed": {
+                        "end": 1423,
+                        "start": 1332
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "8",
+                "vid": "vupload_10565066"
+            },
+            {
+                "aid": 2377293,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411U7sQ",
+                "cid": 10565073,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a294a447d6cb6e4864bbddadaf524905da990199.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1444000,
+                "from": "bangumi",
+                "id": 62677,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep62677",
+                "long_title": "中学生锦标赛",
+                "pub_time": 1432912200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第9话 中学生锦标赛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep62677",
+                "short_link": "https://b23.tv/ep62677",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 324,
+                        "start": 226
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "9",
+                "vid": "vupload_10565073"
+            },
+            {
+                "aid": 2402408,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys411U7ce",
+                "cid": 10565076,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2d4053c6d6890290e3f5d14484a09de99b159b4a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1445000,
+                "from": "bangumi",
+                "id": 62735,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep62735",
+                "long_title": "为了胜利！",
+                "pub_time": 1433516400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第10话 为了胜利！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep62735",
+                "short_link": "https://b23.tv/ep62735",
+                "skip": {
+                    "ed": {
+                        "end": 1423,
+                        "start": 1331
+                    },
+                    "op": {
+                        "end": 198,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "10",
+                "vid": "vupload_10565076"
+            },
+            {
+                "aid": 2430486,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ks411U7FD",
+                "cid": 10565080,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/11c032eb2558a00d1df98516d7eb6bdb8c1ae25f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1445000,
+                "from": "bangumi",
+                "id": 62848,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep62848",
+                "long_title": "霸王之拳・创主之愿",
+                "pub_time": 1434121200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第11话 霸王之拳・创主之愿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep62848",
+                "short_link": "https://b23.tv/ep62848",
+                "skip": {
+                    "ed": {
+                        "end": 1423,
+                        "start": 1332
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "11",
+                "vid": "vupload_10565080"
+            },
+            {
+                "aid": 2457758,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ds411U7B6",
+                "cid": 10565087,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/912a3e6a69bf8a7ae97c46789f9f401412bf03d8.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1445000,
+                "from": "bangumi",
+                "id": 63579,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep63579",
+                "long_title": "决胜的意义",
+                "pub_time": 1434726000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔法少女奈叶ViVid》第12话 决胜的意义",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep63579",
+                "short_link": "https://b23.tv/ep63579",
+                "skip": {
+                    "ed": {
+                        "end": 1424,
+                        "start": 1333
+                    },
+                    "op": {
+                        "end": 124,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看632.9万次",
+                "title": "12",
+                "vid": "vupload_10565087"
+            }
+        ],
+        "evaluate": "《魔法少女奈叶ViVid》以奈叶收养的女孩薇薇欧为主人公，讲述了“JS事件”之后，刚进入魔法学校初等科的她在掌握了魔法基本知识后，收到了奈叶和菲特赠送的专用法器“神圣之心”；而另一边，自称为“霸王”的神秘人物英格瓦尔特，正准备掀起一股新的波澜……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1538/",
+        "media_id": 1538,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 63579,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18536,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-04-03 00:00:00",
+            "pub_time_show": "2015年04月03日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 516,
+            "score": 8.7
+        },
+        "record": "登记号：10417060205642204",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1538,
+        "season_title": "魔法少女奈叶ViVid",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0fadcfc9316bd2526023e46c9ab8946ece1caec3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1535,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/78a1945a1764454f0daf136498416c7dfac0f4b1.jpg",
+                    "id": 28689,
+                    "index_show": "全13话"
+                },
+                "season_id": 1535,
+                "season_title": "无印",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 269279,
+                    "series_follow": 610155,
+                    "views": 2403910
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/32ddf0a6a1d5f1f932138639cb933be675ce26da.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1538,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/912a3e6a69bf8a7ae97c46789f9f401412bf03d8.jpg",
+                    "id": 63579,
+                    "index_show": "全12话"
+                },
+                "season_id": 1538,
+                "season_title": "ViVid",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 156339,
+                    "series_follow": 610155,
+                    "views": 6328709
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0549ae837ee1ceed546f518d1452d4b797735a52.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5514,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/ba2a95e1285d339030bb7b9a9733b84fd354cfe9.png",
+                    "id": 96164,
+                    "index_show": "全12话"
+                },
+                "season_id": 5514,
+                "season_title": "ViVid Strike",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 357925,
+                    "series_follow": 610155,
+                    "views": 7425450
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/96f8bde386ca3e997caa669b019e2291fe48fd09.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3795,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/85ed2c14b8140577b60ba4116adc9ef1382a9b29.jpg",
+                    "id": 86542,
+                    "index_show": "全1话"
+                },
+                "season_id": 3795,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 59595,
+                    "series_follow": 610155,
+                    "views": 1270672
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1058,
+            "series_title": "魔法少女奈叶"
+        },
+        "share_copy": "《魔法少女奈叶ViVid》经典魔法少女续作",
+        "share_sub_title": "经典魔法少女续作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1538",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ff7692a1a63c4a35a017c7e991079da6259a1deb.jpg",
+        "stat": {
+            "coins": 9245,
+            "danmakus": 124552,
+            "favorite": 1048,
+            "favorites": 156339,
+            "likes": 7379,
+            "reply": 11200,
+            "share": 862,
+            "views": 6328709
+        },
+        "status": 13,
+        "subtitle": "已观看632.9万次",
+        "title": "魔法少女奈叶ViVid",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

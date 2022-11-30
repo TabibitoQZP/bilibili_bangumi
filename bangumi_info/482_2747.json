@@ -1,0 +1,784 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/9ba055dbffa735c6f466215cd73384afca56d186.jpg",
+        "episodes": [
+            {
+                "aid": 2998818,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41127T6",
+                "cid": 10595336,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5688788b4e21afec69f6f48c9d1d5f099c317d5b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2922000,
+                "from": "bangumi",
+                "id": 70870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70870",
+                "long_title": "扇·公式 其一·其二",
+                "pub_time": 1443936600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第1话 扇·公式 其一·其二",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70870",
+                "short_link": "https://b23.tv/ep70870",
+                "skip": {
+                    "ed": {
+                        "end": 2911,
+                        "start": 2821
+                    },
+                    "op": {
+                        "end": 225,
+                        "start": 123
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1907.6万次",
+                "title": "1",
+                "vid": "vupload_10595336"
+            },
+            {
+                "aid": 3039624,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17s41127gi",
+                "cid": 10595344,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8c2bb5334461ad55fec7c317f5dbd40445b112e1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 72072,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72072",
+                "long_title": "育·谜题 其一",
+                "pub_time": 1444540500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第2话 育·谜题 其一",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72072",
+                "short_link": "https://b23.tv/ep72072",
+                "skip": {
+                    "ed": {
+                        "end": 1461,
+                        "start": 1371
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "2",
+                "vid": "vupload_10595344"
+            },
+            {
+                "aid": 3074152,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s41127L8",
+                "cid": 10595392,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b204e0ab7867f88f9509a18cd0d84311c9245dea.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 72693,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72693",
+                "long_title": "育·谜题 其二",
+                "pub_time": 1445101200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第3话 育·谜题 其二",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72693",
+                "short_link": "https://b23.tv/ep72693",
+                "skip": {
+                    "ed": {
+                        "end": 1461,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "3",
+                "vid": "vupload_10595392"
+            },
+            {
+                "aid": 3110672,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411271W",
+                "cid": 10595397,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c07f5ade6547d3aa0ea247409e4831c4975fd503.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 75111,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75111",
+                "long_title": "育·迷失 其一",
+                "pub_time": 1445751600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第4话 育·迷失 其一",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75111",
+                "short_link": "https://b23.tv/ep75111",
+                "skip": {
+                    "ed": {
+                        "end": 1461,
+                        "start": 1371
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "4",
+                "vid": "vupload_10595397"
+            },
+            {
+                "aid": 3148025,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1As411d7xb",
+                "cid": 10595422,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/01865314ccac31e13563109e3c2c9c8b99214d79.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 76112,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76112",
+                "long_title": "育·迷失 其二",
+                "pub_time": 1446357900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第5话 育·迷失 其二",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76112",
+                "short_link": "https://b23.tv/ep76112",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 246,
+                        "start": 145
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "5",
+                "vid": "vupload_10595422"
+            },
+            {
+                "aid": 3184055,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s411d7ms",
+                "cid": 10595432,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f33f20f7415502f5163a17979dc5c714436cc84.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1472000,
+                "from": "bangumi",
+                "id": 77333,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77333",
+                "long_title": "育·迷失 其三",
+                "pub_time": 1446968400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第6话 育·迷失 其三",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77333",
+                "short_link": "https://b23.tv/ep77333",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "6",
+                "vid": "vupload_10595432"
+            },
+            {
+                "aid": 3220236,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411d75J",
+                "cid": 10595445,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fc9680657257aded684108e26be1da7acebcb751.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 77667,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77667",
+                "long_title": "忍·盔甲 其一",
+                "pub_time": 1447566900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第7话 忍·盔甲 其一",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77667",
+                "short_link": "https://b23.tv/ep77667",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 188,
+                        "start": 117
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "7",
+                "vid": "vupload_10595445"
+            },
+            {
+                "aid": 3257752,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411d7rX",
+                "cid": 10595453,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/85e4e0090bdcd539958505a2f58b01fe38e73a20.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 79196,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79196",
+                "long_title": "忍·盔甲 其二",
+                "pub_time": 1448171700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第8话 忍·盔甲 其二",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79196",
+                "short_link": "https://b23.tv/ep79196",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 159,
+                        "start": 89
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "8",
+                "vid": "vupload_10595453"
+            },
+            {
+                "aid": 3296131,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Bs411d72w",
+                "cid": 10595455,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a7381ee3e217e3d36ac7d4120e4148b8a4c33a5b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 79892,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79892",
+                "long_title": "忍·盔甲 其三",
+                "pub_time": 1448776500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第9话 忍·盔甲 其三",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79892",
+                "short_link": "https://b23.tv/ep79892",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 158
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "9",
+                "vid": "vupload_10595455"
+            },
+            {
+                "aid": 3334603,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs411d7pb",
+                "cid": 10595459,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8a6efeda16fb71c7aa4709786af568d157a9971f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 80668,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80668",
+                "long_title": "忍·盔甲 其四",
+                "pub_time": 1449384900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第10话 忍·盔甲 其四",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80668",
+                "short_link": "https://b23.tv/ep80668",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "10",
+                "vid": "vupload_10595459"
+            },
+            {
+                "aid": 3374113,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411o7sC",
+                "cid": 10595472,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/32d103e9e66a3d6d18e5536d73ece2d879e9fb79.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 81412,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81412",
+                "long_title": "忍·盔甲 其五",
+                "pub_time": 1449990900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第11话 忍·盔甲 其五",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81412",
+                "short_link": "https://b23.tv/ep81412",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 70
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "11",
+                "vid": "vupload_10595472"
+            },
+            {
+                "aid": 3413894,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ys41197j7",
+                "cid": 10595477,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8be3f80c42a301b7c2ae883ae58bac8f66ac1fd4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 81757,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81757",
+                "long_title": "忍·盔甲 其六",
+                "pub_time": 1450591395,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《终物语》第12话 忍·盔甲 其六",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81757",
+                "short_link": "https://b23.tv/ep81757",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1369
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1907.6万次",
+                "title": "12",
+                "vid": "vupload_10595477"
+            }
+        ],
+        "evaluate": "高三的十月下旬，神原骏河向高中三年级的阿良良木历介绍了一位转校生——忍野扇。放学后，忍野扇说起了一些奇怪的事情。她曾转学过很多次，并将每一次到过的校舍都画成地图。他发现三楼的视听室被拉长，也许有隐藏的房间。扇和历发现了隐藏的房间，进去后里面有停止的时钟和推不动的门窗，一切就像停止了一样…\n这是解开阿良良木历构成之谜的物语，也是知晓一切起点的物语。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2747/",
+        "media_id": 2747,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 81757,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19664,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-03 01:00:00",
+            "pub_time_show": "2015年10月03日01:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5158,
+            "score": 9.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2747,
+        "season_title": "终物语",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9ba055dbffa735c6f466215cd73384afca56d186.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2747,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/8be3f80c42a301b7c2ae883ae58bac8f66ac1fd4.jpg",
+                    "id": 81757,
+                    "index_show": "全12话"
+                },
+                "season_id": 2747,
+                "season_title": "终物语",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1127601,
+                    "series_follow": 1366627,
+                    "views": 19076084
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d364981f12c3a7b3943d53a8f801ba5c3cf37286.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6345,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/61b599d37d5319731ff7a82604fd8f5ded7a473b.jpg",
+                    "id": 114056,
+                    "index_show": "全7话"
+                },
+                "season_id": 6345,
+                "season_title": "终物语 下",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 679046,
+                    "series_follow": 1366627,
+                    "views": 5965465
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1867,
+            "series_title": "终物语"
+        },
+        "share_copy": "《终物语》物语系列动画",
+        "share_sub_title": "物语系列动画",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2747",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/9ff75a690b2ef8144d55f647262fc0805b6ffd2d.jpg",
+        "stat": {
+            "coins": 61922,
+            "danmakus": 293295,
+            "favorite": 4664,
+            "favorites": 1127601,
+            "likes": 42643,
+            "reply": 53416,
+            "share": 8591,
+            "views": 19076084
+        },
+        "status": 13,
+        "subtitle": "已观看1907.6万次",
+        "title": "终物语",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

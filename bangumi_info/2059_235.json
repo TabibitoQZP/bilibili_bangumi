@@ -1,0 +1,766 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/09a90a19e30924e232400808e803a316b3e633ff.jpg",
+        "episodes": [
+            {
+                "aid": 367452,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ix411F7Ru",
+                "cid": 599681,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fbcbf11b09984ff9bd9c53c12f8260eac129cff9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 234000,
+                "from": "bangumi",
+                "id": 4987,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4987",
+                "long_title": "肉和熊猫和兔宝",
+                "pub_time": 1349229373,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第1话 肉和熊猫和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4987",
+                "short_link": "https://b23.tv/ep4987",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "1",
+                "vid": "89641908"
+            },
+            {
+                "aid": 372311,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qx411F7ym",
+                "cid": 569409,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2d424e03a1401d6bd4e2698e71846059977ff2b7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 234000,
+                "from": "bangumi",
+                "id": 4986,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4986",
+                "long_title": "酒和摇滚和兔宝",
+                "pub_time": 1349844394,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第2话 酒和摇滚和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4986",
+                "short_link": "https://b23.tv/ep4986",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "2",
+                "vid": "87468714"
+            },
+            {
+                "aid": 377021,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hx411F73Y",
+                "cid": 576253,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/506cb68990f58df5a6e27a77e4af99e986781d61.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234091,
+                "from": "bangumi",
+                "id": 4985,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4985",
+                "long_title": "财富和权威和兔宝",
+                "pub_time": 1350446760,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第3话 财富和权威和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4985",
+                "short_link": "https://b23.tv/ep4985",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "3",
+                "vid": "87971298"
+            },
+            {
+                "aid": 381495,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ax411F7iE",
+                "cid": 585940,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/451a28f996b7b16bf1ef82285b9e010d4f0db798.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234048,
+                "from": "bangumi",
+                "id": 4984,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4984",
+                "long_title": "萌和快看和兔宝",
+                "pub_time": 1351058640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第4话 萌和快看和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4984",
+                "short_link": "https://b23.tv/ep4984",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "4",
+                "vid": "88527371"
+            },
+            {
+                "aid": 389721,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vx411F7FC",
+                "cid": 598311,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/017c26d3a0373d1e2d56159722442ca40ad2ab18.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234048,
+                "from": "bangumi",
+                "id": 4983,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4983",
+                "long_title": "大海和泳装和兔宝",
+                "pub_time": 1352256120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第6话 大海和泳装和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4983",
+                "short_link": "https://b23.tv/ep4983",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "6",
+                "vid": "89513815"
+            },
+            {
+                "aid": 385801,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Yx411F7X9",
+                "cid": 598310,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6369fdc537458ee2791283cea0bf031aaa71c715.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234048,
+                "from": "bangumi",
+                "id": 4982,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4982",
+                "long_title": "熊和美食家和兔宝",
+                "pub_time": 1351692060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第5话 熊和美食家和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4982",
+                "short_link": "https://b23.tv/ep4982",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "5",
+                "vid": "89514834"
+            },
+            {
+                "aid": 393918,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11x411F7oU",
+                "cid": 603890,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f72eaf17559a0a27122d392385ac52510d10e839.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234048,
+                "from": "bangumi",
+                "id": 4981,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4981",
+                "long_title": "森林和入浴和兔宝",
+                "pub_time": 1352872260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第7话 森林和入浴和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4981",
+                "short_link": "https://b23.tv/ep4981",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "7",
+                "vid": "90044665"
+            },
+            {
+                "aid": 399731,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12x411F78Q",
+                "cid": 613666,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5d43c6a8d346744e5897cd58bfa6e2db921ebf10.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 233984,
+                "from": "bangumi",
+                "id": 4980,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4980",
+                "long_title": "闲着和机器和兔宝",
+                "pub_time": 1353608220,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第8话 闲着和机器和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4980",
+                "short_link": "https://b23.tv/ep4980",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "8",
+                "vid": "90786271"
+            },
+            {
+                "aid": 404316,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1mx411F7Qy",
+                "cid": 620657,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f5b3ac6faa8834a27f4163a27aaa49dee22098a8.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 233899,
+                "from": "bangumi",
+                "id": 4979,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4979",
+                "long_title": "虫子和假面和兔宝",
+                "pub_time": 1354168020,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第9话 虫子和假面和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4979",
+                "short_link": "https://b23.tv/ep4979",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "9",
+                "vid": "91285317"
+            },
+            {
+                "aid": 408985,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ux411F7ir",
+                "cid": 627899,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c92a9cd7109ef58a0d2e519164def87cfd754c1a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 233984,
+                "from": "bangumi",
+                "id": 4978,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4978",
+                "long_title": "钱和魔法和兔宝",
+                "pub_time": 1354728480,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第10话 钱和魔法和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4978",
+                "short_link": "https://b23.tv/ep4978",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "10",
+                "vid": "91883268"
+            },
+            {
+                "aid": 414030,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kx411F75H",
+                "cid": 633839,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4f38da5816c979b99be61de59adcec56a754f361.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 233941,
+                "from": "bangumi",
+                "id": 4977,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4977",
+                "long_title": "灵魂和歌剧和兔宝",
+                "pub_time": 1355324340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第11话 灵魂和歌剧和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4977",
+                "short_link": "https://b23.tv/ep4977",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "11",
+                "vid": "92359510"
+            },
+            {
+                "aid": 419726,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cx411F77A",
+                "cid": 642199,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6292d09c67af4b026054ffadf85cfd01cb15dae7.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 234167,
+                "from": "bangumi",
+                "id": 4976,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4976",
+                "long_title": "爱和告别和兔宝",
+                "pub_time": 1356003120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《乌瑟的穷困生活》第12话 爱和告别和兔宝",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4976",
+                "short_link": "https://b23.tv/ep4976",
+                "skip": {
+                    "ed": {
+                        "end": 224,
+                        "start": 183
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 10
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看109.2万次",
+                "title": "12",
+                "vid": "92975682"
+            }
+        ],
+        "evaluate": "作品的主人公是生活在互联网上的像兔子一样的谜之生物T宝，在可爱的外表下拥有一颗腹黑的心，本作品描写的就是兔宝有一些粗野却又不甚粗野的日常。这次的动画化，兔宝的声优已经决定是宫野真守。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md235/",
+        "media_id": 235,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 4976,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 17254,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-10-02 00:00:00",
+            "pub_time_show": "2012年10月02日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 158,
+            "score": 9.1
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 235,
+        "season_title": "乌瑟的穷困生活",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/09a90a19e30924e232400808e803a316b3e633ff.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 235,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6292d09c67af4b026054ffadf85cfd01cb15dae7.jpg",
+                    "id": 4976,
+                    "index_show": "全12话"
+                },
+                "season_id": 235,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 52975,
+                    "series_follow": 71665,
+                    "views": 1092248
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/46298a922352cf277567fde26223275cbc8cb087.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2615,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/af95394ec9e097d690bf192c1023654a37ec9bf6.jpg",
+                    "id": 69720,
+                    "index_show": "全13话"
+                },
+                "season_id": 2615,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 38526,
+                    "series_follow": 71665,
+                    "views": 1160511
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 149,
+            "series_title": "乌瑟的穷困生活"
+        },
+        "share_copy": "《乌瑟的穷困生活》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss235",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/0742adff28addcc1bfb82181e0c068041546920f.jpg",
+        "stat": {
+            "coins": 606,
+            "danmakus": 10356,
+            "favorite": 161,
+            "favorites": 52975,
+            "likes": 1906,
+            "reply": 875,
+            "share": 479,
+            "views": 1092248
+        },
+        "status": 2,
+        "subtitle": "已观看109.2万次",
+        "title": "乌瑟的穷困生活",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

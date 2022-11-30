@@ -1,0 +1,242 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/2c7e2734bcfadf258412b7c359798d87565809fe.png",
+        "episodes": [
+            {
+                "aid": 6507876,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411b772",
+                "cid": 10585618,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fe7518155c7e4ad64eb600863cc3ed1252ba9c70.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 668000,
+                "from": "bangumi",
+                "id": 86551,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86551",
+                "long_title": "鸭肉吃上去犹如有种绿色的味道",
+                "pub_time": 1461059160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《未确认进行式 OAD》第1话 鸭肉吃上去犹如有种绿色的味道",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86551",
+                "short_link": "https://b23.tv/ep86551",
+                "skip": {
+                    "ed": {
+                        "end": 667,
+                        "start": 649
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看194.6万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "漫画单行本第5卷同捆OAD",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3797/",
+        "media_id": 3797,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 86551,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20786,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-03-28 00:00:01",
+            "pub_time_show": "2014年3月28日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 794,
+            "score": 9.6
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3797,
+        "season_title": "未确认进行式 OAD",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d6f6d0b103d4042e3eb0436914d08862a92a4afd.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28228719,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/image/7002c536a85939c2ca87d7721e4135be792a9e0a.jpg",
+                    "id": 324280,
+                    "index_show": "全12话"
+                },
+                "season_id": 33328,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 781600,
+                    "series_follow": 1034222,
+                    "views": 13286140
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/37553432354ec28cca2cf73d0023b9850ebbea38.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3507,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/879e0fad1331a8af6f6e69bc56a9d71412e6444b.jpg",
+                    "id": 85544,
+                    "index_show": "全1话"
+                },
+                "season_id": 3507,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 115514,
+                    "series_follow": 1034222,
+                    "views": 1946277
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2c7e2734bcfadf258412b7c359798d87565809fe.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3797,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/fe7518155c7e4ad64eb600863cc3ed1252ba9c70.jpg",
+                    "id": 86551,
+                    "index_show": "全1话"
+                },
+                "season_id": 3797,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 99454,
+                    "series_follow": 1034222,
+                    "views": 1946281
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 154,
+            "series_title": "未确认进行式"
+        },
+        "share_copy": "《未确认进行式 OAD》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3797",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/1ac1c00143e69d113def0374e9f9858ea3e96f07.png",
+        "stat": {
+            "coins": 5801,
+            "danmakus": 11274,
+            "favorite": 368,
+            "favorites": 99454,
+            "likes": 10338,
+            "reply": 1920,
+            "share": 563,
+            "views": 1946281
+        },
+        "status": 2,
+        "subtitle": "已观看194.6万次",
+        "title": "未确认进行式 OAD",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

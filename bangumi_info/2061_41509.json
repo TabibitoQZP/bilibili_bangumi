@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/54a6a79d307ff2cca7efa9bc565c8dc7489a6066.jpg",
+        "episodes": [
+            {
+                "aid": 897364760,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xA4y1R7gi",
+                "cid": 742748636,
+                "cover": "http://i0.hdslb.com/bfs/archive/87e3092602d1a082a312587d0f067cae34080920.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 515356,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515356",
+                "long_title": "我是歌愈师（见习）藤井奏！",
+                "pub_time": 1654525800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第1话 我是歌愈师（见习）藤井奏！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515356",
+                "short_link": "https://b23.tv/ep515356",
+                "skip": {
+                    "ed": {
+                        "end": 1365,
+                        "start": 1276
+                    },
+                    "op": {
+                        "end": 209,
+                        "start": 119
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看145.4万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 727419282,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PS4y1q7Zu",
+                "cid": 745783083,
+                "cover": "http://i0.hdslb.com/bfs/archive/2b95a5a4b7382f70fb30e66ec5a867de520a5b94.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 515357,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515357",
+                "long_title": "可以拍照吗？或者拍视频",
+                "pub_time": 1655130600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第2话 可以拍照吗？或者拍视频",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515357",
+                "short_link": "https://b23.tv/ep515357",
+                "skip": {
+                    "ed": {
+                        "end": 1360,
+                        "start": 1271
+                    },
+                    "op": {
+                        "end": 131,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 855145450,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sL4y1A74B",
+                "cid": 751225238,
+                "cover": "http://i0.hdslb.com/bfs/archive/1828ebd99a6c8449ef755b25d55cfcc05b20c7cf.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 515358,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep515358",
+                "long_title": "打扫，跑·跑·跑",
+                "pub_time": 1655735401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第3话 打扫，跑·跑·跑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep515358",
+                "short_link": "https://b23.tv/ep515358",
+                "skip": {
+                    "ed": {
+                        "end": 1318,
+                        "start": 1229
+                    },
+                    "op": {
+                        "end": 166,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 855607212,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jL4y1A7Lu",
+                "cid": 763339817,
+                "cover": "http://i0.hdslb.com/bfs/archive/46816c53c87c8c02cec5eefc7402c0264e5c3095.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 520762,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep520762",
+                "long_title": "第一步与恐怖与首次工作！",
+                "pub_time": 1656945000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第4话 第一步与恐怖与首次工作！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep520762",
+                "short_link": "https://b23.tv/ep520762",
+                "skip": {
+                    "ed": {
+                        "end": 1335,
+                        "start": 1246
+                    },
+                    "op": {
+                        "end": 197,
+                        "start": 108
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 258276075,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1da411D7Ps",
+                "cid": 770004324,
+                "cover": "http://i0.hdslb.com/bfs/archive/6d7bdb1f50a8b1bbb8bd752331aed69a3b5cfe72.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1387000,
+                "from": "bangumi",
+                "id": 520763,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep520763",
+                "long_title": "蓝天青山，小河之战与银河车站",
+                "pub_time": 1657549800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第5话 蓝天青山，小河之战与银河车站",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep520763",
+                "short_link": "https://b23.tv/ep520763",
+                "skip": {
+                    "ed": {
+                        "end": 1285,
+                        "start": 1195
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 28
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 428509687,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rG411p7gs",
+                "cid": 776562098,
+                "cover": "http://i0.hdslb.com/bfs/archive/d5d06dde7bb46961bc57354e099366de8696b982.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 520764,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep520764",
+                "long_title": "成为我的仆人吧 用俄罗斯料理做个好梦",
+                "pub_time": 1658154601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第6话 成为我的仆人吧 用俄罗斯料理做个好梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep520764",
+                "short_link": "https://b23.tv/ep520764",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1300
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 43
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 983794833,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jt4y1L7u1",
+                "cid": 783813909,
+                "cover": "http://i0.hdslb.com/bfs/archive/a415ff90b0523c18e564f40ecdaaebecf7b48007.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 653478,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep653478",
+                "long_title": "文化祭饱腹大惊喜",
+                "pub_time": 1658759400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第7话 文化祭饱腹大惊喜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep653478",
+                "short_link": "https://b23.tv/ep653478",
+                "skip": {
+                    "ed": {
+                        "end": 1385,
+                        "start": 1295
+                    },
+                    "op": {
+                        "end": 108,
+                        "start": 17
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 814121482,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hG4y1v7DL",
+                "cid": 790355503,
+                "cover": "http://i0.hdslb.com/bfs/archive/1362b6abc7fac7a54c87ea1d99e7ebba1fb24e60.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 653479,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep653479",
+                "long_title": "我最喜欢女仆啦 开除哦",
+                "pub_time": 1659364200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第8话 我最喜欢女仆啦 开除哦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep653479",
+                "short_link": "https://b23.tv/ep653479",
+                "skip": {
+                    "ed": {
+                        "end": 1328,
+                        "start": 1239
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 47
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 686776786,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sU4y1e7re",
+                "cid": 796973850,
+                "cover": "http://i0.hdslb.com/bfs/archive/d33e3b2fad2a3c61086d54ddf90fd5d899661ce8.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 653480,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep653480",
+                "long_title": "最好的认可 要买CD哦",
+                "pub_time": 1659969001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第9话 最好的认可 要买CD哦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep653480",
+                "short_link": "https://b23.tv/ep653480",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 599556969,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vB4y1B7gm",
+                "cid": 804013705,
+                "cover": "http://i0.hdslb.com/bfs/archive/67ea589325fd5d8302d0ddf4aa3496d9dd1af67a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 670452,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep670452",
+                "long_title": "万圣节 化妆晚会 蝴蝶",
+                "pub_time": 1660573800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第10话 万圣节 化妆晚会 蝴蝶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep670452",
+                "short_link": "https://b23.tv/ep670452",
+                "skip": {
+                    "ed": {
+                        "end": 1330,
+                        "start": 1241
+                    },
+                    "op": {
+                        "end": 119,
+                        "start": 30
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 344815322,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Zd4y1w7Pk",
+                "cid": 811029245,
+                "cover": "http://i0.hdslb.com/bfs/archive/f10aa35140220e8ce82ecabe46fbe224c8f7cbfe.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 670453,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep670453",
+                "long_title": "鲨鱼和合宿、一起攀登吧！",
+                "pub_time": 1661178600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第11话 鲨鱼和合宿、一起攀登吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep670453",
+                "short_link": "https://b23.tv/ep670453",
+                "skip": {
+                    "ed": {
+                        "end": 1330,
+                        "start": 1240
+                    },
+                    "op": {
+                        "end": 196,
+                        "start": 106
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 645096747,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oY4y1u7bn",
+                "cid": 818065335,
+                "cover": "http://i0.hdslb.com/bfs/archive/8fab557e54018466bd8e986bb4198b9d90abbaec.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 670454,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep670454",
+                "long_title": "我们是C级歌愈师！",
+                "pub_time": 1661783400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《歌愈少女》第12话 我们是C级歌愈师！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep670454",
+                "short_link": "https://b23.tv/ep670454",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看145.4万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "第三医学，歌愈——\n用歌声来治疗伤痛的“声音医学”。\n这种用歌唱进行治疗的职业，人们称其为“歌愈师”。\n在乌丸声音治疗院工作的三位见习歌愈师们。\n充满活力的开心果，藤井奏。\n有些强势的大小姐，五城玲美。\n温和可靠的大姐姐，森岛响。\n三名高一学生在放学后，\n为了成为独当一面的歌愈师，会在乌丸治疗院进行修行。\n再加上拥有C级歌愈师执照的归国子女矢薙索尼娅，\n几位少女朝着梦想，今天也将唱响治愈之声！\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28237218/",
+        "media_id": 28237218,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 670454,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员观看"
+        },
+        "positive": {
+            "id": 66315,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-06-06 22:30:00",
+            "pub_time_show": "06月06日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 713,
+            "score": 9.5
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41509,
+        "season_title": "歌愈少女",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/54a6a79d307ff2cca7efa9bc565c8dc7489a6066.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/8d6f4f9022fa76a358feabddc6af8a5f420e3df4.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/0385730205a9c06289a85862603996574a88f024.png",
+                "media_id": 28237218,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/8fab557e54018466bd8e986bb4198b9d90abbaec.png",
+                    "id": 670454,
+                    "index_show": "全12话"
+                },
+                "season_id": 41509,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 52767,
+                    "series_follow": 52768,
+                    "views": 1453622
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 342296352,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1K94y1U7pU",
+                        "cid": 739546646,
+                        "cover": "http://i0.hdslb.com/bfs/archive/756b1ada301edb3fe44fe1f4e609c3ed2b193508.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 116000,
+                        "from": "bangumi",
+                        "id": 515386,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep515386",
+                        "long_title": "",
+                        "pub_time": 1654525800,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《歌愈少女》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep515386",
+                        "short_link": "https://b23.tv/ep515386",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 84,
+                            "danmakus": 5,
+                            "likes": 400,
+                            "play": 92936,
+                            "reply": 14
+                        },
+                        "status": 2,
+                        "subtitle": "已观看145.4万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 79386,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6058,
+            "series_title": "歌愈少女"
+        },
+        "share_copy": "《歌愈少女》用歌声治疗伤痛！",
+        "share_sub_title": "用歌声治疗伤痛！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41509",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/94e5a57058466100c251dc4272f986881c6f9cbe.png",
+        "stat": {
+            "coins": 6122,
+            "danmakus": 4887,
+            "favorite": 1549,
+            "favorites": 52767,
+            "likes": 57472,
+            "reply": 1372,
+            "share": 590,
+            "views": 1453622
+        },
+        "status": 13,
+        "subtitle": "已观看145.4万次",
+        "title": "歌愈少女",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859949,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

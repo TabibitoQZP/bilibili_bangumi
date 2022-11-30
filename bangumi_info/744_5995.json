@@ -1,0 +1,808 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/3bc8f9150d1d5de3d991e451e21c355aa839083f.jpg",
+        "episodes": [
+            {
+                "aid": 9562402,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lx411Q7sV",
+                "cid": 15827940,
+                "cover": "http://i2.hdslb.com/bfs/archive/ad34f567ba32ef6b34a65491b5d278b44d30e0fb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 2656000,
+                "from": "bangumi",
+                "id": 103272,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103272",
+                "long_title": "赤之女王、出逃",
+                "pub_time": 1491146582,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第1话 赤之女王、出逃",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103272",
+                "short_link": "https://b23.tv/ep103272",
+                "skip": {
+                    "ed": {
+                        "end": 2649,
+                        "start": 2560
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看817.6万次",
+                "title": "1",
+                "vid": "vupload_15827940"
+            },
+            {
+                "aid": 9729371,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xx411S7ym",
+                "cid": 16140618,
+                "cover": "http://i0.hdslb.com/bfs/archive/f896c349b3665a11e2ab068c9d683245b084c798.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103273,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103273",
+                "long_title": "爱丽丝之梦",
+                "pub_time": 1491750002,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第2话 爱丽丝之梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103273",
+                "short_link": "https://b23.tv/ep103273",
+                "skip": {
+                    "ed": {
+                        "end": 1391,
+                        "start": 1301
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "2",
+                "vid": "vupload_16140618"
+            },
+            {
+                "aid": 9892207,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jx411D72g",
+                "cid": 16354493,
+                "cover": "http://i1.hdslb.com/bfs/archive/22a2ab3a062658c5712e1ec38e9b7ec1c9deca5b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103274,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103274",
+                "long_title": "扑克牌",
+                "pub_time": 1492354802,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第3话 扑克牌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103274",
+                "short_link": "https://b23.tv/ep103274",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 145,
+                        "start": 56
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 10053071,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1sx411U7Ah",
+                "cid": 16675888,
+                "cover": "http://i1.hdslb.com/bfs/archive/0fb687265c45db0288eb0b4aa71bf1e55f55ec4b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103275,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103275",
+                "long_title": "非人之物",
+                "pub_time": 1492959842,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第4话 非人之物",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103275",
+                "short_link": "https://b23.tv/ep103275",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 10214739,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gx411S7Zs",
+                "cid": 16875070,
+                "cover": "http://i1.hdslb.com/bfs/archive/51d33f98ad25f94ac548b6bc142ef338056851c3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 103276,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103276",
+                "long_title": "归处",
+                "pub_time": 1493564402,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第5话 归处",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103276",
+                "short_link": "https://b23.tv/ep103276",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 76
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 10396997,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zx411m7LY",
+                "cid": 17170926,
+                "cover": "http://i2.hdslb.com/bfs/archive/0f1bc1bf921be3e3371605792337a1accb7c578a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1416445,
+                "from": "bangumi",
+                "id": 104995,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep104995",
+                "long_title": "特别篇",
+                "pub_time": 1494169200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》SP 特别篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep104995",
+                "short_link": "https://b23.tv/ep104995",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "SP",
+                "vid": ""
+            },
+            {
+                "aid": 10567007,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Px411v7EF",
+                "cid": 17444585,
+                "cover": "http://i1.hdslb.com/bfs/archive/bb5d252278610b6849671eaec9d3e6cfdb3af2ab.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103277,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103277",
+                "long_title": "樫村家",
+                "pub_time": 1494774002,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第6话 樫村家",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103277",
+                "short_link": "https://b23.tv/ep103277",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 10727923,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rx411v79G",
+                "cid": 17699907,
+                "cover": "http://i2.hdslb.com/bfs/archive/cc42509f4031bd669d2767b0a94e1eff4543d46b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103278,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103278",
+                "long_title": "朋友",
+                "pub_time": 1495378802,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第7话 朋友",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103278",
+                "short_link": "https://b23.tv/ep103278",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 203,
+                        "start": 113
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 10890866,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wx411e7CB",
+                "cid": 18073243,
+                "cover": "http://i0.hdslb.com/bfs/archive/b4d4c85a0239214b37c5a76837222ffd9b1a7b50.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103279,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103279",
+                "long_title": "邪恶魔女",
+                "pub_time": 1495983602,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第8话 邪恶魔女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103279",
+                "short_link": "https://b23.tv/ep103279",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 57
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 11074392,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mx411a77e",
+                "cid": 18327270,
+                "cover": "http://i1.hdslb.com/bfs/archive/50353e43c5d8948686b1873d773c929af571766a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103280,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103280",
+                "long_title": "柴郡猫的微笑场所",
+                "pub_time": 1496588402,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第9话 柴郡猫的微笑场所",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103280",
+                "short_link": "https://b23.tv/ep103280",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 11253759,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Vx411Y7XQ",
+                "cid": 18612975,
+                "cover": "http://i0.hdslb.com/bfs/archive/da0ec3f1a6e18c25e24936c450cdcc92e76264f2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103281,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103281",
+                "long_title": "小小的女王",
+                "pub_time": 1497193200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第10话 小小的女王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103281",
+                "short_link": "https://b23.tv/ep103281",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 76
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 11432857,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ex411h7gd",
+                "cid": 18900974,
+                "cover": "http://i1.hdslb.com/bfs/archive/bb8dab6a08c8fc9c07fa1bf883fdc32f470d528b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103282,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103282",
+                "long_title": "女王和魔女",
+                "pub_time": 1497798000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第11话 女王和魔女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103282",
+                "short_link": "https://b23.tv/ep103282",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 11621468,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Jx411675T",
+                "cid": 19235392,
+                "cover": "http://i0.hdslb.com/bfs/archive/a0646cf5cb4c3058f72f71ac619eb280e3c30b05.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 103283,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103283",
+                "long_title": "我回来了",
+                "pub_time": 1498402800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《爱丽丝与藏六》第12话 我回来了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103283",
+                "short_link": "https://b23.tv/ep103283",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 63
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看817.6万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "她从未如此了解“外面的世界”。第一次接触到的事物，第一次见到的风景，还有第一次遇到的人们……。对于如此广阔的“世界”，她感到困惑、惊讶，不由地睁大了双眼。\n她的名字是纱名，是在被称为“研究所”的设施中，对“外面的世界”一无所知地长大的少女。同时，也是拥有能够将一切想象具现化——这种被称为“爱丽丝的梦”的特殊能力的人。\n后来，在初次来到“外面”的时候，她遇到了一位老人。他的名字是㭴村藏六，是个“最讨厌不合道理的事”，认为“不好的事情就是不好”的顽固老爷爷。与藏六的相遇，大大改变了纱名的命运。\n追寻着纱名的神秘组织，不断出现的能力者们，以及与善良的人们的相遇……。不谙世事的“爱丽丝”，终于穿过镜之门（Looking Glass），开始了解世界真正的样子。\n——没错，这是我还能自由前往梦之国时的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5995/",
+        "media_id": 5995,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 103283,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 22962,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-04-02 23:00:00",
+            "pub_time_show": "2017年04月02日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2349,
+            "score": 9.3
+        },
+        "record": "登记号：10417060203792604",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5995,
+        "season_title": "爱丽丝与藏六",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3bc8f9150d1d5de3d991e451e21c355aa839083f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5995,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/a0646cf5cb4c3058f72f71ac619eb280e3c30b05.jpg",
+                    "id": 103283,
+                    "index_show": "全12话"
+                },
+                "season_id": 5995,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 604317,
+                    "series_follow": 604317,
+                    "views": 8175702
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3595,
+            "series_title": "爱丽丝和藏六"
+        },
+        "share_copy": "《爱丽丝与藏六》迷上了街口的老大爷",
+        "share_sub_title": "迷上了街口的老大爷",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5995",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/888627242e9bc0752204ac1cfcc1bbd01ca03143.jpg",
+        "stat": {
+            "coins": 32159,
+            "danmakus": 225968,
+            "favorite": 1610,
+            "favorites": 604317,
+            "likes": 15537,
+            "reply": 31008,
+            "share": 7941,
+            "views": 8175702
+        },
+        "status": 13,
+        "subtitle": "已观看817.6万次",
+        "title": "爱丽丝与藏六",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

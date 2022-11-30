@@ -1,0 +1,909 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/320be8e374bb4b6d590b16f7059fedc99d4e20d1.png",
+        "episodes": [
+            {
+                "aid": 332356139,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1cA411K7od",
+                "cid": 320622168,
+                "cover": "http://i0.hdslb.com/bfs/archive/1faa1f6835b3122b0a87bc380c1e59d1a0b11157.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398123,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398123",
+                "long_title": "不是坏人",
+                "pub_time": 1617186601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第1话 不是坏人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398123",
+                "short_link": "https://b23.tv/ep398123",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 477,
+                        "start": 387
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看3113万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 629990470,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1fb4y1S7VT",
+                "cid": 354600896,
+                "cover": "http://i0.hdslb.com/bfs/archive/39c066dac134a9a095497524ff81644a8a10e892.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398808,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398808",
+                "long_title": "香水的气味",
+                "pub_time": 1617626701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第2话 香水的气味",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398808",
+                "short_link": "https://b23.tv/ep398808",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 126,
+                        "start": 36
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 460007639,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1q5411A7om",
+                "cid": 323215165,
+                "cover": "http://i0.hdslb.com/bfs/archive/7630503e291c3f5a84725539dbd9e5ed395ad50f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398809,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398809",
+                "long_title": "是在捉弄我吧",
+                "pub_time": 1618231501,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第3话 是在捉弄我吧",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398809",
+                "short_link": "https://b23.tv/ep398809",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 74
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 290206140,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13f4y1p7Ka",
+                "cid": 326246123,
+                "cover": "http://i0.hdslb.com/bfs/archive/57ddbfe3b8cbd82ea9dcfcff0ea1fe141d3416f6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398810,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398810",
+                "long_title": "在神圣的夜晚",
+                "pub_time": 1618836301,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第4话 在神圣的夜晚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398810",
+                "short_link": "https://b23.tv/ep398810",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 243,
+                        "start": 153
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 887786593,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZK4y1P7bv",
+                "cid": 329513922,
+                "cover": "http://i0.hdslb.com/bfs/archive/43a7935c35a96129b9d101539fb1120c34afce59.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398811,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398811",
+                "long_title": "圣地巡礼",
+                "pub_time": 1619441100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第5话 圣地巡礼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398811",
+                "short_link": "https://b23.tv/ep398811",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 106,
+                        "start": 16
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 802981258,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12y4y1p7sV",
+                "cid": 332988557,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/becfd3056e11d470f2179c40cae5cf5d26f69230.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398812,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398812",
+                "long_title": "是单恋？",
+                "pub_time": 1620045900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第6话 是单恋？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398812",
+                "short_link": "https://b23.tv/ep398812",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 115,
+                        "start": 23
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 673000500,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xU4y1t7ZX",
+                "cid": 336528368,
+                "cover": "http://i0.hdslb.com/bfs/archive/5d30ab251a07d485e9bcf98036f8cfa4e4e866cb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398813,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398813",
+                "long_title": "对喜欢角色的爱",
+                "pub_time": 1620650701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第7话 对喜欢角色的爱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398813",
+                "short_link": "https://b23.tv/ep398813",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 105,
+                        "start": 15
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 290719641,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gf4y1h7DY",
+                "cid": 339910752,
+                "cover": "http://i0.hdslb.com/bfs/archive/59ce2547873332e0e80dec65d914b4d8f956b8ee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398814,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398814",
+                "long_title": "喜欢的人是…",
+                "pub_time": 1621255501,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第8话 喜欢的人是…",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398814",
+                "short_link": "https://b23.tv/ep398814",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 418334923,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gV41177N5",
+                "cid": 343439044,
+                "cover": "http://i0.hdslb.com/bfs/archive/4203f0a32d1a0be1b3486cd7c1051884b8488bba.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398815,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398815",
+                "long_title": "自己的答案",
+                "pub_time": 1621860301,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第9话 自己的答案",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398815",
+                "short_link": "https://b23.tv/ep398815",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1336
+                    },
+                    "op": {
+                        "end": 539,
+                        "start": 449
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 760840712,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1864y1k7wJ",
+                "cid": 346725047,
+                "cover": "http://i0.hdslb.com/bfs/archive/b95f66b4eea72b9ac94217a85068712bcfb14deb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398816,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398816",
+                "long_title": "受伤的心理准备",
+                "pub_time": 1622465101,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第10话 受伤的心理准备",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398816",
+                "short_link": "https://b23.tv/ep398816",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1365
+                    },
+                    "op": {
+                        "end": 275,
+                        "start": 185
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 715956159,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1KQ4y1977E",
+                "cid": 350324711,
+                "cover": "http://i0.hdslb.com/bfs/archive/586b5385a8eb530b112c0ab5dbf26b2bf36a2c8f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1360000,
+                "from": "bangumi",
+                "id": 398817,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398817",
+                "long_title": "学生",
+                "pub_time": 1623069901,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第11话 学生",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398817",
+                "short_link": "https://b23.tv/ep398817",
+                "skip": {
+                    "ed": {
+                        "end": 1354,
+                        "start": 1264
+                    },
+                    "op": {
+                        "end": 276,
+                        "start": 186
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 888683290,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eK4y1u76a",
+                "cid": 354103942,
+                "cover": "http://i0.hdslb.com/bfs/archive/c5036e4cbc4ed977321fd9e5062239dc7855a5e6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 398818,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep398818",
+                "long_title": "好恶心",
+                "pub_time": 1623674701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《这爱情有点奇怪》第12话 好恶心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep398818",
+                "short_link": "https://b23.tv/ep398818",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看3113万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "女主人公有马一花是一名普通的女孩。一天她偶遇了一名通勤路上突然身体不适的上班族天草亮。心地善良的一花毫不吝啬的将自己的便当送给了他。天草亮被女孩的纯真温柔所打动，瞬间坠入了爱河。于是对有马一花展开了强烈的恋爱攻势。精英上班族×普通宅女的恋爱喜剧就此开幕！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233603/",
+        "media_id": 28233603,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 398818,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 57087,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-03-31 18:30:00",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 21527,
+            "score": 9.2
+        },
+        "record": "登记号：10417060198742904",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 37924,
+        "season_title": "这爱情有点奇怪",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/320be8e374bb4b6d590b16f7059fedc99d4e20d1.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233603,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c5036e4cbc4ed977321fd9e5062239dc7855a5e6.jpg",
+                    "id": 398818,
+                    "index_show": "全12话"
+                },
+                "season_id": 37924,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1289897,
+                    "series_follow": 1289897,
+                    "views": 31129637
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 204033161,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13h411C7JM",
+                        "cid": 292626624,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/9791d35bd3cdcaeb6e747d7f4e632473980ae8c1.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 61000,
+                        "from": "bangumi",
+                        "id": 384081,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep384081",
+                        "long_title": "",
+                        "pub_time": 1612436400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《这爱情有点奇怪》PV1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep384081",
+                        "short_link": "https://b23.tv/ep384081",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3004,
+                            "danmakus": 80,
+                            "likes": 6731,
+                            "play": 572318,
+                            "reply": 437
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3113万次",
+                        "title": "PV1",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 543880656,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1kv4y1f79W",
+                        "cid": 310582309,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/46302dfb9ffc3c83e9ceb5970dc4e820dc700204.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 108000,
+                        "from": "bangumi",
+                        "id": 383488,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep383488",
+                        "long_title": "",
+                        "pub_time": 1612234801,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《这爱情有点奇怪》PV2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep383488",
+                        "short_link": "https://b23.tv/ep383488",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 1915,
+                            "danmakus": 303,
+                            "likes": 10335,
+                            "play": 679754,
+                            "reply": 1555
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3113万次",
+                        "title": "PV2",
+                        "vid": ""
+                    }
+                ],
+                "id": 57089,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5311,
+            "series_title": "这爱情有点奇怪"
+        },
+        "share_copy": "《这爱情有点奇怪》你是最特别的~",
+        "share_sub_title": "你是最特别的~",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss37924",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/aacadf1c196e3a4266f7d55b06cc31e2c936ddd1.png",
+        "stat": {
+            "coins": 270824,
+            "danmakus": 302048,
+            "favorite": 26850,
+            "favorites": 1289897,
+            "likes": 574438,
+            "reply": 41961,
+            "share": 43750,
+            "views": 31129637
+        },
+        "status": 13,
+        "subtitle": "已观看3113万次",
+        "title": "这爱情有点奇怪",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859942,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/bad54063f49aaf6b4e115050029c0df02c17dab8.jpg",
+        "episodes": [
+            {
+                "aid": 2454774,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zs411U7pc",
+                "cid": 3843841,
+                "cover": "http://i0.hdslb.com/bfs/archive/725f7a72d521e8712dc00ceabb228a89274a4ee5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 9761000,
+                "from": "bangumi",
+                "id": 116263,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep116263?theme=movie",
+                "long_title": "",
+                "pub_time": 1466494540,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《中国惊奇先生》驱魔铁三角",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep116263",
+                "short_link": "https://b23.tv/ep116263",
+                "status": 2,
+                "subtitle": "已观看1707.7万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "电影《中国惊奇先生》改编自权迎升创作的同名青年漫画，讲述道法传人王小二、警花、老警察组成的“驱魔铁三角”组合，侦破各种灵异系列案件的故事。北京某胡同内，常发生下班女子惨遭色狼强暴、碎尸案件。警察牛叔多次调查后断定，此系列案件非人类所为。阴差阳错之下王小二结识了女警花李雪，屌丝道士王小二为追求警花，开始帮助警方侦破各种灵异案件，由此展开了一系列不可思议的事件。",
+        "freya": {
+            "bubble_desc": "原来你也爱看这个片子呀",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md10086/",
+        "media_id": 10086,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2015年6月19日上映",
+            "id": 116263,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 23587,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-06-19 00:00:00",
+            "pub_time_show": "2015年06月19日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5957,
+            "score": 8.9
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 1,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 10086,
+        "season_title": "中国惊奇先生",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《中国惊奇先生》驱魔铁三角",
+        "share_sub_title": "驱魔铁三角",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss10086",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "",
+        "stat": {
+            "coins": 85096,
+            "danmakus": 305668,
+            "favorite": 46287,
+            "favorites": 598440,
+            "likes": 201055,
+            "reply": 13376,
+            "share": 28031,
+            "views": 17077178
+        },
+        "status": 2,
+        "subtitle": "已观看1707.7万次",
+        "title": "中国惊奇先生",
+        "total": 0,
+        "type": 2,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

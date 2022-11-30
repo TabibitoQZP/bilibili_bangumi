@@ -1,0 +1,934 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9bf9e66968f85b33ec3769a16c86b36dc984abbc.png",
+        "episodes": [
+            {
+                "aid": 82232111,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zJ411L7Vv",
+                "cid": 160231833,
+                "cover": "http://i0.hdslb.com/bfs/archive/4a1895e5b675209b6948dc321c3cc4991a6262bc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307446,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307446",
+                "long_title": "JIGSAWED 碎片世界",
+                "pub_time": 1578241800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第1话 JIGSAWED 碎片世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307446",
+                "short_link": "https://b23.tv/ep307446",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 27,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.2亿次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 82232426,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1BJ411L76a",
+                "cid": 140699463,
+                "cover": "http://i0.hdslb.com/bfs/archive/c66175203fdb6f54a9fb3accd793da0341b3140a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307447,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307447",
+                "long_title": "JIGSAWED Ⅱ 碎片世界",
+                "pub_time": 1578241800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第2话 JIGSAWED Ⅱ 碎片世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307447",
+                "short_link": "https://b23.tv/ep307447",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 83157260,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WJ411n75a",
+                "cid": 142323928,
+                "cover": "http://i0.hdslb.com/bfs/archive/df0322887dd621b45c0718661220a6f0b923896e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307448,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307448",
+                "long_title": "SNIPED 瀑布世界",
+                "pub_time": 1578846600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第3话 SNIPED 瀑布世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307448",
+                "short_link": "https://b23.tv/ep307448",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 84138871,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1i7411q7ag",
+                "cid": 143930711,
+                "cover": "http://i0.hdslb.com/bfs/archive/15125771e736aa27a76d714e4d4250fe8634719f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307449,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307449",
+                "long_title": "EXTENDED 火海大楼",
+                "pub_time": 1579451400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第4话 EXTENDED 火海大楼",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307449",
+                "short_link": "https://b23.tv/ep307449",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 245,
+                        "start": 148
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 85126891,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1z7411k7YY",
+                "cid": 145545301,
+                "cover": "http://i0.hdslb.com/bfs/archive/d3121d111358c29e45e5b9d00887d4bb41566ee7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307450,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307450",
+                "long_title": "FALLEN 坠落世界",
+                "pub_time": 1580056200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第5话 FALLEN 坠落世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307450",
+                "short_link": "https://b23.tv/ep307450",
+                "skip": {
+                    "ed": {
+                        "end": 1458,
+                        "start": 1364
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 61
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 86339824,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1C7411W7LR",
+                "cid": 147570759,
+                "cover": "http://i0.hdslb.com/bfs/archive/e08ef2099ed6c1d9076445cdad8ab4ea006a3a99.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307451,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307451",
+                "long_title": "CIRCLED 圆环世界",
+                "pub_time": 1580661000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第6话 CIRCLED 圆环世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307451",
+                "short_link": "https://b23.tv/ep307451",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 72,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 87731819,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1E7411b7GF",
+                "cid": 149894672,
+                "cover": "http://i0.hdslb.com/bfs/archive/cf2079ec93a625d2bce962e643d1b3d4742aae07.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307452,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307452",
+                "long_title": "THUNDERBOLTED 雷鸣世界",
+                "pub_time": 1581265800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第7话 THUNDERBOLTED 雷鸣世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307452",
+                "short_link": "https://b23.tv/ep307452",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 283,
+                        "start": 192
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 89463810,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1p7411E7M7",
+                "cid": 153049883,
+                "cover": "http://i0.hdslb.com/bfs/archive/892418b3417e1ab6e1743c850872486170e17217.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307453,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307453",
+                "long_title": "DESERTIFIED 沙漠世界",
+                "pub_time": 1581870600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第8话 DESERTIFIED 沙漠世界",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307453",
+                "short_link": "https://b23.tv/ep307453",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1389
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 91190744,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1G7411F7EU",
+                "cid": 155883693,
+                "cover": "http://i0.hdslb.com/bfs/archive/a51e8a27d76390820f4a5ef15fef5466c5457c2f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307454,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307454",
+                "long_title": "INSIDE-OUTED",
+                "pub_time": 1582475400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第9话 INSIDE-OUTED",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307454",
+                "short_link": "https://b23.tv/ep307454",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 92990314,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iE411E7A6",
+                "cid": 158954431,
+                "cover": "http://i0.hdslb.com/bfs/archive/1ec093a865dcd5997942331a196055d31b8cbdb8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307455,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307455",
+                "long_title": "INSIDE-OUTED Ⅱ",
+                "pub_time": 1583080200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第10话 INSIDE-OUTED Ⅱ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307455",
+                "short_link": "https://b23.tv/ep307455",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 94687362,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18E411M7y6",
+                "cid": 163531467,
+                "cover": "http://i0.hdslb.com/bfs/archive/f240022fe2a005e260fe8a205aa355e42373e781.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307456,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307456",
+                "long_title": "STORMED",
+                "pub_time": 1583685000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第11话 STORMED",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307456",
+                "short_link": "https://b23.tv/ep307456",
+                "skip": {
+                    "ed": {
+                        "end": 1480,
+                        "start": 1386
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 96523832,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1K7411f7uu",
+                "cid": 164789275,
+                "cover": "http://i0.hdslb.com/bfs/archive/dfc29be381565ee041a0ec9cfc7a32f8a63f76cd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307457,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307457",
+                "long_title": "CHANNELED",
+                "pub_time": 1584289800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第12话 CHANNELED",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307457",
+                "short_link": "https://b23.tv/ep307457",
+                "skip": {
+                    "ed": {
+                        "end": 1421,
+                        "start": 1327
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 98429376,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mE411F7JR",
+                "cid": 168492182,
+                "cover": "http://i0.hdslb.com/bfs/archive/3dce2b856a7b0ea667aa288b51b7c0478fa56c4d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1481000,
+                "from": "bangumi",
+                "id": 307774,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep307774",
+                "long_title": "CHANNELEDⅡ",
+                "pub_time": 1584894600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《异度侵入 ID:INVADED》第13话 CHANNELEDⅡ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep307774",
+                "short_link": "https://b23.tv/ep307774",
+                "skip": {
+                    "ed": {
+                        "end": 1479,
+                        "start": 1388
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.2亿次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本片讲述利用能检测出人们杀意的装置以及利用思想粒子做出的“井”，来探知事件真相的科幻故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28224080/",
+        "media_id": 28224080,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 307774,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 39327,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-06 00:30:00",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 301500,
+            "score": 9.8
+        },
+        "record": "登记号：10417060207652712",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29310,
+        "season_title": "异度侵入 ID:INVADED",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9bf9e66968f85b33ec3769a16c86b36dc984abbc.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224080,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3dce2b856a7b0ea667aa288b51b7c0478fa56c4d.jpg",
+                    "id": 307774,
+                    "index_show": "全13话"
+                },
+                "season_id": 29310,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4867851,
+                    "series_follow": 4867853,
+                    "views": 124124378
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 79109860,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV12J411C7aB",
+                        "cid": 135388404,
+                        "cover": "http://i0.hdslb.com/bfs/archive/1d09154ff0ccba53de4c5f8f7bb7374139fe8197.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 99663,
+                        "from": "bangumi",
+                        "id": 301054,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep301054",
+                        "long_title": "",
+                        "pub_time": 1576404000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异度侵入 ID:INVADED》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep301054",
+                        "short_link": "https://b23.tv/ep301054",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 8872,
+                            "danmakus": 1931,
+                            "likes": 2785,
+                            "play": 1687795,
+                            "reply": 1905
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1.2亿次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 87531518,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Z741187xA",
+                        "cid": 149560131,
+                        "cover": "http://i0.hdslb.com/bfs/archive/8de1b9d84365f1329455df477733251f1035820a.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 127000,
+                        "from": "bangumi",
+                        "id": 312406,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep312406",
+                        "long_title": "《异度侵入》监督们给中国观众的问候",
+                        "pub_time": 1581163200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《异度侵入 ID:INVADED》SP 《异度侵入》监督们给中国观众的问候",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep312406",
+                        "short_link": "https://b23.tv/ep312406",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 28136,
+                            "danmakus": 12054,
+                            "likes": 20589,
+                            "play": 1399124,
+                            "reply": 5490
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1.2亿次",
+                        "title": "SP",
+                        "vid": ""
+                    }
+                ],
+                "id": 39633,
+                "title": "其他",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4760,
+            "series_title": "ID:INVADED"
+        },
+        "share_copy": "《异度侵入 ID:INVADED》真·脑洞大开推理",
+        "share_sub_title": "真·脑洞大开推理",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29310",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/664dbf039ec2da8dd982b697a108e28e87b9897e.jpg",
+        "stat": {
+            "coins": 1079543,
+            "danmakus": 1544602,
+            "favorite": 27768,
+            "favorites": 4867851,
+            "likes": 551349,
+            "reply": 324464,
+            "share": 286979,
+            "views": 124124377
+        },
+        "status": 13,
+        "subtitle": "已观看1.2亿次",
+        "title": "异度侵入 ID:INVADED",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

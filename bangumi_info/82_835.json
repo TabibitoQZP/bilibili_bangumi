@@ -1,0 +1,734 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/6c1ca4159442a6de3577bbee5e583be72b00499f.jpg",
+        "episodes": [
+            {
+                "aid": 1358913,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411N7wm",
+                "cid": 211874678,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/544fe8b9bd30f3fd01cc1fa5982099f4244d10f7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1476000,
+                "from": "bangumi",
+                "id": 15014,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15014",
+                "long_title": "超和平busters",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第1话 超和平busters",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15014",
+                "short_link": "https://b23.tv/ep15014",
+                "skip": {
+                    "ed": {
+                        "end": 1475,
+                        "start": 1371
+                    },
+                    "op": {
+                        "end": 306,
+                        "start": 215
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看5632.4万次",
+                "title": "1",
+                "vid": "vupload_2055946"
+            },
+            {
+                "aid": 294257004,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qF411h7SW",
+                "cid": 211874783,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/aa60627f9c3adbf16b22d08370fbca9f7c4ae883.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 15015,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15015",
+                "long_title": "勇者面码",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第2话 勇者面码",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15015",
+                "short_link": "https://b23.tv/ep15015",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1288
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "2",
+                "vid": "vupload_2055947"
+            },
+            {
+                "aid": 976756473,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1D44y1a7dC",
+                "cid": 211874873,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3a7a230da039c0495ab43d118c17b9abd939d646.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 15016,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15016",
+                "long_title": "寻找面码委员会",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第3话 寻找面码委员会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15016",
+                "short_link": "https://b23.tv/ep15016",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1302
+                    },
+                    "op": {
+                        "end": 235,
+                        "start": 145
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "3",
+                "vid": "vupload_2055948"
+            },
+            {
+                "aid": 251835184,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jY41147mU",
+                "cid": 211874977,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eada69661bc63b2af79bd9d81849a40c0d2bed87.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 15017,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15017",
+                "long_title": "白丝带连衣裙",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第4话 白丝带连衣裙",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15017",
+                "short_link": "https://b23.tv/ep15017",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1302
+                    },
+                    "op": {
+                        "end": 116,
+                        "start": 27
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "4",
+                "vid": "vupload_2055949"
+            },
+            {
+                "aid": 934342263,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mM4y1A79n",
+                "cid": 211875081,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a83dbfa8387ad42ef490a36c879537c2107ed63a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 15018,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15018",
+                "long_title": "隧道",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第5话 隧道",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15018",
+                "short_link": "https://b23.tv/ep15018",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1316
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "5",
+                "vid": "vupload_2055966"
+            },
+            {
+                "aid": 676810659,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gU4y1u7QP",
+                "cid": 211875181,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e53025ede6bfe3876da6d87094d7aa91f0648fd3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 15019,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15019",
+                "long_title": "忘记不忘记",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第6话 忘记不忘记",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15019",
+                "short_link": "https://b23.tv/ep15019",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 166,
+                        "start": 15
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "6",
+                "vid": "vupload_2055951"
+            },
+            {
+                "aid": 336835018,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17R4y1b7Cx",
+                "cid": 211875299,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2909685fa476b61a84a95aae569e073c2c1fcb04.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 15020,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15020",
+                "long_title": "真正的愿望",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第7话 真正的愿望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15020",
+                "short_link": "https://b23.tv/ep15020",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1302
+                    },
+                    "op": {
+                        "end": 241,
+                        "start": 150
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "7",
+                "vid": "vupload_2055952"
+            },
+            {
+                "aid": 764344853,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1er4y1k7hp",
+                "cid": 211875428,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/51a4fead03b668a069ce652307c2d2bfab28bfcf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 15021,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15021",
+                "long_title": "I wonder",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第8话 I wonder",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15021",
+                "short_link": "https://b23.tv/ep15021",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1326
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 37
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "8",
+                "vid": "vupload_2055953"
+            },
+            {
+                "aid": 506817060,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Tg411N7oB",
+                "cid": 211875504,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/49766915d7b81fe3d2176f2879d5584685e93004.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 15022,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15022",
+                "long_title": "大家和面码",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第9话 大家和面码",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15022",
+                "short_link": "https://b23.tv/ep15022",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "9",
+                "vid": "vupload_2055954"
+            },
+            {
+                "aid": 251819035,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cY41147BC",
+                "cid": 211875637,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/30bd1080dd0583c1165e744b82f348225600df5b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1372000,
+                "from": "bangumi",
+                "id": 15023,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15023",
+                "long_title": "烟花",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第10话 烟花",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15023",
+                "short_link": "https://b23.tv/ep15023",
+                "skip": {
+                    "ed": {
+                        "end": 1371,
+                        "start": 1288
+                    },
+                    "op": {
+                        "end": 91,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "10",
+                "vid": "vupload_2055955"
+            },
+            {
+                "aid": 506796603,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV13g411N7vZ",
+                "cid": 211875750,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0bedd90907c8e60f6425c4db838141d8665dfa88.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1504000,
+                "from": "bangumi",
+                "id": 15024,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep15024",
+                "long_title": "那个夏天绽放的花",
+                "pub_time": 1406892014,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《我们仍未知道那天所看见的花的名字。》第11话 那个夏天绽放的花",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep15024",
+                "short_link": "https://b23.tv/ep15024",
+                "skip": {
+                    "ed": {
+                        "end": 1503,
+                        "start": 1372
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看5632.4万次",
+                "title": "11",
+                "vid": "vupload_2055956"
+            }
+        ],
+        "evaluate": "从小一起长大的六个孩子，在升上高中之后彼此有了距离。不太与人们接触的宅男宿海仁太、有点被小太妹熏染的安城鸣子、进入重点高中的松雪集与鹤见知利子、放弃读高中而展开旅行的久川铁道……只有幼年死去的本间芽衣子（只有仁太能看见的灵魂），还是单纯一如从前。\n有一天，芽衣子对仁太说：“帮我实现一个愿望吧。”仁太虽然有点为难，却还是答应了她。以此为契机，为了实现芽衣子的愿望，分散的大家又再次聚集在一起……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md835/",
+        "media_id": 835,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 15024,
+            "is_new": 0,
+            "title": "11"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17792,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2011-04-14 00:00:00",
+            "pub_time_show": "2011年04月14日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 45724,
+            "score": 9.6
+        },
+        "record": "登记号：10417060210452608",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 835,
+        "season_title": "我们仍未知道那天所看见的花的名字。",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6c1ca4159442a6de3577bbee5e583be72b00499f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 835,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0bedd90907c8e60f6425c4db838141d8665dfa88.png",
+                    "id": 15024,
+                    "index_show": "全11话"
+                },
+                "season_id": 835,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4488588,
+                    "series_follow": 4670797,
+                    "views": 56324227
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9ab7fe805a15af618e8f86696b461437e09891d1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8292,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/d621551e96795e16978f874a91c013907f0d41b2.jpg",
+                    "id": 118478,
+                    "index_show": "全1话"
+                },
+                "season_id": 3441,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 917312,
+                    "series_follow": 4670797,
+                    "views": 9131220
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 528,
+            "series_title": "我们仍未知道那天所看见的花的名字。"
+        },
+        "share_copy": "《我们仍未知道那天所看见的花的名字。》难忘的催泪夏天",
+        "share_sub_title": "难忘的催泪夏天",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss835",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/fc6f8142182cb861970dcdac8219f7a66a8c91d0.jpg",
+        "stat": {
+            "coins": 598492,
+            "danmakus": 4416670,
+            "favorite": 62532,
+            "favorites": 4488587,
+            "likes": 351353,
+            "reply": 79855,
+            "share": 198002,
+            "views": 56324237
+        },
+        "status": 13,
+        "subtitle": "已观看5632.4万次",
+        "title": "我们仍未知道那天所看见的花的名字。",
+        "total": 11,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/fe032695a01c4b04385306b9b2a5aed565e341cf.jpg",
+        "episodes": [
+            {
+                "aid": 2563821,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hs411S7Em",
+                "cid": 4003613,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b7452fde907589917c00513372e900fb338c82fa.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 63928,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep63928",
+                "long_title": "空木莲华",
+                "pub_time": 1436711400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第1话 空木莲华",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep63928",
+                "short_link": "https://b23.tv/ep63928",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "1",
+                "vid": "vupload_12632300"
+            },
+            {
+                "aid": 2597445,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1es411S7VM",
+                "cid": 4063672,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7c31fb26f0896958e082828046ef3ba6c0136b69.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 63998,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep63998",
+                "long_title": "雨宫林道",
+                "pub_time": 1437316200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第2话 雨宫林道",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep63998",
+                "short_link": "https://b23.tv/ep63998",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 83
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "2",
+                "vid": "vupload_12632302"
+            },
+            {
+                "aid": 2633083,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411m7TE",
+                "cid": 4107764,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/099287ef468a8f2bee5d3fb1875efeff86059851.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 64178,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64178",
+                "long_title": "亚莉莎‧伊莉妮提娜‧阿米耶拉",
+                "pub_time": 1437921000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第3话 亚莉莎‧伊莉妮提娜‧阿米耶拉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64178",
+                "short_link": "https://b23.tv/ep64178",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "3",
+                "vid": "vupload_12632307"
+            },
+            {
+                "aid": 2709193,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1js411m7us",
+                "cid": 4230303,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1952cf3eda60eaa51edd79a107d44756d83f1bb3.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 64558,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep64558",
+                "long_title": "神盾",
+                "pub_time": 1439130608,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第4话 神盾",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep64558",
+                "short_link": "https://b23.tv/ep64558",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "4",
+                "vid": "vupload_12632305"
+            },
+            {
+                "aid": 2747694,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411m783",
+                "cid": 4291087,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ff83bb33e742d328ab25ceab7c0d246faacf03e1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 65071,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep65071",
+                "long_title": "仇花／徒花",
+                "pub_time": 1439735400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第5话 仇花／徒花",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep65071",
+                "short_link": "https://b23.tv/ep65071",
+                "skip": {
+                    "ed": {
+                        "end": 1172,
+                        "start": 1080
+                    },
+                    "op": {
+                        "end": 190,
+                        "start": 100
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "5",
+                "vid": "vupload_12632303"
+            },
+            {
+                "aid": 2835882,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rs411m7DX",
+                "cid": 10570191,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3c85c188e6f31eea9fae287934f602513d169380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 66717,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep66717",
+                "long_title": "泥中之莲",
+                "pub_time": 1440945000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第6话 泥中之莲",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep66717",
+                "short_link": "https://b23.tv/ep66717",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 250,
+                        "start": 160
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "6",
+                "vid": "vupload_10570191"
+            },
+            {
+                "aid": 2873711,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411U7hZ",
+                "cid": 4489226,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f6f76fc25936f6f8fea9f5bbc6a30bd8d680413c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 67425,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep67425",
+                "long_title": "绽放",
+                "pub_time": 1441549800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第7话 绽放",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep67425",
+                "short_link": "https://b23.tv/ep67425",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 260,
+                        "start": 170
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "7",
+                "vid": "vupload_12632301"
+            },
+            {
+                "aid": 2934953,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cs41117Dj",
+                "cid": 4590425,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/51a62018c2ada6e3143c650dc3f159d4ec75e921.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 69173,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep69173",
+                "long_title": "橘佐久夜",
+                "pub_time": 1442759400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第8话 橘佐久夜",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep69173",
+                "short_link": "https://b23.tv/ep69173",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 61
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "8",
+                "vid": "vupload_12632304"
+            },
+            {
+                "aid": 2966099,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rs41117n1",
+                "cid": 4643590,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d197950f9468ec5d1a5e0cf430bf81924b14789f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 70003,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70003",
+                "long_title": "索玛・席克札尔",
+                "pub_time": 1443364200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第9话 索玛・席克札尔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70003",
+                "short_link": "https://b23.tv/ep70003",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "9",
+                "vid": "vupload_12632306"
+            },
+            {
+                "aid": 4019607,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV17s411Q7Xg",
+                "cid": 10708113,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7f738fdfcca9b1fef421631d4b57a48f4566103e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 84735,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep84735",
+                "long_title": "散华",
+                "pub_time": 1457173802,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第10话 散华",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep84735",
+                "short_link": "https://b23.tv/ep84735",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "10",
+                "vid": "vupload_10708113"
+            },
+            {
+                "aid": 4076407,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV12s411Q7MZ",
+                "cid": 10708118,
+                "cover": "http://i0.hdslb.com/bfs/archive/57fc51b2bc1db9b9b5f494ca953f753c822ed95d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 85028,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85028",
+                "long_title": "陨石计划",
+                "pub_time": 1457778602,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第11话 陨石计划",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85028",
+                "short_link": "https://b23.tv/ep85028",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 190,
+                        "start": 100
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "11",
+                "vid": "vupload_10708118"
+            },
+            {
+                "aid": 4133438,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps411X7MV",
+                "cid": 10708123,
+                "cover": "http://i0.hdslb.com/bfs/archive/5bd6111c52022e27d932eb299e576807714fb62c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 85223,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85223",
+                "long_title": "第一部队",
+                "pub_time": 1458383402,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第12话 第一部队",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85223",
+                "short_link": "https://b23.tv/ep85223",
+                "skip": {
+                    "ed": {
+                        "end": 1405,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "12",
+                "vid": "vupload_10708123"
+            },
+            {
+                "aid": 4190635,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s411X7Jh",
+                "cid": 10708140,
+                "cover": "http://i1.hdslb.com/bfs/archive/1ba6f19dd137c8d814697814349ebb5900ccbe3e.jpg",
+                "dimension": {
+                    "height": 478,
+                    "rotate": 0,
+                    "width": 850
+                },
+                "duration": 1420000,
+                "from": "bangumi",
+                "id": 85498,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep85498",
+                "long_title": "莲华",
+                "pub_time": 1458988201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《噬神者》第13话 莲华",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep85498",
+                "short_link": "https://b23.tv/ep85498",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4410万次",
+                "title": "13",
+                "vid": "vupload_10708140"
+            }
+        ],
+        "evaluate": "这是五十年后的未来，世界被“神”吞噬殆尽而荒芜的架空故事。 由于遭到突如其来的怪物“荒神”的破坏而失去平衡。在人类文明既有的兵器都因荒神的“捕食”本能而无效化下，生化科技企业“芬里尔”成功利用荒神细胞开发出了名为“神机”的生物兵器。并同时组织了特殊部队“GOD EATER”。自此，人类终于获得了与荒神对抗的力量。\n于是，追求知性之极致的荒神，与追求物种延续的人类之间的战争便此展开。在破灭的尽头，究竟是神会先成为人，还是人会先成为神呢？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2591/",
+        "media_id": 2591,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 85498,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 19571,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-07-12 00:00:00",
+            "pub_time_show": "2015年07月12日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5880,
+            "score": 9.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2591,
+        "season_title": "噬神者",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fe032695a01c4b04385306b9b2a5aed565e341cf.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3387,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/9da238e4a76fdfee4455d843737dc0d09e480696.jpg",
+                    "id": 84742,
+                    "index_show": "全4话"
+                },
+                "season_id": 3387,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 94932,
+                    "series_follow": 1434778,
+                    "views": 5567234
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fe032695a01c4b04385306b9b2a5aed565e341cf.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2591,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/1ba6f19dd137c8d814697814349ebb5900ccbe3e.jpg",
+                    "id": 85498,
+                    "index_show": "全13话"
+                },
+                "season_id": 2591,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1416272,
+                    "series_follow": 1434778,
+                    "views": 44100145
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1769,
+            "series_title": "噬神者"
+        },
+        "share_copy": "《噬神者》人与荒神的较量",
+        "share_sub_title": "人与荒神的较量",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2591",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/cadfc7b6b315c18442ad253ded322b0f776d4aca.jpg",
+        "stat": {
+            "coins": 73077,
+            "danmakus": 465804,
+            "favorite": 11003,
+            "favorites": 1416272,
+            "likes": 86838,
+            "reply": 51209,
+            "share": 24044,
+            "views": 44100145
+        },
+        "status": 2,
+        "subtitle": "已观看4410万次",
+        "title": "噬神者",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

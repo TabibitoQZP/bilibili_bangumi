@@ -1,0 +1,966 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/dfbeca5d1e75814ace0686384415ab348f814165.jpg",
+        "episodes": [
+            {
+                "aid": 4610563,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s411B7Rw",
+                "cid": 181391562,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/daf161f1b7aac3989a1457b6720c6f75ae3822a4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 9700,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9700",
+                "long_title": "先驱者",
+                "pub_time": 1373684040,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第1话 先驱者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9700",
+                "short_link": "https://b23.tv/ep9700",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1306
+                    },
+                    "op": {
+                        "end": 586,
+                        "start": 502
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看201.4万次",
+                "title": "1",
+                "vid": "vupload_7477859"
+            },
+            {
+                "aid": 891798634,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1NP4y1L7hf",
+                "cid": 181391899,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dfbfc6b49a1572672755dfd994a21496bc45b7b9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9699,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9699",
+                "long_title": "不对称",
+                "pub_time": 1374313200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第2话 不对称",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9699",
+                "short_link": "https://b23.tv/ep9699",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "2",
+                "vid": "vupload_7477860"
+            },
+            {
+                "aid": 891756934,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AP4y1L74H",
+                "cid": 181392262,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1aeee1cb9a001863c6848273bfd35193b3f94e0f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 9698,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9698",
+                "long_title": "未来主义",
+                "pub_time": 1374868860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第3话 未来主义",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9698",
+                "short_link": "https://b23.tv/ep9698",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 310,
+                        "start": 227
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "3",
+                "vid": "vupload_7477861"
+            },
+            {
+                "aid": 591804755,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kq4y167pj",
+                "cid": 181392720,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f9c1b99daf086772dfb785b84ac9d7732de8a860.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9697,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9697",
+                "long_title": "刻奇",
+                "pub_time": 1375493100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第4话 刻奇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9697",
+                "short_link": "https://b23.tv/ep9697",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 238,
+                        "start": 155
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "4",
+                "vid": "vupload_7477862"
+            },
+            {
+                "aid": 849328684,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eL4y1i7ma",
+                "cid": 181393150,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/de86f6631169fed474e602cd147228b83e5476c5.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9696,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9696",
+                "long_title": "合作",
+                "pub_time": 1376080680,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第5话 合作",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9696",
+                "short_link": "https://b23.tv/ep9696",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 274,
+                        "start": 191
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "5",
+                "vid": "vupload_7477863"
+            },
+            {
+                "aid": 764374664,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1kr4y1k7ro",
+                "cid": 181393548,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1a042a2aef690d3f54c410798a44e39b28fe65b8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9695,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9695",
+                "long_title": "创造性",
+                "pub_time": 1376683440,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第6话 创造性",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9695",
+                "short_link": "https://b23.tv/ep9695",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 230,
+                        "start": 147
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "6",
+                "vid": "vupload_7477864"
+            },
+            {
+                "aid": 209370925,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ch41147V1",
+                "cid": 181393823,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bef41276ae594ed86bb7ce50ac932ba50daacdf6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9694,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9694",
+                "long_title": "落魄",
+                "pub_time": 1377306420,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第7话 落魄",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9694",
+                "short_link": "https://b23.tv/ep9694",
+                "skip": {
+                    "ed": {
+                        "end": 1379,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 244,
+                        "start": 160
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "7",
+                "vid": "vupload_7477865"
+            },
+            {
+                "aid": 549364721,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Eq4y1g7LG",
+                "cid": 181394291,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ed4ab4c99417d0cb594e04de4c7af1aa2135ce01.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9693,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9693",
+                "long_title": "真诚",
+                "pub_time": 1377911520,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第8话 真诚",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9693",
+                "short_link": "https://b23.tv/ep9693",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 468,
+                        "start": 385
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "8",
+                "vid": "vupload_7477866"
+            },
+            {
+                "aid": 634336511,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xb4y1b7up",
+                "cid": 181394765,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/72de3a5deb94a6228a9efddd5bc21a6988a49991.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9692,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9692",
+                "long_title": "伪造",
+                "pub_time": 1378510380,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第9话 伪造",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9692",
+                "short_link": "https://b23.tv/ep9692",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 211,
+                        "start": 128
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "9",
+                "vid": "vupload_7477867"
+            },
+            {
+                "aid": 806796113,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Z34y1d7FC",
+                "cid": 181395241,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/77d795eb4c0a63116ddfc0008bcf6dbae85e271e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 9691,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9691",
+                "long_title": "crowds",
+                "pub_time": 1379117640,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第10话 crowds",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9691",
+                "short_link": "https://b23.tv/ep9691",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 172,
+                        "start": 89
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "10",
+                "vid": "vupload_7477868"
+            },
+            {
+                "aid": 719341584,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HQ4y1v7ac",
+                "cid": 181395685,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6c4c8ad29f992e7e38c855888d9bdbc6f1b71ffe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1379000,
+                "from": "bangumi",
+                "id": 9690,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9690",
+                "long_title": "游戏化",
+                "pub_time": 1379718120,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第11话 游戏化",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9690",
+                "short_link": "https://b23.tv/ep9690",
+                "skip": {
+                    "ed": {
+                        "end": 1378,
+                        "start": 1307
+                    },
+                    "op": {
+                        "end": 83,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "11",
+                "vid": "vupload_7477869"
+            },
+            {
+                "aid": 891785990,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GP4y1L7uy",
+                "cid": 181396283,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d76ac64fce779e1174baf62def1eb387a94aa5f9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1380000,
+                "from": "bangumi",
+                "id": 9689,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9689",
+                "long_title": "Collage",
+                "pub_time": 1380314340,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《科学小飞侠Crowds》第12话 Collage",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9689",
+                "short_link": "https://b23.tv/ep9689",
+                "skip": {
+                    "ed": {
+                        "end": 1269,
+                        "start": 1203
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看201.4万次",
+                "title": "12",
+                "vid": "vupload_7477870"
+            }
+        ],
+        "evaluate": "Gatchaman是装备有特殊强化服饰的战士的总称，在服装商装备有作为力量之源的「NOTE」，它能将生命体所持有的精神性特异能力实体化。地球的Gatchaman评议会是由被派遣的宇宙人、潜在能力者所共同构成，Gatchaman评议会设立的保护观查处的使命则是保护地球，免遭异星犯罪者们对地球的资源以及生命的掠夺。近年来，评议会正在对正体渐渐清晰的迷之存在「MESS」进行监察，针对其的任务也在进行之中。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md520/",
+        "media_id": 520,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 9689,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 17556,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-07-12 00:00:00",
+            "pub_time_show": "2013年07月12日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1565,
+            "score": 9.6
+        },
+        "record": "登记号：10417060203582612",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 520,
+        "season_title": "科学小飞侠Crowds",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dfbeca5d1e75814ace0686384415ab348f814165.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 520,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/d76ac64fce779e1174baf62def1eb387a94aa5f9.jpg",
+                    "id": 9689,
+                    "index_show": "全12话"
+                },
+                "season_id": 520,
+                "season_title": "新·第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 235051,
+                    "series_follow": 276574,
+                    "views": 2013988
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/4579f7c65e7363a13dded966884d7e3af31800a6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 75912,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fd4b227a0b589552bd871436f4f523e2277e25e2.jpg",
+                    "id": 198180,
+                    "index_show": "全12话"
+                },
+                "season_id": 2612,
+                "season_title": "新·第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 83332,
+                    "series_follow": 276574,
+                    "views": 724423
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/32daaa9a57565ebe6d491dcecb766c4469b71bf3.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5421,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/e2fd437d7c12e3262e48c965067d0ecde30cbff9.jpg",
+                    "id": 94671,
+                    "index_show": "全1话"
+                },
+                "season_id": 5421,
+                "season_title": "TV未放送",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 14172,
+                    "series_follow": 276574,
+                    "views": 167584
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7fc1b086bf5323bafe1ef9e982e2b52188947516.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6246,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/022abc3472390b36b78e321da4e3ff0d2731f180.jpg",
+                    "id": 108119,
+                    "index_show": "全105话"
+                },
+                "season_id": 6246,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 11889,
+                    "series_follow": 276574,
+                    "views": 350864
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/228b941993b6cddfaae7962f0063d4da60c4b251.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6144,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/83eeeb876477335cb743b226ebaf2a69e96ba3e9.jpg",
+                    "id": 105181,
+                    "index_show": "全52话"
+                },
+                "season_id": 6144,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5527,
+                    "series_follow": 276574,
+                    "views": 169425
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d1da616665b12035210a07dbb5abfc718e8f91ab.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6160,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/198fa06b8896eca1a5fdcd6dcf3d432bbabaad3c.jpg",
+                    "id": 105300,
+                    "index_show": "全48话"
+                },
+                "season_id": 6160,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 5241,
+                    "series_follow": 276574,
+                    "views": 147882
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fec727bba852d862bcd2010f405cea350771c0f5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 521,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/067960f1623247cc9589a4a22102dc70e9090732.jpg",
+                    "id": 86159,
+                    "index_show": "全3话"
+                },
+                "season_id": 521,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13942,
+                    "series_follow": 276574,
+                    "views": 142685
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3dc090907d69e93be54a1390c6474c39be47c7fb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6399,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/2beeea40070116cf9c67ef1fee1ec3341d8c515f.jpg",
+                    "id": 114127,
+                    "index_show": "全1话"
+                },
+                "season_id": 6399,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4373,
+                    "series_follow": 276574,
+                    "views": 101018
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9df23dcbc6cadc1e2607bdb234c00389401fa31f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 132092,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/13d4a051ef58eb235000a36d722f5ea8c0bb0042.png",
+                    "id": 248517,
+                    "index_show": "全100话"
+                },
+                "season_id": 25577,
+                "season_title": "特番",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2768,
+                    "series_follow": 276574,
+                    "views": 89235
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 312,
+            "series_title": "科学小飞侠"
+        },
+        "share_copy": "《科学小飞侠Crowds》龙之子出品必属精品",
+        "share_sub_title": "龙之子出品必属精品",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss520",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d17963e9d20cad2f5de762e6548dcdf5b7c5a219.png",
+        "stat": {
+            "coins": 5685,
+            "danmakus": 45959,
+            "favorite": 1461,
+            "favorites": 235051,
+            "likes": 9160,
+            "reply": 3276,
+            "share": 4593,
+            "views": 2013988
+        },
+        "status": 13,
+        "subtitle": "已观看201.4万次",
+        "title": "科学小飞侠Crowds",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

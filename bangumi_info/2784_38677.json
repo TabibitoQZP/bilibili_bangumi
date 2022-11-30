@@ -1,0 +1,906 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/7f90802bd07570de1965408e9a750615f4563c7f.png",
+        "episodes": [
+            {
+                "aid": 760392419,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Y64y117MZ",
+                "cid": 335224441,
+                "cover": "http://i0.hdslb.com/bfs/archive/15418f9205799d08e9a125cfb97367b7aac9cacf.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425000,
+                "from": "bangumi",
+                "id": 402893,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402893",
+                "long_title": "仙镇城",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第一章 仙镇城",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402893",
+                "short_link": "https://b23.tv/ep402893",
+                "skip": {
+                    "ed": {
+                        "end": 1424,
+                        "start": 1334
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看53.8万次",
+                "title": "第一章",
+                "vid": ""
+            },
+            {
+                "aid": 760449277,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1D64y117wh",
+                "cid": 335225352,
+                "cover": "http://i0.hdslb.com/bfs/archive/b20285d04f01f874fa1f9470775e849808756e05.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425000,
+                "from": "bangumi",
+                "id": 402894,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402894",
+                "long_title": "被夺走的魔剑",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第二章 被夺走的魔剑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402894",
+                "short_link": "https://b23.tv/ep402894",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第二章",
+                "vid": ""
+            },
+            {
+                "aid": 672963024,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LU4y1t7Jx",
+                "cid": 335226304,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b07bd254389a7efbbebaf15111b1c1dae0c0cee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1424000,
+                "from": "bangumi",
+                "id": 402895,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402895",
+                "long_title": "蚀心毒姬",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第三章 蚀心毒姬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402895",
+                "short_link": "https://b23.tv/ep402895",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第三章",
+                "vid": ""
+            },
+            {
+                "aid": 757928591,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1p64y1275Z",
+                "cid": 335227266,
+                "cover": "http://i0.hdslb.com/bfs/archive/3d2e8daa984be509f80f8e530548a1267788483b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425000,
+                "from": "bangumi",
+                "id": 402896,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402896",
+                "long_title": "亲近敌人",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第四章 亲近敌人",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402896",
+                "short_link": "https://b23.tv/ep402896",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第四章",
+                "vid": ""
+            },
+            {
+                "aid": 502918948,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bN411f7h3",
+                "cid": 335509597,
+                "cover": "http://i0.hdslb.com/bfs/archive/16243fa4d590386fb07b9e8fc1ae7754d50f26a3.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1450000,
+                "from": "bangumi",
+                "id": 402897,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402897",
+                "long_title": "业火之谷",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第五章 业火之谷",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402897",
+                "short_link": "https://b23.tv/ep402897",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第五章",
+                "vid": ""
+            },
+            {
+                "aid": 630441556,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1n84y1c7QJ",
+                "cid": 335229031,
+                "cover": "http://i0.hdslb.com/bfs/archive/436bdf751ab51ad3d544225fd860541377e26735.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1425000,
+                "from": "bangumi",
+                "id": 402898,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402898",
+                "long_title": "毒姬的骄傲",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第六章 毒姬的骄傲",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402898",
+                "short_link": "https://b23.tv/ep402898",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第六章",
+                "vid": ""
+            },
+            {
+                "aid": 502926808,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rN411f7tV",
+                "cid": 335502013,
+                "cover": "http://i0.hdslb.com/bfs/archive/75f026701693237eb4833d92744914b1fa996c62.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 402899,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402899",
+                "long_title": "妖姬耳语",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第七章 妖姬耳语",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402899",
+                "short_link": "https://b23.tv/ep402899",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第七章",
+                "vid": ""
+            },
+            {
+                "aid": 587987357,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jB4y1w7is",
+                "cid": 335514073,
+                "cover": "http://i0.hdslb.com/bfs/archive/f23d1a6bceee332a3ef095ed64c8335b64205d95.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 402900,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402900",
+                "long_title": "弦歌断邪",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第八章 弦歌断邪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402900",
+                "short_link": "https://b23.tv/ep402900",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第八章",
+                "vid": ""
+            },
+            {
+                "aid": 375451355,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ho4y127fK",
+                "cid": 335514957,
+                "cover": "http://i0.hdslb.com/bfs/archive/39f78ae84225337cafe2bec2f3ee908c261b972b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 402901,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402901",
+                "long_title": "强者之道",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第九章 强者之道",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402901",
+                "short_link": "https://b23.tv/ep402901",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第九章",
+                "vid": ""
+            },
+            {
+                "aid": 502875329,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jN411f7zK",
+                "cid": 335534774,
+                "cover": "http://i0.hdslb.com/bfs/archive/753b39c06d925040dfa69532e901092d770abddb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 402902,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402902",
+                "long_title": "魔剑 / 圣剑",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第十章 魔剑 / 圣剑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402902",
+                "short_link": "https://b23.tv/ep402902",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第十章",
+                "vid": ""
+            },
+            {
+                "aid": 205455117,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mh411m75v",
+                "cid": 335543844,
+                "cover": "http://i0.hdslb.com/bfs/archive/696d3b4c74e67b07db93de1f83450ed8da1c5057.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1451000,
+                "from": "bangumi",
+                "id": 402903,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402903",
+                "long_title": "恶之尊严",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第十一章 恶之尊严",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402903",
+                "short_link": "https://b23.tv/ep402903",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第十一章",
+                "vid": ""
+            },
+            {
+                "aid": 290496888,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yf4y1a7Tf",
+                "cid": 335545547,
+                "cover": "http://i0.hdslb.com/bfs/archive/2a4e1929e57e9ab2830d3f6bc16f6e086a7d79b1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 402904,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402904",
+                "long_title": "追命灵狐",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》第十二章 追命灵狐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402904",
+                "short_link": "https://b23.tv/ep402904",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "第十二章",
+                "vid": ""
+            },
+            {
+                "aid": 587883876,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11B4y1c78B",
+                "cid": 335236119,
+                "cover": "http://i0.hdslb.com/bfs/archive/61b03dd0fd481a24a0dacbcdb54e1257719dde57.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1429000,
+                "from": "bangumi",
+                "id": 402905,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep402905",
+                "long_title": "鲜血恋歌",
+                "pub_time": 1620472800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》最终章 鲜血恋歌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep402905",
+                "short_link": "https://b23.tv/ep402905",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看53.8万次",
+                "title": "最终章",
+                "vid": ""
+            }
+        ],
+        "evaluate": "带着容易引起灾难的危险秘宝“魔剑目录”，居无定所的流浪剑士，殇不患。从祖国西幽离开辗转来到了东离之地后，好不容易获得了一时安宁的他，不料被仇敌“祸世螟蝗”得知这个消息，再次陷入危机之中。从遥远的西幽不断接揰而来的异能、异形的刺客们。就在殇不患面对这样的困境之中，身穿红莲之衣谜一般的吟游诗人就此现身────",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/28234366",
+        "media_id": 28234366,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 402905,
+            "is_new": 0,
+            "title": "最终章"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 59957,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-05-08 19:20:00",
+            "pub_time_show": "2021年05月08日19:20",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38677,
+        "season_title": "Thunderbolt Fantasy 东离剑游纪2",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5e311e5be87f9eda2c24284bcb1f11a24bb420b5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5064,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/eb2aa77557fdd5e65f67370f299fe7a5046aff9e.jpg",
+                    "id": 91727,
+                    "index_show": "全13话"
+                },
+                "season_id": 5064,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 401909,
+                    "series_follow": 436464,
+                    "views": 14510579
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0fbed08d73a98484fdacec133006d1f483ab0613.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 71992,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/845e5fd6c9ce7853a8a2446cc4f4b3662fc26f0c.jpg",
+                    "id": 196735,
+                    "index_show": "全1话"
+                },
+                "season_id": 23677,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 63424,
+                    "series_follow": 436464,
+                    "views": 1300883
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2fbef56b010c8cac566f5566d8807598418a6487.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224153,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/01961de8f693da64c5b74b110d022dfd78685029.jpg",
+                    "id": 307957,
+                    "index_show": "全1话"
+                },
+                "season_id": 29372,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 401857,
+                    "series_follow": 436464,
+                    "views": 573576
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7f90802bd07570de1965408e9a750615f4563c7f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234366,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/61b03dd0fd481a24a0dacbcdb54e1257719dde57.jpg",
+                    "id": 402905,
+                    "index_show": "全13话"
+                },
+                "season_id": 38677,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 13862,
+                    "series_follow": 436464,
+                    "views": 537904
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2999,
+            "series_title": "Thunderbolt Fantasy 东离剑游纪"
+        },
+        "share_copy": "《Thunderbolt Fantasy 东离剑游纪2》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38677",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/2c5d93d3601340dda0a53b5eabe86bc3d382796e.png",
+        "stat": {
+            "coins": 2587,
+            "danmakus": 0,
+            "favorite": 501,
+            "favorites": 13862,
+            "likes": 5249,
+            "reply": 0,
+            "share": 329,
+            "views": 537904
+        },
+        "status": 13,
+        "subtitle": "已观看53.8万次",
+        "title": "Thunderbolt Fantasy 东离剑游纪2",
+        "total": 13,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859950,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

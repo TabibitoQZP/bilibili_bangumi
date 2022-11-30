@@ -1,0 +1,827 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/9a3ce7ccfb2f20bf1cee49c5859add6f41bdec4c.png",
+        "episodes": [
+            {
+                "aid": 70473651,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1AJ411c7zM",
+                "cid": 122413576,
+                "cover": "http://i0.hdslb.com/bfs/archive/6a4d758904276dfb3a628c1198f4c7482f7652e9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1420199,
+                "from": "bangumi",
+                "id": 286141,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286141",
+                "long_title": "都说了在新天地重新来了吧！",
+                "pub_time": 1570460400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第1话 都说了在新天地重新来了吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286141",
+                "short_link": "https://b23.tv/ep286141",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看7568.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 71230159,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XE411d7Ys",
+                "cid": 123419100,
+                "cover": "http://i0.hdslb.com/bfs/archive/f81a3be891adf8e84b997f963a20d18fe60bbb9d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286142,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286142",
+                "long_title": "说了四人组队的吧！",
+                "pub_time": 1571065200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第2话 说了四人组队的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286142",
+                "short_link": "https://b23.tv/ep286142",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 107,
+                        "start": 17
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 72003009,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gE411r75z",
+                "cid": 124876514,
+                "cover": "http://i0.hdslb.com/bfs/archive/a2acace247a1d6f43687084a76cc65fdc073b86e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286143,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286143",
+                "long_title": "都说了毕业要平凡了吧！",
+                "pub_time": 1571670000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第3话 都说了毕业要平凡了吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286143",
+                "short_link": "https://b23.tv/ep286143",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 214,
+                        "start": 124
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 73742988,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17E411h7ux",
+                "cid": 126198635,
+                "cover": "http://i0.hdslb.com/bfs/archive/82effa770e5205e5a0ebb31c89495ff098661304.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286144,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286144",
+                "long_title": "都说了是赤色誓约的第一步了吧！",
+                "pub_time": 1572274800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第4话 都说了是赤色誓约的第一步了吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286144",
+                "short_link": "https://b23.tv/ep286144",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 218,
+                        "start": 128
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 74553274,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ME411B7bc",
+                "cid": 127520904,
+                "cover": "http://i0.hdslb.com/bfs/archive/52ca934349cf738f52f998a466a546cac9eb3109.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286145,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286145",
+                "long_title": "说了是大家的过去了吧！",
+                "pub_time": 1572879600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第5话 说了是大家的过去了吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286145",
+                "short_link": "https://b23.tv/ep286145",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 75356991,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cE411e7YZ",
+                "cid": 128899158,
+                "cover": "http://i0.hdslb.com/bfs/archive/5a04fd8a793945df991a8c5b34eea18fbcc0d85c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286146,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286146",
+                "long_title": "都说了不再去森林了呀！",
+                "pub_time": 1573484400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第6话 都说了不再去森林了呀！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286146",
+                "short_link": "https://b23.tv/ep286146",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 256,
+                        "start": 166
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 76161726,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18J411m7fT",
+                "cid": 130283164,
+                "cover": "http://i0.hdslb.com/bfs/archive/707b811c974c6e3b05000482917a24800e776e57.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286147,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286147",
+                "long_title": "说了偶尔要休假的吧！",
+                "pub_time": 1574089200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第7话 说了偶尔要休假的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286147",
+                "short_link": "https://b23.tv/ep286147",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 195,
+                        "start": 105
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 77006386,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hJ411R7WA",
+                "cid": 131713851,
+                "cover": "http://i0.hdslb.com/bfs/archive/86df7575ba8a36b447522d23d5a59bc130fc1d4f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286148,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286148",
+                "long_title": "柏琳没说要结婚的吧？！",
+                "pub_time": 1574694000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第8话 柏琳没说要结婚的吧？！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286148",
+                "short_link": "https://b23.tv/ep286148",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 75
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 77835035,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oJ411z7Mn",
+                "cid": 133162036,
+                "cover": "http://i0.hdslb.com/bfs/archive/853d49c306f8c2ddb707582f24f53d090a07be02.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286149,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286149",
+                "long_title": "说了讨伐飞龙的吧！",
+                "pub_time": 1575298800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第9话 说了讨伐飞龙的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286149",
+                "short_link": "https://b23.tv/ep286149",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 208,
+                        "start": 118
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 78661250,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cJ411y7YV",
+                "cid": 147771648,
+                "cover": "http://i0.hdslb.com/bfs/archive/f53170c10a473308932bf3e8531781400afa868b.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286150,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286150",
+                "long_title": "说了惊喜要保密的吧！",
+                "pub_time": 1575903600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第10话 说了惊喜要保密的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286150",
+                "short_link": "https://b23.tv/ep286150",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 79513847,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1EJ411672C",
+                "cid": 136078425,
+                "cover": "http://i0.hdslb.com/bfs/archive/66ae5ba4a63966a1e135225be9469a11a4342fcc.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286151,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286151",
+                "long_title": "说了不能松懈的吧！",
+                "pub_time": 1576508400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第11话 说了不能松懈的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286151",
+                "short_link": "https://b23.tv/ep286151",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 174,
+                        "start": 84
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 80379111,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dJ411s7xg",
+                "cid": 137558490,
+                "cover": "http://i0.hdslb.com/bfs/archive/328ff7fd2feecafd238ed741f110da56b572d01e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286152,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286152",
+                "long_title": "说了赤色誓约是不灭的吧！",
+                "pub_time": 1577113200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《我，不是说了能力要平均值么！》第12话 说了赤色誓约是不灭的吧！",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286152",
+                "short_link": "https://b23.tv/ep286152",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7568.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "在剑与魔法的异世界舞台，描绘少女们友情与成长的平均值？冒险就此展开。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28222622/",
+        "media_id": 28222622,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 286152,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 38348,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-10-07 23:00:00",
+            "pub_time_show": "2019年10月07日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 56297,
+            "score": 8.2
+        },
+        "record": "登记号：10417060215412710",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28544,
+        "season_title": "我，不是说了能力要平均值么！",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9a3ce7ccfb2f20bf1cee49c5859add6f41bdec4c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222622,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/328ff7fd2feecafd238ed741f110da56b572d01e.jpg",
+                    "id": 286152,
+                    "index_show": "全12话"
+                },
+                "season_id": 28544,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2472668,
+                    "series_follow": 2472668,
+                    "views": 75681378
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 68343811,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qJ41137SF",
+                        "cid": 118454299,
+                        "cover": "http://i0.hdslb.com/bfs/archive/69a8baeef5a4d8afb1f7ad40465f44a8d8e84cd9.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 67275,
+                        "from": "bangumi",
+                        "id": 284499,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep284499",
+                        "long_title": "",
+                        "pub_time": 1568973686,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《我，不是说了能力要平均值么！》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep284499",
+                        "short_link": "https://b23.tv/ep284499",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3675,
+                            "danmakus": 961,
+                            "likes": 836,
+                            "play": 2245370,
+                            "reply": 3846
+                        },
+                        "status": 2,
+                        "subtitle": "已观看7568.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 38425,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4632,
+            "series_title": "我不是说了能力要平均值么！"
+        },
+        "share_copy": "《我，不是说了能力要平均值么！》少女的能力如何平均",
+        "share_sub_title": "少女的能力如何平均",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28544",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/0a6a4944e291b5edbdd7f3eb240ce6db25011704.jpg",
+        "stat": {
+            "coins": 236686,
+            "danmakus": 800186,
+            "favorite": 18147,
+            "favorites": 2472668,
+            "likes": 331768,
+            "reply": 73618,
+            "share": 42867,
+            "views": 75681378
+        },
+        "status": 13,
+        "subtitle": "已观看7568.1万次",
+        "title": "我，不是说了能力要平均值么！",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5f48c7124225fa6bed1d4144b318766d7bde723a.png",
+        "episodes": [
+            {
+                "aid": 629057471,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xt4y1B7KP",
+                "cid": 292513374,
+                "cover": "http://i0.hdslb.com/bfs/archive/bbfa238fd8d271d344fefd0a3df3ae8a52540742.jpg",
+                "dimension": {
+                    "height": 2160,
+                    "rotate": 0,
+                    "width": 3840
+                },
+                "duration": 5945000,
+                "from": "bangumi",
+                "id": 384227,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384227",
+                "long_title": "黎明的吟游诗人 ",
+                "pub_time": 1612584000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《石川由依 朗读剧系列UTA-KATA》Vol.1 黎明的吟游诗人 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384227",
+                "short_link": "https://b23.tv/ep384227",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看15.2万次",
+                "title": "Vol.1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "「紫罗兰永恒花园」原作晓佳奈编剧×薇尔莉特声优·石川由依 带来的朗读剧系列。\n剧情朗读+7首歌曲独唱，给你带来不一样的朗读剧体验。\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233636/",
+        "media_id": 28233636,
+        "mode": 2,
+        "new_ep": {
+            "desc": "连载中",
+            "id": 384227,
+            "is_new": 0,
+            "title": "Vol.1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 57134,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 1,
+            "pub_time": "2021-02-06 00:00:01",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 1,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 205,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 37957,
+        "season_title": "石川由依 朗读剧系列UTA-KATA",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5f48c7124225fa6bed1d4144b318766d7bde723a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233636,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bbfa238fd8d271d344fefd0a3df3ae8a52540742.jpg",
+                    "id": 384227,
+                    "index_show": "更新至Vol.1"
+                },
+                "season_id": 37957,
+                "season_title": "朗读剧",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 11293,
+                    "series_follow": 11293,
+                    "views": 151781
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5317,
+            "series_title": "石川由依朗读剧系列UTA-KATA Vol.1黎明的吟游诗人"
+        },
+        "share_copy": "《石川由依 朗读剧系列UTA-KATA》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss37957",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/f2f6ed343a5a39f4e2b96b8e409109b4fd23fc58.png",
+        "stat": {
+            "coins": 1766,
+            "danmakus": 200,
+            "favorite": 843,
+            "favorites": 11293,
+            "likes": 7551,
+            "reply": 547,
+            "share": 520,
+            "views": 151781
+        },
+        "status": 13,
+        "subtitle": "已观看15.2万次",
+        "title": "石川由依 朗读剧系列UTA-KATA",
+        "total": -1,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859950,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

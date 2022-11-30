@@ -1,0 +1,212 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c9d8677c21c7e089e83ff35a3a34f8667f5c6a47.jpg",
+        "episodes": [
+            {
+                "aid": 4370745,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ds411z7sh",
+                "cid": 7075138,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f492b64dc50d84f6b31274a7ccb19481df887401.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1435000,
+                "from": "bangumi",
+                "id": 89933,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep89933",
+                "long_title": "渡良濑准华丽的一天",
+                "pub_time": 1465887410,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《Happiness! 渡良濑准华丽的一天》第13话 渡良濑准华丽的一天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep89933",
+                "short_link": "https://b23.tv/ep89933",
+                "skip": {
+                    "ed": {
+                        "end": 1434,
+                        "start": 1345
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看40.7万次",
+                "title": "13",
+                "vid": ""
+            }
+        ],
+        "evaluate": "收录于PS2版初回限定版的特典DVD\n",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4814/",
+        "media_id": 4814,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 89933,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 21761,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-01-25 00:00:01",
+            "pub_time_show": "2007年1月25日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4814,
+        "season_title": "Happiness! 渡良濑准华丽的一天",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8df06dcc15cce5719e6aec9bc4c789148ead8497.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1426,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f492b64dc50d84f6b31274a7ccb19481df887401.jpg",
+                    "id": 26694,
+                    "index_show": "全12话"
+                },
+                "season_id": 1426,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60178,
+                    "series_follow": 63780,
+                    "views": 343198
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c9d8677c21c7e089e83ff35a3a34f8667f5c6a47.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4814,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f492b64dc50d84f6b31274a7ccb19481df887401.jpg",
+                    "id": 89933,
+                    "index_show": "全1话"
+                },
+                "season_id": 4814,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 12318,
+                    "series_follow": 63780,
+                    "views": 406984
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 969,
+            "series_title": "HAPPINESS"
+        },
+        "share_copy": "《Happiness! 渡良濑准华丽的一天》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4814",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b70e367a4cc7cbea140f21138eff7c8b67cf7246.jpg",
+        "stat": {
+            "coins": 777,
+            "danmakus": 8545,
+            "favorite": 113,
+            "favorites": 12318,
+            "likes": 812,
+            "reply": 506,
+            "share": 89,
+            "views": 406984
+        },
+        "status": 2,
+        "subtitle": "已观看40.7万次",
+        "title": "Happiness! 渡良濑准华丽的一天",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

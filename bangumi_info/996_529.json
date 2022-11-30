@@ -1,0 +1,816 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7329a30f1fafadaa81a682fbf267403f35952d95.jpg",
+        "episodes": [
+            {
+                "aid": 8760799,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qx411y7jG",
+                "cid": 14443210,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9793,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9793",
+                "long_title": "人偶",
+                "pub_time": 1373334911,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第14话 人偶",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9793",
+                "short_link": "https://b23.tv/ep9793",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 49
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "14",
+                "vid": "vupload_14443210"
+            },
+            {
+                "aid": 934353505,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1wM4y1P7iP",
+                "cid": 14443211,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9792,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9792",
+                "long_title": "回缘",
+                "pub_time": 1373816700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第15话 回缘",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9792",
+                "short_link": "https://b23.tv/ep9792",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 87
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "15",
+                "vid": "vupload_14443211"
+            },
+            {
+                "aid": 209277234,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kh41147tA",
+                "cid": 14443212,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9791,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9791",
+                "long_title": "逆流",
+                "pub_time": 1374420833,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第16话 逆流",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9791",
+                "short_link": "https://b23.tv/ep9791",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 82
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "16",
+                "vid": "vupload_14443212"
+            },
+            {
+                "aid": 421774662,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1X341187Ro",
+                "cid": 14443213,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9790,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9790",
+                "long_title": "无明",
+                "pub_time": 1375090553,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第17话 无明",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9790",
+                "short_link": "https://b23.tv/ep9790",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 38
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "17",
+                "vid": "vupload_14443213"
+            },
+            {
+                "aid": 976787282,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1w44y1Y7W3",
+                "cid": 14443214,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9789,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9789",
+                "long_title": "赞有",
+                "pub_time": 1375678826,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第18话 赞有",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9789",
+                "short_link": "https://b23.tv/ep9789",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 158,
+                        "start": 68
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "18",
+                "vid": "vupload_14443214"
+            },
+            {
+                "aid": 891803410,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KP4y1L7fL",
+                "cid": 14443215,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9788,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9788",
+                "long_title": "追想",
+                "pub_time": 1376292089,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第19话 追想",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9788",
+                "short_link": "https://b23.tv/ep9788",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 107,
+                        "start": 18
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "19",
+                "vid": "vupload_14443215"
+            },
+            {
+                "aid": 806750234,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1C34y1d7Wi",
+                "cid": 14443216,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9787,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9787",
+                "long_title": "相逢",
+                "pub_time": 1376965528,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第20话 相逢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9787",
+                "short_link": "https://b23.tv/ep9787",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 105,
+                        "start": 16
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "20",
+                "vid": "vupload_14443216"
+            },
+            {
+                "aid": 379261172,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hf4y1M7Sy",
+                "cid": 14443217,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9786,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9786",
+                "long_title": "神隐",
+                "pub_time": 1377473524,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第21话 神隐",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9786",
+                "short_link": "https://b23.tv/ep9786",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 196,
+                        "start": 107
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "21",
+                "vid": "vupload_14443217"
+            },
+            {
+                "aid": 336851406,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1GR4y1b7Qc",
+                "cid": 14443218,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9785,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9785",
+                "long_title": "天巡",
+                "pub_time": 1378084963,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第22话 天巡",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9785",
+                "short_link": "https://b23.tv/ep9785",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 82
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "22",
+                "vid": "vupload_14443218"
+            },
+            {
+                "aid": 209363095,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1kh41147Bd",
+                "cid": 14443219,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9784,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9784",
+                "long_title": "双月",
+                "pub_time": 1378689341,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第23话 双月",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9784",
+                "short_link": "https://b23.tv/ep9784",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 47
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "23",
+                "vid": "vupload_14443219"
+            },
+            {
+                "aid": 934308339,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1BM4y1A7nn",
+                "cid": 14443220,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9783,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9783",
+                "long_title": "岐路",
+                "pub_time": 1379293832,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第24话 岐路",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9783",
+                "short_link": "https://b23.tv/ep9783",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 171,
+                        "start": 81
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "24",
+                "vid": "vupload_14443220"
+            },
+            {
+                "aid": 421867856,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Q3411t7TN",
+                "cid": 14443221,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 9782,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9782",
+                "long_title": "追捕",
+                "pub_time": 1379867320,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第25话 追捕",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9782",
+                "short_link": "https://b23.tv/ep9782",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 95
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "25",
+                "vid": "vupload_14443221"
+            },
+            {
+                "aid": 336824704,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1VR4y1b7ba",
+                "cid": 14443222,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1406000,
+                "from": "bangumi",
+                "id": 9781,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep9781",
+                "long_title": "命运",
+                "pub_time": 1380500456,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《八犬传 -东方八犬异闻- 第二季》第26话 命运",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep9781",
+                "short_link": "https://b23.tv/ep9781",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 234,
+                        "start": 144
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看741.3万次",
+                "title": "26",
+                "vid": "vupload_14443222"
+            }
+        ],
+        "evaluate": "五年前，大冢村一夜之间瘟疫流行，周围的村庄为了防止疫病蔓延，一把火烧毁了整个大冢村。大冢村的三个孩子，犬冢信乃、犬川庄介以及滨路得以幸存。三人被教会收养，并在别的村庄中过着平静的生活。而在大冢村事件中获得了特殊的能力的信乃和庄介，则一直不明原因地被帝国教会总部寻找。大冢村事件发生的五年后，终于寻觅到信乃与庄介踪迹的教会总部，为了引诱两人来帝都，竟然带走了滨路……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md529/",
+        "media_id": 529,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 9781,
+            "is_new": 0,
+            "title": "26"
+        },
+        "positive": {
+            "id": 17562,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2013-07-07 00:00:00",
+            "pub_time_show": "2013年07月07日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2002,
+            "score": 9.7
+        },
+        "record": "登记号：10417060205532607",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 529,
+        "season_title": "八犬传 -东方八犬异闻- 第二季",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3a3ff8f00d46761aaef22cc8ae4834086ce57632.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 528,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f2908d0d6a83b37631f2da3ad520b2c0d2ca0594.jpg",
+                    "id": 9768,
+                    "index_show": "全13话"
+                },
+                "season_id": 528,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 710444,
+                    "series_follow": 775424,
+                    "views": 11943022
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7329a30f1fafadaa81a682fbf267403f35952d95.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 529,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f91dae5af8210dfa119e23a121ad346a5a50b380.jpg",
+                    "id": 9781,
+                    "index_show": "全13话"
+                },
+                "season_id": 529,
+                "season_title": " 第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 374655,
+                    "series_follow": 775424,
+                    "views": 7412909
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 315,
+            "series_title": "八犬传-东方八犬异闻-"
+        },
+        "share_copy": "《八犬传 -东方八犬异闻- 第二季》大正风除魔冒险佳作",
+        "share_sub_title": "大正风除魔冒险佳作",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss529",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/3da612a429a7e467b17d33e9aa5f1231b3434737.jpg",
+        "stat": {
+            "coins": 13904,
+            "danmakus": 218039,
+            "favorite": 4418,
+            "favorites": 374655,
+            "likes": 30287,
+            "reply": 4720,
+            "share": 2168,
+            "views": 7412909
+        },
+        "status": 2,
+        "subtitle": "已观看741.3万次",
+        "title": "八犬传 -东方八犬异闻- 第二季",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

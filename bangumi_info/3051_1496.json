@@ -1,0 +1,830 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/657cb124af64e77ba83e9f2df37691ea530e211d.png",
+        "episodes": [
+            {
+                "aid": 541211470,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Pi4y1V7gk",
+                "cid": 207444619,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7a5a708fabc29a5b21b08bb7128bfa839843aba2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28037,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28037",
+                "long_title": "永远的中心",
+                "pub_time": 1598954400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第14话 永远的中心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28037",
+                "short_link": "https://b23.tv/ep28037",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1415
+                    },
+                    "op": {
+                        "end": 352,
+                        "start": 264
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "14",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM0MDA3NiZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 626181862,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ht4y1979V",
+                "cid": 207444829,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/344ac8bff41275d079069c90a3170d777f5bc142.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28036,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28036",
+                "long_title": "守护神所看到的 剧场",
+                "pub_time": 1421515800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第15话 守护神所看到的 剧场",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28036",
+                "short_link": "https://b23.tv/ep28036",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 48
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "15",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM0NTIwMiZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 796139930,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1iC4y187GH",
+                "cid": 207444994,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2002790784703a0d72c6d50ba07b23f25c3a4468.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28304,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28304",
+                "long_title": "真正的握手",
+                "pub_time": 1422120600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第16话 真正的握手",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28304",
+                "short_link": "https://b23.tv/ep28304",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 58
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "16",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM1MTgyOSZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 753653402,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ok4y1z7mf",
+                "cid": 207445225,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8afc0ed7cc5bb742bff680a8d065471da7c43e0c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28303,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28303",
+                "long_title": "因为我是你的偶像啊",
+                "pub_time": 1422725400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第17话 因为我是你的偶像啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28303",
+                "short_link": "https://b23.tv/ep28303",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 113
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "17",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM1NjY0MyZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 201180852,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sz411e7DV",
+                "cid": 207445398,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/64f612d0d65100b84030ec5979f27fb871a0392f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28302,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28302",
+                "long_title": "出乎意料的惊喜蛋糕",
+                "pub_time": 1423330200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第18话 出乎意料的惊喜蛋糕",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28302",
+                "short_link": "https://b23.tv/ep28302",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 48
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "18",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM2MjQwNCZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 796179268,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV12C4y187yN",
+                "cid": 208297440,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1f15f74d84b657adce147033772d9304394d25b4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28374,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28374",
+                "long_title": "侯鸟刑警第8季播出前SP 湖边警察学校番外篇",
+                "pub_time": 1423935000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第19话 侯鸟刑警第8季播出前SP 湖边警察学校番外篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28374",
+                "short_link": "https://b23.tv/ep28374",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "19",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM2Nzc5MiZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 626227072,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV11t4y197Hf",
+                "cid": 208297571,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/afd6f2a51c5780b9d36a92e1b8ae6f69ccde37c9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28417,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28417",
+                "long_title": "延长我们的寿命",
+                "pub_time": 1424539800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第20话 延长我们的寿命",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28417",
+                "short_link": "https://b23.tv/ep28417",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 224,
+                        "start": 136
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "20",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM3MDQ3MyZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 328725102,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UA411i7KH",
+                "cid": 207445969,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d1f344043b52b6169020026586d9d2e8e2f10a0e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28468,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28468",
+                "long_title": "神会用自己的言语诉说吗",
+                "pub_time": 1425144600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第21话 神会用自己的言语诉说吗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28468",
+                "short_link": "https://b23.tv/ep28468",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 294,
+                        "start": 206
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "21",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM3MzUzMSZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 753736585,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dk4y1q7UZ",
+                "cid": 207446144,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/3404e2945710a34fe59d8a69b736dbab8d0d727e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28526,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28526",
+                "long_title": "少年好莱坞禁止恋爱",
+                "pub_time": 1425749400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第22话 少年好莱坞禁止恋爱",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28526",
+                "short_link": "https://b23.tv/ep28526",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "22",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM3Nzg4MyZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 328661964,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tA411i7wU",
+                "cid": 207446390,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ca522ba15b5618fb2a271532b15d945e81fc0c30.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28517,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28517",
+                "long_title": "在正确与正确的夹缝间",
+                "pub_time": 1425751080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第23话 在正确与正确的夹缝间",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28517",
+                "short_link": "https://b23.tv/ep28517",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 165,
+                        "start": 77
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "23",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9rSlZjaVktZUx5QS8maWlkPTEzMjM3Nzg4NSZycGlkPTQwNzc3MzkyMyZyZXNvdXJjZUlkPTQwNzc3MzkyM18wNF8wNV85OS92LnN3Zg=="
+            },
+            {
+                "aid": 626168916,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qt4y197DR",
+                "cid": 207446620,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/96b5efbbe1bb3c240f0a4e6408c59409459f9d68.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28584,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28584",
+                "long_title": "在这个不停转动的世界里",
+                "pub_time": 1426354200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第24话 在这个不停转动的世界里",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28584",
+                "short_link": "https://b23.tv/ep28584",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 56
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "24",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM4MzQxMCZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            },
+            {
+                "aid": 838629352,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kg4y1v7fe",
+                "cid": 207446789,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d447f290a8cd47fc3b0ca1e41f16c4ddd3129380.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 28583,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28583",
+                "long_title": "即使迎来了闭上双眼的那一天",
+                "pub_time": 1426959000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第25话 即使迎来了闭上双眼的那一天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28583",
+                "short_link": "https://b23.tv/ep28583",
+                "skip": {
+                    "ed": {
+                        "end": 1399,
+                        "start": 1310
+                    },
+                    "op": {
+                        "end": 46,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "25",
+                "vid": "XOTE2NDA5MDYw"
+            },
+            {
+                "aid": 456243953,
+                "badge": "限免",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限免"
+                },
+                "badge_type": 0,
+                "bvid": "BV1k5411Y7bm",
+                "cid": 207446924,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e846540df3e79dc7272914c097dc330f4bebc868.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1406000,
+                "from": "bangumi",
+                "id": 28651,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep28651",
+                "long_title": "Holly stage for you",
+                "pub_time": 1427563800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《少年好莱坞 第二季》第26话 Holly stage for you",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep28651",
+                "short_link": "https://b23.tv/ep28651",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1400
+                    },
+                    "op": {
+                        "end": 159,
+                        "start": 71
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.6万次",
+                "title": "26",
+                "vid": "XNaHR0cDovL3d3dy50dWRvdS5jb20vYS9tZEVlRTRzZWxKQS8maWlkPTEzMjM4ODI5MCZyZXNvdXJjZUlkPTBfMDRfMDVfOTkvdi5zd2Y="
+            }
+        ],
+        "evaluate": "曾经，被称作传说的偶像团体“少年好莱坞”活跃过的剧场“好莱坞东京”。时光飞逝，故事到了15年后，如今聚集在这个“好莱钨东京”剧场的5位少年，风见飒、佐伯希星、甘木生马、富井大树、舞山春，在不清楚自己的未来会向往何处的他们，今天仍聚集在剧场里接受着训练……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229393/",
+        "media_id": 28229393,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 28651,
+            "is_new": 0,
+            "title": "26"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 18544,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-09-01 00:00:01",
+            "pub_time_show": "2020年9月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "登记号：10417060204062306",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1496,
+        "season_title": "少年好莱坞 第二季",
+        "seasons": [
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4ce96bf9d8ce1b6ece3fb26a404e4a80ebba0ab2.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229392,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/0a65562c431db486aee6794462c102ae39073f4f.jpg",
+                    "id": 28023,
+                    "index_show": "全13话"
+                },
+                "season_id": 1495,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 29004,
+                    "series_follow": 30843,
+                    "views": 413245
+                }
+            },
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/657cb124af64e77ba83e9f2df37691ea530e211d.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229393,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e846540df3e79dc7272914c097dc330f4bebc868.jpg",
+                    "id": 28651,
+                    "index_show": "全13话"
+                },
+                "season_id": 1496,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 6767,
+                    "series_follow": 30843,
+                    "views": 135902
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1027,
+            "series_title": "少年好莱坞"
+        },
+        "share_copy": "《少年好莱坞 第二季》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1496",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ddf6c152909a58a15d029887fa947e7f8d111bf6.jpg",
+        "stat": {
+            "coins": 322,
+            "danmakus": 508,
+            "favorite": 108,
+            "favorites": 6767,
+            "likes": 3060,
+            "reply": 281,
+            "share": 48,
+            "views": 135902
+        },
+        "status": 13,
+        "subtitle": "已观看13.6万次",
+        "title": "少年好莱坞 第二季",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

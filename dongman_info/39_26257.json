@@ -1,0 +1,742 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9870f898b8a39bbb8048f34317f8d78a02cc1770.png",
+        "episodes": [],
+        "evaluate": "无数细线横亘在星空之中，如同一把巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇动着翅膀，也改变了罗辑的命运，轰然打开的门后是世界中心——面壁计划开启。同时，智子所创建的破壁室内，破壁人一一就位……",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/4315402",
+        "media_id": 4315402,
+        "mode": 2,
+        "new_ep": {
+            "desc": "12月3日,敬请期待开播",
+            "id": 0,
+            "is_new": 0,
+            "title": ""
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 35659,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 0,
+            "pub_time": "2022-12-03 00:00:01",
+            "pub_time_show": "12月3日,敬请期待",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 26257,
+        "season_title": "三体",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9870f898b8a39bbb8048f34317f8d78a02cc1770.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/d236dc9c7aab08d77182a5ff3b2dc1aaf5c76217.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/6f12d97edbad9cf109b0bba250e6c84f13b30bdb.png",
+                "media_id": 4315402,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "即将开播"
+                },
+                "season_id": 26257,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 3360074,
+                    "series_follow": 3379026,
+                    "views": 53540658
+                }
+            },
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c957b391af0094a1d58c45243d197106ce606922.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/d5dc085c10be76f95e58be5d9af429f6c58e75f7.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/71e6c889fcbfd47107dcc363fae04b66fa447395.png",
+                "media_id": 28229095,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": ""
+                },
+                "season_id": 33666,
+                "season_title": "独家幕后",
+                "season_type": 3,
+                "stat": {
+                    "favorites": 58393,
+                    "series_follow": 3379026,
+                    "views": 4008645
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 1,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 901971904,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1WP4y1S7xH",
+                        "cid": 875297840,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6c9d66d60e892a7bf3cde834c687f77c7133ab08.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 121000,
+                        "from": "bangumi",
+                        "id": 693321,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep693321",
+                        "long_title": "《三体》动画12月3日B站开播！",
+                        "pub_time": 1667045880,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》不鸽了！ 《三体》动画12月3日B站开播！",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep693321",
+                        "short_link": "https://b23.tv/ep693321",
+                        "stat": {
+                            "coin": 64855,
+                            "danmakus": 11320,
+                            "likes": 166983,
+                            "play": 5654044,
+                            "reply": 17064
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "不鸽了！",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 506744279,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1yg411P7vG",
+                        "cid": 443868656,
+                        "cover": "http://i0.hdslb.com/bfs/archive/1bb2ec8b98da2da3bad494065ac508af1f2b0e49.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 124000,
+                        "from": "bangumi",
+                        "id": 431193,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep431193",
+                        "long_title": "最大的敬意",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》全新PV 最大的敬意",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep431193",
+                        "short_link": "https://b23.tv/ep431193",
+                        "stat": {
+                            "coin": 74335,
+                            "danmakus": 9871,
+                            "likes": 196131,
+                            "play": 10072352,
+                            "reply": 21599
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "全新PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 75727146,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1zJ411D7vV",
+                        "cid": 129549170,
+                        "cover": "http://i0.hdslb.com/bfs/archive/c40dde3f573a601fc8f3bf29099d1232c91f33bc.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 155963,
+                        "from": "bangumi",
+                        "id": 291725,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep291725",
+                        "long_title": "",
+                        "pub_time": 1573993306,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》正式PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep291725",
+                        "short_link": "https://b23.tv/ep291725",
+                        "stat": {
+                            "coin": 147393,
+                            "danmakus": 48015,
+                            "likes": 202694,
+                            "play": 13301562,
+                            "reply": 48369
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "正式PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 56897586,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19x411R7vV",
+                        "cid": 99491338,
+                        "cover": "http://i0.hdslb.com/bfs/archive/38ccac45cffc769c0cfe059935ba38e793964452.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 204880,
+                        "from": "bangumi",
+                        "id": 275661,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep275661",
+                        "long_title": "三体动画概念宣传视频",
+                        "pub_time": 1561551794,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》短片 三体动画概念宣传视频",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep275661",
+                        "short_link": "https://b23.tv/ep275661",
+                        "stat": {
+                            "coin": 244365,
+                            "danmakus": 116945,
+                            "likes": 167709,
+                            "play": 16842622,
+                            "reply": 62929
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "短片",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 757631560,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1h64y1m7qX",
+                        "cid": 329436808,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0e2bd820ebfe31436c314ae11893c9c3443b3231.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 171000,
+                        "from": "bangumi",
+                        "id": 400891,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep400891",
+                        "long_title": "航天服设计披露",
+                        "pub_time": 1619229600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》花絮 航天服设计披露",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep400891",
+                        "short_link": "https://b23.tv/ep400891",
+                        "stat": {
+                            "coin": 31849,
+                            "danmakus": 6287,
+                            "likes": 100500,
+                            "play": 4958879,
+                            "reply": 9637
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "花絮",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 347191783,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Qd4y1c7Wp",
+                        "cid": 878377469,
+                        "cover": "http://i0.hdslb.com/bfs/archive/ecc14c8fc5ec48db9bbbc9b65d331e4d1043467f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 53000,
+                        "from": "bangumi",
+                        "id": 693569,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep693569",
+                        "long_title": "",
+                        "pub_time": 1667305536,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》刘慈欣寄语 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep693569",
+                        "short_link": "https://b23.tv/ep693569",
+                        "stat": {
+                            "coin": 1195,
+                            "danmakus": 282,
+                            "likes": 5975,
+                            "play": 306456,
+                            "reply": 491
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "刘慈欣寄语",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 689895012,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1R24y1f7FX",
+                        "cid": 884438363,
+                        "cover": "http://i0.hdslb.com/bfs/archive/913f22f7b1fe572033db8a5c23d0f5b9a477986a.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 1927000,
+                        "from": "bangumi",
+                        "id": 703245,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep703245",
+                        "long_title": "用生物学打开三体",
+                        "pub_time": 1669091420,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》三体科学照进现实 用生物学打开三体",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep703245",
+                        "short_link": "https://b23.tv/ep703245",
+                        "stat": {
+                            "coin": 230,
+                            "danmakus": 219,
+                            "likes": 2542,
+                            "play": 98904,
+                            "reply": 203
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "三体科学照进现实",
+                        "vid": ""
+                    }
+                ],
+                "id": 37613,
+                "title": "花絮&PV",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 604806254,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1c84y1v7RL",
+                        "cid": 881752894,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6c9d66d60e892a7bf3cde834c687f77c7133ab08.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 111000,
+                        "from": "bangumi",
+                        "id": 701338,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep701338",
+                        "long_title": "面壁计划开启！",
+                        "pub_time": 1668068769,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》PV 面壁计划开启！",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep701338",
+                        "short_link": "https://b23.tv/ep701338",
+                        "stat": {
+                            "coin": 1229,
+                            "danmakus": 115,
+                            "likes": 25817,
+                            "play": 208090,
+                            "reply": 277
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 647254341,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Se4y1s7AF",
+                        "cid": 885005313,
+                        "cover": "http://i0.hdslb.com/bfs/archive/4eca931c92d629c4510821765337dc1d5e08b7c5.jpg",
+                        "dimension": {
+                            "height": 1440,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 13000,
+                        "from": "bangumi",
+                        "id": 701685,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep701685",
+                        "long_title": "",
+                        "pub_time": 1668143427,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》三体名场面盘点，速进！ ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep701685",
+                        "short_link": "https://b23.tv/ep701685",
+                        "stat": {
+                            "coin": 732,
+                            "danmakus": 88,
+                            "likes": 30318,
+                            "play": 533140,
+                            "reply": 381
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "三体名场面盘点，速进！",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 347310819,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1td4y1w72C",
+                        "cid": 884202497,
+                        "cover": "http://i0.hdslb.com/bfs/archive/5fa18d318a9d252b591269b419fc40a0726cd889.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 25000,
+                        "from": "bangumi",
+                        "id": 701686,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep701686",
+                        "long_title": "",
+                        "pub_time": 1668143479,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》重重危机下，面壁计划正式启动！ ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep701686",
+                        "short_link": "https://b23.tv/ep701686",
+                        "stat": {
+                            "coin": 1762,
+                            "danmakus": 187,
+                            "likes": 23769,
+                            "play": 984080,
+                            "reply": 875
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "重重危机下，面壁计划正式启动！",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 902255488,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13P4y1U7yx",
+                        "cid": 884241726,
+                        "cover": "http://i0.hdslb.com/bfs/archive/4c55f52c53704ee4926e8698b511095f6250b20b.jpg",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 18000,
+                        "from": "bangumi",
+                        "id": 701687,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep701687",
+                        "long_title": "其他人物持续解锁中...",
+                        "pub_time": 1668143559,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《三体》面壁者披露！ 其他人物持续解锁中...",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep701687",
+                        "short_link": "https://b23.tv/ep701687",
+                        "stat": {
+                            "coin": 826,
+                            "danmakus": 285,
+                            "likes": 15487,
+                            "play": 580529,
+                            "reply": 857
+                        },
+                        "status": 2,
+                        "subtitle": "已观看5354.1万次",
+                        "title": "面壁者披露！",
+                        "vid": ""
+                    }
+                ],
+                "id": 88044,
+                "title": "竖屏也精彩",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4260,
+            "series_title": "三体"
+        },
+        "share_copy": "《三体》地球往事三部曲",
+        "share_sub_title": "地球往事三部曲",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss26257",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/24178924dc602d7dbad982205ecaac871f6e459e.png",
+        "stat": {
+            "coins": 568771,
+            "danmakus": 193614,
+            "favorite": 106053,
+            "favorites": 3360074,
+            "likes": 937925,
+            "reply": 162682,
+            "share": 532706,
+            "views": 53540658
+        },
+        "status": 13,
+        "subtitle": "已观看5354.1万次",
+        "title": "三体",
+        "total": -1,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

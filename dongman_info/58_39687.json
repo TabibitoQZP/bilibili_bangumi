@@ -1,0 +1,348 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/241e36f34628889e3824ea0686f93300f832bb8a.jpg",
+        "episodes": [],
+        "evaluate": "飞贼风铃儿与商贾之女白钰袖一同结伴闯荡江湖，殊不知在她们的背后正孕育着一场巨大的阴谋。",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/28235381",
+        "media_id": 28235381,
+        "mode": 2,
+        "new_ep": {
+            "desc": "敬请期待",
+            "id": 0,
+            "is_new": 0,
+            "title": ""
+        },
+        "positive": {
+            "id": 62551,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 0,
+            "pub_time": "2024-12-31 00:00:01",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 1,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39687,
+        "season_title": "风灵玉秀 第二季",
+        "seasons": [
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7db24054188e0f4889c4bfe33f9c8dad0f6b1056.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/dbdf2c7aeb7a543fe62b9792d839c8b802202d62.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/60535e56d6141776eacdba1e36d430a5b6ed9364.png",
+                "media_id": 6038,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3ef2bcf751ea29090ac0c23be1826a56a39e8975.jpg",
+                    "id": 378582,
+                    "index_show": "全12话"
+                },
+                "season_id": 6038,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 2711033,
+                    "series_follow": 2786870,
+                    "views": 67910397
+                }
+            },
+            {
+                "badge": "出品",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "出品"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/241e36f34628889e3824ea0686f93300f832bb8a.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/4d2571dd734db447656c059a7cdd45ad844ace52.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/11747da8de25ec0447d6542b9cd9029f7ae7e2e9.jpg",
+                "media_id": 28235381,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "即将开播"
+                },
+                "season_id": 39687,
+                "season_title": "第二季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 2519660,
+                    "series_follow": 2786870,
+                    "views": 3052966
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 559131107,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1de4y1S7xK",
+                        "cid": 864925238,
+                        "cover": "http://i0.hdslb.com/bfs/archive/c0468da1a7b0733d6765a67134802fa68bffa761.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 108000,
+                        "from": "bangumi",
+                        "id": 691258,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep691258",
+                        "long_title": "南疆之行再起风波",
+                        "pub_time": 1666580400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《风灵玉秀 第二季》PV2 南疆之行再起风波",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep691258",
+                        "short_link": "https://b23.tv/ep691258",
+                        "stat": {
+                            "coin": 11256,
+                            "danmakus": 1820,
+                            "likes": 24394,
+                            "play": 334617,
+                            "reply": 4823
+                        },
+                        "status": 2,
+                        "subtitle": "已观看305.3万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 591691336,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1oq4y1z7EX",
+                        "cid": 443870299,
+                        "cover": "http://i0.hdslb.com/bfs/archive/d1cc9f36c98710a04a7a931874f260effa8bcc01.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 110000,
+                        "from": "bangumi",
+                        "id": 431224,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep431224",
+                        "long_title": "风起云涌，江湖恩怨即将揭晓",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《风灵玉秀 第二季》PV1 风起云涌，江湖恩怨即将揭晓",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep431224",
+                        "short_link": "https://b23.tv/ep431224",
+                        "stat": {
+                            "coin": 46598,
+                            "danmakus": 5939,
+                            "likes": 73753,
+                            "play": 2672580,
+                            "reply": 15289
+                        },
+                        "status": 2,
+                        "subtitle": "已观看305.3万次",
+                        "title": "PV1",
+                        "vid": ""
+                    }
+                ],
+                "id": 62589,
+                "title": "PV花絮",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 431729751,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1rG41177wj",
+                        "cid": 866640527,
+                        "cover": "http://i0.hdslb.com/bfs/archive/c0468da1a7b0733d6765a67134802fa68bffa761.png",
+                        "dimension": {
+                            "height": 1920,
+                            "rotate": 0,
+                            "width": 1080
+                        },
+                        "duration": 98000,
+                        "from": "bangumi",
+                        "id": 692256,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep692256",
+                        "long_title": "风铃儿与白钰袖结伴闯荡江湖",
+                        "pub_time": 1666671168,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《风灵玉秀 第二季》PV 风铃儿与白钰袖结伴闯荡江湖",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep692256",
+                        "short_link": "https://b23.tv/ep692256",
+                        "stat": {
+                            "coin": 457,
+                            "danmakus": 33,
+                            "likes": 4310,
+                            "play": 45769,
+                            "reply": 186
+                        },
+                        "status": 2,
+                        "subtitle": "已观看305.3万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 87526,
+                "title": "竖屏也精彩",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3616,
+            "series_title": "风灵玉秀"
+        },
+        "share_copy": "《风灵玉秀 第二季》少女们的江湖故事",
+        "share_sub_title": "少女们的江湖故事",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39687",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a644e57dbdc52af2510e43116ccb500cf88fb476.jpg",
+        "stat": {
+            "coins": 58311,
+            "danmakus": 7792,
+            "favorite": 10769,
+            "favorites": 2519660,
+            "likes": 102457,
+            "reply": 20298,
+            "share": 10256,
+            "views": 3052966
+        },
+        "status": 2,
+        "subtitle": "已观看305.3万次",
+        "title": "风灵玉秀 第二季",
+        "total": -1,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/38fbf0a10f7fb0e8910be0e662b05bcb0aed830c.jpg",
+            "avatar_subscript_url": "",
+            "follower": 4500458,
+            "is_follow": 0,
+            "mid": 98627270,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "https://i2.hdslb.com/bfs/garb/item/4ab1a5a6e07a99e649cde625c06eeb1c15585156.png",
+                "name": "罗小黑战记",
+                "pid": 5108
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩国创",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

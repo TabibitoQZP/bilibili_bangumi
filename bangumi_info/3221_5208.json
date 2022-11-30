@@ -1,0 +1,186 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 15,
+                "name": "德国"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/809d872ac2f19c8877eebed05c35705e5cb67335.jpg",
+        "episodes": [
+            {
+                "aid": 5327349,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ys411y7k1",
+                "cid": 8659389,
+                "cover": "http://i0.hdslb.com/bfs/archive/80e28dc8cdd1b776102c92692772e49362e5fe2c.png",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 967000,
+                "from": "bangumi",
+                "id": 92572,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep92572",
+                "long_title": "",
+                "pub_time": 1468479995,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雅诺斯的梦幻》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep92572",
+                "short_link": "https://b23.tv/ep92572",
+                "skip": {
+                    "ed": {
+                        "end": 967,
+                        "start": 960
+                    },
+                    "op": {
+                        "end": 10,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看21.3万次",
+                "title": "1",
+                "vid": "vupload_8659389"
+            }
+        ],
+        "evaluate": "故事发生在一个茂密而欢乐的大森林中。主人公是一只又胖又大的森林熊，自称是电视台的解说员，它将向观众讲述许多有趣的动物故事。美丽的大森林中千姿百态、生动有趣的动物生活，既是雅诺斯的梦幻，也是一个多彩的动画世界。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5208/",
+        "media_id": 5208,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 92572,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 22134,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "1986-01-01 00:00:01",
+            "pub_time_show": "1986年1月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5208,
+        "season_title": "雅诺斯的梦幻",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/809d872ac2f19c8877eebed05c35705e5cb67335.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5208,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/80e28dc8cdd1b776102c92692772e49362e5fe2c.png",
+                    "id": 92572,
+                    "index_show": "全1话"
+                },
+                "season_id": 5208,
+                "season_title": "雅诺斯的梦幻",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2896,
+                    "series_follow": 2896,
+                    "views": 213019
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3103,
+            "series_title": "雅诺斯的梦幻"
+        },
+        "share_copy": "《雅诺斯的梦幻》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5208",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/ba66e62840422004eee9627a040fe29e9a32e214.jpg",
+        "stat": {
+            "coins": 121,
+            "danmakus": 286,
+            "favorite": 45,
+            "favorites": 2896,
+            "likes": 287,
+            "reply": 191,
+            "share": 83,
+            "views": 213019
+        },
+        "status": 2,
+        "subtitle": "已观看21.3万次",
+        "title": "雅诺斯的梦幻",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

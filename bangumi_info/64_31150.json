@@ -1,0 +1,407 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/137c9c239aed5d7666f35ab1d28528547d05544f.png",
+        "episodes": [
+            {
+                "aid": 81886688,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aJ411j7t7",
+                "cid": 140112894,
+                "cover": "http://i0.hdslb.com/bfs/archive/faa816ee387ebd328ad1528ac6d5dd71bbd1f829.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 3611000,
+                "from": "bangumi",
+                "id": 308153,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep308153",
+                "long_title": "雪之回忆",
+                "pub_time": 1578067203,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《Re：从零开始的异世界生活 Memory Snow(雪之回忆)》全片 雪之回忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep308153",
+                "short_link": "https://b23.tv/ep308153",
+                "skip": {
+                    "ed": {
+                        "end": 3610,
+                        "start": 3427
+                    },
+                    "op": {
+                        "end": 9,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1475.5万次",
+                "title": "全片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "昴等人打倒了诅咒的元凶——魔兽沃尔加姆，拯救了阿拉姆村的孩子们。终于到来的安稳并未持续很久，昴就瞒着所有人前去挑战某个极秘任务。尽管昴做了变装，但很快就被以佩特拉为首的村里的孩子们识破了真实身份。开始后5秒就曝光的这一任务，是事前调查和艾米莉亚约会的路线……。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28226008/",
+        "media_id": 28226008,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 308153,
+            "is_new": 0,
+            "title": "全片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 41235,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-01-04 00:00:00",
+            "pub_time_show": "2020年01月04日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 15060,
+            "score": 9.7
+        },
+        "record": "登记号：10417060203882312",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 31150,
+        "season_title": "Re：从零开始的异世界生活 Memory Snow(雪之回忆)",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3c125e1aad08643e3eff2fb7d45e740c1a052725.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28224394,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/469c23e1f352030fafd4ecccbc87bd686724640f.jpg",
+                    "id": 307068,
+                    "index_show": "全13话"
+                },
+                "season_id": 29590,
+                "season_title": "第一季（新编集版）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 6426340,
+                    "series_follow": 9603848,
+                    "views": 82132603
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f2425cbdb07cc93bd0d3ba1c0099bfe78f5dc58a.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229233,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/475874041f64c3658d90d8c4b47c8f294d14d0ec.jpg",
+                    "id": 338299,
+                    "index_show": "全13话"
+                },
+                "season_id": 33802,
+                "season_title": "第二季（前半）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 7793747,
+                    "series_follow": 9603848,
+                    "views": 133795381
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4f3edbede7fc0bdb52842075cf8faaa1c5953eaa.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28232073,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3f39f1e9cfd573d1cf1689ebf4a988163621a08a.jpg",
+                    "id": 373935,
+                    "index_show": "全12话"
+                },
+                "season_id": 36429,
+                "season_title": "第二季（后半）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8559050,
+                    "series_follow": 9603848,
+                    "views": 98217711
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/137c9c239aed5d7666f35ab1d28528547d05544f.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28226008,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/faa816ee387ebd328ad1528ac6d5dd71bbd1f829.jpg",
+                    "id": 308153,
+                    "index_show": "全1话"
+                },
+                "season_id": 31150,
+                "season_title": "OVA1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4939826,
+                    "series_follow": 9603848,
+                    "views": 14754599
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/05859fac3ad9be31373e2d2b548a2f14fd472de2.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28226009,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3201cc1f46ce14c06c95b9a0fdc240a7f6081ef9.jpg",
+                    "id": 324180,
+                    "index_show": "全1话"
+                },
+                "season_id": 31151,
+                "season_title": "OVA2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4930724,
+                    "series_follow": 9603848,
+                    "views": 14702695
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2cca349c8ecb67b81c08907709a0e9b4a96a060d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4026,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/31a8e5cb3c0433178e23f24a847fede0b1b5f416.jpg",
+                    "id": 95991,
+                    "index_show": "全25话"
+                },
+                "season_id": 4026,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 513187,
+                    "series_follow": 9603848,
+                    "views": 49531673
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 80848994,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV19J411Y75V",
+                        "cid": 138375935,
+                        "cover": "http://i0.hdslb.com/bfs/archive/444300e6c1b393c9bbe2ee49711e58542d557989.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 306601,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep306601",
+                        "long_title": "",
+                        "pub_time": 1577439000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《Re：从零开始的异世界生活 Memory Snow(雪之回忆)》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep306601",
+                        "short_link": "https://b23.tv/ep306601",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 7086,
+                            "danmakus": 2738,
+                            "likes": 14696,
+                            "play": 2998299,
+                            "reply": 2708
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1475.5万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 41889,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2118,
+            "series_title": "Re：从零开始的异世界生活"
+        },
+        "share_copy": "《Re：从零开始的异世界生活 Memory Snow(雪之回忆)》爱蜜莉雅的过去",
+        "share_sub_title": "爱蜜莉雅的过去",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss31150",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/b7211a3110d0f57fd73ec5592f91a8fd543d45e8.jpg",
+        "stat": {
+            "coins": 106011,
+            "danmakus": 250902,
+            "favorite": 5144,
+            "favorites": 4939826,
+            "likes": 100381,
+            "reply": 15476,
+            "share": 19389,
+            "views": 14754599
+        },
+        "status": 13,
+        "subtitle": "已观看1475.5万次",
+        "title": "Re：从零开始的异世界生活 Memory Snow(雪之回忆)",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

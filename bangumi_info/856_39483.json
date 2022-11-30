@@ -1,0 +1,852 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e96b26d3662188071192e15359a9c8ac8dc0ef59.png",
+        "episodes": [
+            {
+                "aid": 676362336,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1vU4y1u7Nx",
+                "cid": 432864763,
+                "cover": "http://i0.hdslb.com/bfs/archive/1bc57027c62dae34f7a43f815ab85d2c2d457b67.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 427539,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427539",
+                "long_title": "这在冲绳很常见吗?",
+                "pub_time": 1635527100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第1话 这在冲绳很常见吗?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427539",
+                "short_link": "https://b23.tv/ep427539",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看545.1万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 676462680,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jU4y1g7QL",
+                "cid": 436091521,
+                "cover": "http://i0.hdslb.com/bfs/archive/f93c16b42eae7f06a7c2804b5655198aa60aa7a4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 427540,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427540",
+                "long_title": "不是做梦…",
+                "pub_time": 1636131900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第2话 不是做梦…",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427540",
+                "short_link": "https://b23.tv/ep427540",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 891523853,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1YP4y1j7Nn",
+                "cid": 438645832,
+                "cover": "http://i0.hdslb.com/bfs/archive/8e22490bf278ccc8fd1c89beb7346917a32b3181.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 427541,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep427541",
+                "long_title": "又是你干的？",
+                "pub_time": 1636736701,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第3话 又是你干的？",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep427541",
+                "short_link": "https://b23.tv/ep427541",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 591672381,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wq4y1676j",
+                "cid": 442584760,
+                "cover": "http://i0.hdslb.com/bfs/archive/4b44414a2014eb8a7eafce57631481f8f2e58633.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 430850,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep430850",
+                "long_title": "冲绳好厉害啊",
+                "pub_time": 1637341500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第4话 冲绳好厉害啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep430850",
+                "short_link": "https://b23.tv/ep430850",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 721896162,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ES4y1R7Pe",
+                "cid": 448734359,
+                "cover": "http://i0.hdslb.com/bfs/archive/3f0e0fec65506cfaebda2d91079fed948638b13e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 430851,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep430851",
+                "long_title": "傻不傻啊",
+                "pub_time": 1637946300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第5话 傻不傻啊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep430851",
+                "short_link": "https://b23.tv/ep430851",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 252003267,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17Y411s7PG",
+                "cid": 453154689,
+                "cover": "http://i0.hdslb.com/bfs/archive/e616cf27f482f1dcae623e7891bce4a9c660d8c4.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 430852,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep430852",
+                "long_title": "明明就这样挺好的",
+                "pub_time": 1638551100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第6话 明明就这样挺好的",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep430852",
+                "short_link": "https://b23.tv/ep430852",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 294716266,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HF411z7Aa",
+                "cid": 457675368,
+                "cover": "http://i0.hdslb.com/bfs/archive/ae6ed618fa12badbfcc57c0aa6f34568b739e7a6.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 437382,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep437382",
+                "long_title": "那孩子看来是遇到困难了呢",
+                "pub_time": 1639155900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第7话 那孩子看来是遇到困难了呢",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep437382",
+                "short_link": "https://b23.tv/ep437382",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 549893605,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xi4y1d714",
+                "cid": 462152556,
+                "cover": "http://i0.hdslb.com/bfs/archive/589b140cb8f13b0395e836450c097e734a03b648.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 437383,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep437383",
+                "long_title": "暑假已经结束",
+                "pub_time": 1639760700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第8话 暑假已经结束",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep437383",
+                "short_link": "https://b23.tv/ep437383",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 677517377,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1gm4y197Hj",
+                "cid": 466276662,
+                "cover": "http://i0.hdslb.com/bfs/archive/1b28e35a969295ba9ffe7ea4251e2b263d640c4a.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 437384,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep437384",
+                "long_title": "今天要忙起来了",
+                "pub_time": 1640365500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第9话 今天要忙起来了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep437384",
+                "short_link": "https://b23.tv/ep437384",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 380238291,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rZ4y1D7hn",
+                "cid": 471082623,
+                "cover": "http://i0.hdslb.com/bfs/archive/2d2fdf1b1a67baccbe17db92a7d05365d1fee2fa.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 445858,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep445858",
+                "long_title": "玩捉迷藏直到天",
+                "pub_time": 1640970300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第10话 玩捉迷藏直到天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep445858",
+                "short_link": "https://b23.tv/ep445858",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 977693938,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1644y177RA",
+                "cid": 471896171,
+                "cover": "http://i0.hdslb.com/bfs/archive/7c77e22034dbf238276f3920aded9b0dca58719e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 445859,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep445859",
+                "long_title": "你真是太厉害了",
+                "pub_time": 1641575100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第11话 你真是太厉害了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep445859",
+                "short_link": "https://b23.tv/ep445859",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 680314279,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12S4y1K7hG",
+                "cid": 474930658,
+                "cover": "http://i0.hdslb.com/bfs/archive/66a2b4d05888aa2f41a982c922bbe9a09e9442a8.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 123000,
+                "from": "bangumi",
+                "id": 445860,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep445860",
+                "long_title": "男孩遇见女孩",
+                "pub_time": 1642179900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《男孩遇见女孩》第12话 男孩遇见女孩",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep445860",
+                "short_link": "https://b23.tv/ep445860",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看545.1万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "夏天、冲绳。一个夏天里不得了的邂逅。\n\n冲绳的高中一年级学生·比嘉舞星，在暑假时给家里的旅馆帮忙做前台服务员，悠闲地度过这个暑假。\n某一天，来了一位从东京来的客人住在了他们的旅馆里。这个看起来别有隐情的客人的名字是，铃木一郎（？）\n\n铃木来了之后，旅馆中不断发生着奇怪的事情……在房间里游来游去的鱼儿们，穿破旅馆天花板的巨大榕树。在二人之间这些突如其来的奇妙事件究竟是——？",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28235175/",
+        "media_id": 28235175,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 445860,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 62164,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-10-30 01:05:00",
+            "pub_time_show": "2021年10月30日01:05",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2666,
+            "score": 9.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 39483,
+        "season_title": "男孩遇见女孩",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e96b26d3662188071192e15359a9c8ac8dc0ef59.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/0eee320187cff72db337a8ac8059ae9cd56ccb6e.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/0f19afca304ca74afc82a5053d51dfd0bbb82131.png",
+                "media_id": 28235175,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/66a2b4d05888aa2f41a982c922bbe9a09e9442a8.png",
+                    "id": 445860,
+                    "index_show": "全12话"
+                },
+                "season_id": 39483,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 492823,
+                    "series_follow": 492823,
+                    "views": 5450524
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 293130254,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV13f4y1E7CN",
+                        "cid": 413275538,
+                        "cover": "http://i0.hdslb.com/bfs/archive/1511ef639330a46aac7643f4a8a63d3fcdba8961.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 40000,
+                        "from": "bangumi",
+                        "id": 423614,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep423614",
+                        "long_title": "",
+                        "pub_time": 1632393000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《男孩遇见女孩》PV1 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep423614",
+                        "short_link": "https://b23.tv/ep423614",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 704,
+                            "danmakus": 77,
+                            "likes": 5756,
+                            "play": 526580,
+                            "reply": 637
+                        },
+                        "status": 2,
+                        "subtitle": "已观看545.1万次",
+                        "title": "PV1",
+                        "vid": ""
+                    }
+                ],
+                "id": 62195,
+                "title": "PV&其他",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5712,
+            "series_title": "男孩遇见女孩"
+        },
+        "share_copy": "《男孩遇见女孩》奇妙的海边物语",
+        "share_sub_title": "奇妙的海边物语",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss39483",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/6421e3ac2874de8a845cce4bf7db6e1341d4ac1b.png",
+        "stat": {
+            "coins": 12581,
+            "danmakus": 7417,
+            "favorite": 4849,
+            "favorites": 492823,
+            "likes": 123636,
+            "reply": 4880,
+            "share": 4379,
+            "views": 5450524
+        },
+        "status": 13,
+        "subtitle": "已观看545.1万次",
+        "title": "男孩遇见女孩",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

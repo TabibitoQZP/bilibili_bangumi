@@ -1,0 +1,174 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/8ff65603ec6853ffe59b7b28eaf62dcaaf58bea4.png",
+        "episodes": [
+            {
+                "aid": 635823058,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV11b4y1J7Ut",
+                "cid": 488266680,
+                "cover": "http://i0.hdslb.com/bfs/archive/671d58581d723d3037e8499ecd70f08b41a7b2d3.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 174000,
+                "from": "bangumi",
+                "id": 468309,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep468309?theme=movie",
+                "long_title": "",
+                "pub_time": 1643256001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《宴》一入侯门深似海",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep468309",
+                "short_link": "https://b23.tv/ep468309",
+                "status": 2,
+                "subtitle": "已观看24.2万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "一达官贵人看上了正在表演的女子，后将她占为己有，女子犹如活在牢中，但依然向往着自由的生活。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28236823/",
+        "media_id": 28236823,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2021上映",
+            "id": 468309,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "positive": {
+            "id": 64956,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2022-01-27 12:00:00",
+            "pub_time_show": "01月27日12:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41117,
+        "season_title": "宴",
+        "seasons": [],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《宴》一入侯门深似海",
+        "share_sub_title": "一入侯门深似海",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41117",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/96a78b276855c6d71e41702a3ffdf8f78b867d6f.png",
+        "stat": {
+            "coins": 724,
+            "danmakus": 108,
+            "favorite": 1831,
+            "favorites": 11747,
+            "likes": 5656,
+            "reply": 226,
+            "share": 153,
+            "views": 242079
+        },
+        "status": 2,
+        "subtitle": "已观看24.2万次",
+        "title": "宴",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/d89c4acc3168187f081dcf1cdbb6a48a493282da.jpg",
+            "avatar_subscript_url": "",
+            "follower": 14005,
+            "is_follow": 0,
+            "mid": 353488692,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "AME影视计划",
+            "verify_type": 0,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "年度大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

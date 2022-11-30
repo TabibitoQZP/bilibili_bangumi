@@ -1,0 +1,673 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "http://i0.hdslb.com/bfs/bangumi/5b2899ef1e2a013ffdabd6424ced8c6d2e2c62c3.jpg",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c3afb75208b0f9391652e8b401acfd51f0061c2e.jpg",
+        "episodes": [
+            {
+                "aid": 77347683,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XJ411D78v",
+                "cid": 132309876,
+                "cover": "http://i0.hdslb.com/bfs/archive/3e033bace1b4894ba5727b246644e226349238c6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5276000,
+                "from": "bangumi",
+                "id": 299967,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep299967?theme=movie",
+                "long_title": "",
+                "pub_time": 1576314000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《哥斯拉：怪兽行星》哥斯拉登顶生物链",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep299967",
+                "short_link": "https://b23.tv/ep299967",
+                "status": 13,
+                "subtitle": "已观看801.9万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "二十世纪最后的夏天。那一天，人类终于知道自己并非地球这颗行星唯一的统治者。巨型生物「怪兽」，以及驱逐怪兽的终极存在「哥斯拉」出现了。经历与怪兽之间长达半个世纪的战争，人类屡战屡败，最终计划逃出地球。然而，人类花费20年所抵达的星球与地球之间的环境差距远超预期，不适宜人类生存。飞船内的生存环境也越发恶劣，以晴雄为中心的「重返地球派」成为主流，他们决定经过危险的长距离亚空间航行返回地球......",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28223812/",
+        "media_id": 28223812,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2018年9月21日上映",
+            "id": 299967,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 39068,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-12-14 17:00:00",
+            "pub_time_show": "2019年12月14日17:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1978,
+            "score": 7.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 29073,
+        "season_title": "哥斯拉：怪兽行星",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c3afb75208b0f9391652e8b401acfd51f0061c2e.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/975f37b8aeb73bd661c11b5d3d82be09f15a208e.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/0dead0b4859b63a1840319ccf1cd4f84fafc96e3.png",
+                "media_id": 28223812,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/3e033bace1b4894ba5727b246644e226349238c6.jpg",
+                    "id": 299967,
+                    "index_show": "2018-09-21上映"
+                },
+                "season_id": 29073,
+                "season_title": "哥斯拉：怪兽行星",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 171348,
+                    "series_follow": 200048,
+                    "views": 8018606
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/e2511d13d5b1e015e39fec9c31a0e7638f37e9ca.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/0b3f026798820e6361af91248891f47dd8ed84b4.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/5fddbc98c0b822ab334555e18b1767a3e10a7798.png",
+                "media_id": 28338781,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fe7055a5d44eeee2b7651ac8c45537d9aeb6c087.jpg",
+                    "id": 683000,
+                    "index_show": "2018-05-18上映"
+                },
+                "season_id": 42326,
+                "season_title": "哥斯拉：决战之都",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 195353,
+                    "series_follow": 200048,
+                    "views": 1906043
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/133992c427b453919fbe8f516170c3a5cef7744f.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/0bb26e228cbf8db68ea30445c776fd6d759192a2.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/8a2fa3682afdbca1b8f0f69644c70a591b746992.png",
+                "media_id": 28338782,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": "敬请期待"
+                },
+                "season_id": 42327,
+                "season_title": "哥斯拉：噬星者",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 169513,
+                    "series_follow": 200048,
+                    "views": 272583
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 77313883,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1WJ4119791",
+                        "cid": 132252337,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/6081a262b558132480a833483d2881c7a1cef93f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91263,
+                        "from": "bangumi",
+                        "id": 299966,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep299966?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1575907201,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep299966",
+                        "short_link": "https://b23.tv/ep299966",
+                        "stat": {
+                            "coin": 63,
+                            "danmakus": 64,
+                            "likes": 559,
+                            "play": 194676,
+                            "reply": 126
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 78802101,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1CJ411y73Y",
+                        "cid": 134836440,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/a7999c89d64540d307d489788d6b57e3597402db.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 269592,
+                        "from": "bangumi",
+                        "id": 300273,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep300273?theme=movie",
+                        "long_title": "XAI「WHITE OUT」",
+                        "pub_time": 1575993601,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》MV XAI「WHITE OUT」",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep300273",
+                        "short_link": "https://b23.tv/ep300273",
+                        "stat": {
+                            "coin": 224,
+                            "danmakus": 67,
+                            "likes": 827,
+                            "play": 139314,
+                            "reply": 163
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "MV",
+                        "vid": ""
+                    }
+                ],
+                "id": 39410,
+                "title": "预告花絮",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 383533650,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1sZ4y1C7CR",
+                        "cid": 585915405,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9aa2bb7bb7836b5bd65eeb729163e5b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 501556,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep501556?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1651007660,
+                        "pv": 0,
+                        "release_date": "2022-04-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep501556",
+                        "short_link": "https://b23.tv/ep501556",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 7,
+                            "play": 3385,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 896004558,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1zA4y1X7rB",
+                        "cid": 585915606,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_244948c9a9288dac9dddea89f4130eb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 501589,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep501589?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1651007830,
+                        "pv": 0,
+                        "release_date": "2022-04-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep501589",
+                        "short_link": "https://b23.tv/ep501589",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 3048,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 426116705,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1q3411K7RM",
+                        "cid": 585915769,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_5b11932fc7591edb7cbc19af721ce9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 501615,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep501615?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1651007980,
+                        "pv": 0,
+                        "release_date": "2022-04-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep501615",
+                        "short_link": "https://b23.tv/ep501615",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 12,
+                            "play": 2624,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 771461962,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1xr4y1j78t",
+                        "cid": 786124225,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9849a3d3d8ae4a79beb299744a60a0b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 661693,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep661693?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1658936491,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep661693",
+                        "short_link": "https://b23.tv/ep661693",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 1809,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 941443699,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1hW4y1y7v9",
+                        "cid": 786125563,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_dc8b07ceecd04b408b9873bf73fe62b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 661700,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep661700?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1658936658,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep661700",
+                        "short_link": "https://b23.tv/ep661700",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 1741,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 428930447,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1AG411h7Qq",
+                        "cid": 786125939,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_22dc6ec0301f4a0bb4ea0df8af01b9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 661707,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep661707?theme=movie",
+                        "long_title": "精彩看点 6",
+                        "pub_time": 1658936695,
+                        "pv": 0,
+                        "release_date": "2022-07-27",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《哥斯拉：怪兽行星》哥斯拉：怪兽行星 精彩看点 6",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep661707",
+                        "short_link": "https://b23.tv/ep661707",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 1,
+                            "play": 2712,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看801.9万次",
+                        "title": "哥斯拉：怪兽行星",
+                        "vid": ""
+                    }
+                ],
+                "id": 69641,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6265,
+            "series_title": "哥斯拉动画"
+        },
+        "share_copy": "《哥斯拉：怪兽行星》哥斯拉登顶生物链",
+        "share_sub_title": "哥斯拉登顶生物链",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss29073",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/2e1404a5f19e4579dad17ac7988c13dc5e299792.jpg",
+        "stat": {
+            "coins": 8596,
+            "danmakus": 26758,
+            "favorite": 2828,
+            "favorites": 171348,
+            "likes": 31432,
+            "reply": 7456,
+            "share": 5311,
+            "views": 8018606
+        },
+        "status": 13,
+        "subtitle": "已观看801.9万次",
+        "title": "哥斯拉：怪兽行星",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815763,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,651 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/1a0318ed15b7d8774ad641acfd1dd2e2d7499c38.png",
+        "episodes": [
+            {
+                "aid": 218588363,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1c8411t7Hv",
+                "cid": 860395121,
+                "cover": "http://i0.hdslb.com/bfs/archive/07ccd8cb979cd7ca456c910c4508647b64b3c133.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1335292,
+                "from": "bangumi",
+                "id": 683033,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep683033",
+                "long_title": "晴天霹雳",
+                "pub_time": 1664884800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第1话 晴天霹雳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep683033",
+                "short_link": "https://b23.tv/ep683033",
+                "skip": {
+                    "ed": {
+                        "end": 1280,
+                        "start": 1191
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 901351653,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1hN4y1A7hE",
+                "cid": 858580451,
+                "cover": "http://i0.hdslb.com/bfs/archive/4753b462e189427c6138de690185b7d62a6addff.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1401000,
+                "from": "bangumi",
+                "id": 683034,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep683034",
+                "long_title": "没有慈悲的选择",
+                "pub_time": 1665489600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第2话 没有慈悲的选择",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep683034",
+                "short_link": "https://b23.tv/ep683034",
+                "skip": {
+                    "ed": {
+                        "end": 1340,
+                        "start": 1249
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 61
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 261364294,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1se41157pc",
+                "cid": 855627447,
+                "cover": "http://i0.hdslb.com/bfs/archive/80c5b1735f9ae2c300aa783bd1e82fe0461a132e.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1419000,
+                "from": "bangumi",
+                "id": 683035,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep683035",
+                "long_title": "奇妙缘分",
+                "pub_time": 1666094400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第3话 奇妙缘分",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep683035",
+                "short_link": "https://b23.tv/ep683035",
+                "skip": {
+                    "ed": {
+                        "end": 1381,
+                        "start": 1292
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 28
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 688892303,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1d24y197cQ",
+                "cid": 858608687,
+                "cover": "http://i0.hdslb.com/bfs/archive/c351d2de69e7a650c55b33ef7be319cd801d504d.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1414000,
+                "from": "bangumi",
+                "id": 684829,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep684829",
+                "long_title": "制造者和使用者",
+                "pub_time": 1666699200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第4话 制造者和使用者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep684829",
+                "short_link": "https://b23.tv/ep684829",
+                "skip": {
+                    "ed": {
+                        "end": 1350,
+                        "start": 1260
+                    },
+                    "op": {
+                        "end": 134,
+                        "start": 45
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 901467275,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1dN4y1A7ep",
+                "cid": 858608597,
+                "cover": "http://i0.hdslb.com/bfs/archive/5b694e1c8018592a3f5a9a3bc0efb4f55c45c7dd.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 684830,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep684830",
+                "long_title": "苦痛循环",
+                "pub_time": 1667304000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第5话 苦痛循环",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep684830",
+                "short_link": "https://b23.tv/ep684830",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 45
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 516433299,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1sg411h7Tw",
+                "cid": 858608492,
+                "cover": "http://i0.hdslb.com/bfs/archive/f8cdc61879063156b3b8e5d75506b90e80746014.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1415000,
+                "from": "bangumi",
+                "id": 684831,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep684831",
+                "long_title": "阴影与温暖",
+                "pub_time": 1667908800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第6话 阴影与温暖",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep684831",
+                "short_link": "https://b23.tv/ep684831",
+                "skip": {
+                    "ed": {
+                        "end": 1356,
+                        "start": 1265
+                    },
+                    "op": {
+                        "end": 120,
+                        "start": 30
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 559933753,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ue4y117Sp",
+                "cid": 895173875,
+                "cover": "http://i0.hdslb.com/bfs/archive/6bfd66ebf02c5c13127386b9e41daf84015be196.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1419959,
+                "from": "bangumi",
+                "id": 700615,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep700615",
+                "long_title": "正义何在",
+                "pub_time": 1668513600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第7话 正义何在",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep700615",
+                "short_link": "https://b23.tv/ep700615",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 35
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看334.5万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 262377473,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ue411F7Dn",
+                "cid": 887122879,
+                "cover": "http://i0.hdslb.com/bfs/archive/c4c11aea0c3dfad99dceace471dddfa1361658eb.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 700616,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep700616",
+                "long_title": "黄昏伴随风暴到来",
+                "pub_time": 1669118400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《忍者一时》第8话 黄昏伴随风暴到来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep700616",
+                "short_link": "https://b23.tv/ep700616",
+                "skip": {
+                    "ed": {
+                        "end": 1381,
+                        "start": 1291
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看334.5万次",
+                "title": "8",
+                "vid": ""
+            }
+        ],
+        "evaluate": "世上不存在忍者——这是普遍的想法。就算真的存在忍者，他们也不会出现在我们面前。所以，忍者在“表面上”是不存在的。主人公樱羽一时是个和我们一样不认为存在什么忍者的普通男生。他本应有一个普通的，幸福而光辉的人生。但是某一天，他却遇到了想杀死他的人，而且还听说这是甲贺忍者的所作所为。为何一时会被人盯上？因为他是历史悠久的伊贺忍者第19代正统继承人。伊贺和甲贺常年对立，甲贺想要侵略伊贺。一时想要活下去，就只能自己成为忍者。从此，一时投身于不为人所知的忍者世界。为了成为一个合格的忍者而学习、战斗、直面苦难。但这些，相比一时所要面临的残酷命运，不过只是序章而已……\n制作出《Aldnoah Zero》、《偶像星愿》的TROYCA所献上的，让人难以预料结果的原创忍者动画，2022年开播！",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28339738/",
+        "media_id": 28339738,
+        "mode": 2,
+        "new_ep": {
+            "desc": "连载中, 每周二 20:00更新",
+            "id": 700616,
+            "is_new": 1,
+            "title": "8"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 86475,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 1,
+            "pub_time": "2022-10-04 20:00:00",
+            "pub_time_show": "10月04日20:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 811,
+            "score": 5.7
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 43167,
+        "season_title": "忍者一时",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/1a0318ed15b7d8774ad641acfd1dd2e2d7499c38.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/88fd9bc8db40287360994c1cb881edd5a33a1e84.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/3bffb3d72092137aac49dd7109db6d3a0c672f14.png",
+                "media_id": 28339738,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c4c11aea0c3dfad99dceace471dddfa1361658eb.png",
+                    "id": 700616,
+                    "index_show": "更新至第8话"
+                },
+                "season_id": 43167,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 197060,
+                    "series_follow": 197059,
+                    "views": 3344544
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 603329014,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17B4y1J7tA",
+                        "cid": 841146490,
+                        "cover": "http://i0.hdslb.com/bfs/archive/0d9cfbdd2112192c375f1b36bef224c6a88361ae.png",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 71000,
+                        "from": "bangumi",
+                        "id": 681148,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep681148",
+                        "long_title": "",
+                        "pub_time": 1664193600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《忍者一时》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep681148",
+                        "short_link": "https://b23.tv/ep681148",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 185,
+                            "danmakus": 19,
+                            "likes": 752,
+                            "play": 177784,
+                            "reply": 77
+                        },
+                        "status": 2,
+                        "subtitle": "已观看334.5万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 86533,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6251,
+            "series_title": "忍者一时"
+        },
+        "share_copy": "《忍者一时》现代忍者的高燃战斗",
+        "share_sub_title": "现代忍者的高燃战斗",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss43167",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/03e55ba8e4b1eed9c2197f9a34ca8acddaa0cdb6.png",
+        "stat": {
+            "coins": 6143,
+            "danmakus": 12446,
+            "favorite": 2427,
+            "favorites": 197060,
+            "likes": 46729,
+            "reply": 3132,
+            "share": 860,
+            "views": 3344544
+        },
+        "status": 13,
+        "subtitle": "已观看334.5万次",
+        "title": "忍者一时",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

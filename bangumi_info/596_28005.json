@@ -1,0 +1,827 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/fe78df48710a3843afe9cefd4ae516c359d04a4c.png",
+        "episodes": [
+            {
+                "aid": 57488620,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ax411X7Df",
+                "cid": 100478540,
+                "cover": "http://i0.hdslb.com/bfs/archive/cc69e348afafba6abfe77ce8ed42d2eb84f166cb.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276269,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276269",
+                "long_title": "致曾为神之众兽",
+                "pub_time": 1561993200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第1话 致曾为神之众兽",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276269",
+                "short_link": "https://b23.tv/ep276269",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1910.7万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 58311442,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV174411F7jB",
+                "cid": 101929399,
+                "cover": "http://i0.hdslb.com/bfs/archive/02487f2f379ee685eff8ebcd5510f235e75fbbe8.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276270,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276270",
+                "long_title": "龙的女儿",
+                "pub_time": 1562598000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第2话 龙的女儿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276270",
+                "short_link": "https://b23.tv/ep276270",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 154,
+                        "start": 65
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 59282969,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Rt411376j",
+                "cid": 103314549,
+                "cover": "http://i0.hdslb.com/bfs/archive/2d7aa11a27a6f494fda025082169b4f884f5d10d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276271,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276271",
+                "long_title": "弥诺陶洛斯的要塞",
+                "pub_time": 1563202800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第3话 弥诺陶洛斯的要塞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276271",
+                "short_link": "https://b23.tv/ep276271",
+                "skip": {
+                    "ed": {
+                        "end": 1330,
+                        "start": 1241
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 93
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 60251593,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1pt411J7Wb",
+                "cid": 104909658,
+                "cover": "http://i0.hdslb.com/bfs/archive/5606a3571e34eb2483092b61b2bf4cb07a339844.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276272,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276272",
+                "long_title": "巨兽的猛进",
+                "pub_time": 1563807600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第4话 巨兽的猛进",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276272",
+                "short_link": "https://b23.tv/ep276272",
+                "skip": {
+                    "ed": {
+                        "end": 1321,
+                        "start": 1232
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 53
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 61252066,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gt411A7Ye",
+                "cid": 106560216,
+                "cover": "http://i0.hdslb.com/bfs/archive/f16b17aeb9d0c9add3ff61ba1ae6d29d74ec4e25.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276273,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276273",
+                "long_title": "石像鬼的审判",
+                "pub_time": 1564412400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第5话 石像鬼的审判",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276273",
+                "short_link": "https://b23.tv/ep276273",
+                "skip": {
+                    "ed": {
+                        "end": 1395,
+                        "start": 1306
+                    },
+                    "op": {
+                        "end": 176,
+                        "start": 86
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 62321757,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ht411M75Q",
+                "cid": 108324703,
+                "cover": "http://i0.hdslb.com/bfs/archive/54542f8e776e867ae9d071f7e538f405c37d3548.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276274,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276274",
+                "long_title": "兽王",
+                "pub_time": 1565017200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第6话 兽王",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276274",
+                "short_link": "https://b23.tv/ep276274",
+                "skip": {
+                    "ed": {
+                        "end": 1349,
+                        "start": 1259
+                    },
+                    "op": {
+                        "end": 122,
+                        "start": 32
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 63399574,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1a4411Q7mH",
+                "cid": 111785475,
+                "cover": "http://i0.hdslb.com/bfs/archive/05de215e59b04ca41ad961e19e5085db59b42637.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276275,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276275",
+                "long_title": "追忆的扳机",
+                "pub_time": 1565622000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第7话 追忆的扳机",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276275",
+                "short_link": "https://b23.tv/ep276275",
+                "skip": {
+                    "ed": {
+                        "end": 1369,
+                        "start": 1280
+                    },
+                    "op": {
+                        "end": 111,
+                        "start": 21
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 64444039,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV194411o7j9",
+                "cid": 111887560,
+                "cover": "http://i0.hdslb.com/bfs/archive/8afd0a1e968b0633bc22185faa505a22d7c225ae.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276276,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276276",
+                "long_title": "沉眠的歌姬",
+                "pub_time": 1566226800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第8话 沉眠的歌姬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276276",
+                "short_link": "https://b23.tv/ep276276",
+                "skip": {
+                    "ed": {
+                        "end": 1327,
+                        "start": 1261
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 65480259,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1X441167jn",
+                "cid": 113630995,
+                "cover": "http://i0.hdslb.com/bfs/archive/dbf5434c79138c22dfca0e380253fc91cf586352.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276277,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276277",
+                "long_title": "地狱的看门犬",
+                "pub_time": 1566831600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第9话 地狱的看门犬",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276277",
+                "short_link": "https://b23.tv/ep276277",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 66399842,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1e441117sB",
+                "cid": 115161053,
+                "cover": "http://i0.hdslb.com/bfs/archive/f69ac697cd5fb70151ca30a10408d6bbf9592867.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276278,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276278",
+                "long_title": "两个誓言",
+                "pub_time": 1567436400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第10话 两个誓言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276278",
+                "short_link": "https://b23.tv/ep276278",
+                "skip": {
+                    "ed": {
+                        "end": 1396,
+                        "start": 1344
+                    },
+                    "op": {
+                        "end": 266,
+                        "start": 177
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 67175646,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UJ411N7mN",
+                "cid": 116481088,
+                "cover": "http://i0.hdslb.com/bfs/archive/c6a5ffddfbc51e0a5d988838b7b6bdd8d5b37449.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276279,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276279",
+                "long_title": "暴乱的响箭",
+                "pub_time": 1568041200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第11话 暴乱的响箭",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276279",
+                "short_link": "https://b23.tv/ep276279",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 67989140,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yJ411c7Mt",
+                "cid": 117843768,
+                "cover": "http://i0.hdslb.com/bfs/archive/81385f895a48a1c27a0e701218781908fb9d5dd2.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 276280,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep276280",
+                "long_title": "追逐者们",
+                "pub_time": 1568646000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《猎兽神兵》第12话 追逐者们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep276280",
+                "short_link": "https://b23.tv/ep276280",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 30
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1910.7万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "为了终结持续不断的内战而制造出来的拟神兵，终于替国家带来了和平，成为英雄。但在战争结束后，他们却堕落为野兽，并不断遭到猎兽者的追杀。少女夏尔的爸爸也被猎兽者杀死，因此决定找猎兽者报仇。然而实际认识了猎兽者汉克，并与他一同踏上猎杀拟神兵的旅程之后，夏尔才发现他的真实身份，与潜藏在其内心那不为人知的苦衷。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28221402/",
+        "media_id": 28221402,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 276280,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 37633,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-07-01 23:00:00",
+            "pub_time_show": "2019年07月01日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 8108,
+            "score": 8.1
+        },
+        "record": "登记号：10417060208232706",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28005,
+        "season_title": "猎兽神兵",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fe78df48710a3843afe9cefd4ae516c359d04a4c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28221402,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/81385f895a48a1c27a0e701218781908fb9d5dd2.jpg",
+                    "id": 276280,
+                    "index_show": "全12话"
+                },
+                "season_id": 28005,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 812070,
+                    "series_follow": 812070,
+                    "views": 19107254
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 56795131,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1wx411Z7wn",
+                        "cid": 99210811,
+                        "cover": "http://i0.hdslb.com/bfs/archive/2648f57c4889c09720489a7cdcf828307992f170.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 90445,
+                        "from": "bangumi",
+                        "id": 275960,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep275960",
+                        "long_title": "",
+                        "pub_time": 1561454183,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《猎兽神兵》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep275960",
+                        "short_link": "https://b23.tv/ep275960",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 644,
+                            "danmakus": 302,
+                            "likes": 151,
+                            "play": 508474,
+                            "reply": 688
+                        },
+                        "status": 2,
+                        "subtitle": "已观看1910.7万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 37673,
+                "title": "预告",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4453,
+            "series_title": "猎兽神兵"
+        },
+        "share_copy": "《猎兽神兵》致曾为神之众兽",
+        "share_sub_title": "致曾为神之众兽",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28005",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/0ff42c23ea1c7a7c8da33f15fda5c9372e0b841f.png",
+        "stat": {
+            "coins": 42401,
+            "danmakus": 184037,
+            "favorite": 3278,
+            "favorites": 812070,
+            "likes": 58213,
+            "reply": 27022,
+            "share": 7533,
+            "views": 19107254
+        },
+        "status": 13,
+        "subtitle": "已观看1910.7万次",
+        "title": "猎兽神兵",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

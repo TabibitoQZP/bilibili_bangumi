@@ -1,0 +1,346 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c60539f12e1f273dc89fdc5ce0b72a1b85f7404a.jpg",
+        "episodes": [
+            {
+                "aid": 1965353,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV15x411A79C",
+                "cid": 3035948,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e2960816e90b8493b06d64759d730f1c8f4c4713.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 3900000,
+                "from": "bangumi",
+                "id": 29442,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep29442?theme=movie",
+                "long_title": "灼眼的夏娜 剧场版",
+                "pub_time": 1423203018,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《灼眼的夏娜 剧场版》第1话 灼眼的夏娜 剧场版",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep29442",
+                "short_link": "https://b23.tv/ep29442",
+                "skip": {
+                    "ed": {
+                        "end": 3957,
+                        "start": 3722
+                    },
+                    "op": {
+                        "end": 32,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看132万次",
+                "title": "1",
+                "vid": "vupload_3035948"
+            }
+        ],
+        "evaluate": "此次的剧场版是小说第一卷内容的再构成，重现了夏娜与悠二相遇相识的过程，也是TV动画版中曾播出过的情节。不过作为剧场版，会在画面、情节等诸多方面做出更大的改进。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md1609/",
+        "media_id": 1609,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 29442,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 18611,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-04-21 00:00:00",
+            "pub_time_show": "2007年04月21日00:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 627,
+            "score": 9.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 1609,
+        "season_title": "灼眼的夏娜 剧场版",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/227177ddcbcddc326e1c751b89db24195c20e0d2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1600,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e7308ce0015e827bdca237c6a1fc3a706e6da345.jpg",
+                    "id": 29358,
+                    "index_show": "全24话"
+                },
+                "season_id": 1600,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1355416,
+                    "series_follow": 1522209,
+                    "views": 20512493
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0ce93a6f7b8ea0e6c3a5fb6035561809902c1974.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1607,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/12649bc6b2ea55c8114fd9c4b1bb6d08223c5d1e.jpg",
+                    "id": 29439,
+                    "index_show": "全1话"
+                },
+                "season_id": 1607,
+                "season_title": "第一季 OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 166411,
+                    "series_follow": 1522209,
+                    "views": 1194823
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/33522e5eef0a2c167a31061a5366920e5044cba1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1602,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/6b0cc981bc43c675874d01865dcb91decbcc89d0.jpg",
+                    "id": 29383,
+                    "index_show": "全24话"
+                },
+                "season_id": 1602,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 399931,
+                    "series_follow": 1522209,
+                    "views": 8392924
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/136f0d1b8eb40a03c8febe8662a71a095ec41389.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1605,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/cdb566be234f9af018f823e7f97c9a5243808d66.jpg",
+                    "id": 29412,
+                    "index_show": "全4话"
+                },
+                "season_id": 1605,
+                "season_title": "第二季OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 196230,
+                    "series_follow": 1522209,
+                    "views": 1911778
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0c6befabce70a878173cb1e26568772221e67568.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1603,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/acce02b24b34e26e7f1ad46486179355918847a9.jpg",
+                    "id": 29407,
+                    "index_show": "全24话"
+                },
+                "season_id": 1603,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 406526,
+                    "series_follow": 1522209,
+                    "views": 9182329
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c60539f12e1f273dc89fdc5ce0b72a1b85f7404a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1609,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e2960816e90b8493b06d64759d730f1c8f4c4713.jpg",
+                    "id": 29442,
+                    "index_show": "全1话"
+                },
+                "season_id": 1609,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 198576,
+                    "series_follow": 1522209,
+                    "views": 1319880
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d5d626f3ac209d7cd33e6b0df5c6cce607b775c2.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4949,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/d220cb8022d3ca9e4ad6367170c8992a87a382b3.jpg",
+                    "id": 90279,
+                    "index_show": "全15话"
+                },
+                "season_id": 4949,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 115812,
+                    "series_follow": 1522209,
+                    "views": 1771255
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1095,
+            "series_title": "灼眼的夏娜"
+        },
+        "share_copy": "《灼眼的夏娜 剧场版》炎发灼眼的少女",
+        "share_sub_title": "炎发灼眼的少女",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss1609",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/d140fbd54d1510e6277b175509f7b46243f0e46b.jpg",
+        "stat": {
+            "coins": 4158,
+            "danmakus": 16902,
+            "favorite": 540,
+            "favorites": 198576,
+            "likes": 3488,
+            "reply": 1183,
+            "share": 479,
+            "views": 1319880
+        },
+        "status": 2,
+        "subtitle": "已观看132万次",
+        "title": "灼眼的夏娜 剧场版",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

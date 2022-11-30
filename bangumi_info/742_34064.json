@@ -1,0 +1,587 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/e33abf62fa9a1557f3db93be0389f07c4d88651e.png",
+        "episodes": [
+            {
+                "aid": 969361988,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cp4y1i75W",
+                "cid": 225394382,
+                "cover": "http://i0.hdslb.com/bfs/archive/2b6aab07e528094a2676cbad0c63c6ae069aeca0.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5711000,
+                "from": "bangumi",
+                "id": 336913,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep336913?theme=movie",
+                "long_title": "",
+                "pub_time": 1599033601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《若能与你共乘海浪之上》让我做你的港湾",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep336913",
+                "short_link": "https://b23.tv/ep336913",
+                "status": 13,
+                "subtitle": "已观看588.6万次",
+                "title": "原版",
+                "vid": ""
+            },
+            {
+                "aid": 711759004,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1qD4y127GT",
+                "cid": 225392512,
+                "cover": "http://i0.hdslb.com/bfs/archive/f811207e32a36983776c91940cca5316a12d59dd.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5711000,
+                "from": "bangumi",
+                "id": 336966,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep336966?theme=movie",
+                "long_title": "",
+                "pub_time": 1599033600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《若能与你共乘海浪之上》让我做你的港湾",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep336966",
+                "short_link": "https://b23.tv/ep336966",
+                "status": 13,
+                "subtitle": "已观看588.6万次",
+                "title": "中文",
+                "vid": ""
+            }
+        ],
+        "evaluate": "夏天、阳光，沙滩、海浪，青年消防员雏罂粟港和爱好冲浪的向水日菜子相遇并迅速展开热恋。看似命中注定的这对恋人，却不幸遭遇生死别离。无法接受港已经离世的雏子，某天突然发现，只要唱起属于两个人的那首歌，港就会从水中出现……",
+        "freya": {
+            "bubble_desc": "进来聊个5块钱的~",
+            "bubble_show_cnt": 10000,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229504/",
+        "media_id": 28229504,
+        "mode": 2,
+        "new_ep": {
+            "desc": "2019年12月7日上映",
+            "id": 336966,
+            "is_new": 0,
+            "title": "中文"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员免费看"
+        },
+        "positive": {
+            "id": 49029,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2020-09-02 16:00:00",
+            "pub_time_show": "2020年09月02日16:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 7652,
+            "score": 9.0
+        },
+        "record": "新出像进字（2019）第068号\n备案号：10417040006212207",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34064,
+        "season_title": "若能与你共乘海浪之上",
+        "seasons": [],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 668893420,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Ya4y1a7nT",
+                        "cid": 214624764,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/de9baeba24603853aa840ee31ad1fa4b44f2887e.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 91000,
+                        "from": "bangumi",
+                        "id": 332641,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep332641?theme=movie",
+                        "long_title": "",
+                        "pub_time": 1595240580,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep332641",
+                        "short_link": "https://b23.tv/ep332641",
+                        "stat": {
+                            "coin": 1096,
+                            "danmakus": 346,
+                            "likes": 2310,
+                            "play": 546925,
+                            "reply": 825
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 541515871,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mi4y137jq",
+                        "cid": 217669015,
+                        "cover": "http://i0.hdslb.com/bfs/archive/71a7dc605acccf85b0a14413f18faf35e712d747.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 102000,
+                        "from": "bangumi",
+                        "id": 333828,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep333828?theme=movie",
+                        "long_title": "乘浪之约",
+                        "pub_time": 1595995680,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》PV2 乘浪之约",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep333828",
+                        "short_link": "https://b23.tv/ep333828",
+                        "stat": {
+                            "coin": 224,
+                            "danmakus": 26,
+                            "likes": 1388,
+                            "play": 119524,
+                            "reply": 148
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "PV2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 969025813,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Mp4y1q7dE",
+                        "cid": 217255276,
+                        "cover": "http://i0.hdslb.com/bfs/archive/426a4930e62d7413f00633a69811dcfd34be1729.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 79000,
+                        "from": "bangumi",
+                        "id": 333738,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep333738?theme=movie",
+                        "long_title": "糖度超标对唱",
+                        "pub_time": 1595854560,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》片段 糖度超标对唱",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep333738",
+                        "short_link": "https://b23.tv/ep333738",
+                        "stat": {
+                            "coin": 401,
+                            "danmakus": 38,
+                            "likes": 1367,
+                            "play": 70954,
+                            "reply": 129
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "片段",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 839046715,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1254y1S7y5",
+                        "cid": 217291097,
+                        "cover": "http://i0.hdslb.com/bfs/archive/183496b9bacd6a76e65414742c6becda755c7773.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 102000,
+                        "from": "bangumi",
+                        "id": 333741,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep333741?theme=movie",
+                        "long_title": "水中重逢",
+                        "pub_time": 1595857260,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》片段2 水中重逢",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep333741",
+                        "short_link": "https://b23.tv/ep333741",
+                        "stat": {
+                            "coin": 78,
+                            "danmakus": 27,
+                            "likes": 925,
+                            "play": 40800,
+                            "reply": 83
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "片段2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 499050117,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1fK411J7pK",
+                        "cid": 217668255,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/62d50aa87034be46d01793953d0db78a4a3cbb30.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 282000,
+                        "from": "bangumi",
+                        "id": 333829,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep333829?theme=movie",
+                        "long_title": "片寄凉太高能“撒糖”",
+                        "pub_time": 1595995680,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》特辑 片寄凉太高能“撒糖”",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep333829",
+                        "short_link": "https://b23.tv/ep333829",
+                        "stat": {
+                            "coin": 185,
+                            "danmakus": 83,
+                            "likes": 1206,
+                            "play": 82804,
+                            "reply": 52
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "特辑",
+                        "vid": ""
+                    }
+                ],
+                "id": 49049,
+                "title": "预告花絮",
+                "type": 2
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 643027216,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1DY4y1n7k8",
+                        "cid": 761423351,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_b6e60507a15e42ebb0ce4596e219b9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 547886,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep547886?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656704850,
+                        "pv": 0,
+                        "release_date": "2022-07-02",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》若能与你共乘海浪之上 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep547886",
+                        "short_link": "https://b23.tv/ep547886",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 4,
+                            "play": 460,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "若能与你共乘海浪之上",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 215632514,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1ua411p73o",
+                        "cid": 765869038,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_31d7465ca1fa48bcbe3d1a47e63979b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 570667,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep570667?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1657127360,
+                        "pv": 0,
+                        "release_date": "2022-07-07",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《若能与你共乘海浪之上》若能与你共乘海浪之上 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep570667",
+                        "short_link": "https://b23.tv/ep570667",
+                        "stat": {
+                            "coin": 2,
+                            "danmakus": 0,
+                            "likes": 2,
+                            "play": 300,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看588.6万次",
+                        "title": "若能与你共乘海浪之上",
+                        "vid": ""
+                    }
+                ],
+                "id": 80977,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 0,
+            "series_title": ""
+        },
+        "share_copy": "《若能与你共乘海浪之上》让我做你的港湾",
+        "share_sub_title": "让我做你的港湾",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34064",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/68123e3993a63559fbfd38ca39483e9329e59daa.png",
+        "stat": {
+            "coins": 37661,
+            "danmakus": 46410,
+            "favorite": 16737,
+            "favorites": 608788,
+            "likes": 73807,
+            "reply": 7748,
+            "share": 29489,
+            "views": 5885529
+        },
+        "status": 13,
+        "subtitle": "已观看588.6万次",
+        "title": "若能与你共乘海浪之上",
+        "total": 1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815760,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

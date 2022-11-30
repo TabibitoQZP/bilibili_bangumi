@@ -1,0 +1,794 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 1,
+                "name": "中国大陆"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/80c412b59a818336685eafca6829f2b40cf3cf7c.jpg",
+        "episodes": [
+            {
+                "aid": 69139376,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1BJ411T76x",
+                "cid": 370958914,
+                "cover": "http://i0.hdslb.com/bfs/archive/00645bc41e532257eaa9eff7e4ef22628370c25a.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 533000,
+                "from": "bangumi",
+                "id": 285053,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285053",
+                "long_title": "初心涌动",
+                "pub_time": 1569925800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第1话 初心涌动",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285053",
+                "short_link": "https://b23.tv/ep285053",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 71201127,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1yE411d7FY",
+                "cid": 370958991,
+                "cover": "http://i0.hdslb.com/bfs/archive/2970a5c7d0b07829f981f6f4154f733c37fb6e49.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 444000,
+                "from": "bangumi",
+                "id": 285630,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep285630",
+                "long_title": "新的征程",
+                "pub_time": 1571135400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第2话 新的征程",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep285630",
+                "short_link": "https://b23.tv/ep285630",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 73805085,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iE411h7Pv",
+                "cid": 370959047,
+                "cover": "http://i0.hdslb.com/bfs/archive/69e6ee207beb507055a8991f2bbb65cb93739b8d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 464000,
+                "from": "bangumi",
+                "id": 287592,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep287592",
+                "long_title": "最平常的一天",
+                "pub_time": 1572345000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第3话 最平常的一天",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep287592",
+                "short_link": "https://b23.tv/ep287592",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 75349421,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ME411e7pE",
+                "cid": 370959100,
+                "cover": "http://i0.hdslb.com/bfs/archive/7e75dc9004a2a3a80ecc31708737fde1683db1fe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 410000,
+                "from": "bangumi",
+                "id": 289351,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep289351",
+                "long_title": "无双",
+                "pub_time": 1573554600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第4话 无双",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep289351",
+                "short_link": "https://b23.tv/ep289351",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 76962047,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KJ411R7yp",
+                "cid": 373364031,
+                "cover": "http://i0.hdslb.com/bfs/archive/14472d9246360bc5132cf5e7522d2c484d8b9eb4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 523000,
+                "from": "bangumi",
+                "id": 291707,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep291707",
+                "long_title": "重返辉煌",
+                "pub_time": 1574764200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第5话 重返辉煌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep291707",
+                "short_link": "https://b23.tv/ep291707",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 78610669,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1XJ411v7Lq",
+                "cid": 370959229,
+                "cover": "http://i0.hdslb.com/bfs/archive/5912ac2653a13332334239877e602b725a7d312f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 412000,
+                "from": "bangumi",
+                "id": 292787,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep292787",
+                "long_title": "爱，堤坝，子弟兵",
+                "pub_time": 1575973800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第6话 爱，堤坝，子弟兵",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep292787",
+                "short_link": "https://b23.tv/ep292787",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 80347823,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZJ411s7CY",
+                "cid": 370959289,
+                "cover": "http://i0.hdslb.com/bfs/archive/818b36c8853effb10bc0ed1956be96b2bed5cdae.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 423000,
+                "from": "bangumi",
+                "id": 299870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep299870",
+                "long_title": "不忘的伤痛（1）",
+                "pub_time": 1577183400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第7话 不忘的伤痛（1）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep299870",
+                "short_link": "https://b23.tv/ep299870",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 82314084,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1YJ411V74i",
+                "cid": 370959349,
+                "cover": "http://i0.hdslb.com/bfs/archive/368a9becf76f886e9c67149ba8d69c5f8a53e894.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 449000,
+                "from": "bangumi",
+                "id": 304430,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep304430",
+                "long_title": "不忘的伤痛（2）",
+                "pub_time": 1578393000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第8话 不忘的伤痛（2）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep304430",
+                "short_link": "https://b23.tv/ep304430",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 84259339,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1C7411v7bS",
+                "cid": 370959410,
+                "cover": "http://i0.hdslb.com/bfs/archive/2b122ee77d059b4a6677a6a98f6c57c810a0689e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 484000,
+                "from": "bangumi",
+                "id": 308563,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep308563",
+                "long_title": "不忘的伤痛（3）",
+                "pub_time": 1579602600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第9话 不忘的伤痛（3）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep308563",
+                "short_link": "https://b23.tv/ep308563",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 86645631,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1y7411p7Rp",
+                "cid": 370959492,
+                "cover": "http://i0.hdslb.com/bfs/archive/2c2bcee07c78f0114bf361c85f1dbd2e8722cf31.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 444000,
+                "from": "bangumi",
+                "id": 311310,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep311310",
+                "long_title": "忠爱（1）",
+                "pub_time": 1580812200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第10话 忠爱（1）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep311310",
+                "short_link": "https://b23.tv/ep311310",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 89662616,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1C7411j78f",
+                "cid": 370959550,
+                "cover": "http://i0.hdslb.com/bfs/archive/fcec507cc5f587540a97d8eaeaaa4ccf14921471.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 337000,
+                "from": "bangumi",
+                "id": 312273,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep312273",
+                "long_title": "忠爱（2）",
+                "pub_time": 1582021800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《那年那兔那些事儿 第五季》第11话 忠爱（2）",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep312273",
+                "short_link": "https://b23.tv/ep312273",
+                "status": 2,
+                "subtitle": "已观看8555万次",
+                "title": "11",
+                "vid": ""
+            }
+        ],
+        "evaluate": "讲述了勤劳的兔子们为了建立一个吃得饱穿得暖不被人看不起的种花家，辛勤奋斗的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28222617/",
+        "media_id": 28222617,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 312273,
+            "is_new": 0,
+            "title": "11"
+        },
+        "positive": {
+            "id": 38344,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-10-01 00:00:01",
+            "pub_time_show": "2019年10月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 21351,
+            "score": 9.6
+        },
+        "record": "备案号：0910417190904003",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 316,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28541,
+        "season_title": "那年那兔那些事儿 第五季",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ddb029703d0838000c3b7e2e39718a36dbbdcb77.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1689,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/abd5704911a6af64e04c0840a618ba0ade0e3b6a.jpg",
+                    "id": 64435,
+                    "index_show": "全12话"
+                },
+                "season_id": 1689,
+                "season_title": "第一季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 2770736,
+                    "series_follow": 4430596,
+                    "views": 180102533
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7ef28bab7b15bf86c21b1ecfae50816e35ac8090.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2967,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/677f9c903062052710980e5e8a056df2185c7716.jpg",
+                    "id": 86193,
+                    "index_show": "全12话"
+                },
+                "season_id": 2967,
+                "season_title": "第二季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1300489,
+                    "series_follow": 4430596,
+                    "views": 130406949
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/46da7d61ddacf92f051fcaa8725409350f2a00d7.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5451,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/865ee19ba31310224db0e131511530c6492abf0f.jpg",
+                    "id": 95913,
+                    "index_show": "全5话"
+                },
+                "season_id": 5451,
+                "season_title": "番外篇",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 694093,
+                    "series_follow": 4430596,
+                    "views": 34729554
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e3366e021abb45f74bf99c1e140eee45605ec52a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5559,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/160a680ab5f9abc63eb0d81e75980d96569109b1.jpg",
+                    "id": 102200,
+                    "index_show": "全12话"
+                },
+                "season_id": 5559,
+                "season_title": "第三季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1148495,
+                    "series_follow": 4430596,
+                    "views": 112297873
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c8458f588c49f42578f5d6bd48785b0573d85a9b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6018,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/8b6b76f481208acda49450b4f7d8bff86c4c2482.jpg",
+                    "id": 122863,
+                    "index_show": "全12话"
+                },
+                "season_id": 6018,
+                "season_title": "第四季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 1134901,
+                    "series_follow": 4430596,
+                    "views": 69955961
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/80c412b59a818336685eafca6829f2b40cf3cf7c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222617,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fcec507cc5f587540a97d8eaeaaa4ccf14921471.jpg",
+                    "id": 312273,
+                    "index_show": "全11话"
+                },
+                "season_id": 28541,
+                "season_title": "第五季",
+                "season_type": 4,
+                "stat": {
+                    "favorites": 2724937,
+                    "series_follow": 4430596,
+                    "views": 85549808
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 69037099,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1KJ411T7yE",
+                        "cid": 119640374,
+                        "cover": "http://i0.hdslb.com/bfs/archive/6e6e12532afe44fd28efc0a4d1f96e4b76dc6368.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 229181,
+                        "from": "bangumi",
+                        "id": 284866,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep284866",
+                        "long_title": "耀世微光",
+                        "pub_time": 1569580200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《那年那兔那些事儿 第五季》PV 耀世微光",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep284866",
+                        "short_link": "https://b23.tv/ep284866",
+                        "stat": {
+                            "coin": 37439,
+                            "danmakus": 16488,
+                            "likes": 24372,
+                            "play": 2655807,
+                            "reply": 11437
+                        },
+                        "status": 2,
+                        "subtitle": "已观看8555万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 38504,
+                "title": "其他",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1135,
+            "series_title": "那年那兔那些事儿"
+        },
+        "share_copy": "《那年那兔那些事儿 第五季》此生无悔入华夏",
+        "share_sub_title": "此生无悔入华夏",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28541",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 4,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/5a84e8ff39d21752427425772651fa10dff20715.jpg",
+        "stat": {
+            "coins": 587925,
+            "danmakus": 248360,
+            "favorite": 107743,
+            "favorites": 2724937,
+            "likes": 1375498,
+            "reply": 72273,
+            "share": 92470,
+            "views": 85549808
+        },
+        "status": 2,
+        "subtitle": "已观看8555万次",
+        "title": "那年那兔那些事儿 第五季",
+        "total": 11,
+        "type": 4,
+        "up_info": {
+            "avatar": "https://i0.hdslb.com/bfs/face/003e9bf81810d253689f8df751fbbc9181dc7d73.gif",
+            "avatar_subscript_url": "",
+            "follower": 1120818,
+            "is_follow": 0,
+            "mid": 8580411,
+            "nickname_color": "",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "翼下之风动漫",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "text": "",
+                "text_color": ""
+            },
+            "vip_status": 0,
+            "vip_type": 1
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

@@ -1,0 +1,859 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/a8a32554435536417b9151250d9b04d4afa31e7d.jpg",
+        "episodes": [
+            {
+                "aid": 288606964,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hf4y1y7Ko",
+                "cid": 281067266,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4961,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4961",
+                "long_title": "启程之岛",
+                "pub_time": 1610526600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第1话 启程之岛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4961",
+                "short_link": "https://b23.tv/ep4961",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 94
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看60.9万次",
+                "title": "1",
+                "vid": "vupload_7825126"
+            },
+            {
+                "aid": 586113807,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18z4y167GS",
+                "cid": 281067652,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4960,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4960",
+                "long_title": "凯格斯高中飞行科",
+                "pub_time": 1610526720,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第2话 凯格斯高中飞行科",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4960",
+                "short_link": "https://b23.tv/ep4960",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 129,
+                        "start": 39
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "2",
+                "vid": "vupload_7825127"
+            },
+            {
+                "aid": 971114663,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1np4y1x7f4",
+                "cid": 281067943,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4959,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4959",
+                "long_title": "风之革命",
+                "pub_time": 1610526840,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第3话 风之革命",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4959",
+                "short_link": "https://b23.tv/ep4959",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 135,
+                        "start": 45
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "3",
+                "vid": "vupload_7825128"
+            },
+            {
+                "aid": 713593910,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GX4y1K7AL",
+                "cid": 281068271,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4958,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4958",
+                "long_title": "星之海洋",
+                "pub_time": 1610526900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第4话 星之海洋",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4958",
+                "short_link": "https://b23.tv/ep4958",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 108,
+                        "start": 18
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "4",
+                "vid": "vupload_7825129"
+            },
+            {
+                "aid": 543558400,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ri4y1F7Ga",
+                "cid": 281068610,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4957,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4957",
+                "long_title": "呼唤风的少女",
+                "pub_time": 1610526960,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第5话 呼唤风的少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4957",
+                "short_link": "https://b23.tv/ep4957",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 200,
+                        "start": 110
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "5",
+                "vid": "vupload_7825130"
+            },
+            {
+                "aid": 971036823,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mp4y1s7NQ",
+                "cid": 281068929,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4956,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4956",
+                "long_title": "圣泉",
+                "pub_time": 1610526960,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第6话 圣泉",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4956",
+                "short_link": "https://b23.tv/ep4956",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 80
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "6",
+                "vid": "vupload_7825131"
+            },
+            {
+                "aid": 713545534,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tX4y1M72W",
+                "cid": 281069203,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4955,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4955",
+                "long_title": "阵亡",
+                "pub_time": 1610527020,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第7话 阵亡",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4955",
+                "short_link": "https://b23.tv/ep4955",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "7",
+                "vid": "vupload_7825132"
+            },
+            {
+                "aid": 331048284,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1hA411W7sW",
+                "cid": 281069543,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4954,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4954",
+                "long_title": "鸟的名字",
+                "pub_time": 1610527140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第8话 鸟的名字",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4954",
+                "short_link": "https://b23.tv/ep4954",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 175,
+                        "start": 85
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "8",
+                "vid": "vupload_7825133"
+            },
+            {
+                "aid": 801114246,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ly4y1H7H6",
+                "cid": 281069810,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4953,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4953",
+                "long_title": "你的名字是",
+                "pub_time": 1610527140,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第9话 你的名字是",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4953",
+                "short_link": "https://b23.tv/ep4953",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 87
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "9",
+                "vid": "vupload_7825134"
+            },
+            {
+                "aid": 416015335,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1bV411874j",
+                "cid": 281070050,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4952,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4952",
+                "long_title": "勇气的飞翔",
+                "pub_time": 1610527200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第10话 勇气的飞翔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4952",
+                "short_link": "https://b23.tv/ep4952",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 199,
+                        "start": 109
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "10",
+                "vid": "vupload_7825135"
+            },
+            {
+                "aid": 501012677,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1aK411M7E5",
+                "cid": 281070357,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4951,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4951",
+                "long_title": "恋歌",
+                "pub_time": 1610527200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第11话 恋歌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4951",
+                "short_link": "https://b23.tv/ep4951",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 38
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "11",
+                "vid": "vupload_7825136"
+            },
+            {
+                "aid": 798520463,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1xy4y127Tv",
+                "cid": 281070746,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4950,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4950",
+                "long_title": "天空的尽头",
+                "pub_time": 1610527260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第12话 天空的尽头",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4950",
+                "short_link": "https://b23.tv/ep4950",
+                "skip": {
+                    "ed": {
+                        "end": 1410,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 111
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "12",
+                "vid": "vupload_7825137"
+            },
+            {
+                "aid": 246062420,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV11v411x7dt",
+                "cid": 281071043,
+                "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1423000,
+                "from": "bangumi",
+                "id": 4949,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep4949",
+                "long_title": "前往你所在的天空",
+                "pub_time": 1610527260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《献给某飞行员的恋歌》第13话 前往你所在的天空",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep4949",
+                "short_link": "https://b23.tv/ep4949",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看60.9万次",
+                "title": "13",
+                "vid": "vupload_7825138"
+            }
+        ],
+        "evaluate": "因为6年前的革命而失去一切的原皇子卡鲁艾露，和自己喜欢的少女克雷亚一起前往空中的岛屿ISURA。然而他却不知道克雷亚的真实身份竟是被称为\"革命的旗印\"的少女——也是自己的杀父仇人尼娜。他们在途中遇到了来自天空一族的袭击，危急关头，神圣雷姆瓦王国向他们伸出了援助之手……",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md233/",
+        "media_id": 233,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 4949,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 17216,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-01-13 00:00:01",
+            "pub_time_show": "2021年1月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 639,
+            "score": 8.7
+        },
+        "record": "登记号：10417060202642307",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 233,
+        "season_title": "献给某飞行员的恋歌",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/79b55f7d19feeb1bb9df8d21f71eef5883808fcc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4462,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/98f8231d719f357b8d279dcb75a50274b2aee53c.jpg",
+                    "id": 88950,
+                    "index_show": "全1话"
+                },
+                "season_id": 4462,
+                "season_title": "追忆",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 71804,
+                    "series_follow": 190753,
+                    "views": 504413
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/a8a32554435536417b9151250d9b04d4afa31e7d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 233,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/58b42816ce5ec3bba68312ca843e408c19e2a289.png",
+                    "id": 4949,
+                    "index_show": "全13话"
+                },
+                "season_id": 233,
+                "season_title": "恋歌",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 148363,
+                    "series_follow": 190753,
+                    "views": 608521
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2573,
+            "series_title": "某飞行员系列"
+        },
+        "share_copy": "《献给某飞行员的恋歌》既是恋人又是敌人",
+        "share_sub_title": "既是恋人又是敌人",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss233",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/a28f0ac53e45862b45a6f1be365fa7ed2bb38770.jpg",
+        "stat": {
+            "coins": 1335,
+            "danmakus": 2395,
+            "favorite": 998,
+            "favorites": 148363,
+            "likes": 8691,
+            "reply": 814,
+            "share": 882,
+            "views": 608521
+        },
+        "status": 13,
+        "subtitle": "已观看60.9万次",
+        "title": "献给某飞行员的恋歌",
+        "total": 13,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859947,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

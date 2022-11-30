@@ -1,0 +1,902 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/c5d6c8ca57598f37ef5a48f428bb31d48d6e57e9.png",
+        "episodes": [
+            {
+                "aid": 331115283,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1uA411H7Rg",
+                "cid": 281051002,
+                "cover": "http://i0.hdslb.com/bfs/archive/bef0a9bda1b8d334e0509aac3853c238cf1e5584.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374489,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374489",
+                "long_title": "坠入战场之日",
+                "pub_time": 1609950600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第1话 坠入战场之日",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374489",
+                "short_link": "https://b23.tv/ep374489",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看336.5万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 928700707,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cT4y1K7fC",
+                "cid": 281884489,
+                "cover": "http://i0.hdslb.com/bfs/archive/a5f53fd0e868d7a665c475eb8e9c0909da370c12.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374490,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374490",
+                "long_title": "被选中的少女们",
+                "pub_time": 1610555401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第2话 被选中的少女们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374490",
+                "short_link": "https://b23.tv/ep374490",
+                "skip": {
+                    "ed": {
+                        "end": 1403,
+                        "start": 1312
+                    },
+                    "op": {
+                        "end": 403,
+                        "start": 312
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 713825775,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16X4y1P7mb",
+                "cid": 285037103,
+                "cover": "http://i0.hdslb.com/bfs/archive/811e730b9ca19e388ecfeccae0006e50cb73a2ae.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374491,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374491",
+                "long_title": "御殿场保卫战",
+                "pub_time": 1611160201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第3话 御殿场保卫战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374491",
+                "short_link": "https://b23.tv/ep374491",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 117,
+                        "start": 26
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 543751189,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1wv4y1f7Eg",
+                "cid": 288396260,
+                "cover": "http://i0.hdslb.com/bfs/archive/f77ca6548113f04a9394866065ef76c7725d89d7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374492,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374492",
+                "long_title": "传说中的超级构造者御宅罗斯",
+                "pub_time": 1611765001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第4话 传说中的超级构造者御宅罗斯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374492",
+                "short_link": "https://b23.tv/ep374492",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 351,
+                        "start": 260
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 246378574,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ev411s7uT",
+                "cid": 292145105,
+                "cover": "http://i0.hdslb.com/bfs/archive/a54d253b8be5eb8576fbd09118139f481bd8a273.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374493,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374493",
+                "long_title": "被占据的古都",
+                "pub_time": 1612369801,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第5话 被占据的古都",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374493",
+                "short_link": "https://b23.tv/ep374493",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 756717443,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nr4y1N77K",
+                "cid": 295872174,
+                "cover": "http://i0.hdslb.com/bfs/archive/8d76631ae2e3d9545b426040d4c23260c65b99a4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374494,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374494",
+                "long_title": "必杀 Attack Function",
+                "pub_time": 1612974601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第6话 必杀 Attack Function",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374494",
+                "short_link": "https://b23.tv/ep374494",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 336,
+                        "start": 246
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 844172969,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1G54y1Y7sE",
+                "cid": 299193979,
+                "cover": "http://i0.hdslb.com/bfs/archive/90100512a3d85502a1672f7769f20732c9527523.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374495,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374495",
+                "long_title": "凉凉乃的秘密",
+                "pub_time": 1613579401,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第7话 凉凉乃的秘密",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374495",
+                "short_link": "https://b23.tv/ep374495",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 306,
+                        "start": 215
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 756858303,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hr4y1A7PS",
+                "cid": 302195895,
+                "cover": "http://i0.hdslb.com/bfs/archive/35fdb1c3301a4c6accd625590dad5ebd0d0e3f13.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374496,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374496",
+                "long_title": "令人战栗的菊石",
+                "pub_time": 1614184201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第8话 令人战栗的菊石",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374496",
+                "short_link": "https://b23.tv/ep374496",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 418,
+                        "start": 328
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 331964985,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1CA411K7yb",
+                "cid": 304966398,
+                "cover": "http://i0.hdslb.com/bfs/archive/07aaff2a3ff9bf471e0b6d465d1b0d94fbf822f1.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374497,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374497",
+                "long_title": "关门海峡的激战",
+                "pub_time": 1614789001,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第9话 关门海峡的激战",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374497",
+                "short_link": "https://b23.tv/ep374497",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 66
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 757073737,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1A64y1D7Ts",
+                "cid": 308360452,
+                "cover": "http://i0.hdslb.com/bfs/archive/d8674281fc931d3adaf9eb64d27996b3c82cba93.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374498,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374498",
+                "long_title": "为了这个世界?",
+                "pub_time": 1615393800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第10话 为了这个世界?",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374498",
+                "short_link": "https://b23.tv/ep374498",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1328
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 799719902,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ny4y1h7se",
+                "cid": 311513743,
+                "cover": "http://i0.hdslb.com/bfs/archive/b50444ae470146048a64692f0c0b346315a4f7e9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374499,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374499",
+                "long_title": "游击小队主宰(Juggernaut)",
+                "pub_time": 1615998601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第11话 游击小队主宰(Juggernaut)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374499",
+                "short_link": "https://b23.tv/ep374499",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1329
+                    },
+                    "op": {
+                        "end": 209,
+                        "start": 115
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 587353648,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1WB4y1P7Wk",
+                "cid": 314653218,
+                "cover": "http://i0.hdslb.com/bfs/archive/8165177a2e535e7d5ac49b156c458f2958cd3382.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 374500,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep374500",
+                "long_title": "拯救世界的友情",
+                "pub_time": 1616603400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《装甲娘战机》第12话 拯救世界的友情",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep374500",
+                "short_link": "https://b23.tv/ep374500",
+                "skip": {
+                    "ed": {
+                        "end": 1343,
+                        "start": 1252
+                    },
+                    "op": {
+                        "end": 242,
+                        "start": 151
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看336.5万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "今天开始我就是狙击手……!?\n日常被夺走，肢体上装备名为“LBX Unit”的战术兵器的5名少女——\n“装甲娘”。这些被选中成为转移者的少女们的使命，是对横跨多元世界不断侵蚀、增殖的金属生命体·米梅西斯进行扫荡及歼灭。跨越时空被强加的佣兵生活，那就是得以窥见世界「希望」与「绝望」、赌上性命的修学旅行！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28231934/",
+        "media_id": 28231934,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 374500,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 53199,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-01-07 00:30:00",
+            "pub_time_show": "2021年01月07日00:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1121,
+            "score": 8.3
+        },
+        "record": "登记号：10417060202372712",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 36291,
+        "season_title": "装甲娘战机",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/c5d6c8ca57598f37ef5a48f428bb31d48d6e57e9.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231934,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/8165177a2e535e7d5ac49b156c458f2958cd3382.jpg",
+                    "id": 374500,
+                    "index_show": "全12话"
+                },
+                "season_id": 36291,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 309187,
+                    "series_follow": 309187,
+                    "views": 3364555
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 843196529,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1G54y1t7mp",
+                        "cid": 268045036,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/a394d4ea0de85eb3e7c497155a9e138a8aabf3a3.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 45000,
+                        "from": "bangumi",
+                        "id": 372521,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep372521",
+                        "long_title": "",
+                        "pub_time": 1608278400,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《装甲娘战机》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep372521",
+                        "short_link": "https://b23.tv/ep372521",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 255,
+                            "danmakus": 47,
+                            "likes": 1246,
+                            "play": 161012,
+                            "reply": 319
+                        },
+                        "status": 2,
+                        "subtitle": "已观看336.5万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 54698,
+                "title": "PV",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episodes": [
+                    {
+                        "aid": 0,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "",
+                            "bg_color_night": "",
+                            "text": ""
+                        },
+                        "cid": 0,
+                        "cover": "http://i1.hdslb.com/bfs/archive/0fdae18e62734d4914e2b1900ed2c6d1599e1f62.jpg",
+                        "id": 135843,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/video/BV18t4y1r7yp",
+                        "pub_time": 0,
+                        "pv": 0,
+                        "report": {
+                            "aid": "0",
+                            "ep_title": "Compass song - 鹿乃 MV",
+                            "position": "",
+                            "season_id": "36291",
+                            "season_type": "1",
+                            "section_id": "56144",
+                            "section_type": "5"
+                        },
+                        "stat": {
+                            "coin": 23589,
+                            "danmakus": 733,
+                            "likes": 0,
+                            "play": 297434,
+                            "reply": 1400
+                        },
+                        "status": 0,
+                        "title": "Compass song - 鹿乃 MV"
+                    }
+                ],
+                "id": 56144,
+                "report": {
+                    "season_id": "36291",
+                    "season_type": "1",
+                    "sec_title": "ED MV",
+                    "section_id": "56144",
+                    "section_type": "5"
+                },
+                "title": "ED MV",
+                "type": 5
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5233,
+            "series_title": "装甲娘战机"
+        },
+        "share_copy": "《装甲娘战机》游戏改机甲热血番",
+        "share_sub_title": "游戏改机甲热血番",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss36291",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/e081b1eff17c1f6c61ac41e9112a16790ba74720.png",
+        "stat": {
+            "coins": 9910,
+            "danmakus": 21119,
+            "favorite": 1776,
+            "favorites": 309187,
+            "likes": 71462,
+            "reply": 5812,
+            "share": 1358,
+            "views": 3364555
+        },
+        "status": 13,
+        "subtitle": "已观看336.5万次",
+        "title": "装甲娘战机",
+        "total": 12,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859945,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

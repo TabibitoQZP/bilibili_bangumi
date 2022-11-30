@@ -1,0 +1,216 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/60624ab08d1b8ac3eca7a97af3fd6530d2833b0a.jpg",
+        "episodes": [
+            {
+                "aid": 1501058,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Lx411K7Cf",
+                "cid": 2272928,
+                "cover": "http://i0.hdslb.com/bfs/archive/0c4f8f9daf0304f6ab8e78318b27c713511a2f79.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1646000,
+                "from": "bangumi",
+                "id": 335245,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep335245",
+                "long_title": "再一次说再见",
+                "pub_time": 1409894100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《斩服少女 OAD》第01话 再一次说再见",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep335245",
+                "short_link": "https://b23.tv/ep335245",
+                "skip": {
+                    "ed": {
+                        "end": 1646,
+                        "start": 1620
+                    },
+                    "op": {
+                        "end": 269,
+                        "start": 179
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看272万次",
+                "title": "01",
+                "vid": ""
+            }
+        ],
+        "evaluate": "『斩服少女』BD/DVD第9卷收录的一集未放送的特别篇 ",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28229688/",
+        "media_id": 28229688,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 335245,
+            "is_new": 0,
+            "title": "01"
+        },
+        "positive": {
+            "id": 49464,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2014-09-05 00:00:01",
+            "pub_time_show": "2014年9月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 2840,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "ugc",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 34241,
+        "season_title": "斩服少女 OAD",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b5a2aa72eefbd6a9d14c637debc4369322ba2ad0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 419,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/image/8d2a213ecaf2db4797763bd824201a79cf2fe4d9.jpg",
+                    "id": 7888,
+                    "index_show": "全24话"
+                },
+                "season_id": 419,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1754876,
+                    "series_follow": 1762292,
+                    "views": 23182020
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/60624ab08d1b8ac3eca7a97af3fd6530d2833b0a.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229688,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0c4f8f9daf0304f6ab8e78318b27c713511a2f79.jpg",
+                    "id": 335245,
+                    "index_show": "全1话"
+                },
+                "season_id": 34241,
+                "season_title": "OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 94288,
+                    "series_follow": 1762292,
+                    "views": 2719974
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 248,
+            "series_title": "斩服少女"
+        },
+        "share_copy": "《斩服少女 OAD》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss34241",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/0a68b975d45847e87d08f2d0c36ed6034f1e8e2e.jpg",
+        "stat": {
+            "coins": 36384,
+            "danmakus": 47468,
+            "favorite": 2156,
+            "favorites": 94288,
+            "likes": 25923,
+            "reply": 10355,
+            "share": 616,
+            "views": 2719974
+        },
+        "status": 2,
+        "subtitle": "已观看272万次",
+        "title": "斩服少女 OAD",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

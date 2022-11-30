@@ -1,0 +1,186 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 3,
+                "name": "美国"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/37379617ef2bc7d2fbe358dbe0af8be45aed6201.jpg",
+        "episodes": [
+            {
+                "aid": 3154136,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411d7t8",
+                "cid": 4964697,
+                "cover": "http://i0.hdslb.com/bfs/archive/2e531f1bb8064a99e663621e97938eb55685bfd2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 5940000,
+                "from": "bangumi",
+                "id": 102055,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep102055?theme=movie",
+                "long_title": "",
+                "pub_time": 1487746210,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《星际赛车》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep102055",
+                "short_link": "https://b23.tv/ep102055",
+                "skip": {
+                    "ed": {
+                        "end": 5992,
+                        "start": 5778
+                    },
+                    "op": {
+                        "end": 39,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看13.5万次",
+                "title": "1",
+                "vid": "vupload_4964697"
+            }
+        ],
+        "evaluate": "一队极限赛车手参加了一场星际赛车锦标赛，却遭遇了一场企图破坏行星维和联盟的阴谋，宇宙的命运就落到了这群车手的身上",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3720/",
+        "media_id": 3720,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 102055,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 20450,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2007-01-01 00:00:01",
+            "pub_time_show": "2007年1月1日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3720,
+        "season_title": "星际赛车",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/37379617ef2bc7d2fbe358dbe0af8be45aed6201.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3720,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2e531f1bb8064a99e663621e97938eb55685bfd2.jpg",
+                    "id": 102055,
+                    "index_show": "全1话"
+                },
+                "season_id": 3720,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1401,
+                    "series_follow": 1401,
+                    "views": 134892
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2247,
+            "series_title": "星际赛车"
+        },
+        "share_copy": "《星际赛车》天才少年们的星际飞车赛",
+        "share_sub_title": "天才少年们的星际飞车赛",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3720",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/9db2dbe6a494d337bcd4eeafd2a321350213a0d9.jpg",
+        "stat": {
+            "coins": 104,
+            "danmakus": 284,
+            "favorite": 73,
+            "favorites": 1401,
+            "likes": 366,
+            "reply": 367,
+            "share": 62,
+            "views": 134892
+        },
+        "status": 2,
+        "subtitle": "已观看13.5万次",
+        "title": "星际赛车",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

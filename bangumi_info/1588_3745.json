@@ -1,0 +1,868 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/bdb3130faf9c4da77ceef5c2a2eb00d2718ec8c8.png",
+        "episodes": [
+            {
+                "aid": 29906954,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13W411Q7VJ",
+                "cid": 52093970,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 86116,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86116",
+                "long_title": "宛如深雪",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第1话 宛如深雪",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86116",
+                "short_link": "https://b23.tv/ep86116",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 163,
+                        "start": 72
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "1",
+                "vid": "60b4ca0f87"
+            },
+            {
+                "aid": 336807731,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1fR4y1t7pF",
+                "cid": 52093975,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420094,
+                "from": "bangumi",
+                "id": 86117,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86117",
+                "long_title": "雪之密室",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第2话 雪之密室",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86117",
+                "short_link": "https://b23.tv/ep86117",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "2",
+                "vid": "2b5b64fe05"
+            },
+            {
+                "aid": 719341524,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1pQ4y1v7F6",
+                "cid": 52093992,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420096,
+                "from": "bangumi",
+                "id": 86118,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86118",
+                "long_title": "正义的魔法使",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第3话 正义的魔法使",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86118",
+                "short_link": "https://b23.tv/ep86118",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "3",
+                "vid": "b33bbbcabf"
+            },
+            {
+                "aid": 934305233,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1iM4y1A7UY",
+                "cid": 52094004,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420094,
+                "from": "bangumi",
+                "id": 86119,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86119",
+                "long_title": "幸福的形状",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第4话 幸福的形状",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86119",
+                "short_link": "https://b23.tv/ep86119",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "4",
+                "vid": "4151b4b557"
+            },
+            {
+                "aid": 676764240,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1TU4y1u7x2",
+                "cid": 52094009,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420095,
+                "from": "bangumi",
+                "id": 86120,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86120",
+                "long_title": "失望的雪原",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第5话 失望的雪原",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86120",
+                "short_link": "https://b23.tv/ep86120",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "5",
+                "vid": "261faa82bc"
+            },
+            {
+                "aid": 421787133,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1o341187a1",
+                "cid": 52094021,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420093,
+                "from": "bangumi",
+                "id": 86121,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86121",
+                "long_title": "樱迷宫",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第6话 樱迷宫",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86121",
+                "short_link": "https://b23.tv/ep86121",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "6",
+                "vid": "6a22e8aee3"
+            },
+            {
+                "aid": 464273770,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zL411T7tX",
+                "cid": 52094030,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420093,
+                "from": "bangumi",
+                "id": 86122,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86122",
+                "long_title": "无法改变的梦",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第7话 无法改变的梦",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86122",
+                "short_link": "https://b23.tv/ep86122",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "7",
+                "vid": "9406ea5148"
+            },
+            {
+                "aid": 294326101,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1oF411h7ab",
+                "cid": 52094042,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420093,
+                "from": "bangumi",
+                "id": 86123,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86123",
+                "long_title": "樱桃与哥哥",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第8话 樱桃与哥哥",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86123",
+                "short_link": "https://b23.tv/ep86123",
+                "skip": {
+                    "ed": {
+                        "end": 1419,
+                        "start": 1313
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "8",
+                "vid": "8d33ad522f"
+            },
+            {
+                "aid": 891764493,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1AP4y1L7dd",
+                "cid": 52094052,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420096,
+                "from": "bangumi",
+                "id": 86124,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86124",
+                "long_title": "幻灭的春",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第9话 幻灭的春",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86124",
+                "short_link": "https://b23.tv/ep86124",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "9",
+                "vid": "ae449f08f3"
+            },
+            {
+                "aid": 719333989,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1bQ4y1v7fn",
+                "cid": 52094061,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420092,
+                "from": "bangumi",
+                "id": 86125,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86125",
+                "long_title": "梦的终结",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第10话 梦的终结",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86125",
+                "short_link": "https://b23.tv/ep86125",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "10",
+                "vid": "145dcff370"
+            },
+            {
+                "aid": 806836785,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1F34y1o7WG",
+                "cid": 52094071,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1420094,
+                "from": "bangumi",
+                "id": 86126,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86126",
+                "long_title": "枯草色的岛",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第11话 枯草色的岛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86126",
+                "short_link": "https://b23.tv/ep86126",
+                "skip": {
+                    "ed": {
+                        "end": 1420,
+                        "start": 1314
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "11",
+                "vid": "0f2be6180e"
+            },
+            {
+                "aid": 976841030,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1M44y1Y7wu",
+                "cid": 52094078,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1515239,
+                "from": "bangumi",
+                "id": 86127,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86127",
+                "long_title": "记忆之渊",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第12话 记忆之渊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86127",
+                "short_link": "https://b23.tv/ep86127",
+                "skip": {
+                    "ed": {
+                        "end": 1515,
+                        "start": 1409
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "12",
+                "vid": "af942b7f4f"
+            },
+            {
+                "aid": 251787823,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1DY411x71S",
+                "cid": 52094090,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 1505086,
+                "from": "bangumi",
+                "id": 86128,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep86128",
+                "long_title": "轮回的季节",
+                "pub_time": 1460690160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《初音岛II S.S.》第13话 轮回的季节",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep86128",
+                "short_link": "https://b23.tv/ep86128",
+                "skip": {
+                    "ed": {
+                        "end": 1505,
+                        "start": 1399
+                    },
+                    "op": {
+                        "end": 127,
+                        "start": 37
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.8万次",
+                "title": "13",
+                "vid": "23d02fb01c"
+            }
+        ],
+        "evaluate": "在樱花全年都盛开的初音岛上。岛上风见学院里上学的樱内义之，寄住在学园长芳乃樱的家里，在学园里和同学们过着充实的每一天。在这平常的日子里，不知道从什么时候开始他那甜蜜而酸涩的恋爱故事开始了",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3745/",
+        "media_id": 3745,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 86128,
+            "is_new": 0,
+            "title": "13"
+        },
+        "positive": {
+            "id": 20684,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2008-04-05 00:00:01",
+            "pub_time_show": "2008年4月5日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 459,
+            "score": 9.5
+        },
+        "record": "登记号：10417060208033002",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3745,
+        "season_title": "初音岛II S.S.",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9ce4702645ddfe87b3776260581c1446794f03ee.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 656,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/bc8b6635171e16c2d538da0069695624dfeefbd8.jpg",
+                    "id": 12018,
+                    "index_show": "全26话"
+                },
+                "season_id": 656,
+                "season_title": "D.C.第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 409168,
+                    "series_follow": 531393,
+                    "views": 3785844
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9ce4702645ddfe87b3776260581c1446794f03ee.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 657,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/2e6d863a283ddc376b5f4ae6cecc2d0b12af18e2.jpg",
+                    "id": 12044,
+                    "index_show": "全26话"
+                },
+                "season_id": 657,
+                "season_title": "D.C.第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 140758,
+                    "series_follow": 531393,
+                    "views": 1462402
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/74376c3b4fb604a2f6a587c6f46ee86404183ce5.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 658,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                    "id": 66345,
+                    "index_show": "全13话"
+                },
+                "season_id": 658,
+                "season_title": "D.C.II.第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 117891,
+                    "series_follow": 531393,
+                    "views": 922841
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bdb3130faf9c4da77ceef5c2a2eb00d2718ec8c8.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3745,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/86bbc6c39ddcaf09ab4cc7cb322c9143d1fbbdde.jpg",
+                    "id": 86128,
+                    "index_show": "全13话"
+                },
+                "season_id": 3745,
+                "season_title": "D.C.II.第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 121266,
+                    "series_follow": 531393,
+                    "views": 1077998
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 396,
+            "series_title": "初音岛"
+        },
+        "share_copy": "《初音岛II S.S.》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3745",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/75afe6c0f6266f4fc8060236c3c5febce626920e.png",
+        "stat": {
+            "coins": 2641,
+            "danmakus": 19073,
+            "favorite": 639,
+            "favorites": 121266,
+            "likes": 4470,
+            "reply": 836,
+            "share": 560,
+            "views": 1077998
+        },
+        "status": 2,
+        "subtitle": "已观看107.8万次",
+        "title": "初音岛II S.S.",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

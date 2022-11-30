@@ -1,0 +1,468 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/90dcd1725bdf09f4f77899419d3331c474b32b65.png",
+        "episodes": [
+            {
+                "aid": 290607845,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mf4y1Y7E4",
+                "cid": 338968939,
+                "cover": "http://i0.hdslb.com/bfs/archive/223d61aacc8015b3c6807ae99a8cc777a4f8fcc6.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 3664000,
+                "from": "bangumi",
+                "id": 403601,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep403601?theme=movie",
+                "long_title": "头文字D Legend2 -斗走-",
+                "pub_time": 1621159200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《头文字D Legend2 -斗走-》第1话 头文字D Legend2 -斗走-",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep403601",
+                "short_link": "https://b23.tv/ep403601",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看24.6万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "《头文字D新剧场版》是日本漫画家重野秀一创作的漫画《头文字D》于2014年开始推出的一系列新作剧场版动画[1]  。新剧场版采用和之前的电视动画系列不同的制作及声优阵容，共三部。第一部《Legend1 -觉醒-》在电视动画最终季《头文字D Final Stage》放送结束后，于2014年8月23日公映；第二部《Legend2 -斗走-》、第三部《Legend3 -梦现-》则分别于2015年5月23日和2016年2月6日上映。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3839/",
+        "media_id": 3839,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 403601,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 20762,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-05-23 00:00:01",
+            "pub_time_show": "2015年5月23日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 232,
+            "score": 9.3
+        },
+        "record": "登记号：10417060232782403",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3839,
+        "season_title": "头文字D Legend2 -斗走-",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/d26a3847be6c5e6f823266a75ff57d31041ca509.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 207,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/445bc9d56b01ecb4f8f43f4f21e82737bfdee347.jpg",
+                    "id": 403451,
+                    "index_show": "全26话"
+                },
+                "season_id": 207,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 636883,
+                    "series_follow": 786264,
+                    "views": 14639043
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/772fc6e853ac89d17c272b6d5262332ceaea8a9b.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 208,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/75b2699df81db032f251466dcc79bc91ac1f3228.jpg",
+                    "id": 403595,
+                    "index_show": "全13话"
+                },
+                "season_id": 208,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 174433,
+                    "series_follow": 786264,
+                    "views": 4577359
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f360e52441e492f836a6934d209e4bd7e605a43e.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234400,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ea839de6153a4c1b8314d1ad41a57c25e4816fea.jpg",
+                    "id": 403501,
+                    "index_show": "全1话"
+                },
+                "season_id": 38710,
+                "season_title": "Extra1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 34539,
+                    "series_follow": 786264,
+                    "views": 449797
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2404b4991d3bdc8881ea1f3daf3ad7a3de68e588.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 209,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2f15fc51ef882f3248b3def995d98e8eedd5ce31.jpg",
+                    "id": 403582,
+                    "index_show": "全1话"
+                },
+                "season_id": 209,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 114375,
+                    "series_follow": 786264,
+                    "views": 818907
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/3724d1127a36732383956e0b45080ec65e7a79e0.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234399,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ed6b04137e9461e75de29a5fcbf869ebd766f62d.jpg",
+                    "id": 403527,
+                    "index_show": "全24话"
+                },
+                "season_id": 210,
+                "season_title": "第四季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 71958,
+                    "series_follow": 786264,
+                    "views": 6156677
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/07b4324bde5c07fa3995c59c9051710461d55c70.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234401,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1b8df4ccd4e0faebe51ee8b8a1b97f716644b116.jpg",
+                    "id": 403502,
+                    "index_show": "全1话"
+                },
+                "season_id": 38711,
+                "season_title": "Extra2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 30760,
+                    "series_follow": 786264,
+                    "views": 259785
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5ac4b3b90323cf33ff02f4113c7a1ed6856888bb.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 211,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/2cd5820ab0ee683eaa1fe9495e6a253a06d13850.jpg",
+                    "id": 403488,
+                    "index_show": "全14话"
+                },
+                "season_id": 211,
+                "season_title": "第五季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 141200,
+                    "series_follow": 786264,
+                    "views": 2819604
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/7c84f2494cb97c77b3296326e1b67480b47fb87e.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 212,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/fff20692e03b43bb7274a1b10c56bed9360db337.jpg",
+                    "id": 403599,
+                    "index_show": "全4话"
+                },
+                "season_id": 212,
+                "season_title": "最终季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 110617,
+                    "series_follow": 786264,
+                    "views": 1306800
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/5febf4dba1f1389d78a1a43ce88858062196da3c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3838,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9492a7e09cf4dfb2575820a32508a8daa942cb68.jpg",
+                    "id": 403600,
+                    "index_show": "全1话"
+                },
+                "season_id": 3838,
+                "season_title": "剧场版1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 103317,
+                    "series_follow": 786264,
+                    "views": 436820
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/90dcd1725bdf09f4f77899419d3331c474b32b65.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3839,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/223d61aacc8015b3c6807ae99a8cc777a4f8fcc6.jpg",
+                    "id": 403601,
+                    "index_show": "全1话"
+                },
+                "season_id": 3839,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 67975,
+                    "series_follow": 786264,
+                    "views": 245596
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/aacce7bd1bde1161451d2507476d7ef88ae62662.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5126,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9dd0769741d9fdf429b3749819c4406ec3af4066.jpg",
+                    "id": 403602,
+                    "index_show": "全1话"
+                },
+                "season_id": 5126,
+                "season_title": "剧场版3",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 75451,
+                    "series_follow": 786264,
+                    "views": 335909
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 129,
+            "series_title": "头文字D"
+        },
+        "share_copy": "《头文字D Legend2 -斗走-》天才车手成长中…",
+        "share_sub_title": "天才车手成长中…",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3839",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a018299e3ad7357cf96a3b0ef3c5f7c7d5260fe6.png",
+        "stat": {
+            "coins": 649,
+            "danmakus": 2164,
+            "favorite": 272,
+            "favorites": 67975,
+            "likes": 5114,
+            "reply": 173,
+            "share": 1127,
+            "views": 245596
+        },
+        "status": 13,
+        "subtitle": "已观看24.6万次",
+        "title": "头文字D Legend2 -斗走-",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

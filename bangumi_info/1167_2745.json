@@ -1,0 +1,758 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/a3ee6cbde822e5ceb7fc4562135ecc66dcebfea9.jpg",
+        "episodes": [
+            {
+                "aid": 3004549,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41127ab",
+                "cid": 10521534,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7444708ace187eaa155856d9a9fd4071e050c761.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1429000,
+                "from": "bangumi",
+                "id": 70872,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70872",
+                "long_title": "大地与少年",
+                "pub_time": 1443969000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第1话 大地与少年",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70872",
+                "short_link": "https://b23.tv/ep70872",
+                "skip": {
+                    "ed": {
+                        "end": 1429,
+                        "start": 1330
+                    },
+                    "op": {
+                        "end": 304,
+                        "start": 215
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看589.9万次",
+                "title": "1",
+                "vid": "vupload_10521534"
+            },
+            {
+                "aid": 3045888,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV17s4112796",
+                "cid": 10521538,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/28a20b0f310cfc34df1a6af454df7c1031dc2947.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 72078,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72078",
+                "long_title": "在同一个屋檐下",
+                "pub_time": 1444573800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第2话 在同一个屋檐下",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72078",
+                "short_link": "https://b23.tv/ep72078",
+                "skip": {
+                    "ed": {
+                        "end": 1344,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "2",
+                "vid": "vupload_10521538"
+            },
+            {
+                "aid": 3081435,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zs41127rj",
+                "cid": 10521542,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6e8c9b75208f6c601948aa626d6e0fabb4457b53.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1432000,
+                "from": "bangumi",
+                "id": 73644,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep73644",
+                "long_title": "靛蓝花园",
+                "pub_time": 1445178600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第3话 靛蓝花园",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep73644",
+                "short_link": "https://b23.tv/ep73644",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 177,
+                        "start": 88
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "3",
+                "vid": "vupload_10521542"
+            },
+            {
+                "aid": 3117324,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs41127NB",
+                "cid": 10521546,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/86c392fb672848e03f7128772e38a948edf49041.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1429000,
+                "from": "bangumi",
+                "id": 75357,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75357",
+                "long_title": "风暴",
+                "pub_time": 1445783400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第4话 风暴",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75357",
+                "short_link": "https://b23.tv/ep75357",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 182,
+                        "start": 93
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "4",
+                "vid": "vupload_10521546"
+            },
+            {
+                "aid": 3154948,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411d7VB",
+                "cid": 10521555,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/06c3ba3a7a31a9ee6750fb942ae739555eb5c516.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 76121,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76121",
+                "long_title": "交叠的灵魂",
+                "pub_time": 1446388200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第5话 交叠的灵魂",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76121",
+                "short_link": "https://b23.tv/ep76121",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 181,
+                        "start": 92
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "5",
+                "vid": "vupload_10521555"
+            },
+            {
+                "aid": 3190711,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411d7YY",
+                "cid": 10521558,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/be4e790021200ad5e8b9fdd4073c8e8a5bbf79df.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430624,
+                "from": "bangumi",
+                "id": 77337,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77337",
+                "long_title": "花童",
+                "pub_time": 1446993000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第6话 花童",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77337",
+                "short_link": "https://b23.tv/ep77337",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 81
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "6",
+                "vid": "vupload_10521558"
+            },
+            {
+                "aid": 3226426,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411d7DU",
+                "cid": 10521564,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1345dd811b3145cb8e342c6cd9f8b468a238468b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 77671,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77671",
+                "long_title": "温馨之处",
+                "pub_time": 1447597800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第7话 温馨之处",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77671",
+                "short_link": "https://b23.tv/ep77671",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 163,
+                        "start": 74
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "7",
+                "vid": "vupload_10521564"
+            },
+            {
+                "aid": 3264748,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV18s411d7q3",
+                "cid": 10521565,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8ab360b1bbcfa11b1da35dafcaa63f6c522bf876.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 79199,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79199",
+                "long_title": "道路",
+                "pub_time": 1448202600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第8话 道路",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79199",
+                "short_link": "https://b23.tv/ep79199",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 151,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "8",
+                "vid": "vupload_10521565"
+            },
+            {
+                "aid": 3302798,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rs411d7HA",
+                "cid": 10521568,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e90a1866fa8381fa86f7f1637bfca595f0e7234d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 79955,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79955",
+                "long_title": "想传达的心意",
+                "pub_time": 1448807400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第9话 想传达的心意",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79955",
+                "short_link": "https://b23.tv/ep79955",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "9",
+                "vid": "vupload_10521568"
+            },
+            {
+                "aid": 3342522,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps411o786",
+                "cid": 10521575,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6d1d4fc430cda0a062b4f759948336e88574b189.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 80718,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80718",
+                "long_title": "深渊的祭坛",
+                "pub_time": 1449412200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第10话 深渊的祭坛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80718",
+                "short_link": "https://b23.tv/ep80718",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 140,
+                        "start": 51
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "10",
+                "vid": "vupload_10521575"
+            },
+            {
+                "aid": 3381886,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411o7co",
+                "cid": 10521583,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dba18e21da08eb1b7c30acd0ac319820634fe0d2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 81416,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81416",
+                "long_title": "堕落的天使",
+                "pub_time": 1450017000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第11话 堕落的天使",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81416",
+                "short_link": "https://b23.tv/ep81416",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 210,
+                        "start": 121
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "11",
+                "vid": "vupload_10521583"
+            },
+            {
+                "aid": 3420299,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12s411972C",
+                "cid": 10521587,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e4ee48afdae39f3c5d763093d7421ef71552c3e2.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 81840,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81840",
+                "long_title": "星球与少年",
+                "pub_time": 1450621860,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《彗星路西法》第12话 星球与少年",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81840",
+                "short_link": "https://b23.tv/ep81840",
+                "skip": {
+                    "ed": {
+                        "end": 1386,
+                        "start": 1336
+                    },
+                    "op": {
+                        "end": 5,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看589.9万次",
+                "title": "12",
+                "vid": "vupload_10521587"
+            }
+        ],
+        "evaluate": "闪耀着蓝色光辉的矿石“吉夫特矿石”所覆盖的大地，行星吉夫特。宗吾·天城是住在因吉夫特矿石采掘而繁荣的小镇，靛蓝花园的纯朴少年。以收集稀少矿石为乐趣的宗吾，某天被卷入同级生卡恩、罗曼、欧特等人引发的骚动，迷失在矿山深处的地底湖。在那里，宗吾遇到了一位不可思议的少女……随风飘逸的蓝色长发，直直凝视的红色瞳孔。她究竟是什么人，这次邂逅给宗吾带来了什么？随后，缔结的羁绊将打开通往冒险的大门——",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2745/",
+        "media_id": 2745,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 81840,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19424,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-04 22:30:00",
+            "pub_time_show": "2015年10月04日22:30",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 432,
+            "score": 6.5
+        },
+        "record": "登记号：10417060205422503",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2745,
+        "season_title": "彗星路西法",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a3ee6cbde822e5ceb7fc4562135ecc66dcebfea9.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2745,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e4ee48afdae39f3c5d763093d7421ef71552c3e2.jpg",
+                    "id": 81840,
+                    "index_show": "全12话"
+                },
+                "season_id": 2745,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 268171,
+                    "series_follow": 268171,
+                    "views": 5898673
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1865,
+            "series_title": "彗星路西法"
+        },
+        "share_copy": "《彗星路西法》歌好听，机甲靓",
+        "share_sub_title": "歌好听，机甲靓",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2745",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/409baf7823c492b897fac9042494e734483a67b9.jpg",
+        "stat": {
+            "coins": 5462,
+            "danmakus": 235338,
+            "favorite": 872,
+            "favorites": 268171,
+            "likes": 4249,
+            "reply": 15622,
+            "share": 1810,
+            "views": 5898673
+        },
+        "status": 13,
+        "subtitle": "已观看589.9万次",
+        "title": "彗星路西法",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

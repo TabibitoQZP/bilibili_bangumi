@@ -1,0 +1,716 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/807faaf6cd0402636f252bb43913b3038023d1c0.jpg",
+        "episodes": [
+            {
+                "aid": 24417229,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1xW411A731",
+                "cid": 94482491,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bb4bfcf05c4dbe08278e719107a1653c963f0f5e.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1430000,
+                "from": "bangumi",
+                "id": 207116,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207116",
+                "long_title": "新的刺客",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第1话 新的刺客",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207116",
+                "short_link": "https://b23.tv/ep207116",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 383,
+                        "start": 285
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 676848993,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1WU4y1u789",
+                "cid": 40993868,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/2f78f734b4e3810e0f2b5336a68218ab7a38ac65.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440020,
+                "from": "bangumi",
+                "id": 207117,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207117",
+                "long_title": "从中国来的少女",
+                "pub_time": 1528267113,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第2话 从中国来的少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207117",
+                "short_link": "https://b23.tv/ep207117",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 52
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 379365220,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gf4y1K7pX",
+                "cid": 40993887,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/709008280f7e844a9bb1d4fbfa4feb0c7721930c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207118,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207118",
+                "long_title": "华丽的暗杀者",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第3话 华丽的暗杀者",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207118",
+                "short_link": "https://b23.tv/ep207118",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 26
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 634325765,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hb4y1b7bE",
+                "cid": 40993931,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7047f53a6fa37e39dfcd64f49b62ef8f0b842b22.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207119,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207119",
+                "long_title": "美丽的翅膀",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第4话 美丽的翅膀",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207119",
+                "short_link": "https://b23.tv/ep207119",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 99,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 719373133,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1YQ4y1v7Nq",
+                "cid": 40993954,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d15f7398ea69af935b94b90539e3233d17c82b52.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207120,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207120",
+                "long_title": "死神VS恶魔",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第5话 死神VS恶魔",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207120",
+                "short_link": "https://b23.tv/ep207120",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 99,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 891866604,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1CP4y1G7vt",
+                "cid": 94482579,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a11fbf2f9c6437216246830713e1f3aab7e1f33f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1440126,
+                "from": "bangumi",
+                "id": 207121,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207121",
+                "long_title": "俄罗斯来的战士",
+                "pub_time": 1528267113,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第6话 俄罗斯来的战士",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207121",
+                "short_link": "https://b23.tv/ep207121",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 86
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 634326879,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Hb4y1b7uK",
+                "cid": 94482628,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f5867d853b2e2e1e11e79b545fa3d4f48574bc78.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 207122,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207122",
+                "long_title": "蕴藏在拳头里的信念",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第7话 蕴藏在拳头里的信念",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207122",
+                "short_link": "https://b23.tv/ep207122",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 107,
+                        "start": 8
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 719356996,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qQ4y1v7xH",
+                "cid": 40994049,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0f201a62eb9b42351feafb2d887fcf63d9709a49.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207123,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207123",
+                "long_title": "天桥下的破坏神",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第8话 天桥下的破坏神",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207123",
+                "short_link": "https://b23.tv/ep207123",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 164,
+                        "start": 65
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 464284874,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV16L411T7Qf",
+                "cid": 40994118,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/afc1d3fcfa77b8c82a4cee8f3ed51fa56609d9be.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207124,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207124",
+                "long_title": "匿名希望的十八岁 ❤",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第9话 匿名希望的十八岁 ❤",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207124",
+                "short_link": "https://b23.tv/ep207124",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 263,
+                        "start": 164
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 336798580,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1KR4y1b7ZW",
+                "cid": 40994143,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/ca6ca098b191b844012ddc48aee26148e941d206.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 207125,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207125",
+                "long_title": "提达特之王(前篇)",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第10话 提达特之王(前篇)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207125",
+                "short_link": "https://b23.tv/ep207125",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 172,
+                        "start": 73
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 294352601,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1dF411h7Un",
+                "cid": 40994170,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/594ddf7c9281a662179197ef9800fe00ef609c48.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1429000,
+                "from": "bangumi",
+                "id": 207126,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep207126",
+                "long_title": "提达特之王(后篇)",
+                "pub_time": 1528267080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《史上最强弟子兼一 OVA》第11话 提达特之王(后篇)",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep207126",
+                "short_link": "https://b23.tv/ep207126",
+                "skip": {
+                    "ed": {
+                        "end": 1355,
+                        "start": 1266
+                    },
+                    "op": {
+                        "end": 121,
+                        "start": 22
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看216.5万次",
+                "title": "11",
+                "vid": ""
+            }
+        ],
+        "evaluate": "一位终日被人欺负爱书如命的少年白滨兼一。\n一天，他偶然和插班生凤林寺美羽结成好友。他一方面震慑于对方的高强武艺，另一方面却被其魅力深深吸引。终而进入其所在的道场——梁山泊学习武艺。\n实际上梁山泊是武术被体育化之后无法被世人所接纳的超级一流高手的聚集地……\n兼一地狱般的生活就此开始………",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md3803/",
+        "media_id": 3803,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全11话",
+            "id": 207126,
+            "is_new": 0,
+            "title": "11"
+        },
+        "positive": {
+            "id": 20745,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2012-03-16 00:00:01",
+            "pub_time_show": "2012年3月16日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 672,
+            "score": 9.2
+        },
+        "record": "登记号：10417060201102206",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 3803,
+        "season_title": "史上最强弟子兼一 OVA",
+        "seasons": [
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/58c638003642ecdbae51326ff67213021087549c.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28229747,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c7c3298a192a556c53a32a1fc3f07a623442585e.jpg",
+                    "id": 336399,
+                    "index_show": "全50话"
+                },
+                "season_id": 34297,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 147812,
+                    "series_follow": 244359,
+                    "views": 8784516
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/807faaf6cd0402636f252bb43913b3038023d1c0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3803,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/594ddf7c9281a662179197ef9800fe00ef609c48.jpg",
+                    "id": 207126,
+                    "index_show": "全11话"
+                },
+                "season_id": 3803,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 60920,
+                    "series_follow": 244359,
+                    "views": 2165312
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1153,
+            "series_title": "史上最强弟子兼一"
+        },
+        "share_copy": "《史上最强弟子兼一 OVA》教练，我想学习武艺",
+        "share_sub_title": "教练，我想学习武艺",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss3803",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/e70a1ddec5f38241e2c6f145dbe518708f9c678f.png",
+        "stat": {
+            "coins": 3622,
+            "danmakus": 17701,
+            "favorite": 817,
+            "favorites": 60920,
+            "likes": 8778,
+            "reply": 1437,
+            "share": 398,
+            "views": 2165312
+        },
+        "status": 2,
+        "subtitle": "已观看216.5万次",
+        "title": "史上最强弟子兼一 OVA",
+        "total": 11,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

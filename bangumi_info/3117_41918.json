@@ -1,0 +1,230 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 3,
+                "name": "美国"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/b06b12ba1b05f69f88f8e8cafb09cfa354dbff57.png",
+        "episodes": [],
+        "evaluate": "动画的主角丁满是一只山猫，另一位主角彭彭是一头野猪，这两个角色来自迪士尼的动画电影《狮子王》。故事发生在原版电影之后，讲述了两个主角在丛林中探险的经历，走过的不同场景遍布全球，如加拿大、英国、美国和西班牙等等。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "bilibili://pgc/media/28337816",
+        "media_id": 28337816,
+        "mode": 2,
+        "new_ep": {
+            "desc": "连载中",
+            "id": 0,
+            "is_new": 0,
+            "title": ""
+        },
+        "positive": {
+            "id": 79155,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 0,
+            "is_started": 1,
+            "pub_time": "2022-08-30 00:00:01",
+            "pub_time_show": "敬请期待",
+            "unknow_pub_date": 1,
+            "weekday": 0
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 0,
+            "area_limit": 0,
+            "ban_area_show": 4,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 41918,
+        "season_title": "彭彭丁满历险记 第1季 中文配音",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/27a1fd1d87d88329287496ca22d0d4a2ca9a2fc0.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/5a010d44b872e7909b174e80474f273548db4ede.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/87dc0e36b2db6ffd50858ea12a9928e277a694a3.png",
+                "media_id": 28337814,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": ""
+                },
+                "season_id": 41917,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 732,
+                    "series_follow": 5503,
+                    "views": 62438
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b06b12ba1b05f69f88f8e8cafb09cfa354dbff57.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/5a010d44b872e7909b174e80474f273548db4ede.jpg",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/262909b3d6afc0d313a7b5ebc5145c3a0a8f43a5.png",
+                "media_id": 28337816,
+                "new_ep": {
+                    "cover": "",
+                    "id": 0,
+                    "index_show": ""
+                },
+                "season_id": 41918,
+                "season_title": "第一季 中文配音",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 4960,
+                    "series_follow": 5503,
+                    "views": 34058
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 341907971,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1m94y1U7gq",
+                        "cid": 731203901,
+                        "cover": "http://i0.hdslb.com/bfs/archive/345a11b29bad539c9606fa76798c15e946ce3e54.png",
+                        "dimension": {
+                            "height": 576,
+                            "rotate": 0,
+                            "width": 720
+                        },
+                        "duration": 28000,
+                        "from": "bangumi",
+                        "id": 513788,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep513788",
+                        "long_title": "",
+                        "pub_time": 1653840001,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《彭彭丁满历险记 第1季 中文配音》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep513788",
+                        "short_link": "https://b23.tv/ep513788",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 12,
+                            "danmakus": 0,
+                            "likes": 66,
+                            "play": 34058,
+                            "reply": 27
+                        },
+                        "status": 2,
+                        "subtitle": "已观看3.4万次",
+                        "title": "PV",
+                        "vid": ""
+                    }
+                ],
+                "id": 79174,
+                "title": "PV",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 6112,
+            "series_title": "彭彭丁满历险记"
+        },
+        "share_copy": "《彭彭丁满历险记 第1季 中文配音》彭彭丁满带你看世界",
+        "share_sub_title": "彭彭丁满带你看世界",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss41918",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/f938bf73f8d7a5581aa4bf26cbe56711c5511721.jpg",
+        "stat": {
+            "coins": 12,
+            "danmakus": 0,
+            "favorite": 18,
+            "favorites": 4960,
+            "likes": 66,
+            "reply": 27,
+            "share": 7,
+            "views": 34058
+        },
+        "status": 2,
+        "subtitle": "已观看3.4万次",
+        "title": "彭彭丁满历险记 第1季 中文配音",
+        "total": -1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

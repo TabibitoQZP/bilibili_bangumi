@@ -1,0 +1,836 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/7ba5db57e2938370884d933ce2cbeb35028ab2eb.jpg",
+        "episodes": [
+            {
+                "aid": 15143425,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xx41137Kg",
+                "cid": 24654175,
+                "cover": "http://i0.hdslb.com/bfs/archive/0e4921302feb954166c0929e553a102b9dcf305a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 115226,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115226",
+                "long_title": "鹫尾须美",
+                "pub_time": 1507317900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第1话 鹫尾须美",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115226",
+                "short_link": "https://b23.tv/ep115226",
+                "skip": {
+                    "ed": {
+                        "end": 1427,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看682万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 15354485,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Px411g7fn",
+                "cid": 24992617,
+                "cover": "http://i2.hdslb.com/bfs/archive/2320ec3f25a63a0f20594cd06e3e11876ce375b9.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 115227,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115227",
+                "long_title": "朋友",
+                "pub_time": 1507922700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第2话 朋友",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115227",
+                "short_link": "https://b23.tv/ep115227",
+                "skip": {
+                    "ed": {
+                        "end": 1452,
+                        "start": 1361
+                    },
+                    "op": {
+                        "end": 284,
+                        "start": 194
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 15563000,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tx411M7wJ",
+                "cid": 25325148,
+                "cover": "http://i2.hdslb.com/bfs/archive/1853f085d156a647de28215526b771b02cd0ddd4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 115228,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115228",
+                "long_title": "日常",
+                "pub_time": 1508527500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第3话 日常",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115228",
+                "short_link": "https://b23.tv/ep115228",
+                "skip": {
+                    "ed": {
+                        "end": 1453,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 295,
+                        "start": 205
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 15775358,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1mx41177MB",
+                "cid": 25689508,
+                "cover": "http://i0.hdslb.com/bfs/archive/1547ea5a3a1b59e6b0549da17bc8cdd187a4655f.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 115229,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115229",
+                "long_title": "精神",
+                "pub_time": 1509132299,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第4话 精神",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115229",
+                "short_link": "https://b23.tv/ep115229",
+                "skip": {
+                    "ed": {
+                        "end": 1452,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 185,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 15981674,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1zx411E7h2",
+                "cid": 26078553,
+                "cover": "http://i0.hdslb.com/bfs/archive/2402aa0d9ede7d874cfe99437947c6d065f2a62a.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1467000,
+                "from": "bangumi",
+                "id": 115230,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115230",
+                "long_title": "再见",
+                "pub_time": 1509737100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第5话 再见",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115230",
+                "short_link": "https://b23.tv/ep115230",
+                "skip": {
+                    "ed": {
+                        "end": 1452,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 162,
+                        "start": 72
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 16203601,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1jx41177pp",
+                "cid": 26445645,
+                "cover": "http://i2.hdslb.com/bfs/archive/db248a3c34aa1243a8f1bf76e8d485a1b6efc0f7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115231,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115231",
+                "long_title": "约定",
+                "pub_time": 1510341900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第6话 约定",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115231",
+                "short_link": "https://b23.tv/ep115231",
+                "skip": {
+                    "ed": {
+                        "end": 1426,
+                        "start": 1336
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 16632682,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ox411V7Kc",
+                "cid": 27127060,
+                "cover": "http://i2.hdslb.com/bfs/archive/0e29cb00fefd9f2063b4dbbe4752c8b27034fb68.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115232,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115232",
+                "long_title": "欢快的日子",
+                "pub_time": 1511551499,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第7话 欢快的日子",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115232",
+                "short_link": "https://b23.tv/ep115232",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 16836135,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1eW411a7rF",
+                "cid": 27506007,
+                "cover": "http://i0.hdslb.com/bfs/archive/f77f97c973a57401171cbf208eb06c9d101172eb.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115233,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115233",
+                "long_title": "珍重的回忆",
+                "pub_time": 1512156300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第8话 珍重的回忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115233",
+                "short_link": "https://b23.tv/ep115233",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 125,
+                        "start": 35
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 17071744,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1PW411h7eD",
+                "cid": 27899460,
+                "cover": "http://i2.hdslb.com/bfs/archive/d00a8937d7f154e9117db647f70314c8d67148e1.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115234,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115234",
+                "long_title": "思念令我心痛",
+                "pub_time": 1512761100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第9话 思念令我心痛",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115234",
+                "short_link": "https://b23.tv/ep115234",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 197,
+                        "start": 107
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 17294596,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15W411a7Tu",
+                "cid": 28259161,
+                "cover": "http://i2.hdslb.com/bfs/archive/9261570562721d2d21836102a9382f8315a008c4.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115235,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115235",
+                "long_title": "深藏的意志",
+                "pub_time": 1513365840,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第10话 深藏的意志",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115235",
+                "short_link": "https://b23.tv/ep115235",
+                "skip": {
+                    "ed": {
+                        "end": 1427,
+                        "start": 1337
+                    },
+                    "op": {
+                        "end": 180,
+                        "start": 90
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 17522387,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rW41187B5",
+                "cid": 28614051,
+                "cover": "http://i0.hdslb.com/bfs/archive/c8186ef3778b2f9b41097acc6c10710e5a3dcbcd.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115236,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115236",
+                "long_title": "清廉之心",
+                "pub_time": 1513972800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第11话 清廉之心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115236",
+                "short_link": "https://b23.tv/ep115236",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1346
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 46
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 17997123,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV16W411B77g",
+                "cid": 29381704,
+                "cover": "http://i0.hdslb.com/bfs/archive/bf5ee1842cefc1949443e884354c7910be47b4ab.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1452000,
+                "from": "bangumi",
+                "id": 115237,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep115237",
+                "long_title": "有你才幸福",
+                "pub_time": 1515180900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》第12话 有你才幸福",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep115237",
+                "short_link": "https://b23.tv/ep115237",
+                "skip": {
+                    "ed": {
+                        "end": 1452,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 191,
+                        "start": 101
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看682万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "故事发生在神世纪300年，主要讲述结城友奈是初中2年级学生，她天天在学校里过着与很多朋友一同听课、进行社团活动、玩耍的平稳生活。不管怎么看这都是非常普通的女孩的生活日程，但是只有一点与其他孩子决定性不同的地方，那就是她所属的名为“勇者部”的社团活动。以部长犬吠埼风为中心的该社团的活动内容与被谜团包围的叫做Vertex的不可思议的存在有关系，本作正是以描写友奈等人的“勇者部”的活动为主。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md6448/",
+        "media_id": 6448,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 115237,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 23431,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-10-07 03:25:00",
+            "pub_time_show": "2017年10月07日03:25",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 6511,
+            "score": 9.6
+        },
+        "record": "登记号：10417060205792209",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 6448,
+        "season_title": "结城友奈是勇者 鹫尾须美之章&勇者之章",
+        "seasons": [
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/dd7d38b8f563d2a2b18efebd9446d029c2a8caad.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 95992,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b3c0fb1a46dd356d1ca4e8e1f175ccb44c600be9.jpg",
+                    "id": 207008,
+                    "index_show": "全12话"
+                },
+                "season_id": 4273,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 547234,
+                    "series_follow": 1022622,
+                    "views": 6358045
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7ba5db57e2938370884d933ce2cbeb35028ab2eb.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6448,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/bf5ee1842cefc1949443e884354c7910be47b4ab.jpg",
+                    "id": 115237,
+                    "index_show": "全12话"
+                },
+                "season_id": 6448,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 377368,
+                    "series_follow": 1022622,
+                    "views": 6819549
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9d9c3eec645f92f60bbd79161e22bf0da7ff4cbc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6075,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/e923eb261eca676cfa6e907ac56c751096d2ca94.jpg",
+                    "id": 113820,
+                    "index_show": "全3话"
+                },
+                "season_id": 6075,
+                "season_title": "剧场版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 142678,
+                    "series_follow": 1022622,
+                    "views": 1676815
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/4cf3d0be7341491f8fa59cc230504993fdb56840.jpg",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/2d74a887137f2cc180025bce36e7bdf1a34ca658.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/ab5cc78d056eea79694ee340d4e73cb53a812032.png",
+                "media_id": 28235178,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/18925e93e4464c49ecf7d5874539948fc7020efc.png",
+                    "id": 424755,
+                    "index_show": "全12话"
+                },
+                "season_id": 39486,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 860437,
+                    "series_follow": 1022622,
+                    "views": 6650072
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2465,
+            "series_title": "结城友奈是勇者"
+        },
+        "share_copy": "《结城友奈是勇者 鹫尾须美之章&勇者之章》变身，为世界而战！",
+        "share_sub_title": "变身，为世界而战！",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss6448",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/c6999916534532de47e86a212a38436851299eaa.jpg",
+        "stat": {
+            "coins": 40310,
+            "danmakus": 105342,
+            "favorite": 1834,
+            "favorites": 377368,
+            "likes": 37267,
+            "reply": 21450,
+            "share": 4153,
+            "views": 6819549
+        },
+        "status": 13,
+        "subtitle": "已观看682万次",
+        "title": "结城友奈是勇者 鹫尾须美之章&勇者之章",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

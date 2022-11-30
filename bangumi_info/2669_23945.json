@@ -1,0 +1,312 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/604e5a9cc764c3c11ed8368394b1265ef0ba74b0.jpg",
+        "episodes": [
+            {
+                "aid": 21012084,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TW411g7XB",
+                "cid": 34455562,
+                "cover": "http://i0.hdslb.com/bfs/archive/9e1b402cd6162a43193247fbeff6d5697ae25c25.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 5405000,
+                "from": "bangumi",
+                "id": 200770,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep200770",
+                "long_title": "",
+                "pub_time": 1523431800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《飙速宅男 Re:GENERATION (2017)》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep200770",
+                "short_link": "https://b23.tv/ep200770",
+                "skip": {
+                    "ed": {
+                        "end": 5405,
+                        "start": 5115
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看36.8万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "本片为《飙速宅男 新世代》（第三季）的重编版剧场动画。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md82772/",
+        "media_id": 82772,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 200770,
+            "is_new": 0,
+            "title": "1"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 33385,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-10-13 00:00:01",
+            "pub_time_show": "2017年10月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 101,
+            "score": 9.1
+        },
+        "record": "登记号：10417060204922312",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 23945,
+        "season_title": "飙速宅男 Re:GENERATION (2017)",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/a53dad2d453749986dd621467aba5662b7527c89.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5405,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/640aa39b6aa6aba150b451fb727bb9ff9e89169a.png",
+                    "id": 95616,
+                    "index_show": "全5话"
+                },
+                "season_id": 5405,
+                "season_title": "WEB",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 15689,
+                    "series_follow": 308278,
+                    "views": 831350
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/afcd8b966344aa3e085b19a955c5e721020d6ce1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5794,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/0445a2be90da905c2c56281b6a569af3e4e13a26.jpg",
+                    "id": 100453,
+                    "index_show": "全25话"
+                },
+                "season_id": 5794,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 187383,
+                    "series_follow": 308278,
+                    "views": 8063483
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/604e5a9cc764c3c11ed8368394b1265ef0ba74b0.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 82772,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/9e1b402cd6162a43193247fbeff6d5697ae25c25.jpg",
+                    "id": 200770,
+                    "index_show": "全1话"
+                },
+                "season_id": 23945,
+                "season_title": "剧场版（2017）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 17711,
+                    "series_follow": 308278,
+                    "views": 368272
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/928ae638cc0f11197dd949892f5935d9213a38a1.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 13092,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/90e429417a5e16c14464226da76d011a58fca883.jpg",
+                    "id": 173241,
+                    "index_show": "全25话"
+                },
+                "season_id": 21781,
+                "season_title": "第四季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 128494,
+                    "series_follow": 308278,
+                    "views": 5078444
+                }
+            },
+            {
+                "badge": "会员专享",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员专享"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/ac9d9b642d80d56d085383487b58514156d1e360.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/bfb68d007291ee143823af9f84f6b68d32f13124.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/eebac73b4a33ac973840a51b25579bea6dff7c0e.png",
+                "media_id": 28339722,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/c8ca0e0f64c7434f583714ba5dee86757287c4fb.png",
+                    "id": 682973,
+                    "index_show": "更新至第6话"
+                },
+                "season_id": 43154,
+                "season_title": "第五季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 62142,
+                    "series_follow": 308278,
+                    "views": 924395
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2305,
+            "series_title": "飙速宅男"
+        },
+        "share_copy": "《飙速宅男 Re:GENERATION (2017)》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss23945",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/b5a5f41250f4f1b114b478e80053401ee964be1a.jpg",
+        "stat": {
+            "coins": 420,
+            "danmakus": 485,
+            "favorite": 127,
+            "favorites": 17711,
+            "likes": 920,
+            "reply": 148,
+            "share": 104,
+            "views": 368272
+        },
+        "status": 13,
+        "subtitle": "已观看36.8万次",
+        "title": "飙速宅男 Re:GENERATION (2017)",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

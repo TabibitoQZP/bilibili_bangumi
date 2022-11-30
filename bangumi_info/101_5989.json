@@ -1,0 +1,853 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/5ce66f68d54052e3a305524b9b06a76977e974fc.jpg",
+        "episodes": [
+            {
+                "aid": 9650775,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Cx411Q7DC",
+                "cid": 16773073,
+                "cover": "http://i2.hdslb.com/bfs/archive/6bf3782b8672e0518b737a1a617fef5d93634042.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103870,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103870",
+                "long_title": "春与修罗",
+                "pub_time": 1491490800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第1话 春与修罗",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103870",
+                "short_link": "https://b23.tv/ep103870",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 197,
+                        "start": 107
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看7453.9万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 9814819,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Xx411S7Up",
+                "cid": 16773211,
+                "cover": "http://i1.hdslb.com/bfs/archive/4bdf71b9e2a66687be25df72f201e7d7c0533c5c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103871,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103871",
+                "long_title": "一握之砂",
+                "pub_time": 1492095600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第2话 一握之砂",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103871",
+                "short_link": "https://b23.tv/ep103871",
+                "skip": {
+                    "ed": {
+                        "end": 1364,
+                        "start": 1274
+                    },
+                    "op": {
+                        "end": 199,
+                        "start": 109
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 9971804,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ux411U7Nf",
+                "cid": 16773282,
+                "cover": "http://i1.hdslb.com/bfs/archive/8142b97bcb1b35a267af0fb2365ad69af5ad2d12.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103872,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103872",
+                "long_title": "吠月",
+                "pub_time": 1492700400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第3话 吠月",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103872",
+                "short_link": "https://b23.tv/ep103872",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 206,
+                        "start": 116
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 10134730,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Fx411S7Px",
+                "cid": 16745583,
+                "cover": "http://i0.hdslb.com/bfs/archive/dad57511e6311a0622f114845b19e5ec62e62996.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103873,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103873",
+                "long_title": "阵雨",
+                "pub_time": 1493305200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第4话 阵雨",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103873",
+                "short_link": "https://b23.tv/ep103873",
+                "skip": {
+                    "ed": {
+                        "end": 1387,
+                        "start": 1297
+                    },
+                    "op": {
+                        "end": 187,
+                        "start": 97
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 10308777,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cx411m7w4",
+                "cid": 17030895,
+                "cover": "http://i1.hdslb.com/bfs/archive/6cef24b6720de35bf87fb66644a5428f7320ea6e.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103874,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103874",
+                "long_title": "心",
+                "pub_time": 1493910000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第5话 心",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103874",
+                "short_link": "https://b23.tv/ep103874",
+                "skip": {
+                    "ed": {
+                        "end": 1372,
+                        "start": 1282
+                    },
+                    "op": {
+                        "end": 155,
+                        "start": 65
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 10480535,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV19x411m7r1",
+                "cid": 17307103,
+                "cover": "http://i1.hdslb.com/bfs/archive/06e80086d9a382ee9dc73bb3e4e87222de86fb8d.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103875,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103875",
+                "long_title": "奔跑吧梅洛斯",
+                "pub_time": 1494514800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第6话 奔跑吧梅洛斯",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103875",
+                "short_link": "https://b23.tv/ep103875",
+                "skip": {
+                    "ed": {
+                        "end": 1316,
+                        "start": 1226
+                    },
+                    "op": {
+                        "end": 167,
+                        "start": 77
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 10820042,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1rx411Y7Gk",
+                "cid": 18072577,
+                "cover": "http://i2.hdslb.com/bfs/archive/903dfeeb5722a9fa5f5dfd8454b5849f9d9670a5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103877,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103877",
+                "long_title": "为爱不顾一切",
+                "pub_time": 1495724400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第7话 为爱不顾一切",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103877",
+                "short_link": "https://b23.tv/ep103877",
+                "skip": {
+                    "ed": {
+                        "end": 1245,
+                        "start": 1155
+                    },
+                    "op": {
+                        "end": 236,
+                        "start": 146
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 11004401,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1tx411e7jK",
+                "cid": 228292868,
+                "cover": "http://i0.hdslb.com/bfs/archive/3a593102040c3aa30b7b4c8ea98ec95cb0b7ad78.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103878,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103878",
+                "long_title": "vita sexualis",
+                "pub_time": 1496335080,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第8话 vita sexualis",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103878",
+                "short_link": "https://b23.tv/ep103878",
+                "skip": {
+                    "ed": {
+                        "end": 1289,
+                        "start": 1199
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 99
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 11176589,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sx411a7pQ",
+                "cid": 18490632,
+                "cover": "http://i0.hdslb.com/bfs/archive/5131c630c8023a03a196a07aada19be42e20ef59.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103879,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103879",
+                "long_title": "起风了",
+                "pub_time": 1496936940,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第9话 起风了",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103879",
+                "short_link": "https://b23.tv/ep103879",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 11358676,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1dx41187KA",
+                "cid": 18783564,
+                "cover": "http://i2.hdslb.com/bfs/archive/7a91e250f6c5f1341c7633c2fab11cc33735db89.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103880,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103880",
+                "long_title": "斜阳",
+                "pub_time": 1497547800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第10话 斜阳",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103880",
+                "short_link": "https://b23.tv/ep103880",
+                "skip": {
+                    "ed": {
+                        "end": 1437,
+                        "start": 1347
+                    },
+                    "op": {
+                        "end": 168,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 11539910,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Px411676L",
+                "cid": 19074531,
+                "cover": "http://i2.hdslb.com/bfs/archive/91db10760ba81620e5392415588bde5f9c826e01.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 103881,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep103881",
+                "long_title": "劝学篇",
+                "pub_time": 1498143600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第11话 劝学篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep103881",
+                "short_link": "https://b23.tv/ep103881",
+                "skip": {
+                    "ed": {
+                        "end": 1460,
+                        "start": 1370
+                    },
+                    "op": {
+                        "end": 159,
+                        "start": 69
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 11741827,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Kx411r7T4",
+                "cid": 19405806,
+                "cover": "http://i1.hdslb.com/bfs/archive/d08fdc6c7240506ae02ea4a7c3b1003e485ac502.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1461000,
+                "from": "bangumi",
+                "id": 106993,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep106993",
+                "long_title": "从此以后",
+                "pub_time": 1498759260,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《月色真美》第12话 从此以后",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep106993",
+                "short_link": "https://b23.tv/ep106993",
+                "skip": {
+                    "ed": {
+                        "end": 0,
+                        "start": 0
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看7453.9万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "茜与小太郎。\n第一次被分到同班，相识的两人。\n同班同学、社团伙伴、教师、父母……与周围的关联，自己的成长。\n在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，有着一段稚嫩而又令人眩目的青春校园生活。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md5989/",
+        "media_id": 5989,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 106993,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 22788,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-04-06 23:00:00",
+            "pub_time_show": "2017年04月06日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 55907,
+            "score": 9.8
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 5989,
+        "season_title": "月色真美",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/5ce66f68d54052e3a305524b9b06a76977e974fc.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5989,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/d08fdc6c7240506ae02ea4a7c3b1003e485ac502.jpg",
+                    "id": 106993,
+                    "index_show": "全12话"
+                },
+                "season_id": 5989,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3797894,
+                    "series_follow": 3814313,
+                    "views": 74538670
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f57c3c8dc5b2bd0da7867403a8cefa1953ae123e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 10732,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/46177eeb7cc1af74d03dde5a21bae71220c977ee.jpg",
+                    "id": 115503,
+                    "index_show": "全1话"
+                },
+                "season_id": 6497,
+                "season_title": "SP",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 206477,
+                    "series_follow": 3814313,
+                    "views": 3960369
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 10649097,
+                        "badge": "会员",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": "会员"
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Jx411v7cG",
+                        "cid": 228298148,
+                        "cover": "http://i2.hdslb.com/bfs/archive/e43c6b7179a858fd691584b1717ea3bc73e20939.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 1461000,
+                        "from": "bangumi",
+                        "id": 103876,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep103876",
+                        "long_title": "总集篇：前半抄「道程」",
+                        "pub_time": 1495119600,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 1,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《月色真美》第6.5话 总集篇：前半抄「道程」",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep103876",
+                        "short_link": "https://b23.tv/ep103876",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 13813,
+                            "danmakus": 43944,
+                            "likes": 3653,
+                            "play": 2667108,
+                            "reply": 5252
+                        },
+                        "status": 13,
+                        "subtitle": "已观看7453.9万次",
+                        "title": "6.5",
+                        "vid": ""
+                    }
+                ],
+                "id": 49638,
+                "title": "预告·特别篇",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 3589,
+            "series_title": "月色真美"
+        },
+        "share_copy": "《月色真美》今晚月色真美",
+        "share_sub_title": "今晚月色真美",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss5989",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/41f4d96560036a3041bef7e5f58c80ce345ccb76.jpg",
+        "stat": {
+            "coins": 1555037,
+            "danmakus": 3439766,
+            "favorite": 51883,
+            "favorites": 3797894,
+            "likes": 568656,
+            "reply": 172202,
+            "share": 164308,
+            "views": 74538670
+        },
+        "status": 13,
+        "subtitle": "已观看7453.9万次",
+        "title": "月色真美",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

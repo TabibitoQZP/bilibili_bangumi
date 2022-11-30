@@ -1,0 +1,661 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 1301,
+            "title": "今日电影盲盒"
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/9382d6e76f79e6e537c7ee2564ddce8b7ac38a31.png",
+        "episodes": [
+            {
+                "aid": 973498285,
+                "badge": "付费",
+                "badge_info": {
+                    "bg_color": "#FAAB4B",
+                    "bg_color_night": "#BA833F",
+                    "text": "付费"
+                },
+                "badge_type": 2,
+                "bvid": "BV1344y167vh",
+                "cid": 348195229,
+                "cover": "http://i0.hdslb.com/bfs/archive/910997f2c0e7f92b45889741e01fcd657da5f880.png",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 5995000,
+                "from": "bangumi",
+                "id": 407625,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep407625?theme=movie",
+                "long_title": "",
+                "pub_time": 1623463201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《生化危机：诅咒》同名电子游戏改编",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep407625",
+                "short_link": "https://b23.tv/ep407625",
+                "status": 8,
+                "subtitle": "已观看593.7万次",
+                "title": "正片",
+                "vid": ""
+            }
+        ],
+        "evaluate": "为了调查生化武器的实情，里昂获命来到东斯拉夫。混乱之中，他被反叛军抓获，可是遭到寄生虫操控的人类很快冲击了他们的栖息地和城市。与此同时，艾达也抱着神秘目的来到东斯拉夫。战争毁灭了一切，滋养着恶魔，里昂能否阻止事态进一步恶化呢…",
+        "freya": {
+            "bubble_show_cnt": 0,
+            "icon_show": 0
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28234228/",
+        "media_id": 28234228,
+        "mode": 1,
+        "new_ep": {
+            "desc": "2012年9月25日上映",
+            "id": 407625,
+            "is_new": 0,
+            "title": "正片"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 1,
+                "allow_vip_discount": 1,
+                "forbid_bb": 0
+            },
+            "price": "3.0",
+            "promotion": "成为大会员可半价观看本片！",
+            "view_start_time": 0,
+            "vip_discount": 50,
+            "vip_first_promotion": "",
+            "vip_promotion": ""
+        },
+        "positive": {
+            "id": 58443,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-06-12 10:00:00",
+            "pub_time_show": "2021年06月12日10:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1433,
+            "score": 8.8
+        },
+        "record": "新出像进字(2012)361号",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 1,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 38540,
+        "season_title": "生化危机：诅咒",
+        "seasons": [
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/b93980b9cf087056f9c6e867c6d2984d75534246.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/d3824c15b4898c1f29fef43ec2c7d50c949466db.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/47cd6416f6b176b05bfb71cfd6f148c472473381.png",
+                "media_id": 28234229,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/85b98823e8e095753989471a16e56ba73fdb71aa.png",
+                    "id": 405183,
+                    "index_show": "2008-10-18上映"
+                },
+                "season_id": 38541,
+                "season_title": "生化危机：恶化",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 96314,
+                    "series_follow": 158936,
+                    "views": 4286389
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/9382d6e76f79e6e537c7ee2564ddce8b7ac38a31.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/170b5ab6c6880e335bc42ced3dea3c44966d5f6d.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/df6a596ec5d3dcc7d31c207c304cac41f67de68a.png",
+                "media_id": 28234228,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/910997f2c0e7f92b45889741e01fcd657da5f880.png",
+                    "id": 407625,
+                    "index_show": "2012-09-25上映"
+                },
+                "season_id": 38540,
+                "season_title": "生化危机：诅咒",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 118403,
+                    "series_follow": 158936,
+                    "views": 5937059
+                }
+            },
+            {
+                "badge": "会员特价",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员特价"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/f3f8bdf02724b27883a154d93165c51384a93adc.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/34fefc3e6c59ca50221b754b69ced6600fe2658b.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/6e8bcc51e1db294ecb9de497dd765ac7882bc40a.png",
+                "media_id": 28237255,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/80161f7651fa5879d2ec23fdc8e266cd520a7660.png",
+                    "id": 477648,
+                    "index_show": "2017-05-27上映"
+                },
+                "season_id": 41546,
+                "season_title": "生化危机：复仇",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 143312,
+                    "series_follow": 158936,
+                    "views": 2282005
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 600595352,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1VB4y1H7wA",
+                        "cid": 764024123,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_a310963bfebb4334b6c50eded6793fb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565666,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565666?theme=movie",
+                        "long_title": "精彩看点 1",
+                        "pub_time": 1656965904,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 1",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565666",
+                        "short_link": "https://b23.tv/ep565666",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 6,
+                            "play": 2539,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 940548611,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1TW4y167hr",
+                        "cid": 764024165,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_ccaaf54edef341d38cd75446d4dfe1b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565686,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565686?theme=movie",
+                        "long_title": "精彩看点 2",
+                        "pub_time": 1656966063,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 2",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565686",
+                        "short_link": "https://b23.tv/ep565686",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 18,
+                            "play": 3741,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 343091593,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1D94y1R7oj",
+                        "cid": 764024533,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_9ff758bda5e946c4b0bab2187322bbb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565694,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565694?theme=movie",
+                        "long_title": "精彩看点 3",
+                        "pub_time": 1656966102,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 3",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565694",
+                        "short_link": "https://b23.tv/ep565694",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 3,
+                            "play": 2219,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 300537825,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uf4y1Z7cG",
+                        "cid": 764024442,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_c7d61959a5a341b4a3259df82ea39fb_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565697,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565697?theme=movie",
+                        "long_title": "精彩看点 4",
+                        "pub_time": 1656966116,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 4",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565697",
+                        "short_link": "https://b23.tv/ep565697",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 1,
+                            "likes": 4,
+                            "play": 1742,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 555543599,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV17v4y1T7Ss",
+                        "cid": 764024595,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_2659dc45c81e4162a553a9c9e505c1b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565702,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565702?theme=movie",
+                        "long_title": "精彩看点 5",
+                        "pub_time": 1656966185,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 5",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565702",
+                        "short_link": "https://b23.tv/ep565702",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 5,
+                            "play": 1601,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 258038067,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Wa411X7jq",
+                        "cid": 764025202,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_ee10d5e7853148b0b243d766e5bcb9b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565717,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565717?theme=movie",
+                        "long_title": "精彩看点 6",
+                        "pub_time": 1656966417,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 6",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565717",
+                        "short_link": "https://b23.tv/ep565717",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 3,
+                            "play": 1405,
+                            "reply": 2
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 385570557,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1wZ4y1v7e9",
+                        "cid": 764025231,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_242d30405efe44f59fe4c5962b5ac8b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565723,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565723?theme=movie",
+                        "long_title": "精彩看点 7",
+                        "pub_time": 1656966456,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 7",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565723",
+                        "short_link": "https://b23.tv/ep565723",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 8,
+                            "play": 1786,
+                            "reply": 1
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 940586473,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1HW4y1U7ir",
+                        "cid": 764025054,
+                        "cover": "http://i0.hdslb.com/bfs/vc/ogvres/_0f929de0231a41d1893890fad6f106b_firsti.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 181000,
+                        "from": "bangumi",
+                        "id": 565769,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep565769?theme=movie",
+                        "long_title": "精彩看点 8",
+                        "pub_time": 1656966854,
+                        "pv": 0,
+                        "release_date": "2022-07-05",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《生化危机：诅咒》生化危机：诅咒 精彩看点 8",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep565769",
+                        "short_link": "https://b23.tv/ep565769",
+                        "stat": {
+                            "coin": 0,
+                            "danmakus": 0,
+                            "likes": 0,
+                            "play": 0,
+                            "reply": 0
+                        },
+                        "status": 2,
+                        "subtitle": "已观看593.7万次",
+                        "title": "生化危机：诅咒",
+                        "vid": ""
+                    }
+                ],
+                "id": 81664,
+                "title": "精彩看点",
+                "type": 8
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 5541,
+            "series_title": "生化危机(动画)"
+        },
+        "share_copy": "《生化危机：诅咒》同名电子游戏改编",
+        "share_sub_title": "同名电子游戏改编",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss38540",
+        "show": {
+            "wide_screen": 1
+        },
+        "show_season_type": 2,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/21c77e6f371fe76fa22bbfc6d98300b85a9c2ac7.png",
+        "stat": {
+            "coins": 7210,
+            "danmakus": 20368,
+            "favorite": 5632,
+            "favorites": 118403,
+            "likes": 33840,
+            "reply": 4104,
+            "share": 2256,
+            "views": 5937059
+        },
+        "status": 8,
+        "subtitle": "已观看593.7万次",
+        "title": "生化危机：诅咒",
+        "total": -1,
+        "type": 2,
+        "up_info": {
+            "avatar": "https://i2.hdslb.com/bfs/face/90163fee73aef056cc4521eaab4a8408711d56f6.jpg",
+            "avatar_subscript_url": "",
+            "follower": 6815762,
+            "is_follow": 0,
+            "mid": 15773384,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩电影",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

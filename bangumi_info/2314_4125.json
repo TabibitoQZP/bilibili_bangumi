@@ -1,0 +1,266 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/c1cd35514e1badf4c00c7ffee14f035df53fdfd7.jpg",
+        "episodes": [
+            {
+                "aid": 8176988,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411b7Tc",
+                "cid": 13448415,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/7a32de5ee335bf133f5bb2157e40116ec925e122.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1440000,
+                "from": "bangumi",
+                "id": 88557,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep88557",
+                "long_title": "试着大家一起办庆祝会",
+                "pub_time": 1485171060,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《普通女高中生要做当地偶像 OVA》第1话 试着大家一起办庆祝会",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep88557",
+                "short_link": "https://b23.tv/ep88557",
+                "skip": {
+                    "ed": {
+                        "end": 1425,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 295,
+                        "start": 195
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看36.5万次",
+                "title": "1",
+                "vid": "vupload_13448415"
+            },
+            {
+                "aid": 8176992,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1qs411b7TR",
+                "cid": 13448419,
+                "cover": "http://i1.hdslb.com/bfs/archive/a01187a4ccdca5ee32d95847a6f2cab0f98e3487.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1441000,
+                "from": "bangumi",
+                "id": 100948,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep100948",
+                "long_title": "试着做PV",
+                "pub_time": 1485171240,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《普通女高中生要做当地偶像 OVA》第2话 试着做PV",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep100948",
+                "short_link": "https://b23.tv/ep100948",
+                "skip": {
+                    "ed": {
+                        "end": 1439,
+                        "start": 1340
+                    },
+                    "op": {
+                        "end": 191,
+                        "start": 91
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看36.5万次",
+                "title": "2",
+                "vid": "vupload_13448419"
+            }
+        ],
+        "evaluate": "【本片翻译由F宅字幕组提供】OVA01圣诞特别篇《试着大家一起办庆祝会》于2016年3月23日发售，故事以主人公宇佐美奈奈子等人的圣诞故事为中心展开，OVA02《试着做PV》则于2016年6月22日发售。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md4125/",
+        "media_id": 4125,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全2话",
+            "id": 100948,
+            "is_new": 0,
+            "title": "2"
+        },
+        "positive": {
+            "id": 21103,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-12-24 00:00:01",
+            "pub_time_show": "2015年12月24日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 572,
+            "score": 9.7
+        },
+        "record": "登记号：10417060203982406",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 4125,
+        "season_title": "普通女高中生要做当地偶像 OVA",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6bf8466f4551205c5aa8207f17ae292834e3780e.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4124,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/71d7ae57fde42c6c8b1bb34df70b064a53315f3d.jpg",
+                    "id": 100947,
+                    "index_show": "全12话"
+                },
+                "season_id": 4124,
+                "season_title": "TV版",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 228745,
+                    "series_follow": 236006,
+                    "views": 2541084
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c1cd35514e1badf4c00c7ffee14f035df53fdfd7.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 4125,
+                "new_ep": {
+                    "cover": "http://i1.hdslb.com/bfs/archive/a01187a4ccdca5ee32d95847a6f2cab0f98e3487.jpg",
+                    "id": 100948,
+                    "index_show": "全2话"
+                },
+                "season_id": 4125,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 34348,
+                    "series_follow": 236006,
+                    "views": 364641
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 2350,
+            "series_title": "普通女高中生要做当地偶像"
+        },
+        "share_copy": "《普通女高中生要做当地偶像 OVA》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss4125",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/95deb069318716ed31a71f19ccddc1edc395cc8b.jpg",
+        "stat": {
+            "coins": 3604,
+            "danmakus": 3285,
+            "favorite": 369,
+            "favorites": 34348,
+            "likes": 3643,
+            "reply": 643,
+            "share": 108,
+            "views": 364641
+        },
+        "status": 2,
+        "subtitle": "已观看36.5万次",
+        "title": "普通女高中生要做当地偶像 OVA",
+        "total": 2,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

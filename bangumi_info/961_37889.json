@@ -1,0 +1,1351 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/2b413dda8c6b46b99a5956b6cfa32bc356f3a7b4.png",
+        "episodes": [
+            {
+                "aid": 246717402,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Sv411a7cL",
+                "cid": 297504852,
+                "cover": "http://i0.hdslb.com/bfs/archive/e6ee21f7c5de966acf8e5f086059634e6fcf22fe.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384211,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384211",
+                "long_title": "肺炎链球菌",
+                "pub_time": 1613361601,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第1话 肺炎链球菌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384211",
+                "short_link": "https://b23.tv/ep384211",
+                "skip": {
+                    "ed": {
+                        "end": 1403,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看2901.6万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 799180107,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Dy4y1Y7X5",
+                "cid": 297505663,
+                "cover": "http://i0.hdslb.com/bfs/archive/ee2c94599497d0ca6a1049154ac201144cf593b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384212,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384212",
+                "long_title": "擦伤",
+                "pub_time": 1613361600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第2话 擦伤",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384212",
+                "short_link": "https://b23.tv/ep384212",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 240,
+                        "start": 151
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 416638679,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nV411i7fg",
+                "cid": 297509721,
+                "cover": "http://i0.hdslb.com/bfs/archive/642a7a37ace774a75696f6409682cd75d0d04d99.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384213,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384213",
+                "long_title": "流行性感冒",
+                "pub_time": 1613361600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第3话 流行性感冒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384213",
+                "short_link": "https://b23.tv/ep384213",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 282,
+                        "start": 193
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 501700347,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oN411R7Gn",
+                "cid": 297510176,
+                "cover": "http://i0.hdslb.com/bfs/archive/bc5f964c4db2a684aaf7f22eafb19a4daed9a10d.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384214,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384214",
+                "long_title": "食物中毒",
+                "pub_time": 1613361600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第4话 食物中毒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384214",
+                "short_link": "https://b23.tv/ep384214",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 801703377,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ry4y1E7nm",
+                "cid": 297514338,
+                "cover": "http://i0.hdslb.com/bfs/archive/da13c313adcde3c73e8ed84a26f25ff54fe7ec14.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384215,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384215",
+                "long_title": "杉木花粉过敏",
+                "pub_time": 1613361600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第5话 杉木花粉过敏",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384215",
+                "short_link": "https://b23.tv/ep384215",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 184,
+                        "start": 95
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 501834470,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1oN411X7Da",
+                "cid": 299709850,
+                "cover": "http://i0.hdslb.com/bfs/archive/6fcedb9f67f1e0d628acee1becc19b8377eeae71.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384216,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384216",
+                "long_title": "有核红细胞和骨髓细胞",
+                "pub_time": 1613966400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第6话 有核红细胞和骨髓细胞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384216",
+                "short_link": "https://b23.tv/ep384216",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 374270917,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ro4y197Zg",
+                "cid": 299710764,
+                "cover": "http://i0.hdslb.com/bfs/archive/65e72be00eee880fea2c55fc6c36670c32283fc9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384217,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384217",
+                "long_title": "癌细胞",
+                "pub_time": 1613966400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第7话 癌细胞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384217",
+                "short_link": "https://b23.tv/ep384217",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1320
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 374277778,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Mo4y1R7pH",
+                "cid": 299715483,
+                "cover": "http://i0.hdslb.com/bfs/archive/9e6600bdadc220e60b56f562ff34c189ac4d51d4.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384218,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384218",
+                "long_title": "血液循环",
+                "pub_time": 1613966400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第8话 血液循环",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384218",
+                "short_link": "https://b23.tv/ep384218",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 183,
+                        "start": 94
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 671809567,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1AU4y1s7qY",
+                "cid": 299716542,
+                "cover": "http://i0.hdslb.com/bfs/archive/8702bfc0a5c7514d273aa9da19f359f78c1a59d0.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384219,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384219",
+                "long_title": "胸腺细胞",
+                "pub_time": 1613966400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第9话 胸腺细胞",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384219",
+                "short_link": "https://b23.tv/ep384219",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 331767211,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HA411M7Rg",
+                "cid": 299721282,
+                "cover": "http://i0.hdslb.com/bfs/archive/680ce6398f42d32fd45cceefa2b3b15948256df9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384220,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384220",
+                "long_title": "金黄色葡萄球菌",
+                "pub_time": 1613966400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第10话 金黄色葡萄球菌",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384220",
+                "short_link": "https://b23.tv/ep384220",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 264,
+                        "start": 175
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 971992282,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ip4y1H7R3",
+                "cid": 303247492,
+                "cover": "http://i0.hdslb.com/bfs/archive/ea8ce8c1440d5b3d1eb64f6ff8f04ab389b80d7f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384221,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384221",
+                "long_title": "中暑",
+                "pub_time": 1614571201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第11话 中暑",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384221",
+                "short_link": "https://b23.tv/ep384221",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 189,
+                        "start": 100
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 416893455,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZV411e7pF",
+                "cid": 303247958,
+                "cover": "http://i0.hdslb.com/bfs/archive/4eb9716fc71344ea8aa3b259bbd0cff97907074c.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1431000,
+                "from": "bangumi",
+                "id": 384222,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384222",
+                "long_title": "失血性休克 前篇",
+                "pub_time": 1614571201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第12话 失血性休克 前篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384222",
+                "short_link": "https://b23.tv/ep384222",
+                "skip": {
+                    "ed": {
+                        "end": 1404,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 89,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "12",
+                "vid": ""
+            },
+            {
+                "aid": 929444185,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1GK4y1D7dm",
+                "cid": 303253670,
+                "cover": "http://i0.hdslb.com/bfs/archive/4d4fc37b91883b3b3de80035c3b183caff012f41.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 384223,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384223",
+                "long_title": "失血性休克 后篇",
+                "pub_time": 1614571201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》第13话 失血性休克 后篇",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384223",
+                "short_link": "https://b23.tv/ep384223",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 144,
+                        "start": 56
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "13",
+                "vid": ""
+            },
+            {
+                "aid": 544401480,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1yi4y1T79W",
+                "cid": 303253174,
+                "cover": "http://i0.hdslb.com/bfs/archive/b72154cdef7ac7c4ae92ae8cf17784ca7bddcb24.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1416000,
+                "from": "bangumi",
+                "id": 384224,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep384224",
+                "long_title": "感冒综合征",
+                "pub_time": 1614571201,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《工作细胞（中配版）》OAD 感冒综合征",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep384224",
+                "short_link": "https://b23.tv/ep384224",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1315
+                    },
+                    "op": {
+                        "end": 157,
+                        "start": 68
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看2901.6万次",
+                "title": "OAD",
+                "vid": ""
+            }
+        ],
+        "evaluate": "这是一个关于你自身的故事。你体内的故事——。人的细胞数量，约为37兆2千亿个。细胞们在名为身体的世界中，今天也精神满满、无休无眠地在工作着。运送着氧气的红细胞，与细菌战斗的白细胞……！这里，有着细胞们不为人知的故事。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28233568/",
+        "media_id": 28233568,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全14话",
+            "id": 384224,
+            "is_new": 0,
+            "title": "OAD"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "成为大会员抢先看"
+        },
+        "positive": {
+            "id": 57023,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2021-02-15 12:00:00",
+            "pub_time_show": "2021年02月15日12:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 5255,
+            "score": 9.7
+        },
+        "record": "登记号：10417060201212206",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 37889,
+        "season_title": "工作细胞（中配版）",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f5d5f51b941c01f8b90b361b412dc75ecc2608d3.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 102392,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/07a732f757117d8d51ff6caa3b4b2aa0fc72fd74.jpg",
+                    "id": 258941,
+                    "index_show": "全14话"
+                },
+                "season_id": 24588,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8091117,
+                    "series_follow": 9628686,
+                    "views": 233003885
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/2b413dda8c6b46b99a5956b6cfa32bc356f3a7b4.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28233568,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b72154cdef7ac7c4ae92ae8cf17784ca7bddcb24.jpg",
+                    "id": 384224,
+                    "index_show": "全14话"
+                },
+                "season_id": 37889,
+                "season_title": "第一季（中配）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 400548,
+                    "series_follow": 9628686,
+                    "views": 29015686
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/cece1d7eaabd0fac10480efec3d879c542247734.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28231816,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/1c61a2545684b94c8bb1cfd7a0ad50ca2126b685.jpg",
+                    "id": 373885,
+                    "index_show": "全8话"
+                },
+                "season_id": 36174,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 8358441,
+                    "series_follow": 9628686,
+                    "views": 74276156
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/aa3a1e15494f023bd25039d97ce5a0be2eba9423.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28234686,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/d52359367d5328535a33fbf3a5c1b2739ace28e0.jpg",
+                    "id": 408294,
+                    "index_show": "全8话"
+                },
+                "season_id": 38994,
+                "season_title": "第二季（中配）",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 372330,
+                    "series_follow": 9628686,
+                    "views": 6573630
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/6f0e6f9218e4198fbd497379baf30ff2ef4eb92c.png",
+                "horizontal_cover_1610": "http://i0.hdslb.com/bfs/bangumi/image/1f8dd722542818577521359ffd599967b8b3924b.png",
+                "horizontal_cover_169": "http://i0.hdslb.com/bfs/bangumi/image/2547cdf99a22d8fba7015e3845f585b87ceed367.png",
+                "media_id": 28234631,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/b8e85d65bfc980f06a4acc3edfe0e94ce8240ca1.jpg",
+                    "id": 416898,
+                    "index_show": "2021-04-09上映"
+                },
+                "season_id": 38939,
+                "season_title": "剧场版",
+                "season_type": 2,
+                "stat": {
+                    "favorites": 9075372,
+                    "series_follow": 9628686,
+                    "views": 9672185
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 671405809,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV18U4y1s7FK",
+                        "cid": 292652299,
+                        "cover": "http://i0.hdslb.com/bfs/archive/94bbb93b5dabb1be31c156117c9f59539923b8e6.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 30000,
+                        "from": "bangumi",
+                        "id": 383184,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep383184",
+                        "long_title": "",
+                        "pub_time": 1611990000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》央视先行版预告 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep383184",
+                        "short_link": "https://b23.tv/ep383184",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 2666,
+                            "danmakus": 1461,
+                            "likes": 17459,
+                            "play": 1983466,
+                            "reply": 2685
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "央视先行版预告",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 203892043,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1nh41117V5",
+                        "cid": 292639817,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/4d1069621fe3a1af2db124986b101abf8f0910a2.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 101000,
+                        "from": "bangumi",
+                        "id": 383686,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep383686",
+                        "long_title": "",
+                        "pub_time": 1612350000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》央视版先行预告2 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep383686",
+                        "short_link": "https://b23.tv/ep383686",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 726,
+                            "danmakus": 1077,
+                            "likes": 7123,
+                            "play": 698658,
+                            "reply": 1456
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "央视版先行预告2",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 886505485,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1qK4y1p73s",
+                        "cid": 293097662,
+                        "cover": "http://i0.hdslb.com/bfs/bangumi/98e9536df3790af1a41528d506dde6bbf850624c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 16000,
+                        "from": "bangumi",
+                        "id": 384144,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep384144",
+                        "long_title": "",
+                        "pub_time": 1612519200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》正式预告 ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep384144",
+                        "short_link": "https://b23.tv/ep384144",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 419,
+                            "danmakus": 271,
+                            "likes": 9757,
+                            "play": 642775,
+                            "reply": 1122
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "正式预告",
+                        "vid": ""
+                    }
+                ],
+                "id": 57058,
+                "title": "预告",
+                "type": 1
+            },
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 801619508,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1uy4y1H7gL",
+                        "cid": 293021426,
+                        "cover": "http://i0.hdslb.com/bfs/archive/5fb4215ba4cbb43438f3e93d6817add7f5c1ce5f.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 109000,
+                        "from": "bangumi",
+                        "id": 384129,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep384129",
+                        "long_title": "红细胞&红细胞前辈",
+                        "pub_time": 1612519200,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》第01话 红细胞&红细胞前辈",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep384129",
+                        "short_link": "https://b23.tv/ep384129",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 702,
+                            "danmakus": 379,
+                            "likes": 5906,
+                            "play": 429535,
+                            "reply": 667
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "01",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 246610086,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1mv411e7j8",
+                        "cid": 295422876,
+                        "cover": "http://i0.hdslb.com/bfs/archive/64fba52dfd4b8d4b158855c237c0dc5453c27e0c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 120000,
+                        "from": "bangumi",
+                        "id": 384847,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep384847",
+                        "long_title": "白细胞&巨噬细胞&旁白",
+                        "pub_time": 1613016000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》第02话 白细胞&巨噬细胞&旁白",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep384847",
+                        "short_link": "https://b23.tv/ep384847",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 396,
+                            "danmakus": 311,
+                            "likes": 3306,
+                            "play": 357084,
+                            "reply": 409
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "02",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 506798546,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1Vg411N7j2",
+                        "cid": 295423096,
+                        "cover": "http://i0.hdslb.com/bfs/archive/64fba52dfd4b8d4b158855c237c0dc5453c27e0c.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 145000,
+                        "from": "bangumi",
+                        "id": 384849,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep384849",
+                        "long_title": "杀伤性T细胞&辅助性T细胞",
+                        "pub_time": 1613016000,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《工作细胞（中配版）》第03话 杀伤性T细胞&辅助性T细胞",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep384849",
+                        "short_link": "https://b23.tv/ep384849",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 11,
+                            "danmakus": 102,
+                            "likes": 53,
+                            "play": 9424,
+                            "reply": 5
+                        },
+                        "status": 2,
+                        "subtitle": "已观看2901.6万次",
+                        "title": "03",
+                        "vid": ""
+                    }
+                ],
+                "id": 57126,
+                "title": "声优问候",
+                "type": 2
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4034,
+            "series_title": "工作细胞"
+        },
+        "share_copy": "《工作细胞（中配版）》大妹子，你咋的啦？",
+        "share_sub_title": "大妹子，你咋的啦？",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss37889",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/5c29dfdb90b499bac170c2fd95b9be41528604ce.png",
+        "stat": {
+            "coins": 66840,
+            "danmakus": 197987,
+            "favorite": 16028,
+            "favorites": 400548,
+            "likes": 291707,
+            "reply": 27101,
+            "share": 50614,
+            "views": 29015683
+        },
+        "status": 13,
+        "subtitle": "已观看2901.6万次",
+        "title": "工作细胞（中配版）",
+        "total": 14,
+        "type": 1,
+        "up_info": {
+            "avatar": "https://i1.hdslb.com/bfs/face/d094f4dd5086321351c72068e86623e46d8eb12b.jpg",
+            "avatar_subscript_url": "",
+            "follower": 5859944,
+            "is_follow": 0,
+            "mid": 928123,
+            "nickname_color": "#FB7299",
+            "pendant": {
+                "image": "",
+                "name": "",
+                "pid": 0
+            },
+            "theme_type": 0,
+            "uname": "哔哩哔哩番剧",
+            "verify_type": 3,
+            "vip_label": {
+                "bg_color": "#FB7299",
+                "bg_style": 1,
+                "border_color": "",
+                "text": "十年大会员",
+                "text_color": "#FFFFFF"
+            },
+            "vip_status": 1,
+            "vip_type": 2
+        },
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

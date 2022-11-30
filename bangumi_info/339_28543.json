@@ -1,0 +1,884 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/63f236818c51f8f52dcf1b14c1892ed68affc4f3.png",
+        "episodes": [
+            {
+                "aid": 70781302,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1sE411o7et",
+                "cid": 122635717,
+                "cover": "http://i0.hdslb.com/bfs/archive/436e22a0a3f849c143dab078f53c803500ad4003.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286220,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286220",
+                "long_title": "暗杀者的慈悲",
+                "pub_time": 1570719600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第1话 暗杀者的慈悲",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286220",
+                "short_link": "https://b23.tv/ep286220",
+                "skip": {
+                    "ed": {
+                        "end": 1327,
+                        "start": 1290
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看4003.2万次",
+                "title": "1",
+                "vid": ""
+            },
+            {
+                "aid": 71532488,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ZE411C7JR",
+                "cid": 127501457,
+                "cover": "http://i0.hdslb.com/bfs/archive/f73b6b0a87a581e5fe9bbae7051b2652c3584c46.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286221,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286221",
+                "long_title": "少女的世界改变之时",
+                "pub_time": 1571324400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第2话 少女的世界改变之时",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286221",
+                "short_link": "https://b23.tv/ep286221",
+                "skip": {
+                    "ed": {
+                        "end": 1388,
+                        "start": 1298
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "2",
+                "vid": ""
+            },
+            {
+                "aid": 73270038,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1FE41117Z8",
+                "cid": 125330702,
+                "cover": "http://i0.hdslb.com/bfs/archive/9cd6339d77d9ca703c8cbe2b4e564944c53a1287.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286222,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286222",
+                "long_title": "在临界点的彼岸",
+                "pub_time": 1571929200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第3话 在临界点的彼岸",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286222",
+                "short_link": "https://b23.tv/ep286222",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1362
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "3",
+                "vid": ""
+            },
+            {
+                "aid": 74065272,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1LE41187ye",
+                "cid": 127028411,
+                "cover": "http://i0.hdslb.com/bfs/archive/f0a760f39d9edc52b9293939321b91f0a0d6f06f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286223,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286223",
+                "long_title": "聚集在锁城，少女与少女",
+                "pub_time": 1572534000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第4话 聚集在锁城，少女与少女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286223",
+                "short_link": "https://b23.tv/ep286223",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 190,
+                        "start": 100
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "4",
+                "vid": ""
+            },
+            {
+                "aid": 74862810,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1XE411i7ta",
+                "cid": 128063759,
+                "cover": "http://i0.hdslb.com/bfs/archive/89d0c4afc57ba23c7fd43664383c80e7567043c7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286224,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286224",
+                "long_title": "黄金公主与，白银公主",
+                "pub_time": 1573138800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第5话 黄金公主与，白银公主",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286224",
+                "short_link": "https://b23.tv/ep286224",
+                "skip": {
+                    "ed": {
+                        "end": 1390,
+                        "start": 1301
+                    },
+                    "op": {
+                        "end": 143,
+                        "start": 53
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "5",
+                "vid": ""
+            },
+            {
+                "aid": 75660885,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1TJ411D7j4",
+                "cid": 129591873,
+                "cover": "http://i0.hdslb.com/bfs/archive/12a35c182742b7cf1837f70f2398647d8d3f6833.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286225,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286225",
+                "long_title": "灰色的魔女",
+                "pub_time": 1573743600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第6话 灰色的魔女",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286225",
+                "short_link": "https://b23.tv/ep286225",
+                "skip": {
+                    "ed": {
+                        "end": 1414,
+                        "start": 1324
+                    },
+                    "op": {
+                        "end": 119,
+                        "start": 29
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "6",
+                "vid": ""
+            },
+            {
+                "aid": 76498296,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1HJ41127Qi",
+                "cid": 130965291,
+                "cover": "http://i0.hdslb.com/bfs/archive/2f38586b2b9d72c030e365d1f6f63384527ef578.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286226,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286226",
+                "long_title": "上下无所依",
+                "pub_time": 1574348400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第7话 上下无所依",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286226",
+                "short_link": "https://b23.tv/ep286226",
+                "skip": {
+                    "ed": {
+                        "end": 1364,
+                        "start": 1274
+                    },
+                    "op": {
+                        "end": 160,
+                        "start": 70
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "7",
+                "vid": ""
+            },
+            {
+                "aid": 77333204,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1SJ411D7Jk",
+                "cid": 132285813,
+                "cover": "http://i0.hdslb.com/bfs/archive/2bbdb51083de2624f473ebbdaa897cd8c1f08666.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286227,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286227",
+                "long_title": "某骸骨的遗言",
+                "pub_time": 1574953200,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第8话 某骸骨的遗言",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286227",
+                "short_link": "https://b23.tv/ep286227",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 173,
+                        "start": 83
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "8",
+                "vid": ""
+            },
+            {
+                "aid": 78157711,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1VJ411i79j",
+                "cid": 133728827,
+                "cover": "http://i0.hdslb.com/bfs/archive/e7a0b9d006fe345dabd0fffe45e636a27bba7be9.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286228,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286228",
+                "long_title": "悠久的契约",
+                "pub_time": 1575558000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第9话 悠久的契约",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286228",
+                "short_link": "https://b23.tv/ep286228",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1382
+                    },
+                    "op": {
+                        "end": 139,
+                        "start": 49
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "9",
+                "vid": ""
+            },
+            {
+                "aid": 78988792,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1cJ411C7cN",
+                "cid": 135213487,
+                "cover": "http://i0.hdslb.com/bfs/archive/7c44c91735ffc81b4a05928899b9872941562abd.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286229,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286229",
+                "long_title": "迷宫图书馆",
+                "pub_time": 1576162800,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第10话 迷宫图书馆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286229",
+                "short_link": "https://b23.tv/ep286229",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 152,
+                        "start": 62
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "10",
+                "vid": ""
+            },
+            {
+                "aid": 79858921,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1UJ411t75w",
+                "cid": 136675755,
+                "cover": "http://i0.hdslb.com/bfs/archive/67a83582195bdb9d177b5f3692337c3b39231b32.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286230,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286230",
+                "long_title": "死神的使者们",
+                "pub_time": 1576767600,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第11话 死神的使者们",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286230",
+                "short_link": "https://b23.tv/ep286230",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1325
+                    },
+                    "op": {
+                        "end": 110,
+                        "start": 20
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "11",
+                "vid": ""
+            },
+            {
+                "aid": 80742844,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1nJ411Y7BN",
+                "cid": 138190198,
+                "cover": "http://i0.hdslb.com/bfs/archive/dfa12bba4e117bd0f8a511d4cc29d4ae089102ee.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1421000,
+                "from": "bangumi",
+                "id": 286231,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep286231",
+                "long_title": "暗杀教师的矜持",
+                "pub_time": 1577372400,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《刺客守则》第12话 暗杀教师的矜持",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep286231",
+                "short_link": "https://b23.tv/ep286231",
+                "skip": {
+                    "ed": {
+                        "end": 1284,
+                        "start": 1195
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看4003.2万次",
+                "title": "12",
+                "vid": ""
+            }
+        ],
+        "evaluate": "拥有名为玛那这一能力的贵族，肩负着保护人类这一使命。就读于能力者育成学校的贵族，却没有一点玛那的特殊少女梅莉达·安杰尔。为了发掘她的才能，库法·梵皮尔被派来担任她的家庭教师。\n他同时也肩负“倘若确认她没有才能，就暗杀掉”的任务——。在这个能力即是一切的社会，面对坚持着没有任何成果的努力的梅莉达，库法是否会对她下达残酷的处决……\n“要不要试着把生命托付给我？”并非以刺客或单纯的教师身份，而是赌上暗杀教师的骄傲，向世界展现少女的价值！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md28222619/",
+        "media_id": 28222619,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 286231,
+            "is_new": 0,
+            "title": "12"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 38347,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2019-10-10 23:00:00",
+            "pub_time_show": "2019年10月10日23:00",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 22193,
+            "score": 6.5
+        },
+        "record": "登记号：10417060215422710",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 28543,
+        "season_title": "刺客守则",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/63f236818c51f8f52dcf1b14c1892ed68affc4f3.png",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 28222619,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/dfa12bba4e117bd0f8a511d4cc29d4ae089102ee.jpg",
+                    "id": 286231,
+                    "index_show": "全12话"
+                },
+                "season_id": 28543,
+                "season_title": "TV",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 1672404,
+                    "series_follow": 1672404,
+                    "views": 40031754
+                }
+            }
+        ],
+        "section": [
+            {
+                "attr": 0,
+                "episode_id": 0,
+                "episode_ids": [],
+                "episodes": [
+                    {
+                        "aid": 68175333,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV12J411g7VZ",
+                        "cid": 118167405,
+                        "cover": "http://i0.hdslb.com/bfs/archive/f505f46fb9996f06d5f40ac46524e39985fd1ffa.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 63334,
+                        "from": "bangumi",
+                        "id": 284354,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep284354",
+                        "long_title": "",
+                        "pub_time": 1568800786,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《刺客守则》PV ",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep284354",
+                        "short_link": "https://b23.tv/ep284354",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 3948,
+                            "danmakus": 1259,
+                            "likes": 503,
+                            "play": 1838067,
+                            "reply": 2598
+                        },
+                        "status": 2,
+                        "subtitle": "已观看4003.2万次",
+                        "title": "PV",
+                        "vid": ""
+                    },
+                    {
+                        "aid": 75559789,
+                        "badge": "",
+                        "badge_info": {
+                            "bg_color": "#FB7299",
+                            "bg_color_night": "#BB5B76",
+                            "text": ""
+                        },
+                        "badge_type": 0,
+                        "bvid": "BV1BJ411S7Aq",
+                        "cid": 129259037,
+                        "cover": "http://i0.hdslb.com/bfs/archive/028373af0c1d25734af966ab89241cf4e17cc192.jpg",
+                        "dimension": {
+                            "height": 1080,
+                            "rotate": 0,
+                            "width": 1920
+                        },
+                        "duration": 57926,
+                        "from": "bangumi",
+                        "id": 291795,
+                        "is_view_hide": false,
+                        "link": "https://www.bilibili.com/bangumi/play/ep291795",
+                        "long_title": "小野友树&楠木灯",
+                        "pub_time": 1573643580,
+                        "pv": 0,
+                        "release_date": "",
+                        "rights": {
+                            "allow_demand": 0,
+                            "allow_dm": 1,
+                            "allow_download": 0,
+                            "area_limit": 0
+                        },
+                        "share_copy": "《刺客守则》声优问候 小野友树&楠木灯",
+                        "share_url": "https://www.bilibili.com/bangumi/play/ep291795",
+                        "short_link": "https://b23.tv/ep291795",
+                        "skip": {
+                            "ed": {
+                                "end": 0,
+                                "start": 0
+                            },
+                            "op": {
+                                "end": 0,
+                                "start": 0
+                            }
+                        },
+                        "stat": {
+                            "coin": 513,
+                            "danmakus": 110,
+                            "likes": 2095,
+                            "play": 196290,
+                            "reply": 132
+                        },
+                        "status": 2,
+                        "subtitle": "已观看4003.2万次",
+                        "title": "声优问候",
+                        "vid": ""
+                    }
+                ],
+                "id": 38378,
+                "title": "预告片·花絮",
+                "type": 1
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 4631,
+            "series_title": "刺客守则"
+        },
+        "share_copy": "《刺客守则》杀手教师来到我身边",
+        "share_sub_title": "杀手教师来到我身边",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss28543",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/c580e7f43329734ca3adab84a1cfe8ad86b7804e.jpg",
+        "stat": {
+            "coins": 116249,
+            "danmakus": 480657,
+            "favorite": 9497,
+            "favorites": 1672404,
+            "likes": 144713,
+            "reply": 39316,
+            "share": 15976,
+            "views": 40031754
+        },
+        "status": 13,
+        "subtitle": "已观看4003.2万次",
+        "title": "刺客守则",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

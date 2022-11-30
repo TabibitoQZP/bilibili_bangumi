@@ -1,0 +1,320 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/48c93b3977e3f83c2e06080cf8472a2540b65ec6.jpg",
+        "episodes": [
+            {
+                "aid": 20560038,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1oW411W7Gc",
+                "cid": 33628069,
+                "cover": "http://i0.hdslb.com/bfs/archive/34570310ffa43a5a28dc9508746550420c18af67.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1601000,
+                "from": "bangumi",
+                "id": 199117,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep199117",
+                "long_title": "",
+                "pub_time": 1522118580,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 0,
+                    "area_limit": 0
+                },
+                "share_copy": "《魔卡少女樱 Clear Card篇 序幕 小樱与两人的小熊》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep199117",
+                "short_link": "https://b23.tv/ep199117",
+                "skip": {
+                    "ed": {
+                        "end": 1541,
+                        "start": 1464
+                    },
+                    "op": {
+                        "end": 0,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看431.5万次",
+                "title": "1",
+                "vid": ""
+            }
+        ],
+        "evaluate": "单行本第3卷同捆。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md80072/",
+        "media_id": 80072,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全1话",
+            "id": 199117,
+            "is_new": 0,
+            "title": "1"
+        },
+        "positive": {
+            "id": 33307,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2017-09-13 00:00:01",
+            "pub_time_show": "2017年9月13日",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 1972,
+            "score": 9.6
+        },
+        "record": "登记号：10417060202842212",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 328,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "bilibili",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 23910,
+        "season_title": "魔卡少女樱 Clear Card篇 序幕 小樱与两人的小熊",
+        "seasons": [
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6fda8e95e61db0157008fc293360117d904239e4.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3756,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/bf3016382df86d56021d699d481407aa5430b445.jpg",
+                    "id": 86269,
+                    "index_show": "全70话"
+                },
+                "season_id": 3756,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2164521,
+                    "series_follow": 4298654,
+                    "views": 117002534
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/48c93b3977e3f83c2e06080cf8472a2540b65ec6.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 80072,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/34570310ffa43a5a28dc9508746550420c18af67.jpg",
+                    "id": 199117,
+                    "index_show": "全1话"
+                },
+                "season_id": 23910,
+                "season_title": " CLEAR CARD OAD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 168858,
+                    "series_follow": 4298654,
+                    "views": 4315174
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/07245c4bf4acb03a5819762fea3210c656aba66c.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 8752,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/archive/ecbe07de69c9af51a032427e918756d4c84189c9.jpg",
+                    "id": 172140,
+                    "index_show": "全22话"
+                },
+                "season_id": 21421,
+                "season_title": "CLEAR CARD",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3036156,
+                    "series_follow": 4298654,
+                    "views": 74381600
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/0801b274a8894d804c528b8de0afaa7157ac2d33.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2270,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/817ac8cf0a510911d22440306221b7271b663aa0.jpg",
+                    "id": 50733,
+                    "index_show": "全1话"
+                },
+                "season_id": 2270,
+                "season_title": "剧场版1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 299430,
+                    "series_follow": 4298654,
+                    "views": 3813036
+                }
+            },
+            {
+                "badge": "限时免费",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "限时免费"
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/image/be81677a1f70275878c78411948c7e62a3a4689d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3860,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/3f783ab1e42539600863f911089fca9d5e92651c.jpg",
+                    "id": 86803,
+                    "index_show": "全1话"
+                },
+                "season_id": 3860,
+                "season_title": "剧场版2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 332191,
+                    "series_follow": 4298654,
+                    "views": 2974852
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/d75aba278e6f4148f447d301fa14c5c25d637b9d.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3858,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/d58f18bb3dfaecc9c0c215abfb16983959c37051.jpg",
+                    "id": 86800,
+                    "index_show": "全1话"
+                },
+                "season_id": 3858,
+                "season_title": "OVA",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 201060,
+                    "series_follow": 4298654,
+                    "views": 3596196
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1542,
+            "series_title": "魔卡少女樱"
+        },
+        "share_copy": "《魔卡少女樱 Clear Card篇 序幕 小樱与两人的小熊》告白！小樱的真心",
+        "share_sub_title": "告白！小樱的真心",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss23910",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/17da73f81ca2f9a11690b205cf0025ecd5186126.jpg",
+        "stat": {
+            "coins": 11392,
+            "danmakus": 35888,
+            "favorite": 3094,
+            "favorites": 168858,
+            "likes": 18164,
+            "reply": 1915,
+            "share": 1814,
+            "views": 4315174
+        },
+        "status": 2,
+        "subtitle": "已观看431.5万次",
+        "title": "魔卡少女樱 Clear Card篇 序幕 小樱与两人的小熊",
+        "total": 1,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

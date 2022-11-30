@@ -1,0 +1,886 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/88775e3bd8fa1dc147b5e1686c604162cf06ae8b.jpg",
+        "episodes": [
+            {
+                "aid": 2993066,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV13s41127Qu",
+                "cid": 93511641,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/39ce86aa383f623e75d003ee4e6454c653169045.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 70862,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70862",
+                "long_title": "获持讳名",
+                "pub_time": 1443805500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第1话 获持讳名",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70862",
+                "short_link": "https://b23.tv/ep70862",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1351
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 40
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看1.3亿次",
+                "title": "1",
+                "vid": "vupload_10517173"
+            },
+            {
+                "aid": 3034929,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV15s41127cS",
+                "cid": 93511970,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f14aefdc22c3c6f22fa6012333035ae50c5aec18.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 71916,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep71916",
+                "long_title": "她的回忆",
+                "pub_time": 1444410300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第2话 她的回忆",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep71916",
+                "short_link": "https://b23.tv/ep71916",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 137,
+                        "start": 46
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "2",
+                "vid": "vupload_10517177"
+            },
+            {
+                "aid": 3067765,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ws41127y1",
+                "cid": 10517186,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/eb75e2e7b8f9959234b6741e1005851fbc3bbb9b.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1469000,
+                "from": "bangumi",
+                "id": 72684,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72684",
+                "long_title": "虚假的羁绊",
+                "pub_time": 1445015100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第3话 虚假的羁绊",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72684",
+                "short_link": "https://b23.tv/ep72684",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 141,
+                        "start": 40
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "3",
+                "vid": "vupload_10517186"
+            },
+            {
+                "aid": 3103989,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs41127x9",
+                "cid": 10517195,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f2a1d02a56ced0c2866b0c90555182b740ba3ca5.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1469000,
+                "from": "bangumi",
+                "id": 75099,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75099",
+                "long_title": "愿望",
+                "pub_time": 1445619900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第4话 愿望",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75099",
+                "short_link": "https://b23.tv/ep75099",
+                "skip": {
+                    "ed": {
+                        "end": 1443,
+                        "start": 1352
+                    },
+                    "op": {
+                        "end": 170,
+                        "start": 79
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "4",
+                "vid": "vupload_10517195"
+            },
+            {
+                "aid": 3140831,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV12s41127p1",
+                "cid": 10517198,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/fdd19654ab4bda0ec1621f134e3dc86ebae5efdf.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1469000,
+                "from": "bangumi",
+                "id": 76025,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76025",
+                "long_title": "神的祝福、诅咒",
+                "pub_time": 1446224700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第5话 神的祝福、诅咒",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76025",
+                "short_link": "https://b23.tv/ep76025",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 136,
+                        "start": 44
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "5",
+                "vid": "vupload_10517198"
+            },
+            {
+                "aid": 3178069,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411d7N9",
+                "cid": 93512353,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/17ad1a069597a7c3257468f5c9294392a1c8c5b7.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 76680,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76680",
+                "long_title": "应该做的事",
+                "pub_time": 1446829500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第6话 应该做的事",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76680",
+                "short_link": "https://b23.tv/ep76680",
+                "skip": {
+                    "ed": {
+                        "end": 1415,
+                        "start": 1323
+                    },
+                    "op": {
+                        "end": 90,
+                        "start": 0
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "6",
+                "vid": "vupload_10517202"
+            },
+            {
+                "aid": 3214511,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ps411d7Bg",
+                "cid": 10517208,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/486f5fabe3591affc7594869458217f32f3f8aa7.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 77657,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77657",
+                "long_title": "神明的供奉方式",
+                "pub_time": 1447434300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第7话 神明的供奉方式",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77657",
+                "short_link": "https://b23.tv/ep77657",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 201,
+                        "start": 100
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "7",
+                "vid": "vupload_10517208"
+            },
+            {
+                "aid": 3250528,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1vs411d7FA",
+                "cid": 10517212,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f30456ca3eee6adfe5f25b4560f26a9adfdde716.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 79183,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79183",
+                "long_title": "祸津神",
+                "pub_time": 1448039100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第8话 祸津神",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79183",
+                "short_link": "https://b23.tv/ep79183",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 132,
+                        "start": 41
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "8",
+                "vid": "vupload_10517212"
+            },
+            {
+                "aid": 3289142,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ms411d7Cc",
+                "cid": 93512594,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8c81274b520079def1fe0ec27dcaf1b0e856db45.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 79459,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79459",
+                "long_title": "断丝之音",
+                "pub_time": 1448643900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第9话 断丝之音",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79459",
+                "short_link": "https://b23.tv/ep79459",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 158,
+                        "start": 67
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "9",
+                "vid": "vupload_10517216"
+            },
+            {
+                "aid": 3327688,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Us411d7CA",
+                "cid": 93513079,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8f7e8e544cc86bf1d952bcaa20758359b3668799.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1470000,
+                "from": "bangumi",
+                "id": 80532,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80532",
+                "long_title": "如此心愿",
+                "pub_time": 1449248700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第10话 如此心愿",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80532",
+                "short_link": "https://b23.tv/ep80532",
+                "skip": {
+                    "ed": {
+                        "end": 1444,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 138,
+                        "start": 47
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "10",
+                "vid": "vupload_10517221"
+            },
+            {
+                "aid": 3367052,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ws411o7PL",
+                "cid": 93513365,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/92267b5de9598dbc17e4821e3de56f53a15f3412.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 81316,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81316",
+                "long_title": "黄泉归来",
+                "pub_time": 1449861000,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第11话 黄泉归来",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81316",
+                "short_link": "https://b23.tv/ep81316",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1355
+                    },
+                    "op": {
+                        "end": 146,
+                        "start": 55
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "11",
+                "vid": "vupload_10517224"
+            },
+            {
+                "aid": 3406571,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1Gs411o7Yr",
+                "cid": 93513729,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9a836f7092c6705febd4e5c7db3e1e115955769f.jpg",
+                "dimension": {
+                    "height": 1080,
+                    "rotate": 0,
+                    "width": 1920
+                },
+                "duration": 1471000,
+                "from": "bangumi",
+                "id": 81704,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81704",
+                "long_title": "你的呼唤",
+                "pub_time": 1450458481,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第12话 你的呼唤",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81704",
+                "short_link": "https://b23.tv/ep81704",
+                "skip": {
+                    "ed": {
+                        "end": 1445,
+                        "start": 1353
+                    },
+                    "op": {
+                        "end": 128,
+                        "start": 37
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "12",
+                "vid": "vupload_10517227"
+            },
+            {
+                "aid": 3448965,
+                "badge": "会员",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": "会员"
+                },
+                "badge_type": 0,
+                "bvid": "BV1ds41197EE",
+                "cid": 10517228,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/71914b1774b46838fbc0b855c5bf1b7d611f060c.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 1455000,
+                "from": "bangumi",
+                "id": 82116,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep82116",
+                "long_title": "福神的传说",
+                "pub_time": 1451063160,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《野良神 ARAGOTO》第13话 福神的传说",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep82116",
+                "short_link": "https://b23.tv/ep82116",
+                "skip": {
+                    "ed": {
+                        "end": 1397,
+                        "start": 1305
+                    },
+                    "op": {
+                        "end": 169,
+                        "start": 78
+                    }
+                },
+                "status": 13,
+                "subtitle": "已观看1.3亿次",
+                "title": "13",
+                "vid": "vupload_10517228"
+            }
+        ],
+        "evaluate": "在此岸与彼岸的交界处，八百万神明和服侍他们的死灵——神器，以及被称为妖的魑魅魍魉一同生活着。\n某天，普通的女初中生一岐日和意外遇到了居无定所、没有工作、自称是“神”的青年夜斗。其实此话不假，夜斗是个没有神社供奉、缺少香火的落魄神明，因为性格缺陷，导致手下的神器纷纷跳槽。怀抱“受万民景仰”这个伟大愿望的他，只好只身在此岸与彼岸间徘徊，为五元（日语中“五元”与“有缘”同音）的香油钱折腰，接受上至斩妖除魔，下至修东修西的各类委托。\n然而像这样一个粗心大意、性情不定，而且不能很好地听人祈愿、没有人知道的神明却有一个能力，那就是将此岸与彼岸以及其夹缝——世上各种杂七杂八的东西斩断。",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2732/",
+        "media_id": 2732,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全13话",
+            "id": 82116,
+            "is_new": 0,
+            "title": "13"
+        },
+        "payment": {
+            "discount": 100,
+            "pay_type": {
+                "allow_discount": 0,
+                "allow_pack": 0,
+                "allow_ticket": 0,
+                "allow_time_limit": 0,
+                "allow_vip_discount": 0,
+                "forbid_bb": 0
+            },
+            "price": "0.0",
+            "promotion": "",
+            "tip": "大会员专享观看特权哦~",
+            "view_start_time": 0,
+            "vip_discount": 100,
+            "vip_first_promotion": "",
+            "vip_promotion": "开通大会员观看"
+        },
+        "positive": {
+            "id": 19719,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-02 02:40:00",
+            "pub_time_show": "2015年10月02日02:40",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "rating": {
+            "count": 19175,
+            "score": 9.4
+        },
+        "record": "",
+        "rights": {
+            "allow_bp": 0,
+            "allow_bp_rank": 1,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 317,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2732,
+        "season_title": "野良神 ARAGOTO",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f1146494f45cc2c4a3fa0d081c5ecf4bc3147442.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2731,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/adb94be774e190891011c7d1fd61d7b3860bedc3.jpg",
+                    "id": 88220,
+                    "index_show": "全12话"
+                },
+                "season_id": 2731,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 3513709,
+                    "series_follow": 4721977,
+                    "views": 64201458
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/88775e3bd8fa1dc147b5e1686c604162cf06ae8b.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2732,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/71914b1774b46838fbc0b855c5bf1b7d611f060c.jpg",
+                    "id": 82116,
+                    "index_show": "全13话"
+                },
+                "season_id": 2732,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 2652462,
+                    "series_follow": 4721977,
+                    "views": 125164481
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/6bea72b24aa8a48d75afa9ee3f0eb5f54190a01f.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3419,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/c5db20e24d3fedea4a686768087a150a3ab96a39.jpg",
+                    "id": 84997,
+                    "index_show": "全2话"
+                },
+                "season_id": 3419,
+                "season_title": "OAD1",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 394153,
+                    "series_follow": 4721977,
+                    "views": 15088798
+                }
+            },
+            {
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/b42f2ee553598e3073a8c351f77c6cc0bb47f918.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 3420,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/d0dd47bb79e402268665ab2bc556cdf4e5e07282.jpg",
+                    "id": 88221,
+                    "index_show": "全2话"
+                },
+                "season_id": 3420,
+                "season_title": "OAD2",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 548424,
+                    "series_follow": 4721977,
+                    "views": 19858921
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1853,
+            "series_title": "野良神"
+        },
+        "share_copy": "《野良神 ARAGOTO》你的愿望，我听见了",
+        "share_sub_title": "你的愿望，我听见了",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2732",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/2d42598aa7dc49f4cb43e287d8719f7a1e76f288.jpg",
+        "stat": {
+            "coins": 326496,
+            "danmakus": 2263750,
+            "favorite": 12490,
+            "favorites": 2652462,
+            "likes": 221356,
+            "reply": 106666,
+            "share": 32074,
+            "views": 125164481
+        },
+        "status": 13,
+        "subtitle": "已观看1.3亿次",
+        "title": "野良神 ARAGOTO",
+        "total": 13,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}

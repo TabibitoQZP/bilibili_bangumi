@@ -1,0 +1,814 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": {
+        "activity": {
+            "head_bg_url": "",
+            "id": 0,
+            "title": ""
+        },
+        "alias": "",
+        "areas": [
+            {
+                "id": 2,
+                "name": "日本"
+            }
+        ],
+        "bkg_cover": "",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/f97a681e710c0cec5caa5da8ca15efa125a7ba65.jpg",
+        "episodes": [
+            {
+                "aid": 3004559,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ns41127aE",
+                "cid": 4710643,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/bda4c6153b1d447b7916e6ee8e06fc05e314b241.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 510000,
+                "from": "bangumi",
+                "id": 70874,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep70874",
+                "long_title": "",
+                "pub_time": 1443971700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第1话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep70874",
+                "short_link": "https://b23.tv/ep70874",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "1",
+                "vid": "vupload_4710643"
+            },
+            {
+                "aid": 3045903,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV17s411279Y",
+                "cid": 4782665,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/9acf1072828d74761c8b1d58afecb8f55ae5972f.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509760,
+                "from": "bangumi",
+                "id": 72079,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep72079",
+                "long_title": "",
+                "pub_time": 1444576500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第2话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep72079",
+                "short_link": "https://b23.tv/ep72079",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "2",
+                "vid": "vupload_4782665"
+            },
+            {
+                "aid": 3081465,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1zs41127rQ",
+                "cid": 4841134,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/110afa943b23d4da3473a1d9581f78c2ed8c4025.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509760,
+                "from": "bangumi",
+                "id": 73646,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep73646",
+                "long_title": "",
+                "pub_time": 1445181300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第3话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep73646",
+                "short_link": "https://b23.tv/ep73646",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "3",
+                "vid": "vupload_4841134"
+            },
+            {
+                "aid": 3117330,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Qs41127NW",
+                "cid": 4903905,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1fb1926400cb2d14691d8b9a3e90abd786a9db48.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509590,
+                "from": "bangumi",
+                "id": 75358,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep75358",
+                "long_title": "",
+                "pub_time": 1445786100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第4话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep75358",
+                "short_link": "https://b23.tv/ep75358",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "4",
+                "vid": "vupload_4903905"
+            },
+            {
+                "aid": 3154959,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ks411d7V4",
+                "cid": 4968710,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/834b9e0a7277bfa60c6f131640855c9480532434.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509000,
+                "from": "bangumi",
+                "id": 76123,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep76123",
+                "long_title": "",
+                "pub_time": 1446390900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第5话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep76123",
+                "short_link": "https://b23.tv/ep76123",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "5",
+                "vid": "vupload_4968710"
+            },
+            {
+                "aid": 3190728,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411d7ac",
+                "cid": 5027760,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/05432a3862287fd1252f31a671aa6a3295cce285.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509590,
+                "from": "bangumi",
+                "id": 77338,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77338",
+                "long_title": "",
+                "pub_time": 1446995700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第6话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77338",
+                "short_link": "https://b23.tv/ep77338",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "6",
+                "vid": "vupload_5027760"
+            },
+            {
+                "aid": 3226442,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV14s411d7Sx",
+                "cid": 5088137,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/cfd019e320c8a812ccd9bf10c7ad520c85c52246.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509547,
+                "from": "bangumi",
+                "id": 77673,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep77673",
+                "long_title": "",
+                "pub_time": 1447600500,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第7话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep77673",
+                "short_link": "https://b23.tv/ep77673",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "7",
+                "vid": "vupload_5088137"
+            },
+            {
+                "aid": 3264761,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV18s411d7iS",
+                "cid": 5152745,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/1e0536c2586cbdbeea54f39ba328517125b89a2a.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509547,
+                "from": "bangumi",
+                "id": 79201,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79201",
+                "long_title": "",
+                "pub_time": 1448205300,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第8话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79201",
+                "short_link": "https://b23.tv/ep79201",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "8",
+                "vid": "vupload_5152745"
+            },
+            {
+                "aid": 3302810,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1rs411d7nk",
+                "cid": 5219949,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/93ed92b7d350fb55e4c793bfbb05c5ef5110e905.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509590,
+                "from": "bangumi",
+                "id": 79944,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep79944",
+                "long_title": "",
+                "pub_time": 1448810100,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第9话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep79944",
+                "short_link": "https://b23.tv/ep79944",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "9",
+                "vid": "vupload_5219949"
+            },
+            {
+                "aid": 3342531,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ps411o7bs",
+                "cid": 5286529,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/50efb050379712871b3e0e334e2bec19cb8741c2.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509658,
+                "from": "bangumi",
+                "id": 80720,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep80720",
+                "long_title": "",
+                "pub_time": 1449414900,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第10话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep80720",
+                "short_link": "https://b23.tv/ep80720",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "10",
+                "vid": "vupload_5286529"
+            },
+            {
+                "aid": 3381912,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1Ls411o7FL",
+                "cid": 5354691,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/8231bf6ceed558f7ad0f50cc2c976f7ac2b80cf9.jpg",
+                "dimension": {
+                    "height": 0,
+                    "rotate": 0,
+                    "width": 0
+                },
+                "duration": 509690,
+                "from": "bangumi",
+                "id": 81418,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep81418",
+                "long_title": "",
+                "pub_time": 1450019700,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第11话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep81418",
+                "short_link": "https://b23.tv/ep81418",
+                "skip": {
+                    "ed": {
+                        "end": 480,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 30,
+                        "start": 0
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "11",
+                "vid": "vupload_5354691"
+            },
+            {
+                "aid": 3678320,
+                "badge": "",
+                "badge_info": {
+                    "bg_color": "#FB7299",
+                    "bg_color_night": "#BB5B76",
+                    "text": ""
+                },
+                "badge_type": 0,
+                "bvid": "BV1ss411X7zo",
+                "cid": 5888102,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f59aab36398c8819c0367e391a68c8644d8420d6.jpg",
+                "dimension": {
+                    "height": 360,
+                    "rotate": 0,
+                    "width": 640
+                },
+                "duration": 509000,
+                "from": "bangumi",
+                "id": 83360,
+                "is_view_hide": false,
+                "link": "https://www.bilibili.com/bangumi/play/ep83360",
+                "long_title": "",
+                "pub_time": 1453883880,
+                "pv": 0,
+                "release_date": "",
+                "rights": {
+                    "allow_demand": 0,
+                    "allow_dm": 1,
+                    "allow_download": 1,
+                    "area_limit": 0
+                },
+                "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》第12话 ",
+                "share_url": "https://www.bilibili.com/bangumi/play/ep83360",
+                "short_link": "https://b23.tv/ep83360",
+                "skip": {
+                    "ed": {
+                        "end": 479,
+                        "start": 389
+                    },
+                    "op": {
+                        "end": 106,
+                        "start": 75
+                    }
+                },
+                "status": 2,
+                "subtitle": "已观看107.2万次",
+                "title": "12",
+                "vid": "vupload_5888102"
+            }
+        ],
+        "evaluate": "大学一年级学生·都仓碧因机缘巧合而来到咖啡厅“Rainy Color”打工。在那里他遇到了冷淡的帅哥岩濑启一、举止轻率的樱木凉太、温柔又是女性杀手的老板古贺紫苑、以及过于自由奔放的店主天见浩司。这是在“Rainy Color”展开的真心喜剧！",
+        "freya": {
+            "bubble_desc": "",
+            "bubble_show_cnt": 0,
+            "icon_show": 1
+        },
+        "jp_title": "",
+        "link": "http://www.bilibili.com/bangumi/media/md2763/",
+        "media_id": 2763,
+        "mode": 2,
+        "new_ep": {
+            "desc": "已完结, 全12话",
+            "id": 83360,
+            "is_new": 0,
+            "title": "12"
+        },
+        "positive": {
+            "id": 19752,
+            "title": "正片"
+        },
+        "publish": {
+            "is_finish": 1,
+            "is_started": 1,
+            "pub_time": "2015-10-04 23:15:00",
+            "pub_time_show": "2015年10月04日23:15",
+            "unknow_pub_date": 0,
+            "weekday": 0
+        },
+        "record": "登记号：10417060215992310",
+        "rights": {
+            "allow_bp": 1,
+            "allow_bp_rank": 0,
+            "allow_download": 0,
+            "allow_review": 1,
+            "area_limit": 340,
+            "ban_area_show": 1,
+            "can_watch": 1,
+            "copyright": "dujia",
+            "forbid_pre": 0,
+            "freya_white": 0,
+            "is_cover_show": 0,
+            "is_preview": 0,
+            "only_vip_download": 0,
+            "resource": "",
+            "watch_platform": 0
+        },
+        "season_id": 2763,
+        "season_title": "雨色可可 欢迎来到RAINY COLOR！",
+        "seasons": [
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/22789d07435673b1f211a42bbb45b7376c9f88bd.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 1550,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/1b4c488f8c965c7d87372472f64199a0c18c7edc.jpg",
+                    "id": 63593,
+                    "index_show": "全12话"
+                },
+                "season_id": 1550,
+                "season_title": "第一季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 120938,
+                    "series_follow": 194422,
+                    "views": 4044245
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/f97a681e710c0cec5caa5da8ca15efa125a7ba65.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 2763,
+                "new_ep": {
+                    "cover": "http://i0.hdslb.com/bfs/bangumi/f59aab36398c8819c0367e391a68c8644d8420d6.jpg",
+                    "id": 83360,
+                    "index_show": "全12话"
+                },
+                "season_id": 2763,
+                "season_title": "第二季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 70678,
+                    "series_follow": 194422,
+                    "views": 1071563
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/c07c737bdf538db56509e9008bb3f90738c7dce8.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 5564,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/45c98a8ee9d67dbacd63da34e944dc0fa2b6a953.jpg",
+                    "id": 96189,
+                    "index_show": "全12话"
+                },
+                "season_id": 5564,
+                "season_title": "第三季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 45188,
+                    "series_follow": 194422,
+                    "views": 565990
+                }
+            },
+            {
+                "badge": "独家",
+                "badge_info": {
+                    "bg_color": "#00C0FF",
+                    "bg_color_night": "#0B91BE",
+                    "text": "独家"
+                },
+                "badge_type": 1,
+                "cover": "http://i0.hdslb.com/bfs/bangumi/e6ee73b97260e81b31c1f1411c54020fc6694b54.jpg",
+                "horizontal_cover_1610": "",
+                "horizontal_cover_169": "",
+                "media_id": 6476,
+                "new_ep": {
+                    "cover": "http://i2.hdslb.com/bfs/archive/b5f8d284a808dc38ef1d8d49abe0e49d9338f0f6.jpg",
+                    "id": 115137,
+                    "index_show": "全12话"
+                },
+                "season_id": 6476,
+                "season_title": "第四季",
+                "season_type": 1,
+                "stat": {
+                    "favorites": 45719,
+                    "series_follow": 194422,
+                    "views": 568739
+                }
+            }
+        ],
+        "series": {
+            "display_type": 0,
+            "series_id": 1065,
+            "series_title": "雨色可可"
+        },
+        "share_copy": "《雨色可可 欢迎来到RAINY COLOR！》",
+        "share_sub_title": "",
+        "share_url": "https://www.bilibili.com/bangumi/play/ss2763",
+        "show": {
+            "wide_screen": 0
+        },
+        "show_season_type": 1,
+        "square_cover": "http://i0.hdslb.com/bfs/bangumi/2a0b6bee2a4b9243d5534b12314eb0351bed3512.jpg",
+        "stat": {
+            "coins": 407,
+            "danmakus": 12489,
+            "favorite": 134,
+            "favorites": 70678,
+            "likes": 979,
+            "reply": 2584,
+            "share": 245,
+            "views": 1071563
+        },
+        "status": 2,
+        "subtitle": "已观看107.2万次",
+        "title": "雨色可可 欢迎来到RAINY COLOR！",
+        "total": 12,
+        "type": 1,
+        "user_status": {
+            "area_limit": 0,
+            "ban_area_show": 0,
+            "follow": 0,
+            "follow_status": 0,
+            "login": 0,
+            "pay": 0,
+            "pay_pack_paid": 0,
+            "sponsor": 0
+        }
+    }
+}
